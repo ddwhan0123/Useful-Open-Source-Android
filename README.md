@@ -1,6 +1,6 @@
 # Useful-Open-Source-Android
 
-##作者：[王亟亟](http://blog.csdn.net/ddwhan0123) 
+##发起者：[王亟亟](http://blog.csdn.net/ddwhan0123) 
 
 ##Bottom Navigation 相关:<br>
 
