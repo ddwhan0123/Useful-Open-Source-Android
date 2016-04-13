@@ -26,10 +26,6 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/10e37ca4f68e656eef1722b2a458140f4ef92564/687474703a2f2f3773627934372e636f6d352e7a302e676c622e636c6f7564646e2e636f6d2f73637265656e73686f74322e6a70672d7868647069) <br>
 
-项目名：MultiImageSelector<br>
-git地址：https://github.com/lovetuzitong/MultiImageSelector<br>
-预览:<br>
-![](https://github.com/lovetuzitong/MultiImageSelector) <br>
 
 项目名：GalleryPick<br>
 git地址：https://github.com/YancyYe/GalleryPick<br>
@@ -59,6 +55,11 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 git地址：https://github.com/AleBarreto/DragRecyclerView<br>
 预览:<br>
 ![](https://raw.githubusercontent.com/AleBarreto/DragRecyclerView/master/app/Honeycam%202016-01-15%2011-17-30.gif) <br>
+
+项目名：SectionedExpandableGridRecyclerView<br>
+git地址：https://github.com/bpncool/SectionedExpandableGridRecyclerView<br>
+预览:<br>
+![](https://github.com/bpncool/SectionedExpandableGridRecyclerView/raw/master/segrv.gif) <br>
 
 项目名：Android-RecyclerViewWithFooter<br>
 git地址：https://github.com/android-cjj/Android-RecyclerViewWithFooter<br>
@@ -92,6 +93,11 @@ git地址：https://github.com/florent37/HollyViewPager<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/42b77379300d39233842379c64a8d3bd6f432e38/687474703a2f2f6a2e676966732e636f6d2f765a344439472e676966) <br>
 
+项目名：AppIntro<br>
+git地址：https://github.com/PaoloRotolo/AppIntro<br>
+预览:<br>
+![](https://github.com/PaoloRotolo/AppIntro/raw/master/art/intro.png) <br>
+
 项目名：Android-ConvenientBanner<br>
 git地址：https://github.com/saiwu-bigkoo/Android-ConvenientBanner<br>
 预览:<br>
@@ -111,6 +117,13 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 ##自定义控件:<br>
+
+项目名：SendButton<br>
+git地址：https://github.com/pa1pal/SendButton<br>
+预览:<br>
+![](https://raw.githubusercontent.com/pa1pal/SendButton/master/app/phone_gif.gif) <br>
+
+
 项目名：SwipeableCard<br>
 git地址：https://github.com/michelelacorte/SwipeableCard<br>
 预览:<br>
@@ -245,6 +258,13 @@ git地址：https://github.com/bumptech/glide<br>
 ![](https://github.com/bumptech/glide/raw/master/static/glide_logo.png) <br>
 
 
+##通知:<br>
+
+项目名：NotifyUtil<br>
+git地址：https://github.com/wenmingvs/NotifyUtil<br>
+预览:<br>
+![](https://camo.githubusercontent.com/77127a63d1b75088bc118ec092224e9421ee747c/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f3639316363313531677731663037677464787935336732306263306830316c312e676966) <br>
+
 ##公开项目案例:<br>
 
 
@@ -253,4 +273,20 @@ git地址：https://github.com/bumptech/glide<br>
 git地址：https://github.com/w446108264/XhsWelcomeAnim<br>
 预览:<br>
 ![](https://raw.githubusercontent.com/w446108264/XhsWelcomeAnim/master/output/show.gif) <br>
+
+项目名：Meizhi<br>
+git地址：https://github.com/drakeet/Meizhi<br>
+预览:<br>
+![](https://github.com/drakeet/Meizhi/raw/master/screenshots/s0.png) <br>
+
+项目名：PhotoNoter<br>
+git地址：https://github.com/yydcdut/PhotoNoter<br>
+预览:<br>
+![](https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/animation.gif) <br>
+
+项目名：CNode-Material-Design<br>
+git地址：https://github.com/TakWolf/CNode-Material-Design<br>
+预览:<br>
+![](https://github.com/TakWolf/CNode-Material-Design/raw/develop/art/screenshot_s02.png) <br>
+
 
