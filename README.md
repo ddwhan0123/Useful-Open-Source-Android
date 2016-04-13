@@ -14,7 +14,7 @@ git地址：https://github.com/ncapdevi/FragNav<br>
 项目名：GalleryPick<br>
 git地址：https://github.com/YancyYe/GalleryPick<br>
 预览:<br>
-![](https://raw.githubusercontent.com/YancyYe/ImageSelector/master/resource/image_1.png) <br>
+![](https://raw.githubusercontent.com/YancyYe/ImageSelector/master/resource/image_1.png) <br><br><br>
 
 ##RecyclerView 相关:<br>
 
