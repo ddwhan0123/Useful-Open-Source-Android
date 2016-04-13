@@ -15,6 +15,11 @@ git地址：https://github.com/roughike/BottomBar<br>
 预览:<br>
 ![](https://raw.githubusercontent.com/roughike/BottomBar/master/demo_shifting.gif) <br>
 
+项目名：ahbottomnavigation<br>
+git地址：https://github.com/aurelhubert/ahbottomnavigation<br>
+预览:<br>
+![](https://raw.githubusercontent.com/aurelhubert/ahbottomnavigation/master/demo2.gif) <br>
+
 ##图片选择器 相关:<br>
 项目名：AndroidPicturePicker<br>
 git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
@@ -32,6 +37,11 @@ git地址：https://github.com/jeasonlzy0216/ImagePicker<br>
 ![](https://github.com/jeasonlzy0216/ImagePicker/raw/master/screenshots/demo2.gif) <br>
 
 ##ListView 相关:<br>
+
+项目名：FlabbyListView<br>
+git地址：https://github.com/jpardogo/FlabbyListView<br>
+预览:<br>
+![](https://camo.githubusercontent.com/2194c820b758d70a0bf525e14e1b7f3f135b6ece/687474703a2f2f692e696d6775722e636f6d2f756743424869482e6769665d28687474703a2f2f692e696d6775722e636f6d2f756743424869482e676966) <br>
 
 项目名：SlideAndDragListView<br>
 git地址：https://github.com/yydcdut/SlideAndDragListView<br>
@@ -85,6 +95,21 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 git地址：https://github.com/michelelacorte/SwipeableCard<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/e422180793dd686c00d84c708d74d18b87f52ec1/687474703a2f2f692e67697068792e636f6d2f3236746e38514f41714c345356795273412e676966) <br>
+
+项目名：material-dialogs<br>
+git地址：https://github.com/afollestad/material-dialogs<br>
+预览:<br>
+![](https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/mddemoshowcase.png) <br>
+
+项目名：TagViewLayout<br>
+git地址：https://github.com/jjhesk/TagViewLayout<br>
+预览:<br>
+![](https://github.com/jjhesk/TagViewLayout/raw/master/baconLMY48Yhesk02012016174101.gif) <br>
+
+项目名：RadarScanView<br>
+git地址：https://github.com/gpfduoduo/RadarScanView<br>
+预览:<br>
+![](https://github.com/gpfduoduo/RadarScanView/raw/master/RadarScanView/gif/radar.gif) <br>
 
 项目名：android-snake-menu<br>
 git地址：https://github.com/xmuSistone/android-snake-menu<br>
@@ -183,6 +208,11 @@ git地址：https://github.com/bingoogolapple/BGAQRCode-Android<br>
 git地址：https://github.com/jeasonlzy0216/OkHttpUtils<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/9de765ff0932e14c2fdeceb4b8c7a9608dd686a2/687474703a2f2f3778737335332e636f6d322e7a302e676c622e636c6f7564646e2e636f6d2f6f6b687474707574696c732f64656d6f322e676966) <br>
+
+项目名：glide<br>
+git地址：https://github.com/bumptech/glide<br>
+预览:<br>
+![](https://github.com/bumptech/glide/raw/master/static/glide_logo.png) <br>
 
 
 ##公开项目案例:<br>
