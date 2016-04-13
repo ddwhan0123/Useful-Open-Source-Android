@@ -60,3 +60,9 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 git地址：https://github.com/JorgeCastilloPrz/FABProgressCircle<br>
 预览:<br>
 ![](https://github.com/JorgeCastilloPrz/FABProgressCircle/raw/master/art/fabprogresscircle2.gif) <br>
+
+##二维码 相关:<br>
+项目名：BGAQRCode-Android<br>
+git地址：https://github.com/bingoogolapple/BGAQRCode-Android<br>
+预览:<br>
+![](https://camo.githubusercontent.com/5c5b2863287e8e18cce4e82965394c56f0376c38/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7172636f64652f73637265656e73686f74732f49716567675152436f646544656d6f2e676966) <br>
