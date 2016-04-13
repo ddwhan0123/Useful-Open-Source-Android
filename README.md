@@ -50,6 +50,8 @@ git地址：https://github.com/michelelacorte/SwipeableCard<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/e422180793dd686c00d84c708d74d18b87f52ec1/687474703a2f2f692e67697068792e636f6d2f3236746e38514f41714c345356795273412e676966) <br>
 
+
+
 项目名：Android-CircleMenu<br>
 git地址：https://github.com/hongyangAndroid/Android-CircleMenu<br>
 预览:<br>
@@ -83,3 +85,10 @@ git地址：https://github.com/bingoogolapple/BGAQRCode-Android<br>
 git地址：https://github.com/jeasonlzy0216/OkHttpUtils<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/9de765ff0932e14c2fdeceb4b8c7a9608dd686a2/687474703a2f2f3778737335332e636f6d322e7a302e676c622e636c6f7564646e2e636f6d2f6f6b687474707574696c732f64656d6f322e676966) <br>
+
+
+##公开项目案例:<br>
+项目名：EyepetizerApp<br>
+git地址：https://github.com/lyimin/EyepetizerApp<br>
+预览:<br>
+![](https://github.com/lyimin/EyepetizerApp/raw/master/EyepetizerApp/EyepetizerApp/Resources/2.gif) <br>
