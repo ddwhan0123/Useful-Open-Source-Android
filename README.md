@@ -1,6 +1,6 @@
 # Useful-Open-Source-Android
 
-作者：[王亟亟](http://blog.csdn.net/ddwhan0123) 
+##作者：[王亟亟](http://blog.csdn.net/ddwhan0123) 
 
 ##Bottom Navigation 相关:<br>
 
@@ -23,3 +23,8 @@ git地址：https://github.com/EverythingMe/overscroll-decor<br>
 预览:<br>
 ![](https://github.com/EverythingMe/overscroll-decor/raw/master/recyclerview_demo.gif) <br>
 
+##ViewPager 相关:<br>
+项目名：HollyViewPagerr<br>
+git地址：https://github.com/florent37/HollyViewPager<br>
+预览:<br>
+![](https://camo.githubusercontent.com/42b77379300d39233842379c64a8d3bd6f432e38/687474703a2f2f6a2e676966732e636f6d2f765a344439472e676966) <br>
