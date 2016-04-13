@@ -10,6 +10,11 @@ git地址：https://github.com/ncapdevi/FragNav<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/ncapdevi/FragNav/master/FragNavDemo.gif" width="30%" />
 
+项目名：BottomBar<br>
+git地址：https://github.com/roughike/BottomBar<br>
+预览:<br>
+![](https://raw.githubusercontent.com/roughike/BottomBar/master/demo_shifting.gif) <br>
+
 ##图片选择器 相关:<br>
 项目名：GalleryPick<br>
 git地址：https://github.com/YancyYe/GalleryPick<br>
