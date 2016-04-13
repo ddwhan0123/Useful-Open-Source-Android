@@ -40,10 +40,16 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 ##RecyclerView 相关:<br>
 
+项目名：Android-RecyclerViewWithFooter<br>
+git地址：https://github.com/android-cjj/Android-RecyclerViewWithFooter<br>
+预览:<br>
+![](https://github.com/android-cjj/Android-RecyclerViewWithFooter/raw/master/img/cjj2.jpg) <br>
+
 项目名：overscroll-decor<br>
 git地址：https://github.com/EverythingMe/overscroll-decor<br>
 预览:<br>
 ![](https://github.com/EverythingMe/overscroll-decor/raw/master/recyclerview_demo.gif) <br>
+
 
 项目名：IRecyclerView<br>
 git地址：https://github.com/Aspsine/IRecyclerView<br>
@@ -80,10 +86,16 @@ git地址：https://github.com/michelelacorte/SwipeableCard<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/e422180793dd686c00d84c708d74d18b87f52ec1/687474703a2f2f692e67697068792e636f6d2f3236746e38514f41714c345356795273412e676966) <br>
 
+项目名：android-anyshape<br>
+git地址：https://github.com/lankton/android-anyshape<br>
+预览:<br>
+![](https://github.com/lankton/android-anyshape/raw/master/pictures/with_normal.jpg) <br>
+
 项目名：FlowLayout<br>
 git地址：https://github.com/hongyangAndroid/FlowLayout<br>
 预览:<br>
 ![](https://github.com/hongyangAndroid/FlowLayout/raw/master/flowlayout_03.gif) <br>
+
 
 项目名：ComboView<br>
 git地址：https://github.com/brucetoo/ComboView<br>
