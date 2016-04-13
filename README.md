@@ -73,6 +73,11 @@ git地址：https://github.com/JorgeCastilloPrz/FABProgressCircle<br>
 预览:<br>
 ![](https://github.com/JorgeCastilloPrz/FABProgressCircle/raw/master/art/fabprogresscircle2.gif) <br>
 
+项目名：MaterialLoadingProgressBar<br>
+git地址：https://github.com/lsjwzh/MaterialLoadingProgressBar<br>
+预览:<br>
+![](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif) <br>
+
 ##二维码 相关:<br>
 项目名：BGAQRCode-Android<br>
 git地址：https://github.com/bingoogolapple/BGAQRCode-Android<br>
