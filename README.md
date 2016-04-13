@@ -50,6 +50,11 @@ git地址：https://github.com/hongyangAndroid/Android-CircleMenu<br>
 预览:<br>
 ![](https://github.com/hongyangAndroid/CircleMenu/raw/master/sample_zhy_CircleMenu/screen_shot.gif) <br>
 
+项目名：DWToast<br>
+git地址：https://github.com/DavidWangTM/DWToast<br>
+预览:<br>
+![](https://github.com/DavidWangTM/DWToast/raw/master/nav.gif) <br>
+
 项目名：URLLinkView<br>
 git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 预览:<br>
