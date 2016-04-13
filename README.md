@@ -40,6 +40,11 @@ git地址：https://github.com/EverythingMe/overscroll-decor<br>
 预览:<br>
 ![](https://github.com/EverythingMe/overscroll-decor/raw/master/recyclerview_demo.gif) <br>
 
+项目名：IRecyclerView<br>
+git地址：https://github.com/Aspsine/IRecyclerView<br>
+预览:<br>
+![](https://github.com/Aspsine/IRecyclerView/raw/master/art/bat_vs_supper_header.gif) <br>
+
 ##ViewPager 相关:<br>
 项目名：HollyViewPager<br>
 git地址：https://github.com/florent37/HollyViewPager<br>
@@ -61,6 +66,11 @@ git地址：https://github.com/DavidWangTM/CardSlide<br>
 git地址：https://github.com/michelelacorte/SwipeableCard<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/e422180793dd686c00d84c708d74d18b87f52ec1/687474703a2f2f692e67697068792e636f6d2f3236746e38514f41714c345356795273412e676966) <br>
+
+项目名：BoomMenu<br>
+git地址：https://github.com/Nightonke/BoomMenu<br>
+预览:<br>
+![](https://github.com/Nightonke/BoomMenu/raw/master/Pictures/show_circle.gif?raw=true) <br>
 
 项目名：ScaleDragCircleView<br>
 git地址：https://github.com/tuozhaobing/ScaleDragCircleView<br>
