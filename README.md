@@ -72,6 +72,11 @@ git地址：https://github.com/michelelacorte/SwipeableCard<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/e422180793dd686c00d84c708d74d18b87f52ec1/687474703a2f2f692e67697068792e636f6d2f3236746e38514f41714c345356795273412e676966) <br>
 
+项目名：JJSearchViewAnim<br>
+git地址：https://github.com/android-cjj/JJSearchViewAnim<br>
+预览:<br>
+![](https://camo.githubusercontent.com/05fc1003f657c14d14a4d62568a296880f011fa6/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f37656630316663616777316632677a7a3035373062673230616e3035686d78762e676966) <br>
+
 项目名：MaterialSearchView<br>
 git地址：https://github.com/android-cjj/MaterialSearchView<br>
 预览:<br>
