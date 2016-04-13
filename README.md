@@ -21,6 +21,13 @@ git地址：https://github.com/jeasonlzy0216/ImagePicker<br>
 预览:<br>
 ![](https://github.com/jeasonlzy0216/ImagePicker/raw/master/screenshots/demo2.gif) <br>
 
+##ListView 相关:<br>
+
+项目名：SlideAndDragListView<br>
+git地址：https://github.com/yydcdut/SlideAndDragListView<br>
+预览:<br>
+![](https://raw.githubusercontent.com/yydcdut/SlideAndDragListView/master/gif/v1.1.gif) <br>
+
 ##RecyclerView 相关:<br>
 
 项目名：overscroll-decor<br>
