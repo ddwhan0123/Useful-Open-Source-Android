@@ -66,11 +66,34 @@ git地址：https://github.com/DavidWangTM/CardSlide<br>
 预览:<br>
 ![](https://raw.githubusercontent.com/DavidWangTM/CardSlide/master/nice.gif) <br>
 
+##GridView 相关:<br>
+项目名：android-GridViewWithHeaderAndFooter<br>
+git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
+预览:<br>
+![](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png) <br>
+
+
+
 ##自定义控件:<br>
 项目名：SwipeableCard<br>
 git地址：https://github.com/michelelacorte/SwipeableCard<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/e422180793dd686c00d84c708d74d18b87f52ec1/687474703a2f2f692e67697068792e636f6d2f3236746e38514f41714c345356795273412e676966) <br>
+
+项目名：FlowLayout<br>
+git地址：https://github.com/hongyangAndroid/FlowLayout<br>
+预览:<br>
+![](https://github.com/hongyangAndroid/FlowLayout/raw/master/flowlayout_03.gif) <br>
+
+项目名：ComboView<br>
+git地址：https://github.com/brucetoo/ComboView<br>
+预览:<br>
+![](https://github.com/brucetoo/ComboView/raw/master/combo1.gif) <br>
+
+项目名：EasyLikeArea<br>
+git地址：https://github.com/CaMnter/EasyLikeArea<br>
+预览:<br>
+![](https://camo.githubusercontent.com/1465e7e1f7c9877d71e82412130abcd1944a4e96/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f3030366c504563396a77316632676465657562786a67333066773073673769332e676966) <br>
 
 项目名：JJSearchViewAnim<br>
 git地址：https://github.com/android-cjj/JJSearchViewAnim<br>
