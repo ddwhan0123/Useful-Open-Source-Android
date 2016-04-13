@@ -16,6 +16,11 @@ git地址：https://github.com/YancyYe/GalleryPick<br>
 预览:<br>
 ![](https://raw.githubusercontent.com/YancyYe/ImageSelector/master/resource/image_1.png) <br>
 
+项目名：ImagePicker<br>
+git地址：https://github.com/jeasonlzy0216/ImagePicker<br>
+预览:<br>
+![](https://github.com/jeasonlzy0216/ImagePicker/raw/master/screenshots/demo2.gif) <br>
+
 ##RecyclerView 相关:<br>
 
 项目名：overscroll-decor<br>
