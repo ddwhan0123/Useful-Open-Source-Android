@@ -55,10 +55,25 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 ##RecyclerView 相关:<br>
 
+项目名：DragRecyclerView<br>
+git地址：https://github.com/AleBarreto/DragRecyclerView<br>
+预览:<br>
+![](https://raw.githubusercontent.com/AleBarreto/DragRecyclerView/master/app/Honeycam%202016-01-15%2011-17-30.gif) <br>
+
 项目名：Android-RecyclerViewWithFooter<br>
 git地址：https://github.com/android-cjj/Android-RecyclerViewWithFooter<br>
 预览:<br>
 ![](https://github.com/android-cjj/Android-RecyclerViewWithFooter/raw/master/img/cjj2.jpg) <br>
+
+项目名：RecyclerViewManager<br>
+git地址：https://github.com/Syehunter/RecyclerViewManager<br>
+预览:<br>
+![](https://camo.githubusercontent.com/841128156edef161d69a0b2088fceb40418b7696/687474703a2f2f37786e347a342e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f52656379636c6572566965774d616e616765722e676966) <br>
+
+项目名：InfiniteScroll<br>
+git地址：https://github.com/pwittchen/InfiniteScroll<br>
+预览:<br>
+![](https://raw.githubusercontent.com/pwittchen/InfiniteScroll/master/demo.gif) <br>
 
 项目名：overscroll-decor<br>
 git地址：https://github.com/EverythingMe/overscroll-decor<br>
@@ -200,6 +215,11 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 git地址：https://github.com/JorgeCastilloPrz/FABProgressCircle<br>
 预览:<br>
 ![](https://github.com/JorgeCastilloPrz/FABProgressCircle/raw/master/art/fabprogresscircle2.gif) <br>
+
+项目名：EasyArcLoading<br>
+git地址：https://github.com/CaMnter/EasyArcLoading<br>
+预览:<br>
+![](https://github.com/CaMnter/EasyArcLoading/raw/master/screenshot/EasyArcLoading.gif) <br>
 
 项目名：MaterialLoadingProgressBar<br>
 git地址：https://github.com/lsjwzh/MaterialLoadingProgressBar<br>
