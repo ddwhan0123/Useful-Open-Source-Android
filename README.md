@@ -14,7 +14,7 @@ git地址：https://github.com/ncapdevi/FragNav<br>
 项目名：GalleryPick<br>
 git地址：https://github.com/YancyYe/GalleryPick<br>
 预览:<br>
-![](https://raw.githubusercontent.com/YancyYe/ImageSelector/master/resource/image_1.png) <br><br><br>
+![](https://raw.githubusercontent.com/YancyYe/ImageSelector/master/resource/image_1.png) <br>
 
 ##RecyclerView 相关:<br>
 
@@ -22,3 +22,4 @@ git地址：https://github.com/YancyYe/GalleryPick<br>
 git地址：https://github.com/EverythingMe/overscroll-decor<br>
 预览:<br>
 ![](https://github.com/EverythingMe/overscroll-decor/raw/master/recyclerview_demo.gif) <br>
+
