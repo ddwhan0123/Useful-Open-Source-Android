@@ -118,6 +118,11 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 ##自定义控件:<br>
 
+项目名：BrokenView<br>
+git地址：https://github.com/zhanyongsheng/BrokenView<br>
+预览:<br>
+![](https://raw.githubusercontent.com/zhanyongsheng/raw/master/BrokenView/image/demo.gif) <br>
+
 项目名：SendButton<br>
 git地址：https://github.com/pa1pal/SendButton<br>
 预览:<br>
@@ -224,10 +229,21 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 ![](https://camo.githubusercontent.com/acab5da5f5428e89def195e1492d3e2879941a08/687474703a2f2f696d6775722e636f6d2f52526839717a7a2e676966) <br>
 
 ##Progress 相关:<br>
+
+项目名：NumberProgressBar<br>
+git地址：https://github.com/daimajia/NumberProgressBar<br>
+预览:<br>
+![](https://camo.githubusercontent.com/0c92568af7ec4e04e2e1503acdd2ca99854ab0b5/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a77316566797264386e376937673230637a30326d7135662e676966) <br>
+
 项目名：FABProgressCircle<br>
 git地址：https://github.com/JorgeCastilloPrz/FABProgressCircle<br>
 预览:<br>
 ![](https://github.com/JorgeCastilloPrz/FABProgressCircle/raw/master/art/fabprogresscircle2.gif) <br>
+
+项目名：DownloadProgressBar<br>
+git地址：https://github.com/panwrona/DownloadProgressBar<br>
+预览:<br>
+![](https://github.com/panwrona/DownloadProgressBar/raw/master/success.gif) <br>
 
 项目名：EasyArcLoading<br>
 git地址：https://github.com/CaMnter/EasyArcLoading<br>
@@ -256,6 +272,13 @@ git地址：https://github.com/jeasonlzy0216/OkHttpUtils<br>
 git地址：https://github.com/bumptech/glide<br>
 预览:<br>
 ![](https://github.com/bumptech/glide/raw/master/static/glide_logo.png) <br>
+
+##菜单:<br>
+项目名：GuillotineMenu-Android<br>
+git地址：https://github.com/Yalantis/GuillotineMenu-Android<br>
+预览:<br>
+![](https://camo.githubusercontent.com/f044b38de3fed4496b98dff747b3bf6555ec67e4/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3439353739322f73637265656e73686f74732f323131333331342f64726166742d30332e676966) <br>
+
 
 
 ##通知:<br>
@@ -290,3 +313,7 @@ git地址：https://github.com/TakWolf/CNode-Material-Design<br>
 ![](https://github.com/TakWolf/CNode-Material-Design/raw/develop/art/screenshot_s02.png) <br>
 
 
+项目名：Moose<br>
+git地址：https://github.com/Harlber/Moose<br>
+预览:<br>
+![](https://github.com/Harlber/Moose/raw/master/art/image_drawer.png) <br>
