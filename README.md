@@ -91,4 +91,5 @@ git地址：https://github.com/jeasonlzy0216/OkHttpUtils<br>
 项目名：EyepetizerApp<br>
 git地址：https://github.com/lyimin/EyepetizerApp<br>
 预览:<br>
-![](https://github.com/lyimin/EyepetizerApp/raw/master/EyepetizerApp/EyepetizerApp/Resources/2.gif) <br>
+<img src="https://github.com/lyimin/EyepetizerApp/blob/master/EyepetizerApp/EyepetizerApp/Resources/2.gif" width="50%" height="50%" /><br>
+
