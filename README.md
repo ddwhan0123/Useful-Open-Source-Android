@@ -8,7 +8,7 @@
 项目名：FragNav<br>
 git地址：https://github.com/ncapdevi/FragNav<br>
 预览:
-![](https://raw.githubusercontent.com/ncapdevi/FragNav/master/FragNavDemo.gif) 
+<img src="https://raw.githubusercontent.com/ncapdevi/FragNav/master/FragNavDemo.gif" width="30%" />
 
 ##图片选择器 相关:<br>
 项目名：GalleryPick<br>
