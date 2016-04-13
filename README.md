@@ -67,6 +67,18 @@ git地址：https://github.com/michelelacorte/SwipeableCard<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/e422180793dd686c00d84c708d74d18b87f52ec1/687474703a2f2f692e67697068792e636f6d2f3236746e38514f41714c345356795273412e676966) <br>
 
+项目名：MaterialSearchView<br>
+git地址：https://github.com/android-cjj/MaterialSearchView<br>
+预览:<br>
+![](https://camo.githubusercontent.com/8220bd55683ee57442aef6c833e1a971d07b6429/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530382f30372f313632343332673033696c7a7a69373335696d686d382e676966) <br>
+
+
+项目名：swirl<br>
+git地址：https://github.com/mattprecious/swirl<br>
+预览:<br>
+![](https://github.com/mattprecious/swirl/raw/master/images/sample.gif) <br>
+
+
 项目名：BoomMenu<br>
 git地址：https://github.com/Nightonke/BoomMenu<br>
 预览:<br>
