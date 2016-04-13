@@ -26,6 +26,11 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/10e37ca4f68e656eef1722b2a458140f4ef92564/687474703a2f2f3773627934372e636f6d352e7a302e676c622e636c6f7564646e2e636f6d2f73637265656e73686f74322e6a70672d7868647069) <br>
 
+项目名：MultiImageSelector<br>
+git地址：https://github.com/lovetuzitong/MultiImageSelector<br>
+预览:<br>
+![](https://github.com/lovetuzitong/MultiImageSelector) <br>
+
 项目名：GalleryPick<br>
 git地址：https://github.com/YancyYe/GalleryPick<br>
 预览:<br>
@@ -95,6 +100,11 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 git地址：https://github.com/michelelacorte/SwipeableCard<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/e422180793dd686c00d84c708d74d18b87f52ec1/687474703a2f2f692e67697068792e636f6d2f3236746e38514f41714c345356795273412e676966) <br>
+
+项目名：MaterialStyledDialogs<br>
+git地址：https://github.com/javiersantos/MaterialStyledDialogs<br>
+预览:<br>
+![](https://raw.githubusercontent.com/javiersantos/MaterialStyledDialogs/master/Screenshots/banner.png) <br>
 
 项目名：material-dialogs<br>
 git地址：https://github.com/afollestad/material-dialogs<br>
