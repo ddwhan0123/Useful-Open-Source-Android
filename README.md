@@ -109,8 +109,14 @@ git地址：https://github.com/jeasonlzy0216/OkHttpUtils<br>
 
 
 ##公开项目案例:<br>
+
 项目名：EyepetizerApp<br>
 git地址：https://github.com/lyimin/EyepetizerApp<br>
 预览:<br>
 <img src="https://github.com/lyimin/EyepetizerApp/blob/master/EyepetizerApp/EyepetizerApp/Resources/2.gif" width="50%" height="50%" /><br>
+
+项目名：XhsWelcomeAnim<br>
+git地址：https://github.com/w446108264/XhsWelcomeAnim<br>
+预览:<br>
+![](https://raw.githubusercontent.com/w446108264/XhsWelcomeAnim/master/output/show.gif) <br>
 
