@@ -39,7 +39,7 @@ git地址：https://github.com/YancyYe/GalleryPick<br>
 项目名：ImagePicker<br>
 git地址：https://github.com/jeasonlzy0216/ImagePicker<br>
 预览:<br>
-![](https://github.com/jeasonlzy0216/ImagePicker/raw/master/screenshots/demo2.gif) <br>
+![](https://camo.githubusercontent.com/d54562e2f344afa4a916d09a577098ef08a55bdb/687474703a2f2f3778737335332e636f6d322e7a302e676c622e636c6f7564646e2e636f6d2f696d6167657069636b65722f64656d6f312e706e67) <br>
 
 ##ListView 相关:<br>
 
