@@ -127,6 +127,11 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 ##自定义控件:<br>
 
+项目名：folding-cell-android<br>
+git地址：https://github.com/Ramotion/folding-cell-android<br>
+预览:<br>
+![](https://github.com/Ramotion/folding-cell-android/raw/master/folding_cell_preview.gif) <br>
+
 项目名：BrokenView<br>
 git地址：https://github.com/zhanyongsheng/BrokenView<br>
 预览:<br>
