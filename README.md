@@ -56,7 +56,7 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 项目名：EasyRecyclerViewSidebar<br>
 git地址：https://github.com/CaMnter/EasyRecyclerViewSidebar<br>
 预览:<br>
-![](https://camo.githubusercontent.com/369577196283fb00d04a8224f0654dad8f86f57f/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f3030366c504563396a773166327668367337736a6f6733313430317a343471722e676966) <br>
+<img src="http://ww4.sinaimg.cn/large/006lPEc9jw1f2vh6s7sjog31401z44qr.gif" width="320x"> <br>
 
 项目名：DragRecyclerView<br>
 git地址：https://github.com/AleBarreto/DragRecyclerView<br>
