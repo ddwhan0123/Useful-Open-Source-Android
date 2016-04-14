@@ -130,6 +130,11 @@ git地址：https://github.com/zhanyongsheng/BrokenView<br>
 预览:<br>
 ![](https://raw.githubusercontent.com/zhanyongsheng/raw/master/BrokenView/image/demo.gif) <br>
 
+项目名：LoopRotarySwitch<br>
+git地址：https://github.com/dalong982242260/LoopRotarySwitch<br>
+预览:<br>
+![](https://github.com/dalong982242260/LoopRotarySwitch/raw/master/img/dalong.gif) <br>
+
 项目名：SendButton<br>
 git地址：https://github.com/pa1pal/SendButton<br>
 预览:<br>
