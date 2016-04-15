@@ -2,7 +2,7 @@
 
 ##发起者：[王亟亟](http://blog.csdn.net/ddwhan0123) <br>
 
-###更新时间:2016-4-14
+###更新时间:2016-4-15(今日增量：4)
 
 
 
@@ -126,6 +126,22 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 ##自定义控件:<br>
+
+项目名：translucent-android<br>
+git地址：https://github.com/mallethugo/translucent-android<br>
+预览:<br>
+![](https://github.com/mallethugo/translucent/raw/master/demo.gif) <br>
+
+
+项目名：toolbar-button<br>
+git地址：https://github.com/GautamGupta/toolbar-button<br>
+预览:<br>
+![](https://raw.githubusercontent.com/GautamGupta/toolbar-button/master/art/toolbar-button.gif) <br>
+
+项目名：CircularImageView<br>
+git地址：https://github.com/Pkmmte/CircularImageView<br>
+预览:<br>
+![](https://camo.githubusercontent.com/dda2823108ea88dd8a43b5130b6df8c6a01a2b53/687474703a2f2f692e696d6775722e636f6d2f51333365325a622e676966) <br>
 
 项目名：folding-cell-android<br>
 git地址：https://github.com/Ramotion/folding-cell-android<br>
@@ -341,3 +357,25 @@ git地址：https://github.com/TakWolf/CNode-Material-Design<br>
 git地址：https://github.com/Harlber/Moose<br>
 预览:<br>
 ![](https://github.com/Harlber/Moose/raw/master/art/image_drawer.png) <br>
+
+项目名：GeometricWeather<br>
+git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
+预览:<br>
+![](https://github.com/WangDaYeeeeee/GeometricWeather/raw/master/preview/enframe_2016-02-09-08-25-001.png) <br>
+
+
+
+##疑难杂症:<br>
+
+项目名：JKeyboardPanelSwitch<br>
+git地址：https://github.com/Jacksgong/JKeyboardPanelSwitch<br>
+预览:<br>
+![](https://raw.githubusercontent.com/Jacksgong/JKeybordPanelSwitch/master/art/adjust_resolved.gif) <br>
+
+##翻译,资料:<br>
+
+项目名：Gradle-Plugin-User-Guide-Chinese-Verision<br>
+git地址：https://github.com/AvatarQing/Gradle-Plugin-User-Guide-Chinese-Verision<br>
+解释：<br>
+Gradle Android插件用户指南翻译<br>
+
