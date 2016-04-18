@@ -127,10 +127,26 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 ##自定义控件:<br>
 
+项目名：OpenGraphView<br>
+git地址：https://github.com/kaelaela/OpenGraphView<br>
+预览:<br>
+![](https://github.com/kaelaela/OpenGraphView/raw/master/art/ogview.gif) <br>
+
+项目名：OpenDanmaku<br>
+git地址：https://github.com/linsea/OpenDanmaku<br>
+预览:<br>
+![](https://github.com/linsea/OpenDanmaku/raw/master/screenshot/screenshot.jpg) <br>
+
 项目名：Shimmer-android<br>
 git地址：https://github.com/RomainPiel/Shimmer-android<br>
 预览:<br>
 ![](https://github.com/RomainPiel/Shimmer-android/raw/master/shimmer.gif) <br>
+
+项目名：CompactCalendarView<br>
+git地址：https://github.com/SundeepK/CompactCalendarView<br>
+预览:<br>
+![](https://github.com/SundeepK/CompactCalendarView/raw/master/images/compact-calendar-view-example.png) <br>
+
 
 项目名：translucent-android<br>
 git地址：https://github.com/mallethugo/translucent-android<br>
@@ -335,7 +351,10 @@ git地址：https://github.com/wenmingvs/NotifyUtil<br>
 
 ##公开项目案例:<br>
 
-
+项目名：f8app<br>
+git地址：https://github.com/fbsamples/f8app<br>
+预览:<br>
+![](https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png) <br>
 
 项目名：XhsWelcomeAnim<br>
 git地址：https://github.com/w446108264/XhsWelcomeAnim<br>
@@ -346,6 +365,11 @@ git地址：https://github.com/w446108264/XhsWelcomeAnim<br>
 git地址：https://github.com/drakeet/Meizhi<br>
 预览:<br>
 ![](https://github.com/drakeet/Meizhi/raw/master/screenshots/s0.png) <br>
+
+项目名：RXRetrofitDaggerMvpDemo<br>
+git地址：https://github.com/tuozhaobing/RXRetrofitDaggerMvpDemo<br>
+预览:<br>
+![](https://github.com/tuozhaobing/RXRetrofitDaggerMvpDemo/raw/master/ScreenShots/2016-04-12%2000:57:09屏幕截图.png) <br>
 
 项目名：PhotoNoter<br>
 git地址：https://github.com/yydcdut/PhotoNoter<br>
