@@ -127,6 +127,11 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 ##自定义控件:<br>
 
+项目名：LoadingDrawable<br>
+git地址：https://github.com/dinuscxj/LoadingDrawable<br>
+预览:<br>
+![](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleLoadingDrawable_Commit3.gif?width=300) <br>
+
 项目名：OpenGraphView<br>
 git地址：https://github.com/kaelaela/OpenGraphView<br>
 预览:<br>
