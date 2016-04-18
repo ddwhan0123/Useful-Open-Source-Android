@@ -127,6 +127,11 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 ##自定义控件:<br>
 
+项目名：Shimmer-android<br>
+git地址：https://github.com/RomainPiel/Shimmer-android<br>
+预览:<br>
+![](https://github.com/RomainPiel/Shimmer-android/raw/master/shimmer.gif) <br>
+
 项目名：translucent-android<br>
 git地址：https://github.com/mallethugo/translucent-android<br>
 预览:<br>
