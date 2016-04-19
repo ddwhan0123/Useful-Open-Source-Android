@@ -60,6 +60,11 @@ git地址：https://github.com/dinuscxj/RecyclerItemDecoration<br>
 预览:<br>
 ![](https://github.com/dinuscxj/RecyclerItemDecoration/raw/master/Preview/LinearDividerItemDecoration.gif?width=300) <br>
 
+项目名：TitanRecyclerView<br>
+git地址：https://github.com/youzan/TitanRecyclerView<br>
+预览:<br>
+![](https://github.com/youzan/TitanRecyclerView/raw/master/art/demo2.gif) <br>
+
 项目名：EasyRecyclerViewSidebar<br>
 git地址：https://github.com/CaMnter/EasyRecyclerViewSidebar<br>
 预览:<br>
