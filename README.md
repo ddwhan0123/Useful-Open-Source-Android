@@ -2,7 +2,7 @@
 
 ##发起者：[王亟亟](http://blog.csdn.net/ddwhan0123) <br>
 
-###更新时间:2016-4-18
+###更新时间:2016-4-19
 
 
 
@@ -54,6 +54,11 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 ![](https://raw.githubusercontent.com/yydcdut/SlideAndDragListView/master/gif/v1.1.gif) <br>
 
 ##RecyclerView 相关:<br>
+
+项目名：RecyclerItemDecoration<br>
+git地址：https://github.com/dinuscxj/RecyclerItemDecoration<br>
+预览:<br>
+![](https://github.com/dinuscxj/RecyclerItemDecoration/raw/master/Preview/LinearDividerItemDecoration.gif?width=300) <br>
 
 项目名：EasyRecyclerViewSidebar<br>
 git地址：https://github.com/CaMnter/EasyRecyclerViewSidebar<br>
@@ -188,6 +193,11 @@ git地址：https://github.com/dalong982242260/LoopRotarySwitch<br>
 git地址：https://github.com/pa1pal/SendButton<br>
 预览:<br>
 ![](https://raw.githubusercontent.com/pa1pal/SendButton/master/app/phone_gif.gif) <br>
+
+项目名：ArcProgressStackView<br>
+git地址：https://github.com/GIGAMOLE/ArcProgressStackView<br>
+预览:<br>
+![](https://camo.githubusercontent.com/870b4e7b9e62d5a55e6e89fa32c917bf0637e858/68747470733a2f2f6c68342e676f6f676c6575736572636f6e74656e742e636f6d2f2d6336583158794b5931676f2f56757748436b4e676870492f4141414141414141434e512f785f78745741797446506b4e7262754544796c49474b4e52386d68316a572d72672f773332332d683535322d6e6f2f617073765f707265766965775f74797065666163655f616e696d6174696f6e2e676966) <br>
 
 
 项目名：SwipeableCard<br>
