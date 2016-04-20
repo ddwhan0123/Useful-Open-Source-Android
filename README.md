@@ -55,6 +55,11 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 ##RecyclerView 相关:<br>
 
+项目名：BGARefreshLayout-Android<br>
+git地址：https://github.com/bingoogolapple/BGARefreshLayout-Android<br>
+预览:<br>
+![](https://camo.githubusercontent.com/7539fed2c320aecc0d47320586e8c2ee22a2d762/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f6267615f726566726573686c61796f7574322e676966) <br>
+
 项目名：RecyclerItemDecoration<br>
 git地址：https://github.com/dinuscxj/RecyclerItemDecoration<br>
 预览:<br>
@@ -339,6 +344,13 @@ git地址：https://github.com/bingoogolapple/BGAQRCode-Android<br>
 
 
 ##网络 相关:<br>
+
+
+项目名：KakaCache<br>
+git地址：https://github.com/LittleFriendsGroup/KakaCache<br>
+预览:<br>
+无 <br>
+
 项目名：OkHttpUtils<br>
 git地址：https://github.com/jeasonlzy0216/OkHttpUtils<br>
 预览:<br>
@@ -354,11 +366,16 @@ git地址：https://github.com/bumptech/glide<br>
 预览:<br>
 ![](https://github.com/bumptech/glide/raw/master/static/glide_logo.png) <br>
 
-##菜单:<br>
+##菜单/Tab:<br>
 项目名：GuillotineMenu-Android<br>
 git地址：https://github.com/Yalantis/GuillotineMenu-Android<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/f044b38de3fed4496b98dff747b3bf6555ec67e4/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3439353739322f73637265656e73686f74732f323131333331342f64726166742d30332e676966) <br>
+
+项目名：FlycoTabLayout<br>
+git地址：https://github.com/H07000223/FlycoTabLayout<br>
+预览:<br>
+![](https://github.com/H07000223/FlycoTabLayout/raw/master/preview_1.gif) <br>
 
 
 
