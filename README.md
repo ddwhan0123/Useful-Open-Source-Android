@@ -2,7 +2,7 @@
 
 ##发起者：[王亟亟](http://blog.csdn.net/ddwhan0123) <br>
 
-###更新时间:2016-4-19
+###更新时间:2016-4-21
 
 
 
@@ -444,4 +444,24 @@ git地址：https://github.com/Jacksgong/JKeyboardPanelSwitch<br>
 git地址：https://github.com/AvatarQing/Gradle-Plugin-User-Guide-Chinese-Verision<br>
 解释：<br>
 Gradle Android插件用户指南翻译<br>
+
+项目名：RxDocs<br>
+git地址：https://github.com/mcxiaoke/RxDocs<br>
+解释：<br>
+Rx和RxJava文档中文翻译项目<br>
+
+项目名：Gitbook<br>
+git地址：https://github.com/dodola/Gitbook<br>
+解释：<br>
+收录找到的不错的文档<br>
+
+项目名：android-tech-frontier<br>
+git地址：https://github.com/hehonghui/android-tech-frontier<br>
+解释：<br>
+一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目<br>
+
+
+
+
+
 
