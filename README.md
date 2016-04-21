@@ -513,5 +513,8 @@ git地址：https://github.com/D-clock/AndroidSystemUiTraining<br>
 本代码库整理总结 Android 系统自身UI特性，主要包含代码实践和特性总结两方面的内容。<br>
 
 
-
+标题：Android 开发绕不过的坑<br>
+文章地址：http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=498<br>
+解释：<br>
+Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？<br>
 
