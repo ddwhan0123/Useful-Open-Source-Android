@@ -142,6 +142,11 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 ##自定义控件:<br>
 
+项目名：LovelyDialog<br>
+git地址：https://github.com/yarolegovich/LovelyDialog<br>
+预览:<br>
+![](https://raw.githubusercontent.com/yarolegovich/lovelydialog/master/art/lovelydialogs_framed.png) <br>
+
 项目名：LoadingDrawable<br>
 git地址：https://github.com/dinuscxj/LoadingDrawable<br>
 预览:<br>
@@ -351,6 +356,11 @@ git地址：https://github.com/LittleFriendsGroup/KakaCache<br>
 预览:<br>
 无 <br>
 
+项目名：okhttp<br>
+git地址：https://github.com/square/okhttp<br>
+预览:<br>
+无 <br>
+
 项目名：OkHttpUtils<br>
 git地址：https://github.com/jeasonlzy0216/OkHttpUtils<br>
 预览:<br>
@@ -438,6 +448,11 @@ git地址：https://github.com/Jacksgong/JKeyboardPanelSwitch<br>
 预览:<br>
 ![](https://raw.githubusercontent.com/Jacksgong/JKeybordPanelSwitch/master/art/adjust_resolved.gif) <br>
 
+项目名：AndroidDaemonService<br>
+git地址：https://github.com/D-clock/AndroidDaemonService<br>
+解释：<br>
+合理优雅的进程保活方式<br>
+
 ##翻译,资料:<br>
 
 项目名：Gradle-Plugin-User-Guide-Chinese-Verision<br>
@@ -461,6 +476,10 @@ git地址：https://github.com/hehonghui/android-tech-frontier<br>
 一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目<br>
 
 
+项目名：AndroidSystemUiTraining<br>
+git地址：https://github.com/D-clock/AndroidSystemUiTraining<br>
+解释：<br>
+本代码库整理总结 Android 系统自身UI特性，主要包含代码实践和特性总结两方面的内容。<br>
 
 
 
