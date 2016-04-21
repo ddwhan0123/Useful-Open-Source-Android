@@ -24,7 +24,23 @@ git地址：https://github.com/aurelhubert/ahbottomnavigation<br>
 预览:<br>
 ![](https://raw.githubusercontent.com/aurelhubert/ahbottomnavigation/master/demo2.gif) <br>
 
-##图片选择器 相关:<br>
+##图片选择器/编辑器 相关:<br>
+
+项目名：ImageEditor-Android<br>
+git地址：https://github.com/siwangqishiq/ImageEditor-Android<br>
+预览:<br>
+![](https://github.com/siwangqishiq/ImageEditAndroid/raw/master/screens/demo2.gif) <br>
+
+项目名：PhotoPicker<br>
+git地址：https://github.com/donglua/PhotoPicker<br>
+预览:<br>
+![](https://camo.githubusercontent.com/fdfbd6a029ad0f17e8cb782b1fc2cc579ca99e19/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f3565396138316462677731657472613665666c31686a3230367a3063657765742e6a7067) <br>
+
+项目名：ImageEditor-Android<br>
+git地址：https://github.com/siwangqishiq/ImageEditor-Android<br>
+预览:<br>
+![](https://github.com/siwangqishiq/ImageEditAndroid/raw/master/screens/demo2.gif) <br>
+
 项目名：AndroidPicturePicker<br>
 git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 预览:<br>
@@ -141,6 +157,11 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 ##自定义控件:<br>
+
+项目名：LabelView<br>
+git地址：https://github.com/drakeet/LabelView<br>
+预览:<br>
+![](https://camo.githubusercontent.com/24fced4586273e9b5c0b74aa8a19146cc05eb86a/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f3836653266663835677731657933307a6f326666396a32313331306f386e34302e6a7067) <br>
 
 项目名：LovelyDialog<br>
 git地址：https://github.com/yarolegovich/LovelyDialog<br>
@@ -464,6 +485,16 @@ Gradle Android插件用户指南翻译<br>
 git地址：https://github.com/mcxiaoke/RxDocs<br>
 解释：<br>
 Rx和RxJava文档中文翻译项目<br>
+
+项目名：awesome-resources<br>
+git地址：https://github.com/lyfeyaj/awesome-resources<br>
+解释：<br>
+开发资源总结<br>
+
+项目名：skill-map<br>
+git地址：https://github.com/TeamStuQ/skill-map<br>
+解释：<br>
+StuQ 程序员技能图谱<br>
 
 项目名：Gitbook<br>
 git地址：https://github.com/dodola/Gitbook<br>
