@@ -2,7 +2,7 @@
 
 ##发起者：[王亟亟](http://blog.csdn.net/ddwhan0123) <br>
 
-###更新时间:2016-4-21
+###更新时间:2016-4-22
 
 
 
@@ -59,6 +59,11 @@ git地址：https://github.com/jeasonlzy0216/ImagePicker<br>
 
 ##ListView 相关:<br>
 
+项目名：IndexableStickyListView<br>
+git地址：https://github.com/YoKeyword/IndexableStickyListView<br>
+预览:<br>
+![](https://github.com/YoKeyword/IndexableStickyListView/raw/master/gif/demo_city.gif) <br>
+
 项目名：FlabbyListView<br>
 git地址：https://github.com/jpardogo/FlabbyListView<br>
 预览:<br>
@@ -70,6 +75,11 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 ![](https://raw.githubusercontent.com/yydcdut/SlideAndDragListView/master/gif/v1.1.gif) <br>
 
 ##RecyclerView 相关:<br>
+
+项目名：FlyRefresh<br>
+git地址：https://github.com/race604/FlyRefresh<br>
+预览:<br>
+![](https://github.com/race604/FlyRefresh/raw/master/images/flyrefresh.gif) <br>
 
 项目名：BGARefreshLayout-Android<br>
 git地址：https://github.com/bingoogolapple/BGARefreshLayout-Android<br>
@@ -157,6 +167,11 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 ##自定义控件:<br>
+
+项目名：largeimageview<br>
+git地址：https://github.com/cshzhang/largeimageview<br>
+预览:<br>
+![](https://github.com/cshzhang/largeimageview/raw/master/largeimageview.gif) <br>
 
 项目名：LabelView<br>
 git地址：https://github.com/drakeet/LabelView<br>
@@ -517,4 +532,9 @@ git地址：https://github.com/D-clock/AndroidSystemUiTraining<br>
 文章地址：http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=498<br>
 解释：<br>
 Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？<br>
+
+标题android-open-source-project-cracking<br>
+文章地址：https://github.com/wingjay/android-open-source-project-cracking<br>
+解释：<br>
+通过对流行的优质android开源项目分析、学习、仿写，最终理解，不仅帮你掌握最新的android技术，更能让你理解开源项目的精华之处，这些都是你成为一名高级android developer必不可少的<br>
 
