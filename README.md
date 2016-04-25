@@ -192,6 +192,11 @@ git地址：https://github.com/borjabravo10/ReadMoreTextView<br>
 预览:<br>
 ![](https://github.com/borjabravo10/ReadMoreTextView/raw/master/screenshots/collapsed.png) <br>
 
+项目名：EasyForm<br>
+git地址：https://github.com/emmasuzuki/EasyForm<br>
+预览:<br>
+![](https://raw.githubusercontent.com/emmasuzuki/EasyForm/master/demo1.gif) <br>
+
 项目名：largeimageview<br>
 git地址：https://github.com/cshzhang/largeimageview<br>
 预览:<br>
@@ -463,6 +468,11 @@ git地址：https://github.com/wenmingvs/NotifyUtil<br>
 
 ##公开项目案例:<br>
 
+项目名：Girls<br>
+git地址：https://github.com/flyou/Girls<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/dad20e62ad7b0ef408b10b3f4f668602f666cb30/687474703a2f2f37786c3764792e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f6465766963652d323031362d30342d32322d3030333534342e706e67" width="30%" /><br>
+
 项目名：f8app<br>
 git地址：https://github.com/fbsamples/f8app<br>
 预览:<br>
@@ -507,6 +517,11 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 ##疑难杂症:<br>
+
+项目名：LogcatViewer<br>
+git地址：https://github.com/fatangare/LogcatViewer<br>
+预览:<br>
+![](https://github.com/fatangare/LogcatViewer/raw/master/Images/loglevel.png) <br>
 
 项目名：JKeyboardPanelSwitch<br>
 git地址：https://github.com/Jacksgong/JKeyboardPanelSwitch<br>
