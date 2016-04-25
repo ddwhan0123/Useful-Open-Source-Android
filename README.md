@@ -171,8 +171,7 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 项目名：FieldMapView<br>
 git地址：https://github.com/naman14/FieldMapView<br>
 预览:<br>
-![](https://raw.githubusercontent.com/naman14/FieldMapView/master/graphics/Screenshot_2015-04-26-19-13-00.png) <br>
-
+<img src="https://raw.githubusercontent.com/naman14/FieldMapView/master/graphics/Screenshot_2015-04-26-19-13-00.png" width="30%" />
 项目名：MarkView<br>
 git地址：https://github.com/xiprox/MarkView<br>
 预览:<br>
