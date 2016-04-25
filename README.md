@@ -2,7 +2,7 @@
 
 ##发起者：[王亟亟](http://blog.csdn.net/ddwhan0123) <br>
 
-###更新时间:2016-4-22
+###更新时间:2016-4-25
 
 
 
@@ -167,6 +167,31 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 ##自定义控件:<br>
+
+项目名：FieldMapView<br>
+git地址：https://github.com/naman14/FieldMapView<br>
+预览:<br>
+![](https://raw.githubusercontent.com/naman14/FieldMapView/master/graphics/Screenshot_2015-04-26-19-13-00.png) <br>
+
+项目名：MarkView<br>
+git地址：https://github.com/xiprox/MarkView<br>
+预览:<br>
+![](https://camo.githubusercontent.com/fd7c14629d51fed962eff7f807e47ac3231c52f8/687474703a2f2f7075752e73682f684a6b57512f376632353938636236322e706e67) <br>
+
+项目名：WJMagicCurveView<br>
+git地址：https://github.com/wingjay/WJMagicCurveView<br>
+预览:<br>
+![](https://camo.githubusercontent.com/64cae8d8415d492e3ae31a3dc8301bab6ece2575/68747470733a2f2f77696e676a61792e636f6d2f696d672f254536253943253839254538254236254133254537253941253834254536253942254232254537254241254246254535253943254138416e64726f69642545342542382538412545372539412538342545352541452539452545372538452542302f72696e672e676966) <br>
+
+项目名：PreLollipopTransition<br>
+git地址：https://github.com/takahirom/PreLollipopTransition<br>
+预览:<br>
+![](https://cloud.githubusercontent.com/assets/1386930/7614211/53ca12d8-f9d0-11e4-8b98-b6d98272f67d.gif) <br>
+
+项目名：ReadMoreTextView<br>
+git地址：https://github.com/borjabravo10/ReadMoreTextView<br>
+预览:<br>
+![](https://github.com/borjabravo10/ReadMoreTextView/raw/master/screenshots/collapsed.png) <br>
 
 项目名：largeimageview<br>
 git地址：https://github.com/cshzhang/largeimageview<br>
@@ -401,6 +426,11 @@ git地址：https://github.com/square/okhttp<br>
 git地址：https://github.com/jeasonlzy0216/OkHttpUtils<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/9de765ff0932e14c2fdeceb4b8c7a9608dd686a2/687474703a2f2f3778737335332e636f6d322e7a302e676c622e636c6f7564646e2e636f6d2f6f6b687474707574696c732f64656d6f322e676966) <br>
+
+项目名：picasso<br>
+git地址：https://github.com/square/picasso<br>
+预览:<br>
+![](https://github.com/square/picasso/raw/master/website/static/sample.png) <br>
 
 项目名：MultiThreadDownload<br>
 git地址：https://github.com/Aspsine/MultiThreadDownload<br>
