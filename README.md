@@ -26,11 +26,6 @@ git地址：https://github.com/aurelhubert/ahbottomnavigation<br>
 
 ##图片选择器/编辑器 相关:<br>
 
-项目名：ImageEditor-Android<br>
-git地址：https://github.com/siwangqishiq/ImageEditor-Android<br>
-预览:<br>
-![](https://github.com/siwangqishiq/ImageEditAndroid/raw/master/screens/demo2.gif) <br>
-
 项目名：PhotoPicker<br>
 git地址：https://github.com/donglua/PhotoPicker<br>
 预览:<br>
