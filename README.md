@@ -177,6 +177,17 @@ git地址：https://github.com/wingjay/WJMagicCurveView<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/64cae8d8415d492e3ae31a3dc8301bab6ece2575/68747470733a2f2f77696e676a61792e636f6d2f696d672f254536253943253839254538254236254133254537253941253834254536253942254232254537254241254246254535253943254138416e64726f69642545342542382538412545372539412538342545352541452539452545372538452542302f72696e672e676966) <br>
 
+项目名：KenBurnsView<br>
+git地址：https://github.com/flavioarfaria/KenBurnsView<br>
+预览:<br>
+![](https://camo.githubusercontent.com/64d61cde0875bcfb1636821b2a121af56cc0ecca/687474703a2f2f7777772e70696374757265736861636b2e75732f696d616765732f31353532365f4b656e4275726e73566965772e676966) <br>
+
+项目名：MovingImageView<br>
+git地址：https://github.com/AlbertGrobas/MovingImageView<br>
+预览:<br>
+![](https://github.com/AlbertGrobas/MovingImageView/raw/master/art/sample01.gif) <br>
+
+
 项目名：PreLollipopTransition<br>
 git地址：https://github.com/takahirom/PreLollipopTransition<br>
 预览:<br>
@@ -447,6 +458,11 @@ git地址：https://github.com/Yalantis/GuillotineMenu-Android<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/f044b38de3fed4496b98dff747b3bf6555ec67e4/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3439353739322f73637265656e73686f74732f323131333331342f64726166742d30332e676966) <br>
 
+项目名：RapidFloatingActionButton<br>
+git地址：https://github.com/wangjiegulu/RapidFloatingActionButton<br>
+预览:<br>
+![](https://raw.githubusercontent.com/wangjiegulu/RapidFloatingActionButton/master/screenshot/rfab_label_list.gif) <br>
+
 项目名：FlycoTabLayout<br>
 git地址：https://github.com/H07000223/FlycoTabLayout<br>
 预览:<br>
@@ -513,6 +529,11 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 ##疑难杂症:<br>
 
+项目名：AndroidMultiChannelBuildTool<br>
+git地址：https://github.com/GavinCT/AndroidMultiChannelBuildTool<br>
+预览:<br>
+无 <br>
+
 项目名：LogcatViewer<br>
 git地址：https://github.com/fatangare/LogcatViewer<br>
 预览:<br>
@@ -571,6 +592,12 @@ git地址：https://github.com/D-clock/AndroidSystemUiTraining<br>
 文章地址：http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=498<br>
 解释：<br>
 Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？<br>
+
+标题：useful-java-links<br>
+文章地址：https://github.com/Vedenin/useful-java-links<br>
+解释：<br>
+A list of useful Java frameworks, libraries, software and hello worlds examples<br>
+
 
 标题android-open-source-project-cracking<br>
 文章地址：https://github.com/wingjay/android-open-source-project-cracking<br>
