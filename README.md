@@ -2,7 +2,7 @@
 
 ##发起者：[王亟亟](http://blog.csdn.net/ddwhan0123) <br>
 
-###更新时间:2016-4-25
+###更新时间:2016-4-27
 
 
 
@@ -53,6 +53,12 @@ git地址：https://github.com/jeasonlzy0216/ImagePicker<br>
 ![](https://camo.githubusercontent.com/d54562e2f344afa4a916d09a577098ef08a55bdb/687474703a2f2f3778737335332e636f6d322e7a302e676c622e636c6f7564646e2e636f6d2f696d6167657069636b65722f64656d6f312e706e67) <br>
 
 ##ListView 相关:<br>
+
+项目名：PullToZoomInListView<br>
+git地址：https://github.com/matrixxun/PullToZoomInListView<br>
+预览:<br>
+![](https://github.com/matrixxun/PullToZoomInListView/raw/master/art/pull-to-zoom.gif) <br>
+
 
 项目名：IndexableStickyListView<br>
 git地址：https://github.com/YoKeyword/IndexableStickyListView<br>
@@ -161,12 +167,24 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
-##自定义控件:<br>
+##自定义控件/动画:<br>
 
 项目名：FieldMapView<br>
 git地址：https://github.com/naman14/FieldMapView<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/naman14/FieldMapView/master/graphics/Screenshot_2015-04-26-19-13-00.png" width="30%" /><br>
+
+项目名：FlippableStackView<br>
+git地址：https://github.com/blipinsk/FlippableStackView<br>
+预览:<br>
+<img src="https://github.com/blipinsk/FlippableStackView/raw/master/FlippableStackView.gif" width="30%" /><br>
+
+项目名：hellocharts-android<br>
+git地址：https://github.com/lecho/hellocharts-android<br>
+预览:<br>
+<img src="https://github.com/lecho/hellocharts-android/raw/master/screens/scr-dependency.png" width="30%" /><br>
+
+
 项目名：MarkView<br>
 git地址：https://github.com/xiprox/MarkView<br>
 预览:<br>
@@ -181,6 +199,12 @@ git地址：https://github.com/wingjay/WJMagicCurveView<br>
 git地址：https://github.com/flavioarfaria/KenBurnsView<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/64d61cde0875bcfb1636821b2a121af56cc0ecca/687474703a2f2f7777772e70696374757265736861636b2e75732f696d616765732f31353532365f4b656e4275726e73566965772e676966) <br>
+
+项目名：FragmentAnimations<br>
+git地址：https://github.com/kakajika/FragmentAnimations<br>
+预览:<br>
+![](https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/move.gif) <br>
+
 
 项目名：MovingImageView<br>
 git地址：https://github.com/AlbertGrobas/MovingImageView<br>
@@ -538,6 +562,11 @@ git地址：https://github.com/GavinCT/AndroidMultiChannelBuildTool<br>
 git地址：https://github.com/fatangare/LogcatViewer<br>
 预览:<br>
 ![](https://github.com/fatangare/LogcatViewer/raw/master/Images/loglevel.png) <br>
+
+项目名：TurboDex<br>
+git地址：https://github.com/asLody/TurboDex<br>
+预览:<br>
+无 <br>
 
 项目名：JKeyboardPanelSwitch<br>
 git地址：https://github.com/Jacksgong/JKeyboardPanelSwitch<br>
