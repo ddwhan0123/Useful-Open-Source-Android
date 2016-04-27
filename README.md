@@ -193,7 +193,7 @@ git地址：https://github.com/xiprox/MarkView<br>
 项目名：WJMagicCurveView<br>
 git地址：https://github.com/wingjay/WJMagicCurveView<br>
 预览:<br>
-![](https://camo.githubusercontent.com/64cae8d8415d492e3ae31a3dc8301bab6ece2575/68747470733a2f2f77696e676a61792e636f6d2f696d672f254536253943253839254538254236254133254537253941253834254536253942254232254537254241254246254535253943254138416e64726f69642545342542382538412545372539412538342545352541452539452545372538452542302f72696e672e676966) <br>
+<img src="https://camo.githubusercontent.com/64cae8d8415d492e3ae31a3dc8301bab6ece2575/68747470733a2f2f77696e676a61792e636f6d2f696d672f254536253943253839254538254236254133254537253941253834254536253942254232254537254241254246254535253943254138416e64726f69642545342542382538412545372539412538342545352541452539452545372538452542302f72696e672e676966" width="30%" />
 
 项目名：KenBurnsView<br>
 git地址：https://github.com/flavioarfaria/KenBurnsView<br>
@@ -255,7 +255,7 @@ git地址：https://github.com/kaelaela/OpenGraphView<br>
 项目名：OpenDanmaku<br>
 git地址：https://github.com/linsea/OpenDanmaku<br>
 预览:<br>
-![](https://github.com/linsea/OpenDanmaku/raw/master/screenshot/screenshot.jpg) <br>
+<img src="https://github.com/linsea/OpenDanmaku/raw/master/screenshot/screenshot.jpg" width="30%" />
 
 项目名：Shimmer-android<br>
 git地址：https://github.com/RomainPiel/Shimmer-android<br>
