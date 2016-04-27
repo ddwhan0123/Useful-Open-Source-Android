@@ -573,6 +573,11 @@ git地址：https://github.com/GavinCT/AndroidMultiChannelBuildTool<br>
 预览:<br>
 无 <br>
 
+项目名：android-weak-handler<br>
+git地址：https://github.com/badoo/android-weak-handler<br>
+预览:<br>
+![](https://github.com/badoo/android-weak-handler/raw/master/WeakHandler.png) <br>
+
 项目名：LogcatViewer<br>
 git地址：https://github.com/fatangare/LogcatViewer<br>
 预览:<br>
