@@ -211,6 +211,16 @@ git地址：https://github.com/AlbertGrobas/MovingImageView<br>
 预览:<br>
 ![](https://github.com/AlbertGrobas/MovingImageView/raw/master/art/sample01.gif) <br>
 
+项目名：android-FingerprintDialog<br>
+git地址：https://github.com/googlesamples/android-FingerprintDialog<br>
+预览:<br>
+![](https://github.com/googlesamples/android-FingerprintDialog/raw/master/screenshots/2-fingerprint-dialog.png) <br>
+
+项目名：CursorWheelLayout<br>
+git地址：https://github.com/BCsl/CursorWheelLayout<br>
+预览:<br>
+![](https://github.com/BCsl/CursorWheelLayout/raw/master/screenshot/gif2.gif) <br>
+
 
 项目名：PreLollipopTransition<br>
 git地址：https://github.com/takahirom/PreLollipopTransition<br>
@@ -487,6 +497,11 @@ git地址：https://github.com/wangjiegulu/RapidFloatingActionButton<br>
 预览:<br>
 ![](https://raw.githubusercontent.com/wangjiegulu/RapidFloatingActionButton/master/screenshot/rfab_label_list.gif) <br>
 
+项目名：MaterialDrawer<br>
+git地址：https://github.com/mikepenz/MaterialDrawer<br>
+预览:<br>
+![](https://raw.githubusercontent.com/mikepenz/MaterialDrawer/develop/DEV/github/screenshots1.jpg) <br>
+
 项目名：FlycoTabLayout<br>
 git地址：https://github.com/H07000223/FlycoTabLayout<br>
 预览:<br>
@@ -632,4 +647,9 @@ A list of useful Java frameworks, libraries, software and hello worlds examples<
 文章地址：https://github.com/wingjay/android-open-source-project-cracking<br>
 解释：<br>
 通过对流行的优质android开源项目分析、学习、仿写，最终理解，不仅帮你掌握最新的android技术，更能让你理解开源项目的精华之处，这些都是你成为一名高级android developer必不可少的<br>
+
+标题design_patterns<br>
+文章地址：https://github.com/me115/design_patterns<br>
+解释：<br>
+本书使用图形和代码结合的方式来解析设计模式<br>
 
