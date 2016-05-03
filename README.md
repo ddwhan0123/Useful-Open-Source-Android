@@ -19,6 +19,16 @@ git地址：https://github.com/roughike/BottomBar<br>
 预览:<br>
 ![](https://raw.githubusercontent.com/roughike/BottomBar/master/demo_shifting.gif) <br>
 
+项目名：FloatingToolbar<br>
+git地址：https://github.com/rubensousa/FloatingToolbar<br>
+预览:<br>
+![](https://github.com/rubensousa/FloatingToolbar/raw/master/screenshots/demo.gif) <br>
+
+项目名：PagerBottomTabStrip<br>
+git地址：https://github.com/tyzlmjj/PagerBottomTabStrip<br>
+预览:<br>
+![](https://github.com/tyzlmjj/PagerBottomTabStrip/raw/master/img/demo1.gif) <br>
+
 项目名：ahbottomnavigation<br>
 git地址：https://github.com/aurelhubert/ahbottomnavigation<br>
 预览:<br>
@@ -81,6 +91,11 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 git地址：https://github.com/race604/FlyRefresh<br>
 预览:<br>
 ![](https://github.com/race604/FlyRefresh/raw/master/images/flyrefresh.gif) <br>
+
+项目名：RecyclerViewItemAnimators<br>
+git地址：https://github.com/gabrielemariotti/RecyclerViewItemAnimators<br>
+预览:<br>
+![](https://github.com/gabrielemariotti/RecyclerViewItemAnimators/raw/master/demo.gif) <br>
 
 项目名：BGARefreshLayout-Android<br>
 git地址：https://github.com/bingoogolapple/BGARefreshLayout-Android<br>
@@ -189,6 +204,31 @@ git地址：https://github.com/lecho/hellocharts-android<br>
 git地址：https://github.com/xiprox/MarkView<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/fd7c14629d51fed962eff7f807e47ac3231c52f8/687474703a2f2f7075752e73682f684a6b57512f376632353938636236322e706e67) <br>
+
+项目名：BlurLockView<br>
+git地址：https://github.com/Nightonke/BlurLockView<br>
+预览:<br>
+![](https://github.com/Nightonke/BlurLockView/raw/master/Pictures/in_out.gif) <br>
+
+项目名：drawee-text-view<br>
+git地址:https://github.com/Bilibili/drawee-text-view<br>
+预览:<br>
+![](https://github.com/Bilibili/drawee-text-view/raw/master/art/screenshot.png) <br>
+
+项目名：Depth-LIB-Android<br>
+git地址：https://github.com/danielzeller/Depth-LIB-Android-<br>
+预览:<br>
+![](https://camo.githubusercontent.com/b55c62484bb6a7d4b5280988d5cbaf993ca6579f/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3635353434392f73637265656e73686f74732f323137393334322f6d656e755f64726962626c652e676966) <br>
+
+项目名：ShadowLayout<br>
+git地址：https://github.com/DevLight-Mobile-Agency/ShadowLayout<br>
+预览:<br>
+![](https://camo.githubusercontent.com/cc39e72fbb6d580d3870cf5c892ae573cde751a9/68747470733a2f2f6c68342e676f6f676c6575736572636f6e74656e742e636f6d2f2d324a422d32634576386c6b2f567834466d4851686a4f492f41414141414141414354412f6e725247466a63515842734769495359535a356b38675573566352773547535251434c30422f773334392d683535322d6e6f2f736c2e706e67) <br>
+
+项目名：QuickSand<br>
+git地址：https://github.com/blundell/QuickSand<br>
+预览:<br>
+![](https://github.com/blundell/QuickSand/raw/master/demo/demo_z1c.gif) <br>
 
 项目名：WJMagicCurveView<br>
 git地址：https://github.com/wingjay/WJMagicCurveView<br>
@@ -528,6 +568,16 @@ git地址：https://github.com/fbsamples/f8app<br>
 预览:<br>
 ![](https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png) <br>
 
+项目名：MicroReader<br>
+git地址：https://github.com/YiuChoi/MicroReader<br>
+预览:<br>
+![](https://github.com/YiuChoi/MicroReader/raw/master/screenshot/Screenshot_20160503-085853.png) <br>
+
+项目名：DanmakuFlameMaster<br>
+git地址https://github.com/Bilibili/DanmakuFlameMaster<br>
+预览:<br>
+![](https://camo.githubusercontent.com/5d619b8e479e2c618150278cad3eb1c8e6a1d36d/68747470733a2f2f7261772e6769746875622e636f6d2f637469616f2f637469616f2e6769746875622e696f2f6d61737465722f696d616765732f617070732f62696c692e706e673f7261773d74727565) <br>
+
 项目名：XhsWelcomeAnim<br>
 git地址：https://github.com/w446108264/XhsWelcomeAnim<br>
 预览:<br>
@@ -577,6 +627,16 @@ git地址：https://github.com/GavinCT/AndroidMultiChannelBuildTool<br>
 git地址：https://github.com/badoo/android-weak-handler<br>
 预览:<br>
 ![](https://github.com/badoo/android-weak-handler/raw/master/WeakHandler.png) <br>
+
+项目名：PermissionsDispatcher<br>
+git地址：https://github.com/hotchemi/PermissionsDispatcher<br>
+预览:<br>
+![](https://raw.githubusercontent.com/hotchemi/PermissionsDispatcher/master/art/logo.png) <br>
+
+项目名：appversionchecker<br>
+git地址https://github.com/sugoi-wada/appversionchecker<br>
+预览:<br>
+无 解决Google Play apk更新 <br>
 
 项目名：LogcatViewer<br>
 git地址：https://github.com/fatangare/LogcatViewer<br>
