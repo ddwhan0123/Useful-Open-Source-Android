@@ -230,6 +230,11 @@ git地址：https://github.com/blundell/QuickSand<br>
 预览:<br>
 ![](https://github.com/blundell/QuickSand/raw/master/demo/demo_z1c.gif) <br>
 
+项目名：Android-Image-Cropper<br>
+git地址：https://github.com/ArthurHub/Android-Image-Cropper<br>
+预览:<br>
+![](https://github.com/ArthurHub/Android-Image-Cropper/raw/master/art/zoom%20sample.gif?raw=true) <br>
+
 项目名：WJMagicCurveView<br>
 git地址：https://github.com/wingjay/WJMagicCurveView<br>
 预览:<br>
@@ -568,6 +573,12 @@ git地址：https://github.com/fbsamples/f8app<br>
 预览:<br>
 ![](https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png) <br>
 
+项目名：AndroidCubeDemo<br>
+git地址：https://github.com/geminiwen/AndroidCubeDemo<br>
+预览:<br>
+![](https://camo.githubusercontent.com/54d49e4ca0edfee9db04bb9dcd00e125c9b46d8f/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f35646435343133316777316577687a743364617137673230663030716f6232612e676966) <br>
+
+
 项目名：MicroReader<br>
 git地址：https://github.com/YiuChoi/MicroReader<br>
 预览:<br>
@@ -664,6 +675,11 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 git地址：https://github.com/AvatarQing/Gradle-Plugin-User-Guide-Chinese-Verision<br>
 解释：<br>
 Gradle Android插件用户指南翻译<br>
+
+项目名：EasyAndroidResources<br>
+git地址：https://github.com/CaMnter/EasyAndroidResources<br>
+解释：<br>
+源码解释，算法，小知识<br>
 
 项目名：RxDocs<br>
 git地址：https://github.com/mcxiaoke/RxDocs<br>
