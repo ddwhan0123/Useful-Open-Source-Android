@@ -2,7 +2,7 @@
 
 ##发起者：[王亟亟](http://blog.csdn.net/ddwhan0123) <br>
 
-###更新时间:2016-5-3
+###更新时间:2016-5-4
 
 
 
@@ -68,6 +68,11 @@ git地址：https://github.com/jeasonlzy0216/ImagePicker<br>
 git地址：https://github.com/matrixxun/PullToZoomInListView<br>
 预览:<br>
 ![](https://github.com/matrixxun/PullToZoomInListView/raw/master/art/pull-to-zoom.gif) <br>
+
+项目名：StickyHeaderListView<br>
+git地址：https://github.com/sfsheng0322/StickyHeaderListView<br>
+预览:<br>
+![](https://github.com/sfsheng0322/StickyHeaderListView/raw/master/screenshots/stickyheader.gif) <br>
 
 
 项目名：IndexableStickyListView<br>
@@ -205,6 +210,17 @@ git地址：https://github.com/xiprox/MarkView<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/fd7c14629d51fed962eff7f807e47ac3231c52f8/687474703a2f2f7075752e73682f684a6b57512f376632353938636236322e706e67) <br>
 
+项目名：emojicon<br>
+git地址：https://github.com/rockerhieu/emojicon<br>
+预览:<br>
+![](https://github.com/rockerhieu/emojicon/raw/master/images/sample.jpg) <br>
+
+项目名：SwipeAwayDialog<br>
+git地址：https://github.com/kakajika/SwipeAwayDialog<br>
+预览:<br>
+![](https://raw.githubusercontent.com/wiki/kakajika/SwipeAwayDialog/images/octocats.gif) <br>
+
+
 项目名：BlurLockView<br>
 git地址：https://github.com/Nightonke/BlurLockView<br>
 预览:<br>
@@ -225,6 +241,11 @@ git地址：https://github.com/DevLight-Mobile-Agency/ShadowLayout<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/cc39e72fbb6d580d3870cf5c892ae573cde751a9/68747470733a2f2f6c68342e676f6f676c6575736572636f6e74656e742e636f6d2f2d324a422d32634576386c6b2f567834466d4851686a4f492f41414141414141414354412f6e725247466a63515842734769495359535a356b38675573566352773547535251434c30422f773334392d683535322d6e6f2f736c2e706e67) <br>
 
+
+
+
+
+
 项目名：QuickSand<br>
 git地址：https://github.com/blundell/QuickSand<br>
 预览:<br>
@@ -244,6 +265,16 @@ git地址：https://github.com/wingjay/WJMagicCurveView<br>
 git地址：https://github.com/flavioarfaria/KenBurnsView<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/64d61cde0875bcfb1636821b2a121af56cc0ecca/687474703a2f2f7777772e70696374757265736861636b2e75732f696d616765732f31353532365f4b656e4275726e73566965772e676966) <br>
+
+项目名：Shuffle<br>
+git地址：https://github.com/Meetic/Shuffle<br>
+预览:<br>
+![](https://github.com/Meetic/Shuffle/raw/master/media/shuffle.gif) <br>
+
+项目名：MaryPopup<br>
+git地址：https://github.com/Meetic/MaryPopup<br>
+预览:<br>
+![](https://github.com/Meetic/MaryPopup/raw/master/media/intro.gif) <br>
 
 项目名：FragmentAnimations<br>
 git地址：https://github.com/kakajika/FragmentAnimations<br>
@@ -537,6 +568,11 @@ git地址：https://github.com/Yalantis/GuillotineMenu-Android<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/f044b38de3fed4496b98dff747b3bf6555ec67e4/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3439353739322f73637265656e73686f74732f323131333331342f64726166742d30332e676966) <br>
 
+项目名：android-slidingactivity<br>
+git地址：https://github.com/klinker41/android-slidingactivity<br>
+预览:<br>
+![](https://github.com/klinker41/android-slidingactivity/raw/master/preview.gif) <br>
+
 项目名：FloatMenuSample<br>
 git地址：https://github.com/fanOfDemo/FloatMenuSample<br>
 预览:<br>
@@ -643,6 +679,11 @@ git地址：https://github.com/GavinCT/AndroidMultiChannelBuildTool<br>
 git地址：https://github.com/badoo/android-weak-handler<br>
 预览:<br>
 ![](https://github.com/badoo/android-weak-handler/raw/master/WeakHandler.png) <br>
+
+项目名：eventbus-intellij-plugin<br>
+git地址：https://github.com/kgmyshin/eventbus-intellij-plugin<br>
+预览:<br>
+![](https://raw.githubusercontent.com/kgmyshin/eventbus-intellij-plugin/master/art/cap.gif) <br>
 
 项目名：PermissionsDispatcher<br>
 git地址：https://github.com/hotchemi/PermissionsDispatcher<br>
