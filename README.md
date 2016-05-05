@@ -2,7 +2,7 @@
 
 ##发起者：[王亟亟](http://blog.csdn.net/ddwhan0123) <br>
 
-###更新时间:2016-5-4
+###更新时间:2016-5-5
 
 
 
@@ -219,6 +219,16 @@ git地址：https://github.com/rockerhieu/emojicon<br>
 git地址：https://github.com/kakajika/SwipeAwayDialog<br>
 预览:<br>
 ![](https://raw.githubusercontent.com/wiki/kakajika/SwipeAwayDialog/images/octocats.gif) <br>
+
+项目名：countingtextview<br>
+git地址：https://github.com/uguratar/countingtextview<br>
+预览:<br>
+![](https://camo.githubusercontent.com/30a57e0df2f29e4b3dd8172dff5bbdbee877eefc/687474703a2f2f692e696d6775722e636f6d2f6e6f58774b47372e676966) <br>
+
+项目名：RiseNumber<br>
+git地址：https://github.com/sd6352051/RiseNumber<br>
+预览:<br>
+![](https://camo.githubusercontent.com/0edd9bf488250060322dbf5496dddd8e096b5ca9/687474703a2f2f696d67312e70682e3132362e6e65742f344b775451756f5f637975364a3050443346313231513d3d2f363631393037373539313339373631303037372e676966) <br>
 
 
 项目名：BlurLockView<br>
