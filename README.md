@@ -424,7 +424,7 @@ git地址：https://github.com/afollestad/material-dialogs<br>
 项目名：TagViewLayout<br>
 git地址：https://github.com/jjhesk/TagViewLayout<br>
 预览:<br>
-![](https://github.com/jjhesk/TagViewLayout/raw/master/baconLMY48Yhesk02012016174101.gif) <br>
+![](https://camo.githubusercontent.com/67c7881c1ffbc58332d3ec8ad2cf55a7bcb42344/687474703a2f2f692e67697068792e636f6d2f32596b39656b38516166676c322e676966) <br>
 
 项目名：RadarScanView<br>
 git地址：https://github.com/gpfduoduo/RadarScanView<br>
