@@ -51,7 +51,7 @@ git地址：https://github.com/sd6352051/android-image-picker<br>
 项目名：ImageEditor-Android<br>
 git地址：https://github.com/siwangqishiq/ImageEditor-Android<br>
 预览:<br>
-![](https://github.com/siwangqishiq/ImageEditAndroid/raw/master/screens/demo2.gif) <br>
+![](https://github.com/siwangqishiq/ImageEditAndroid/raw/master/screens/demo1.gif) <br>
 
 项目名：AndroidPicturePicker<br>
 git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
