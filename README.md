@@ -2,7 +2,7 @@
 
 ##发起者：[王亟亟](http://blog.csdn.net/ddwhan0123) <br>
 
-###更新时间:2016-5-5
+###更新时间:2016-5-9
 
 
 
@@ -40,6 +40,13 @@ git地址：https://github.com/aurelhubert/ahbottomnavigation<br>
 git地址：https://github.com/donglua/PhotoPicker<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/fdfbd6a029ad0f17e8cb782b1fc2cc579ca99e19/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f3565396138316462677731657472613665666c31686a3230367a3063657765742e6a7067) <br>
+
+
+项目名：android-image-picker<br>
+git地址：https://github.com/sd6352051/android-image-picker<br>
+预览:<br>
+![](https://github.com/sd6352051/android-image-picker/raw/master/gif/gallery.gif) <br>
+
 
 项目名：ImageEditor-Android<br>
 git地址：https://github.com/siwangqishiq/ImageEditor-Android<br>
@@ -169,6 +176,11 @@ git地址：https://github.com/PaoloRotolo/AppIntro<br>
 预览:<br>
 <img src="https://github.com/PaoloRotolo/AppIntro/raw/master/art/intro.png" width="30%" /><br>
 
+项目名：MagicViewPager<br>
+git地址：https://github.com/hongyangAndroid/MagicViewPager<br>
+预览:<br>
+<img src="https://github.com/hongyangAndroid/MagicViewPager/raw/master/screenshot/rotate_y.gif" width="30%" /><br>
+
 项目名：Android-ConvenientBanner<br>
 git地址：https://github.com/saiwu-bigkoo/Android-ConvenientBanner<br>
 预览:<br>
@@ -193,6 +205,16 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 git地址：https://github.com/naman14/FieldMapView<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/naman14/FieldMapView/master/graphics/Screenshot_2015-04-26-19-13-00.png" width="30%" /><br>
+
+项目名：flexbox-layout<br>
+git地址：https://github.com/google/flexbox-layout<br>
+预览:<br>
+<img src="https://github.com/google/flexbox-layout/raw/master/assets/flex-direction.gif" width="30%" /><br>
+
+项目名：material-check-mark-animation<br>
+git地址：https://github.com/alexjlockwood/material-check-mark-animation<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/ccc20356721ea4ddaebaa545b521b7462b04bcba/687474703a2f2f692e696d6775722e636f6d2f586c6b785570422e676966" width="30%" /><br>
 
 项目名：FlippableStackView<br>
 git地址：https://github.com/blipinsk/FlippableStackView<br>
@@ -250,10 +272,6 @@ git地址：https://github.com/danielzeller/Depth-LIB-Android-<br>
 git地址：https://github.com/DevLight-Mobile-Agency/ShadowLayout<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/cc39e72fbb6d580d3870cf5c892ae573cde751a9/68747470733a2f2f6c68342e676f6f676c6575736572636f6e74656e742e636f6d2f2d324a422d32634576386c6b2f567834466d4851686a4f492f41414141414141414354412f6e725247466a63515842734769495359535a356b38675573566352773547535251434c30422f773334392d683535322d6e6f2f736c2e706e67) <br>
-
-
-
-
 
 
 项目名：QuickSand<br>
@@ -389,6 +407,21 @@ git地址：https://github.com/Ramotion/folding-cell-android<br>
 git地址：https://github.com/zhanyongsheng/BrokenView<br>
 预览:<br>
 ![](https://raw.githubusercontent.com/zhanyongsheng/raw/master/BrokenView/image/demo.gif) <br>
+
+项目名：Tooltip<br>
+git地址：https://github.com/jayrambhia/Tooltip<br>
+预览:<br>
+![](https://raw.githubusercontent.com/jayrambhia/Tooltip/master/art/demo.gif) <br>
+
+项目名：QuickActionView<br>
+git地址：https://github.com/ovenbits/QuickActionView<br>
+预览:<br>
+![](https://raw.githubusercontent.com/ovenbits/QuickActionView/master/screenshots/qav.gif) <br>
+
+项目名：CompactCalendarViewToolbar<br>
+git地址：https://github.com/GerritHoekstra/CompactCalendarViewToolbar<br>
+预览:<br>
+![](https://github.com/GerritHoekstra/CompactCalendarViewToolbar/raw/master/images/compact-calendar-toolbar-demo.gif) <br>
 
 项目名：LoopRotarySwitch<br>
 git地址：https://github.com/dalong982242260/LoopRotarySwitch<br>
@@ -612,6 +645,11 @@ git地址：https://github.com/wenmingvs/NotifyUtil<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/77127a63d1b75088bc118ec092224e9421ee747c/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f3639316363313531677731663037677464787935336732306263306830316c312e676966) <br>
 
+项目名：Bubble-Notification<br>
+git地址：https://github.com/dkmeteor/Bubble-Notification<br>
+预览:<br>
+![](https://github.com/dkmeteor/Bubble-Notification/raw/master/gif/list_demo1.gif) <br>
+
 ##公开项目案例:<br>
 
 项目名：Girls<br>
@@ -695,6 +733,16 @@ git地址：https://github.com/kgmyshin/eventbus-intellij-plugin<br>
 预览:<br>
 ![](https://raw.githubusercontent.com/kgmyshin/eventbus-intellij-plugin/master/art/cap.gif) <br>
 
+项目名：Nammu<br>
+git地址https://github.com/tajchert/Nammu<br>
+预览:高版本授权处理<br>
+![](https://github.com/tajchert/Nammu/raw/master/image/screenshot.png) <br>
+
+项目名：IntentShare<br>
+git地址：https://github.com/tvbarthel/IntentShare<br>
+描述:<br>
+This project is a light open-source library that improves the sharing experience on Android <br>
+
 项目名：PermissionsDispatcher<br>
 git地址：https://github.com/hotchemi/PermissionsDispatcher<br>
 预览:<br>
@@ -731,6 +779,11 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 git地址：https://github.com/AvatarQing/Gradle-Plugin-User-Guide-Chinese-Verision<br>
 解释：<br>
 Gradle Android插件用户指南翻译<br>
+
+项目名：Algorithms<br>
+git地址：https://github.com/pedrovgs/Algorithms<br>
+解释：<br>
+Solutions for some common algorithm problems written in Java.<br>
 
 项目名：EasyAndroidResources<br>
 git地址：https://github.com/CaMnter/EasyAndroidResources<br>
