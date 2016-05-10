@@ -104,6 +104,11 @@ git地址：https://github.com/race604/FlyRefresh<br>
 预览:<br>
 ![](https://github.com/race604/FlyRefresh/raw/master/images/flyrefresh.gif) <br>
 
+项目名：android-advancedrecyclerview<br>
+git地址：https://github.com/h6ah4i/android-advancedrecyclerview<br>
+预览:<br>
+视频，就不贴了<br>
+
 项目名：RecyclerViewItemAnimators<br>
 git地址：https://github.com/gabrielemariotti/RecyclerViewItemAnimators<br>
 预览:<br>
@@ -216,10 +221,20 @@ git地址：https://github.com/markushi/android-circlebutton<br>
 预览:<br>
 <img src="https://github.com/markushi/android-circlebutton/raw/master/example/example.gif"/><br>
 
+项目名：BubbleLayout<br>
+git地址：https://github.com/MasayukiSuda/BubbleLayout<br>
+预览:<br>
+<img src="https://github.com/MasayukiSuda/BubbleLayout/raw/master/art/all.gif"/><br>
+
 项目名：FieldMapView<br>
 git地址：https://github.com/naman14/FieldMapView<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/naman14/FieldMapView/master/graphics/Screenshot_2015-04-26-19-13-00.png" width="30%" /><br>
+
+项目名：android-flowlayout<br>
+git地址：https://github.com/ApmeM/android-flowlayout<br>
+预览:<br>
+<img src="https://github.com/ApmeM/android-flowlayout/raw/master/img/PORTRAIT_LTR_FILL_HORIZONTAL_DEBUG.png"/><br>
 
 项目名：LargeImage<br>
 git地址：https://github.com/LuckyJayce/LargeImage<br>
