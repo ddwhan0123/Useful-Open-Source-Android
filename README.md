@@ -2,7 +2,7 @@
 
 ##发起者：[王亟亟](http://blog.csdn.net/ddwhan0123) <br>
 
-###更新时间:2016-5-9
+###更新时间:2016-5-10
 
 
 
@@ -201,6 +201,21 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 ##自定义控件/动画:<br>
 
+项目名：ExpandableLayout<br>
+git地址：https://github.com/cachapa/ExpandableLayout<br>
+预览:<br>
+<img src="https://github.com/cachapa/ExpandableLayout/raw/master/images/expandable_fixed.gif" width="30%" /><br>
+
+项目名：IndicatorBox<br>
+git地址：https://github.com/wusp/IndicatorBox<br>
+预览:<br>
+<img src="https://github.com/wusp/IndicatorBox/raw/master/Demo/src/main/java/com/wusp/indicatorbox/example-gif/flashborder.gif" width="30%" /><br>
+
+项目名：android-circlebutton<br>
+git地址：https://github.com/markushi/android-circlebutton<br>
+预览:<br>
+<img src="https://github.com/markushi/android-circlebutton/raw/master/example/example.gif"/><br>
+
 项目名：FieldMapView<br>
 git地址：https://github.com/naman14/FieldMapView<br>
 预览:<br>
@@ -215,6 +230,11 @@ No<br>
 git地址：https://github.com/google/flexbox-layout<br>
 预览:<br>
 <img src="https://github.com/google/flexbox-layout/raw/master/assets/flex-direction.gif" width="30%" /><br>
+
+项目名：circular-with-floating-action-button<br>
+git地址：https://github.com/DmitryMalkovich/circular-with-floating-action-button<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/2931932/14588785/b15cb84a-04da-11e6-9771-b0e54b6a6201.png" width="30%" /><br>
 
 项目名：material-check-mark-animation<br>
 git地址：https://github.com/alexjlockwood/material-check-mark-animation<br>
@@ -671,6 +691,12 @@ git地址：https://github.com/fbsamples/f8app<br>
 git地址：https://github.com/rogerou/Baby<br>
 预览:<br>
 <img src="https://github.com/rogerou/Baby/raw/master/art/Screenshot_20160214-173027.png" width="30%" /><br>
+
+
+项目名：popular-movies-app<br>
+git地址：https://github.com/DmitryMalkovich/popular-movies-app<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/2931932/14224948/c983f498-f8b8-11e5-98d4-ef084e4ad34b.png" width="30%" /><br>
 
 项目名：AndroidCubeDemo<br>
 git地址：https://github.com/geminiwen/AndroidCubeDemo<br>
