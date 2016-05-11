@@ -2,7 +2,7 @@
 
 ##发起者：[王亟亟](http://blog.csdn.net/ddwhan0123) <br>
 
-###更新时间:2016-5-10
+###更新时间:2016-5-11
 
 
 
@@ -211,6 +211,11 @@ git地址：https://github.com/cachapa/ExpandableLayout<br>
 预览:<br>
 <img src="https://github.com/cachapa/ExpandableLayout/raw/master/images/expandable_fixed.gif" width="30%" /><br>
 
+项目名：TextCounter<br>
+git地址：https://github.com/premnirmal/TextCounter/raw/master/img/counter.gif<br>
+预览:<br>
+<img src="https://github.com/cachapa/ExpandableLayout/raw/master/images/expandable_fixed.gif" width="30%" /><br>
+
 项目名：IndicatorBox<br>
 git地址：https://github.com/wusp/IndicatorBox<br>
 预览:<br>
@@ -271,6 +276,7 @@ git地址：https://github.com/lecho/hellocharts-android<br>
 git地址：https://github.com/xiprox/MarkView<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/fd7c14629d51fed962eff7f807e47ac3231c52f8/687474703a2f2f7075752e73682f684a6b57512f376632353938636236322e706e67) <br>
+
 
 项目名：emojicon<br>
 git地址：https://github.com/rockerhieu/emojicon<br>
@@ -585,6 +591,11 @@ git地址：https://github.com/daimajia/NumberProgressBar<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/0c92568af7ec4e04e2e1503acdd2ca99854ab0b5/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a77316566797264386e376937673230637a30326d7135662e676966) <br>
 
+项目名：uberprogressview<br>
+git地址：https://github.com/lazysource/uberprogressview<br>
+预览:<br>
+![](https://raw.githubusercontent.com/lazysource/uberprogressview/master/UberProgressViewDemo.gif) <br>
+
 项目名：FABProgressCircle<br>
 git地址：https://github.com/JorgeCastilloPrz/FABProgressCircle<br>
 预览:<br>
@@ -692,10 +703,25 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 
 ##公开项目案例:<br>
 
+项目名：visual-goodies<br>
+git地址：https://github.com/alexive/visual-goodies<br>
+预览:<br>
+![](https://github.com/alexive/visual-goodies/raw/master/images/sample1.gif) <br>
+
 项目名：Girls<br>
 git地址：https://github.com/flyou/Girls<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/dad20e62ad7b0ef408b10b3f4f668602f666cb30/687474703a2f2f37786c3764792e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f6465766963652d323031362d30342d32322d3030333534342e706e67" width="30%" /><br>
+
+项目名：SimplifyReader<br>
+git地址:https://github.com/SkillCollege/SimplifyReader<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/project.gif" width="30%" /><br>
+
+项目名：superCleanMaster<br>
+git地址:https://github.com/joyoyao/superCleanMaster<br>
+预览:<br>
+<img src="https://github.com/joyoyao/superCleanMaster/raw/master/screenshot/home.jpg" width="30%" /><br>
 
 项目名：f8app<br>
 git地址：https://github.com/fbsamples/f8app<br>
