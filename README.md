@@ -211,6 +211,11 @@ git地址：https://github.com/cachapa/ExpandableLayout<br>
 预览:<br>
 <img src="https://github.com/cachapa/ExpandableLayout/raw/master/images/expandable_fixed.gif" width="30%" /><br>
 
+项目名：ImageTransition<br>
+git地址：https://github.com/danylovolokh/ImageTransition<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/2686355/13902301/783b604c-ee4c-11e5-8428-bab7a67f6fff.gif" width="30%" /><br>
+
 项目名：TextCounter<br>
 git地址：https://github.com/premnirmal/TextCounter/raw/master/img/counter.gif<br>
 预览:<br>
@@ -805,6 +810,11 @@ git地址：https://github.com/badoo/android-weak-handler<br>
 预览:<br>
 ![](https://github.com/badoo/android-weak-handler/raw/master/WeakHandler.png) <br>
 
+项目名：VCameraDemo<br>
+git地址：https://github.com/motianhuo/VCameraDemo<br>
+预览:<br>
+![](https://camo.githubusercontent.com/68b7a1d35aa64ecd13594d5ae5d0c584b3982f1f/687474703a2f2f61312e656f65616e64726f69642e636f6d2f6174746163686d656e742f666f72756d2f3230313530372f31352f3136303934316a397a74627878676478717778626e742e676966) <br>
+
 项目名：eventbus-intellij-plugin<br>
 git地址：https://github.com/kgmyshin/eventbus-intellij-plugin<br>
 预览:<br>
@@ -919,4 +929,9 @@ A list of useful Java frameworks, libraries, software and hello worlds examples<
 文章地址：https://github.com/me115/design_patterns<br>
 解释：<br>
 本书使用图形和代码结合的方式来解析设计模式<br>
+
+标题 awesome-react-native<br>
+文章地址：https://github.com/jondot/awesome-react-native<br>
+解释：<br>
+An "awesome" type curated list of React Native components, news, tools, and learning material<br>
 
