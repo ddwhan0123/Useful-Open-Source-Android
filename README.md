@@ -2,7 +2,7 @@
 
 ##发起者：[王亟亟](http://blog.csdn.net/ddwhan0123) <br>
 
-###更新时间:2016-5-11
+###更新时间:2016-5-12
 
 
 
@@ -210,6 +210,21 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 git地址：https://github.com/cachapa/ExpandableLayout<br>
 预览:<br>
 <img src="https://github.com/cachapa/ExpandableLayout/raw/master/images/expandable_fixed.gif" width="30%" /><br>
+
+项目名：FakeSearchView<br>
+git地址：https://github.com/leonardoxh/FakeSearchView<br>
+预览:<br>
+<img src="https://github.com/leonardoxh/FakeSearchView/raw/master/demo.gif" width="30%" /><br>
+
+项目名：AndroidCountryCodeSelector<br>
+git地址：https://github.com/junyuecao/AndroidCountryCodeSelector<br>
+预览:<br>
+<img src="https://github.com/junyuecao/AndroidCountryCodeSelector/raw/master/screenshots/screenshot1.png?raw=true" width="30%" /><br>
+
+项目名：CircleImageView<br>
+git地址：https://github.com/hdodenhof/CircleImageView<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/e17a2a83e3e205a822d27172cb3736d4f441344d/68747470733a2f2f7261772e6769746875622e636f6d2f68646f64656e686f662f436972636c65496d616765566965772f6d61737465722f73637265656e73686f742e706e67" width="30%" /><br>
 
 项目名：ImageTransition<br>
 git地址：https://github.com/danylovolokh/ImageTransition<br>
@@ -810,6 +825,16 @@ git地址：https://github.com/badoo/android-weak-handler<br>
 预览:<br>
 ![](https://github.com/badoo/android-weak-handler/raw/master/WeakHandler.png) <br>
 
+项目名：AndroidVideoCacher<br>
+git地址：https://github.com/danikula/AndroidVideoCacher<br>
+解釋:<br>
+Cache support for any video player with help of single line<br>
+
+项目名：permissions-dispatcher-plugin<br>
+git地址：https://github.com/shiraji/permissions-dispatcher-plugin<br>
+预览:<br>
+<img src="https://github.com/shiraji/permissions-dispatcher-plugin/raw/master/website/images/pd.gif" width="30%" /><br>
+
 项目名：VCameraDemo<br>
 git地址：https://github.com/motianhuo/VCameraDemo<br>
 预览:<br>
@@ -833,7 +858,7 @@ This project is a light open-source library that improves the sharing experience
 项目名：PermissionsDispatcher<br>
 git地址：https://github.com/hotchemi/PermissionsDispatcher<br>
 预览:<br>
-![](https://raw.githubusercontent.com/hotchemi/PermissionsDispatcher/master/art/logo.png) <br>
+![](https://raw.githubusercontent.com/hotchemi/PermissionsDispatcher/master/art/logo.png ) <br>
 
 项目名：appversionchecker<br>
 git地址https://github.com/sugoi-wada/appversionchecker<br>
