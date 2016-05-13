@@ -100,6 +100,11 @@ git地址：https://github.com/matrixxun/PullToZoomInListView<br>
 预览:<br>
 ![](https://github.com/matrixxun/PullToZoomInListView/raw/master/art/pull-to-zoom.gif) <br>
 
+项目名：HitBlockRefresh<br>
+git地址：https://github.com/Hitomis/HitBlockRefresh<br>
+预览:<br>
+<img src="https://github.com/Hitomis/HitBlockRefresh/raw/master/preview/HitBlock.gif" width="30%" /><br>
+
 项目名：StickyHeaderListView<br>
 git地址：https://github.com/sfsheng0322/StickyHeaderListView<br>
 预览:<br>
