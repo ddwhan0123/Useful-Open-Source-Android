@@ -4,6 +4,12 @@
 
 ###更新时间:2016-5-13
 
+##多媒体 相关：<br>
+
+项目名：easy-video-player<br>
+git地址：https://github.com/afollestad/easy-video-player<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/afollestad/easy-video-player/master/art/showcase.png" width="30%" />
 
 
 
@@ -1067,6 +1073,11 @@ git地址：https://github.com/lyfeyaj/awesome-resources<br>
 git地址：https://github.com/TeamStuQ/skill-map<br>
 解释：<br>
 StuQ 程序员技能图谱<br>
+
+项目名：AndroidStudyCode<br>
+git地址：https://github.com/D-clock/AndroidStudyCode<br>
+解释：<br>
+关于Android的一些原理学习和代码实现<br>
 
 项目名：Gitbook<br>
 git地址：https://github.com/dodola/Gitbook<br>
