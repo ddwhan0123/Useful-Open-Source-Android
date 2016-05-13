@@ -270,7 +270,7 @@ git地址：https://github.com/douglasjunior/android-simple-tooltip<br>
 项目名：ExpandableLayout<br>
 git地址：https://github.com/cachapa/ExpandableLayout<br>
 预览:<br>
-<img src="https://github.com/douglasjunior/android-simple-tooltip" width="30%" /><br>
+<img src="https://github.com/cachapa/ExpandableLayout/raw/master/images/expandable_fixed.gif" width="30%" /><br>
 
 项目名：AnimTextView<br>
 git地址：https://github.com/z56402344/AnimTextView<br>
