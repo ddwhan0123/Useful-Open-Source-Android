@@ -313,9 +313,9 @@ git地址：https://github.com/danylovolokh/ImageTransition<br>
 <img src="https://cloud.githubusercontent.com/assets/2686355/13902301/783b604c-ee4c-11e5-8428-bab7a67f6fff.gif" width="30%" /><br>
 
 项目名：TextCounter<br>
-git地址：https://github.com/premnirmal/TextCounter/raw/master/img/counter.gif<br>
+git地址：https://github.com/premnirmal/TextCounter<br>
 预览:<br>
-<img src="https://github.com/cachapa/ExpandableLayout/raw/master/images/expandable_fixed.gif" width="30%" /><br>
+<img src="https://github.com/premnirmal/TextCounter/raw/master/img/counter.gif" width="30%" /><br>
 
 项目名：IndicatorBox<br>
 git地址：https://github.com/wusp/IndicatorBox<br>
