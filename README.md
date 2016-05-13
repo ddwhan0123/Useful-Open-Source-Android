@@ -2,17 +2,25 @@
 
 ##发起者：[王亟亟](http://blog.csdn.net/ddwhan0123) <br>
 
-###更新时间:2016-5-12
+###更新时间:2016-5-13
+
 
 
 
 ##Bottom Navigation 相关:<br>
 
 
+
+
 项目名：FragNav<br>
 git地址：https://github.com/ncapdevi/FragNav<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/ncapdevi/FragNav/master/FragNavDemo.gif" width="30%" />
+
+项目名：BottomSheet<br>
+git地址：https://github.com/soarcn/BottomSheet<br>
+预览:<br>
+<img src="https://github.com/soarcn/BottomSheet/raw/master/art/image.png?raw=true" width="30%" />
 
 项目名：BottomBar<br>
 git地址：https://github.com/roughike/BottomBar<br>
@@ -34,7 +42,15 @@ git地址：https://github.com/aurelhubert/ahbottomnavigation<br>
 预览:<br>
 ![](https://raw.githubusercontent.com/aurelhubert/ahbottomnavigation/master/demo2.gif) <br>
 
+
+
+
+
 ##图片选择器/编辑器 相关:<br>
+
+
+
+
 
 项目名：PhotoPicker<br>
 git地址：https://github.com/donglua/PhotoPicker<br>
@@ -69,7 +85,15 @@ git地址：https://github.com/jeasonlzy0216/ImagePicker<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/d54562e2f344afa4a916d09a577098ef08a55bdb/687474703a2f2f3778737335332e636f6d322e7a302e676c622e636c6f7564646e2e636f6d2f696d6167657069636b65722f64656d6f312e706e67) <br>
 
+
+
+
+
 ##ListView 相关:<br>
+
+
+
+
 
 项目名：PullToZoomInListView<br>
 git地址：https://github.com/matrixxun/PullToZoomInListView<br>
@@ -97,7 +121,15 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 预览:<br>
 ![](https://raw.githubusercontent.com/yydcdut/SlideAndDragListView/master/gif/v1.1.gif) <br>
 
+
+
+
+
 ##RecyclerView 相关:<br>
+
+
+
+
 
 项目名：FlyRefresh<br>
 git地址：https://github.com/race604/FlyRefresh<br>
@@ -170,7 +202,14 @@ git地址：https://github.com/Aspsine/IRecyclerView<br>
 预览:<br>
 ![](https://github.com/Aspsine/IRecyclerView/raw/master/art/bat_vs_supper_header.gif) <br>
 
+
+
+
 ##ViewPager 相关:<br>
+
+
+
+
 项目名：HollyViewPager<br>
 git地址：https://github.com/florent37/HollyViewPager<br>
 预览:<br>
@@ -180,6 +219,12 @@ git地址：https://github.com/florent37/HollyViewPager<br>
 git地址：https://github.com/PaoloRotolo/AppIntro<br>
 预览:<br>
 <img src="https://github.com/PaoloRotolo/AppIntro/raw/master/art/intro.png" width="30%" /><br>
+
+
+项目名：BGABanner-Android<br>
+git地址：https://github.com/bingoogolapple/BGABanner-Android<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/bingoogolapple/BGABanner-Android/server/screenshots/banner2.gif" width="30%" /><br>
 
 项目名：MagicViewPager<br>
 git地址：https://github.com/hongyangAndroid/MagicViewPager<br>
@@ -204,12 +249,38 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
+
+
 ##自定义控件/动画:<br>
+
+
+
 
 项目名：ExpandableLayout<br>
 git地址：https://github.com/cachapa/ExpandableLayout<br>
 预览:<br>
 <img src="https://github.com/cachapa/ExpandableLayout/raw/master/images/expandable_fixed.gif" width="30%" /><br>
+
+项目名：AnimTextView<br>
+git地址：https://github.com/z56402344/AnimTextView<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/928419dd3d300081d975c51b2a6ad293b9624ab7/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531323134323233363431303631" width="30%" /><br>
+
+项目名：A-MusicView<br>
+git地址：https://github.com/north2014/A-MusicView<br>
+预览:<br>
+<img src="https://github.com/north2014/A-MusicView/raw/master/a.gif" width="30%" /><br>
+
+项目名：PianoView<br>
+git地址：https://github.com/north2014/PianoView<br>
+预览:<br>
+<img src="https://github.com/north2014/PianoView/raw/master/a.png" width="30%" /><br>
+
+项目名：cardslib<br>
+git地址：https://github.com/gabrielemariotti/cardslib<br>
+预览:<br>
+<img src="https://github.com/gabrielemariotti/cardslib/raw/master/demo/images/cardsv2_small.png" width="30%" /><br>
 
 项目名：FakeSearchView<br>
 git地址：https://github.com/leonardoxh/FakeSearchView<br>
@@ -604,7 +675,14 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/acab5da5f5428e89def195e1492d3e2879941a08/687474703a2f2f696d6775722e636f6d2f52526839717a7a2e676966) <br>
 
+
+
+
+
 ##Progress 相关:<br>
+
+
+
 
 项目名：NumberProgressBar<br>
 git地址：https://github.com/daimajia/NumberProgressBar<br>
@@ -636,14 +714,28 @@ git地址：https://github.com/lsjwzh/MaterialLoadingProgressBar<br>
 预览:<br>
 ![](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif) <br>
 
+
+
+
+
 ##二维码 相关:<br>
+
+
+
+
 项目名：BGAQRCode-Android<br>
 git地址：https://github.com/bingoogolapple/BGAQRCode-Android<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/5c5b2863287e8e18cce4e82965394c56f0376c38/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7172636f64652f73637265656e73686f74732f49716567675152436f646544656d6f2e676966) <br>
 
 
+
+
+
 ##网络 相关:<br>
+
+
+
 
 
 项目名：KakaCache<br>
@@ -709,7 +801,13 @@ git地址：https://github.com/H07000223/FlycoTabLayout<br>
 
 
 
+
+
 ##通知:<br>
+
+
+
+
 
 项目名：NotifyUtil<br>
 git地址：https://github.com/wenmingvs/NotifyUtil<br>
@@ -721,12 +819,25 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 预览:<br>
 ![](https://github.com/dkmeteor/Bubble-Notification/raw/master/gif/list_demo1.gif) <br>
 
+
+
+
 ##公开项目案例:<br>
+
+
+
+
+
 
 项目名：visual-goodies<br>
 git地址：https://github.com/alexive/visual-goodies<br>
 预览:<br>
 ![](https://github.com/alexive/visual-goodies/raw/master/images/sample1.gif) <br>
+
+项目名：CNBlog<br>
+git地址：https://github.com/yjxandroid/CNBlog<br>
+预览:<br>
+![](https://camo.githubusercontent.com/0e83d2951476b3105b4e248771770e95a9988eb1/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f61313734633633336777316572723139776b78377767323062343068736e70642e676966) <br>
 
 项目名：Girls<br>
 git地址：https://github.com/flyou/Girls<br>
@@ -813,10 +924,33 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+
+
 ##疑难杂症:<br>
+
+
+
+
+
+
 
 项目名：AndroidMultiChannelBuildTool<br>
 git地址：https://github.com/GavinCT/AndroidMultiChannelBuildTool<br>
+预览:<img src="https://github.com/googlesamples/android-UniversalMusicPlayer/raw/master/screenshots/phone.png" width="30%" /><br><br>
+无 <br>
+
+项目名：NextKeyboard<br>
+git地址：https://github.com/yoojia/NextKeyboard<br>
+解释：专用键盘：中国车牌号、6位数字密码<br>
+无 <br>
+
+项目名：Android-AdvancedWebView<br>
+git地址：https://github.com/delight-im/Android-AdvancedWebView<br>
+解释：Enhanced WebView component for Android that works as intended out of the box<br>
+无 <br>
+
+项目名：android-UniversalMusicPlayer<br>
+git地址：https://github.com/googlesamples/android-UniversalMusicPlayer<br>
 预览:<br>
 无 <br>
 
@@ -824,6 +958,8 @@ git地址：https://github.com/GavinCT/AndroidMultiChannelBuildTool<br>
 git地址：https://github.com/badoo/android-weak-handler<br>
 预览:<br>
 ![](https://github.com/badoo/android-weak-handler/raw/master/WeakHandler.png) <br>
+
+
 
 项目名：AndroidVideoCacher<br>
 git地址：https://github.com/danikula/AndroidVideoCacher<br>
@@ -906,6 +1042,11 @@ git地址：https://github.com/CaMnter/EasyAndroidResources<br>
 git地址：https://github.com/mcxiaoke/RxDocs<br>
 解释：<br>
 Rx和RxJava文档中文翻译项目<br>
+
+项目名：gold-miner<br>
+git地址：https://github.com/xitu/gold-miner<br>
+解释:<br>
+掘金翻译计划，翻译掘金上优质的英文文章 http://gold.xitu.io<br>
 
 项目名：awesome-resources<br>
 git地址：https://github.com/lyfeyaj/awesome-resources<br>
