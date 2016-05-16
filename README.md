@@ -149,6 +149,11 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+项目名：gesture-recycler<br>
+git地址：https://github.com/thesurix/gesture-recycler<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/28ae912dfce010fa1443fcb1759891b04871b85b/687474703a2f2f692e67697068792e636f6d2f7854394450476b52556b5069483351756d342e676966" width="320x"> <br>
+
 项目名：drag-select-recyclerview<br>
 git地址：https://github.com/afollestad/drag-select-recyclerview<br>
 预览:<br>
@@ -309,6 +314,12 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
+
+项目名： SwipeBack<br>
+git地址：https://github.com/liuguangqiang/SwipeBack<br>
+预览:<br>
+<img src="https://github.com/liuguangqiang/SwipeBack/raw/master/Images/swipeback_demo.gif" width="30%" /><br>
 
 项目名： ExplosionField<br>
 git地址：https://github.com/tyrantgit/ExplosionField<br>
@@ -788,6 +799,7 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
+
 项目名：ElasticDownload<br>
 git地址：https://github.com/Tibolte/ElasticDownload<br>
 预览:<br>
@@ -1098,6 +1110,11 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+
+项目名：easydeviceinfo<br>
+git地址：https://github.com/nisrulz/easydeviceinfo<br>
+预览: 無<br>
+描述：授权处理<br>
 
 
 项目名：AndroidUnitTest<br>
