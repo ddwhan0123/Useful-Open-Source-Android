@@ -141,6 +141,10 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+项目名：pull-to-make-soup<br>
+git地址：https://github.com/Yalantis/pull-to-make-soup<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif" width="320x"> <br>
 
 项目名：FlyRefresh<br>
 git地址：https://github.com/race604/FlyRefresh<br>
@@ -268,6 +272,11 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
+项目名：TagsEditText<br>
+git地址：https://github.com/mabbas007/TagsEditText<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/3a26ca3308d07d4040d9b6bea3dd65b0cc605516/687474703a2f2f692e696d6775722e636f6d2f5a4a596c734e4c2e706e673f33" width="30%" /><br>
 
 项目名：BitmapMerger<br>
 git地址：https://github.com/cooltechworks/BitmapMerger<br>
@@ -852,6 +861,10 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 
 
 
+项目名：awesome-android-ui<br>
+git地址：https://github.com/wasabeef/awesome-android-ui<br>
+预览:<br>
+無，收納項目，吊的起飛<br>
 
 项目名：stock-hawk-app<br>
 git地址：https://github.com/DmitryMalkovich/stock-hawk-app<br>
@@ -950,6 +963,7 @@ git地址：https://github.com/Harlber/Moose<br>
 git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 预览:<br>
 ![](https://github.com/WangDaYeeeeee/GeometricWeather/raw/master/preview/enframe_2016-02-09-08-25-001.png) <br>
+
 
 
 
