@@ -95,7 +95,9 @@ git地址：https://github.com/jeasonlzy0216/ImagePicker<br>
 
 
 
+
 ##ListView 相关:<br>
+
 
 
 
@@ -105,6 +107,11 @@ git地址：https://github.com/jeasonlzy0216/ImagePicker<br>
 git地址：https://github.com/matrixxun/PullToZoomInListView<br>
 预览:<br>
 ![](https://github.com/matrixxun/PullToZoomInListView/raw/master/art/pull-to-zoom.gif) <br>
+
+项目名：ListViewAnimations<br>
+git地址：https://github.com/nhaarman/ListViewAnimations<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/nhaarman/ListViewAnimations/gh-pages/images/dynamiclistview.gif" width="30%" /><br>
 
 项目名：HitBlockRefresh<br>
 git地址：https://github.com/Hitomis/HitBlockRefresh<br>
@@ -139,6 +146,13 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 ##RecyclerView 相关:<br>
 
 
+
+
+
+项目名：drag-select-recyclerview<br>
+git地址：https://github.com/afollestad/drag-select-recyclerview<br>
+预览:<br>
+<img src="https://github.com/afollestad/drag-select-recyclerview/raw/master/art/showcase.gif" width="320x"> <br>
 
 
 项目名：pull-to-make-soup<br>
@@ -225,6 +239,26 @@ git地址：https://github.com/Aspsine/IRecyclerView<br>
 
 
 
+项目名：WoWoViewPager<br>
+git地址：https://github.com/Nightonke/WoWoViewPager<br>
+预览:<br>
+<img src="https://github.com/Nightonke/WoWoViewPager/raw/master/Pictures/AppIntroExample.gif"/><br>
+
+项目名：Pixelate<br>
+git地址：https://github.com/DanielMartinus/Pixelate<br>
+预览:<br>
+<img src="https://github.com/DanielMartinus/Pixelate/raw/master/images/pixelate_illustration.png"/><br>
+
+项目名：SCViewPager<br>
+git地址：https://github.com/sacot41/SCViewPager<br>
+预览:<br>
+<img src="https://github.com/sacot41/SCViewPager/raw/master/example_2.gif?raw=true"/><br>
+
+项目名：ViewPagerTransforms<br>
+git地址：https://github.com/ToxicBakery/ViewPagerTransforms<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/8dabc7f764609bd8fbe9a7c594251e0e5d20ebdc/687474703a2f2f692e696d6775722e636f6d2f72766845326e732e676966" width="30%" /><br>
+
 项目名：HollyViewPager<br>
 git地址：https://github.com/florent37/HollyViewPager<br>
 预览:<br>
@@ -272,6 +306,35 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+项目名： ExplosionField<br>
+git地址：https://github.com/tyrantgit/ExplosionField<br>
+预览:<br>
+<img src="https://github.com/tyrantgit/ExplosionField/raw/master/explosionfield.gif" width="30%" /><br>
+
+项目名： android-stackblur<br>
+git地址：https://github.com/kikoso/android-stackblur<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/9c26fa38f23bb218558ad1843f59042ae3d90309/68747470733a2f2f7261772e6769746875622e636f6d2f6b696b6f736f2f616e64726f69642d737461636b626c75722f6d61737465722f6172742f73637265656e73686f74312e706e67" width="30%" /><br>
+
+项目名： AndroidViewAnimations<br>
+git地址：https://github.com/daimajia/AndroidViewAnimations<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/c41223966bdfed2260dbbabbcbae648e5db542c6/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3631306463303334677731656a37356d69327737376732306333306a623471722e676966" width="30%" /><br>
+
+项目名：Android-Week-View<br>
+git地址：https://github.com/alamkanak/Android-Week-View<br>
+预览:<br>
+<img src="https://github.com/alamkanak/Android-Week-View/raw/develop/images/screen-shot.png" width="30%" /><br>
+
+项目名：Caldroid<br>
+git地址：https://github.com/roomorama/Caldroid<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/8160f830305493135ea8ae1fbd9e12713d6f0972/68747470733a2f2f7261772e6769746875622e636f6d2f726f6f6d6f72616d612f43616c64726f69642f6d61737465722f73637265656e73686f742f312e706e67" width="30%" /><br>
+
+项目名：android-times-square<br>
+git地址：https://github.com/square/android-times-square<br>
+预览:<br>
+<img src="https://github.com/square/android-times-square/raw/master/timesSquareScreenshot.png" width="30%" /><br>
 
 项目名：TagsEditText<br>
 git地址：https://github.com/mabbas007/TagsEditText<br>
@@ -387,6 +450,11 @@ git地址：https://github.com/alexjlockwood/material-check-mark-animation<br>
 git地址：https://github.com/blipinsk/FlippableStackView<br>
 预览:<br>
 <img src="https://github.com/blipinsk/FlippableStackView/raw/master/FlippableStackView.gif" width="30%" /><br>
+
+项目名：EazeGraph<br>
+git地址：https://github.com/blackfizz/EazeGraph<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/f8ea374680a741f16e7c07f7465e86623ec7bd16/68747470733a2f2f7261772e6769746875622e636f6d2f626c61636b66697a7a2f45617a6547726170682f6d61737465722f696d61676572792f6261725f63686172742e706e67" width="30%" /><br>
 
 项目名：hellocharts-android<br>
 git地址：https://github.com/lecho/hellocharts-android<br>
@@ -715,6 +783,18 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
+
+项目名：ElasticDownload<br>
+git地址：https://github.com/Tibolte/ElasticDownload<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/fail.gif" width="60%" />
+
+项目名：CatLoadingView<br>
+git地址：https://github.com/Rogero0o/CatLoadingView<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/762015246e027b7d46df51faa51fd669e44f974b/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f61363935616364656a7731663268626d66787a6b3567323038753061326173732e676966" width="60%" />
+
+
 项目名：NumberProgressBar<br>
 git地址：https://github.com/daimajia/NumberProgressBar<br>
 预览:<br>
@@ -799,7 +879,46 @@ git地址：https://github.com/bumptech/glide<br>
 预览:<br>
 ![](https://github.com/bumptech/glide/raw/master/static/glide_logo.png) <br>
 
+
+
+
+
 ##菜单/Tab:<br>
+
+
+
+
+
+项目名：AndroidResideMenu<br>
+git地址：https://github.com/SpecialCyCi/AndroidResideMenu<br>
+预览:<br>
+<img src="https://github.com/SpecialCyCi/AndroidResideMenu/raw/master/2.gif" width="60%"/>
+
+项目名：FlowingDrawer<br>
+git地址：https://github.com/mxn21/FlowingDrawer<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/a7131784a75e6f07646108b8304b0a0d4efd306b/687474703a2f2f62616f62616f6c6f7665796f752e636f6d2f666c6f77696e676472617765722e676966" width="60%"/>
+
+项目名：ResideLayout<br>
+git地址：https://github.com/kyze8439690/ResideLayout<br>
+预览:<br>
+<img src="https://github.com/romaonthego/RESideMenu/raw/master/Screenshot.png" width="60%"/>
+
+项目名：FAB-Loading<br>
+git地址：https://github.com/SaeedMasoumi/FAB-Loading<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/smasoumi/FAB-Loading/master/images/marvel_loader.gif" width="50%"/>
+
+项目名：CircularFloatingActionMenu<br>
+git地址：https://github.com/oguzbilgener/CircularFloatingActionMenu<br>
+预览:<br>
+<img src="https://github.com/oguzbilgener/CircularFloatingActionMenu/raw/master/assets/circularfab.gif"/>
+
+项目名：Folder-ResideMenu<br>
+git地址：https://github.com/dkmeteor/Folder-ResideMenu<br>
+预览:<br>
+<img src="https://github.com/dkmeteor/Folder-ResideMenu/raw/master/Folder-residemenu.gif" width="60%"/>
+
 项目名：GuillotineMenu-Android<br>
 git地址：https://github.com/Yalantis/GuillotineMenu-Android<br>
 预览:<br>
@@ -849,6 +968,7 @@ git地址：https://github.com/wenmingvs/NotifyUtil<br>
 git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 预览:<br>
 ![](https://github.com/dkmeteor/Bubble-Notification/raw/master/gif/list_demo1.gif) <br>
+
 
 
 
