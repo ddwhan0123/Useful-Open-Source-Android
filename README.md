@@ -154,6 +154,10 @@ git地址：https://github.com/afollestad/drag-select-recyclerview<br>
 预览:<br>
 <img src="https://github.com/afollestad/drag-select-recyclerview/raw/master/art/showcase.gif" width="320x"> <br>
 
+项目名：recyclerviewhelper<br>
+git地址：https://github.com/nisrulz/recyclerviewhelper<br>
+预览:<br>
+无  滑动删除，拖拽,基于系统提供的再做二次封装<br>
 
 项目名：pull-to-make-soup<br>
 git地址：https://github.com/Yalantis/pull-to-make-soup<br>
