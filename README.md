@@ -268,6 +268,12 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
+项目名：BitmapMerger<br>
+git地址：https://github.com/cooltechworks/BitmapMerger<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/13122232/8438307/9f8d7c78-1f82-11e5-8d77-7fb9f31dfd6f.gif" width="30%" /><br>
+
 项目名：android-simple-tooltip<br>
 git地址：https://github.com/douglasjunior/android-simple-tooltip<br>
 预览:<br>
@@ -845,6 +851,13 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 
 
 
+
+
+项目名：stock-hawk-app<br>
+git地址：https://github.com/DmitryMalkovich/stock-hawk-app<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/2931932/15270441/95bb27c6-1a28-11e6-8534-fdb3d9c13b8d.png" width="30%" /><br>
+
 项目名：visual-goodies<br>
 git地址：https://github.com/alexive/visual-goodies<br>
 预览:<br>
@@ -949,21 +962,25 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+项目名：AndroidUnitTest<br>
+git地址：https://github.com/florent37/AndroidUnitTest<br>
+预览: 無<br>
+描述：測試工具<br>
 
 项目名：AndroidMultiChannelBuildTool<br>
 git地址：https://github.com/GavinCT/AndroidMultiChannelBuildTool<br>
 预览:<img src="https://github.com/googlesamples/android-UniversalMusicPlayer/raw/master/screenshots/phone.png" width="30%" /><br><br>
-无 <br>
+
 
 项目名：NextKeyboard<br>
 git地址：https://github.com/yoojia/NextKeyboard<br>
 解释：专用键盘：中国车牌号、6位数字密码<br>
-无 <br>
+
 
 项目名：Android-AdvancedWebView<br>
 git地址：https://github.com/delight-im/Android-AdvancedWebView<br>
 解释：Enhanced WebView component for Android that works as intended out of the box<br>
-无 <br>
+
 
 项目名：android-UniversalMusicPlayer<br>
 git地址：https://github.com/googlesamples/android-UniversalMusicPlayer<br>
@@ -974,8 +991,6 @@ git地址：https://github.com/googlesamples/android-UniversalMusicPlayer<br>
 git地址：https://github.com/badoo/android-weak-handler<br>
 预览:<br>
 ![](https://github.com/badoo/android-weak-handler/raw/master/WeakHandler.png) <br>
-
-
 
 项目名：AndroidVideoCacher<br>
 git地址：https://github.com/danikula/AndroidVideoCacher<br>
@@ -1037,7 +1052,17 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 解释：<br>
 合理优雅的进程保活方式<br>
 
+
+
+
+
+
 ##翻译,资料:<br>
+
+
+
+
+
 
 项目名：Gradle-Plugin-User-Guide-Chinese-Verision<br>
 git地址：https://github.com/AvatarQing/Gradle-Plugin-User-Guide-Chinese-Verision<br>
@@ -1121,4 +1146,19 @@ A list of useful Java frameworks, libraries, software and hello worlds examples<
 文章地址：https://github.com/jondot/awesome-react-native<br>
 解释：<br>
 An "awesome" type curated list of React Native components, news, tools, and learning material<br>
+
+
+
+
+
+
+##招聘:<br>
+
+招聘項目地址：https://github.com/Bilibili/join-us<br>
+公司：Bilibili<br>
+城市：上海<br>
+
+
+
+
 
