@@ -1,7 +1,7 @@
 # Useful-Open-Source-Android
 
 ##发起者：王亟亟<br>
-##blog：[王亟亟的](http://blog.csdn.net/ddwhan0123) <br>
+##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
 ###更新时间:2016-5-17
