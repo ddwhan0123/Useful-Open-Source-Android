@@ -1148,6 +1148,11 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+项目名：ECTranslation<br>
+git地址：https://github.com/Skykai521/ECTranslation<br>
+预览: <img src="https://github.com/Skykai521/ECTranslation/raw/master/img/translation_img.png" width="30%" /><br>
+描述：AS 翻译<br>
+
 项目名：easydeviceinfo<br>
 git地址：https://github.com/nisrulz/easydeviceinfo<br>
 预览: 無<br>
