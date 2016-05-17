@@ -1,8 +1,9 @@
 # Useful-Open-Source-Android
 
 ##发起者：[王亟亟](http://blog.csdn.net/ddwhan0123) <br>
+##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-5-13
+###更新时间:2016-5-17
 
 ##多媒体 相关：<br>
 
@@ -248,6 +249,12 @@ git地址：https://github.com/Aspsine/IRecyclerView<br>
 
 
 
+
+项目名：paper-onboarding-android<br>
+git地址：https://github.com/Ramotion/paper-onboarding-android<br>
+预览:<br>
+<img src="https://github.com/Ramotion/paper-onboarding-android/raw/master/onboarding_preview.gif" width="30%" /><br>
+
 项目名：WoWoViewPager<br>
 git地址：https://github.com/Nightonke/WoWoViewPager<br>
 预览:<br>
@@ -315,6 +322,31 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+项目名：VideoPlayerManager<br>
+git地址：https://github.com/danylovolokh/VideoPlayerManager<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/2686355/12434458/6f677ae4-bf0f-11e5-8fa9-b3d3b8a30165.gif" width="30%"/><br>
+
+项目名：ScratchView<br>
+git地址：https://github.com/cooltechworks/ScratchView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/cooltechworks/ScratchView/master/screenshots/scratch_text_view_demo.gif" width="30%"/><br>
+
+项目名： android-phone-field<br>
+git地址：https://github.com/lamudi-gmbh/android-phone-field<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/lamudi-gmbh/android-phone-field/master/raw/phone-field.gif" width="30%"/><br>
+
+项目名： MatchView<br>
+git地址：https://github.com/Rogero0o/MatchView<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/a71e9d26a7f90ea70270b3681d99785a29f83be5/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f6136393561636465677731656d79746e6b347334356732306567306d6b3439302e676966" width="30%"/><br>
+
+
+项目名： GifLoadingView<br>
+git地址：https://github.com/Rogero0o/GifLoadingView<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/5d60273b50200d40dd0fb3d6e7e2f2283651630d/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f61363935616364656777316633646579737274346767323034733034783137722e676966" /><br>
 
 项目名： SwipeBack<br>
 git地址：https://github.com/liuguangqiang/SwipeBack<br>
@@ -799,6 +831,10 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
+项目名：materialish-progress<br>
+git地址：https://github.com/pnikosis/materialish-progress<br>
+预览:<br>
+<img src="https://github.com/pnikosis/materialish-progress/raw/master/spinningwheel.gif" />
 
 项目名：ElasticDownload<br>
 git地址：https://github.com/Tibolte/ElasticDownload<br>
