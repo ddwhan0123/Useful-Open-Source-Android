@@ -328,6 +328,13 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
+项目名：CustomizeKeyboard<br>
+git地址：https://github.com/ziyeyouhu/CustomizeKeyboard<br>
+描述：安全全键盘<br>
+预览:<br>
+<img src="https://github.com/ziyeyouhu/CustomizeKeyboard/raw/master/images/aaa.gif" width="30%"/><br>
+
 项目名：VideoPlayerManager<br>
 git地址：https://github.com/danylovolokh/VideoPlayerManager<br>
 预览:<br>
