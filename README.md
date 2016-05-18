@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-5-17
+###更新时间:2016-5-18
 
 ##多媒体 相关：<br>
 
@@ -150,6 +150,16 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+
+项目名：base-adapter-helper<br>
+git地址：https://github.com/JoanZapata/base-adapter-helper<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/94372fad90c2de4c6612d0e396440ebf15298abc/68747470733a2f2f7261772e6769746875622e636f6d2f4a6f616e5a61706174612f626173652d616461707465722d68656c7065722f6d61737465722f6865616465722e706e67" width="320x"> <br>
+
+项目名：BaseRecyclerViewAdapterHelper<br>
+git地址：https://github.com/CymChad/BaseRecyclerViewAdapterHelper<br>
+预览:<br>
+<img src="https://github.com/CymChad/BaseRecyclerViewAdapterHelper/raw/master/demo_res/demo.gif" width="320x"> <br>
 
 项目名：gesture-recycler<br>
 git地址：https://github.com/thesurix/gesture-recycler<br>
@@ -328,6 +338,11 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
+项目名：swipe-action-layout<br>
+git地址：https://github.com/prolificinteractive/swipe-action-layout<br>
+预览:<br>
+<img src="https://github.com/prolificinteractive/swipe-action-layout/raw/master/images/demo1.gif" width="30%"/><br>
 
 项目名：CustomizeKeyboard<br>
 git地址：https://github.com/ziyeyouhu/CustomizeKeyboard<br>
