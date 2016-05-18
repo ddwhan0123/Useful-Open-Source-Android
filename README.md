@@ -276,10 +276,6 @@ git地址：https://github.com/Nightonke/WoWoViewPager<br>
 预览:<br>
 <img src="https://github.com/Nightonke/WoWoViewPager/raw/master/Pictures/AppIntroExample.gif"/><br>
 
-项目名：Pixelate<br>
-git地址：https://github.com/DanielMartinus/Pixelate<br>
-预览:<br>
-<img src="https://github.com/DanielMartinus/Pixelate/raw/master/images/pixelate_illustration.png"/><br>
 
 项目名：SCViewPager<br>
 git地址：https://github.com/sacot41/SCViewPager<br>
@@ -338,6 +334,11 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
+项目名：Pixelate<br>
+git地址：https://github.com/DanielMartinus/Pixelate<br>
+预览:<br>
+<img src="https://github.com/DanielMartinus/Pixelate/raw/master/images/pixelate_illustration.png"/><br>
 
 项目名：swipe-action-layout<br>
 git地址：https://github.com/prolificinteractive/swipe-action-layout<br>
