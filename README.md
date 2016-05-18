@@ -251,6 +251,11 @@ git地址：https://github.com/Aspsine/IRecyclerView<br>
 
 
 
+项目名：DevLight-Mobile-Agency/NavigationTabStrip<br>
+git地址：https://github.com/DevLight-Mobile-Agency/NavigationTabStrip<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/c22e87f0a7ea79e33497daba67d68d8bf178846d/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d7770476e786531566566632f567a6969796761533957492f41414141414141414364342f633466555f45472d44486b6f62793153496249354244747149547047695a5a6877434c30422f773332362d683535312d6e6f2f6e74732e676966" width="30%" /><br>
+
 项目名：paper-onboarding-android<br>
 git地址：https://github.com/Ramotion/paper-onboarding-android<br>
 预览:<br>
@@ -1044,6 +1049,11 @@ git地址：https://github.com/DmitryMalkovich/stock-hawk-app<br>
 预览:<br>
 <img src="https://cloud.githubusercontent.com/assets/2931932/15270441/95bb27c6-1a28-11e6-8534-fdb3d9c13b8d.png" width="30%" /><br>
 
+项目名 :Douya<br>
+git地址：https://github.com/DreaminginCodeZH/Douya<br>
+预览:<br>
+<img src="https://github.com/DreaminginCodeZH/Douya/raw/master/screenshot/00-main.png" width="30%" /><br>
+
 项目名：visual-goodies<br>
 git地址：https://github.com/alexive/visual-goodies<br>
 预览:<br>
@@ -1142,7 +1152,9 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+
 ##疑难杂症:<br>
+
 
 
 
@@ -1189,6 +1201,12 @@ git地址：https://github.com/googlesamples/android-UniversalMusicPlayer<br>
 git地址：https://github.com/badoo/android-weak-handler<br>
 预览:<br>
 ![](https://github.com/badoo/android-weak-handler/raw/master/WeakHandler.png) <br>
+
+项目名：android-material-design-icon-generator-plugin<br>
+git地址：https://github.com/konifar/android-material-design-icon-generator-plugin<br>
+预览:<br>
+![](https://raw.githubusercontent.com/konifar/android-material-design-icon-generator-plugin/master/docs/capture.gif) <br>
+
 
 项目名：AndroidVideoCacher<br>
 git地址：https://github.com/danikula/AndroidVideoCacher<br>
@@ -1261,6 +1279,10 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+项目名：AndroidArchitectureCollection<br>
+git地址：https://github.com/CameloeAnthony/AndroidArchitectureCollection<br>
+解释：<br>
+安卓架构文章合集（a collection of android Architecture）<br>
 
 项目名：Gradle-Plugin-User-Guide-Chinese-Verision<br>
 git地址：https://github.com/AvatarQing/Gradle-Plugin-User-Guide-Chinese-Verision<br>
