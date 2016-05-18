@@ -104,6 +104,10 @@ git地址：https://github.com/jeasonlzy0216/ImagePicker<br>
 
 
 
+项目名：CalendarListview<br>
+git地址：https://github.com/traex/CalendarListview<br>
+预览:<br>
+<img src="https://github.com/traex/CalendarListview/raw/master/demo.gif" width="30%" /><br>
 
 项目名：PullToZoomInListView<br>
 git地址：https://github.com/matrixxun/PullToZoomInListView<br>
@@ -334,6 +338,30 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+项目名：SwipeBackHelper<br>
+git地址：https://github.com/Jude95/SwipeBackHelper<br>
+预览:<br>
+<img src="https://github.com/Jude95/SwipeBackHelper/raw/master/swipeback.gif" width="30%"/><br>
+
+项目名：circle-menu<br>
+git地址：https://github.com/Ramotion/circle-menu<br>
+预览:<br>
+<img src="https://github.com/Ramotion/circle-menu/raw/master/preview.gif" width="30%"/><br>
+
+项目名：MoveKeyboard<br>
+git地址：https://github.com/09xuanjian/MoveKeyboard<br>
+解释:<br>
+android 自定义键盘，在页面嵌入的<br>
+
+项目名：LowPolyAndroid<br>
+git地址：https://github.com/zzhoujay/LowPolyAndroid<br>
+预览:<br>
+<img src="https://github.com/zzhoujay/LowPolyAndroid/raw/master/image/img.png" width="30%"/><br>
+
+项目名：ScrollerCalendar<br>
+git地址：https://github.com/guanchao/ScrollerCalendar<br>
+预览:<br>
+<img src="https://github.com/guanchao/ScrollerCalendar/raw/master/images/sample1.gif" width="30%"/><br>
 
 项目名：Pixelate<br>
 git地址：https://github.com/DanielMartinus/Pixelate<br>
@@ -854,7 +882,9 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
+
 ##Progress 相关:<br>
+
 
 
 
@@ -910,7 +940,9 @@ git地址：https://github.com/lsjwzh/MaterialLoadingProgressBar<br>
 
 
 
+
 ##二维码 相关:<br>
+
 
 
 
@@ -924,7 +956,9 @@ git地址：https://github.com/bingoogolapple/BGAQRCode-Android<br>
 
 
 
+
 ##网络 相关:<br>
+
 
 
 
@@ -959,6 +993,7 @@ git地址：https://github.com/Aspsine/MultiThreadDownload<br>
 git地址：https://github.com/bumptech/glide<br>
 预览:<br>
 ![](https://github.com/bumptech/glide/raw/master/static/glide_logo.png) <br>
+
 
 
 
@@ -1034,7 +1069,9 @@ git地址：https://github.com/H07000223/FlycoTabLayout<br>
 
 
 
+
 ##通知:<br>
+
 
 
 
@@ -1301,6 +1338,20 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+项目名：awesome-android-libraries<br>
+git地址：https://github.com/wasabeef/awesome-android-libraries<br>
+解释：<br>
+This is an alphabetical list of libraries for Android development, the majority being actively maintained.<br>
+
+项目名：git-recipes<br>
+git地址：https://github.com/geeeeeeeeek/git-recipes<br>
+解释：<br>
+高质量的Git中文教程，来自国外社区的优秀文章和个人实践<br>
+
+项目名：understand-plugin-framework<br>
+git地址：https://github.com/tiann/understand-plugin-framework<br>
+解释：<br>
+demos to help understand plugin framwrok<br>
 
 项目名：AndroidArchitectureCollection<br>
 git地址：https://github.com/CameloeAnthony/AndroidArchitectureCollection<br>
