@@ -160,6 +160,11 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+项目名：StickyHeaders<br>
+git地址：https://github.com/ShamylZakariya/StickyHeaders<br>
+预览:<br>
+<img src="https://github.com/ShamylZakariya/StickyHeaders/raw/master/readme-assets/video-addressbook.gif" width="320x"> <br>
+
 项目名：base-adapter-helper<br>
 git地址：https://github.com/JoanZapata/base-adapter-helper<br>
 预览:<br>
@@ -345,6 +350,15 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+项目名：icarus-android<br>
+git地址：https://github.com/mr5/icarus-android<br>
+预览:<br>
+<img src="https://github.com/mr5/icarus-android/raw/master/demo.gif"/><br>
+
+项目名：ShortcutBadger<br>
+git地址：https://github.com/leolin310148/ShortcutBadger<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/9a299defba7047600b7511efcc068d77553302e4/68747470733a2f2f7261772e6769746875622e636f6d2f6c656f6c696e3331303134382f53686f72746375744261646765722f6d61737465722f73637265656e73686f74732f73735f6c672e706e67"/><br>
 
 项目名：ExpandableLayout<br>
 git地址：https://github.com/AAkira/ExpandableLayout<br>
@@ -1355,6 +1369,11 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+项目名：TimLiu-Android<br>
+git地址：https://github.com/Tim9Liu9/TimLiu-Android<br>
+解释：<br>
+Android开源项目及库<br>
 
 项目名：androidstudio-plugins<br>
 git地址：https://github.com/dreamlivemeng/androidstudio-plugins<br>
