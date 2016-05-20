@@ -270,6 +270,7 @@ git地址：https://github.com/Aspsine/IRecyclerView<br>
 
 
 
+
 项目名：DevLight-Mobile-Agency/NavigationTabStrip<br>
 git地址：https://github.com/DevLight-Mobile-Agency/NavigationTabStrip<br>
 预览:<br>
@@ -343,6 +344,12 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
+
+项目名：ExpandableLayout<br>
+git地址：https://github.com/AAkira/ExpandableLayout<br>
+预览:<br>
+<img src="https://github.com/AAkira/ExpandableLayout/raw/master/art/ExampleRecyclerview_v1.1.gif" width="30%"/><br>
 
 项目名：FabDialogMorph<br>
 git地址：https://github.com/hujiaweibujidao/FabDialogMorph<br>
