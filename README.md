@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-5-18
+###更新时间:2016-5-20
 
 ##多媒体 相关：<br>
 
@@ -12,6 +12,11 @@
 git地址：https://github.com/afollestad/easy-video-player<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/afollestad/easy-video-player/master/art/showcase1.png" width="30%" />
+
+项目名：SuperVideoPlayer<br>
+git地址：https://github.com/curtis2/SuperVideoPlayer<br>
+预览:<br>
+<img src="https://github.com/curtis2/SuperVideoPlayer/raw/0aaf3ce2b6fc817d50ffdbe79a75ef6701c0b96b/source/start.gif" width="30%" />
 
 
 
@@ -337,6 +342,17 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
+
+项目名：FabDialogMorph<br>
+git地址：https://github.com/hujiaweibujidao/FabDialogMorph<br>
+预览:<br>
+<img src="https://github.com/hujiaweibujidao/FabDialogMorph/raw/master/fabdialog.gif" width="30%"/><br>
+
+项目名：preview-transition<br>
+git地址：https://github.com/Ramotion/preview-transition<br>
+预览:<br>
+<img src="https://github.com/Ramotion/preview-transition/raw/master/preview.gif" width="30%"/><br>
 
 项目名：SwipeBackHelper<br>
 git地址：https://github.com/Jude95/SwipeBackHelper<br>
@@ -1332,6 +1348,11 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+项目名：androidstudio-plugins<br>
+git地址：https://github.com/dreamlivemeng/androidstudio-plugins<br>
+解释：<br>
+AndroidStudio 优秀插件汇总<br>
 
 项目名：awesome-android-libraries<br>
 git地址：https://github.com/wasabeef/awesome-android-libraries<br>
