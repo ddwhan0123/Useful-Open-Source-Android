@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-5-20
+###更新时间:2016-5-23
 
 ##多媒体 相关：<br>
 
@@ -169,6 +169,11 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+
+项目名：StickyHeaders<br>
+git地址：https://github.com/ShamylZakariya/StickyHeaders<br>
+预览:<br>
+<img src="https://github.com/ShamylZakariya/StickyHeaders/raw/master/readme-assets/video-addressbook.gif" width="320x"> <br>
 
 项目名：StickyHeaders<br>
 git地址：https://github.com/ShamylZakariya/StickyHeaders<br>
@@ -370,6 +375,16 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
+项目名：Android-Rate<br>
+git地址：https://github.com/hotchemi/Android-Rate<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/8e6f04b5f3471f2663698b50f95e00832f9d7838/687474703a2f2f692e6779617a6f2e636f6d2f32383633343262613231356135313566326634343361376365393936636339322e676966" width="30%"/><br>
+
+项目名：BlurDialogFragment<br>
+git地址：https://github.com/tvbarthel/BlurDialogFragment<br>
+预览:<br>
+<img src="https://github.com/tvbarthel/BlurDialogFragment/raw/master/static/full_screen_blur.png" width="30%"/><br>
 
 项目名：icarus-android<br>
 git地址：https://github.com/mr5/icarus-android<br>
@@ -943,6 +958,11 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
+项目名：uberprogressview<br>
+git地址：https://github.com/ishan1604/uberprogressview<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/ishan1604/uberprogressview/master/UberProgressViewDemo.gif" width="60%" />
+
 项目名：materialish-progress<br>
 git地址：https://github.com/pnikosis/materialish-progress<br>
 预览:<br>
@@ -1158,6 +1178,10 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 
 
 
+项目名：HeartBeat<br>
+git地址: https://github.com/maxiee/HeartBeat<br>
+预览:<br>
+<img src="https://github.com/maxiee/HeartBeat/raw/master/screenshot.png" width="30%" /><br>
 
 项目名：awesome-android-ui<br>
 git地址：https://github.com/wasabeef/awesome-android-ui<br>
@@ -1279,6 +1303,25 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+项目名：android-postfix-plugin<br>
+git地址：https://github.com/takahirom/android-postfix-plugin<br>
+预览: <img src="https://cloud.githubusercontent.com/assets/1386930/10118005/8d45e898-64a6-11e5-8c32-8f38b0105177.gif" width="30%" /><br>
+描述：Android postfix plugin for AndroidStudio<br>
+
+项目名：MarsDaemon<br>
+git地址：https://github.com/Marswin/MarsDaemon<br>
+预览: 无<br>
+描述：可以实现在Android上实现进程常驻<br>
+
+项目名：FindViewByMe<br>
+git地址：https://github.com/laobie/FindViewByMe<br>
+预览: <img src="http://ac-qygvx1cc.clouddn.com/fa8259e43ce35445.png" width="30%" /><br>
+描述：FindViewByMe是一个自动生成FindViewById代码的IDEA/Android Studio插件<br>
+
+项目名：PermissionEverywhere<br>
+git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
+预览: <img src="hhttps://github.com/kaknazaveshtakipishi/PermissionEverywhere/raw/master/art/screenshot.png" width="30%" /><br>
+描述：Library for requesting a permission from Service using Notification<br>
 
 项目名：ECTranslation<br>
 git地址：https://github.com/Skykai521/ECTranslation<br>
