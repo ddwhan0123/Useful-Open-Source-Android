@@ -25,6 +25,12 @@ git地址：https://github.com/curtis2/SuperVideoPlayer<br>
 
 
 
+
+项目名：BottomNavigation<br>
+git地址：https://github.com/Ashok-Varma/BottomNavigation<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/Ashok-Varma/BottomNavigation/master/all.gif" width="30%" />
+
 项目名：FragNav<br>
 git地址：https://github.com/ncapdevi/FragNav<br>
 预览:<br>
@@ -154,7 +160,11 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+
+
 ##RecyclerView 相关:<br>
+
+
 
 
 
@@ -269,12 +279,20 @@ git地址：https://github.com/Aspsine/IRecyclerView<br>
 
 
 
+
+
 ##ViewPager 相关:<br>
 
 
 
 
 
+
+
+项目名：FlycoBanner_Master<br>
+git地址：https://github.com/H07000223/FlycoBanner_Master<br>
+预览:<br>
+<img src="https://github.com/H07000223/FlycoBanner_Master/raw/master/preview_FlycoBanner.gif" width="30%" /><br>
 
 项目名：DevLight-Mobile-Agency/NavigationTabStrip<br>
 git地址：https://github.com/DevLight-Mobile-Agency/NavigationTabStrip<br>
@@ -345,6 +363,9 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 ##自定义控件/动画:<br>
+
+
+
 
 
 
@@ -1036,6 +1057,13 @@ git地址：https://github.com/bumptech/glide<br>
 
 
 
+
+
+
+项目名：SwipeBackLayout<br>
+git地址：https://github.com/ikew0ng/SwipeBackLayout<br>
+预览:<br>
+<img src="https://github.com/Issacw0ng/SwipeBackLayout/raw/master/art/screenshot.png?raw=true" width="30%"/>
 
 项目名：AndroidResideMenu<br>
 git地址：https://github.com/SpecialCyCi/AndroidResideMenu<br>
