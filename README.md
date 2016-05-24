@@ -439,7 +439,7 @@ android 自定义键盘，在页面嵌入的<br>
 项目名：RichEditText<br>
 git地址：https://github.com/KDF5000/RichEditText<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/KDF5000/RichEditText/master/screenshot/3.jpg"/><br>
+<img src="https://raw.githubusercontent.com/KDF5000/RichEditText/master/screenshot/3.jpg" width="30%" /><br>
 
 项目名：icarus-android<br>
 git地址：https://github.com/mr5/icarus-android<br>
