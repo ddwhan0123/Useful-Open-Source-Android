@@ -6,7 +6,25 @@
 
 ###更新时间:2016-5-23
 
+
+
+
+
 ##多媒体 相关：<br>
+
+
+
+
+
+项目名：mintube<br>
+git地址：https://github.com/imshyam/mintube<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/imshyam/mintube/master/screens/diff.png" width="30%" />
+
+项目名：MagicalCamera<br>
+git地址：https://github.com/fabian7593/MagicalCamera<br>
+预览:<br>
+<img src="https://github.com/fabian7593/MagicalCamera/raw/master/magicalcamera.gif" width="30%" />
 
 项目名：easy-video-player<br>
 git地址：https://github.com/afollestad/easy-video-player<br>
@@ -20,7 +38,12 @@ git地址：https://github.com/curtis2/SuperVideoPlayer<br>
 
 
 
+
+
 ##Bottom Navigation 相关:<br>
+
+
+
 
 
 
@@ -65,7 +88,11 @@ git地址：https://github.com/aurelhubert/ahbottomnavigation<br>
 
 
 
+
+
 ##图片选择器/编辑器 相关:<br>
+
+
 
 
 
@@ -109,7 +136,12 @@ git地址：https://github.com/jeasonlzy0216/ImagePicker<br>
 
 
 
+
+
 ##ListView 相关:<br>
+
+
+
 
 
 
@@ -162,7 +194,9 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+
 ##RecyclerView 相关:<br>
+
 
 
 
@@ -286,6 +320,7 @@ git地址：https://github.com/Aspsine/IRecyclerView<br>
 
 
 
+
 ##ViewPager 相关:<br>
 
 
@@ -293,6 +328,13 @@ git地址：https://github.com/Aspsine/IRecyclerView<br>
 
 
 
+
+
+
+项目名：welcome-android<br>
+git地址：https://github.com/stephentuso/welcome-android<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/stephentuso/welcome-android/master/media/sample-video.gif" width="30%" /><br>
 
 项目名：FlycoBanner_Master<br>
 git地址：https://github.com/H07000223/FlycoBanner_Master<br>
@@ -367,6 +409,8 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
+
 ##自定义控件/动画:<br>
 
 
@@ -374,7 +418,20 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+项目名：FaceOffToggleButton<br>
+git地址：https://github.com/Nightonke/FaceOffToggleButton<br>
+预览:<br>
+<img src="https://github.com/Nightonke/FaceOffToggleButton/raw/master/img/Animation.gif?raw=true"/><br>
 
+项目名：StatusBarAdapt<br>
+git地址：https://github.com/CoolThink/StatusBarAdapt<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/7fb2b98eb1e55a1f8bf4fabe8a517a21c7ec3796/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531313233313734353538393637" width="30%"/><br>
+
+项目名：BreadcrumbLayout<br>
+git地址：https://github.com/ayvazj/BreadcrumbLayout<br>
+预览:<br>
+<img src="https://github.com/ayvazj/BreadcrumbLayout/raw/master/docs/breadcrumb.gif" width="30%"/><br>
 
 项目名：Android-Rate<br>
 git地址：https://github.com/hotchemi/Android-Rate<br>
@@ -1297,11 +1354,30 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+
 ##疑难杂症:<br>
 
 
 
 
+
+
+
+项目名：MaterialDesignColor<br>
+git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
+预览: <img src="https://camo.githubusercontent.com/2826fe84e44434a841a2b917f64ef1efb8ce1156/687474703a2f2f6769742e6f736368696e612e6e65742f75706c6f6164732f696d616765732f323031352f303631322f3135303433395f35646539653331375f3134313030392e706e67" width="30%" /><br>
+描述：谷歌官方的Material Design颜色值<br>
+
+项目名：MultiChannelPackageTool<br>
+git地址：https://github.com/seven456/MultiChannelPackageTool<br>
+预览: 无<br>
+描述：Android Multi channel package tool （安卓多渠道打包工具）<br>
+
+
+项目名：Hodor<br>
+git地址：https://github.com/Aufree/Hodor<br>
+预览: <img src="https://camo.githubusercontent.com/53cb119b43f24dc8820abcae5dee087a25a4c870/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f373664633766316267773165796b397578747239326a32316a6b30656d6163652e6a7067" width="30%" /><br>
+描述：Hodor 是一套可让你的应用快速支持本地化的解决方案, 允许你在应用内直接更改应用语言而无需退出应用, 类似微信.<br>
 
 项目名：android-postfix-plugin<br>
 git地址：https://github.com/takahirom/android-postfix-plugin<br>
@@ -1436,7 +1512,12 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
 ##翻译,资料:<br>
+
+
+
+
 
 
 
