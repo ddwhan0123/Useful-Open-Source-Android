@@ -409,9 +409,52 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+##输入内容相关：<br>
+
+
+
+
+
+
+项目名：EasyForm<br>
+git地址：https://github.com/emmasuzuki/EasyForm<br>
+预览:<br>
+![](https://raw.githubusercontent.com/emmasuzuki/EasyForm/master/demo1.gif) <br>
+
+项目名： android-phone-field<br>
+git地址：https://github.com/lamudi-gmbh/android-phone-field<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/lamudi-gmbh/android-phone-field/master/raw/phone-field.gif" width="30%"/><br>
+
+项目名：TagsEditText<br>
+git地址：https://github.com/mabbas007/TagsEditText<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/3a26ca3308d07d4040d9b6bea3dd65b0cc605516/687474703a2f2f692e696d6775722e636f6d2f5a4a596c734e4c2e706e673f33" width="30%" /><br>
+
+项目名：MoveKeyboard<br>
+git地址：https://github.com/09xuanjian/MoveKeyboard<br>
+解释:<br>
+android 自定义键盘，在页面嵌入的<br>
+
+项目名：RichEditText<br>
+git地址：https://github.com/KDF5000/RichEditText<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/KDF5000/RichEditText/master/screenshot/3.jpg"/><br>
+
+项目名：icarus-android<br>
+git地址：https://github.com/mr5/icarus-android<br>
+预览:<br>
+<img src="https://github.com/mr5/icarus-android/raw/master/demo.gif"/><br>
+
+
+
+
+
+
 
 
 ##自定义控件/动画:<br>
+
 
 
 
@@ -443,10 +486,6 @@ git地址：https://github.com/tvbarthel/BlurDialogFragment<br>
 预览:<br>
 <img src="https://github.com/tvbarthel/BlurDialogFragment/raw/master/static/full_screen_blur.png" width="30%"/><br>
 
-项目名：icarus-android<br>
-git地址：https://github.com/mr5/icarus-android<br>
-预览:<br>
-<img src="https://github.com/mr5/icarus-android/raw/master/demo.gif"/><br>
 
 项目名：ShortcutBadger<br>
 git地址：https://github.com/leolin310148/ShortcutBadger<br>
@@ -478,10 +517,6 @@ git地址：https://github.com/Ramotion/circle-menu<br>
 预览:<br>
 <img src="https://github.com/Ramotion/circle-menu/raw/master/preview.gif" width="30%"/><br>
 
-项目名：MoveKeyboard<br>
-git地址：https://github.com/09xuanjian/MoveKeyboard<br>
-解释:<br>
-android 自定义键盘，在页面嵌入的<br>
 
 项目名：LowPolyAndroid<br>
 git地址：https://github.com/zzhoujay/LowPolyAndroid<br>
@@ -514,10 +549,6 @@ git地址：https://github.com/cooltechworks/ScratchView<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/cooltechworks/ScratchView/master/screenshots/scratch_text_view_demo.gif" width="30%"/><br>
 
-项目名： android-phone-field<br>
-git地址：https://github.com/lamudi-gmbh/android-phone-field<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/lamudi-gmbh/android-phone-field/master/raw/phone-field.gif" width="30%"/><br>
 
 项目名： MatchView<br>
 git地址：https://github.com/Rogero0o/MatchView<br>
@@ -565,10 +596,6 @@ git地址：https://github.com/square/android-times-square<br>
 预览:<br>
 <img src="https://github.com/square/android-times-square/raw/master/timesSquareScreenshot.png" width="30%" /><br>
 
-项目名：TagsEditText<br>
-git地址：https://github.com/mabbas007/TagsEditText<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/3a26ca3308d07d4040d9b6bea3dd65b0cc605516/687474703a2f2f692e696d6775722e636f6d2f5a4a596c734e4c2e706e673f33" width="30%" /><br>
 
 项目名：BitmapMerger<br>
 git地址：https://github.com/cooltechworks/BitmapMerger<br>
@@ -801,10 +828,7 @@ git地址：https://github.com/borjabravo10/ReadMoreTextView<br>
 预览:<br>
 ![](https://github.com/borjabravo10/ReadMoreTextView/raw/master/screenshots/collapsed.png) <br>
 
-项目名：EasyForm<br>
-git地址：https://github.com/emmasuzuki/EasyForm<br>
-预览:<br>
-![](https://raw.githubusercontent.com/emmasuzuki/EasyForm/master/demo1.gif) <br>
+
 
 项目名：largeimageview<br>
 git地址：https://github.com/cshzhang/largeimageview<br>
