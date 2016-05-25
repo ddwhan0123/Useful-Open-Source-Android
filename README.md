@@ -429,7 +429,7 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
-项目名： https://github.com/lisawray/passwordview<br>
+项目名： passwordview<br>
 git地址：https://github.com/lisawray/passwordview<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/lisawray/passwordview/master/2016-3-15.png" width="30%"/><br>
