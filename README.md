@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-5-25
+###更新时间:2016-5-26
 
 
 
@@ -429,6 +429,8 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
+
 项目名： passwordview<br>
 git地址：https://github.com/lisawray/passwordview<br>
 预览:<br>
@@ -482,6 +484,22 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+项目名：Android-SpinKit<br>
+git地址：https://github.com/ybq/Android-SpinKit<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/screen2.gif" width="30%"/><br>
+
+项目名：advancedtextview<br>
+git地址：https://github.com/oktayayr/advancedtextview<br>
+预览:<br>
+<img src="https://github.com/oktayayr/advancedtextview/raw/master/arts/justifytext_ss.png" width="30%"/><br>
+
+项目名：CardAnimation<br>
+git地址：https://github.com/seedante/CardAnimation<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/6036f276ae5018ae37a71fd16575fee8dbf449de/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f33323339392f73637265656e73686f74732f313236353438372f6174746163686d656e74732f3137333534352f7365637265742d70726f6a6563742d616e696d6174696f6e5f32782e676966" width="30%"/><br>
 
 项目名：GoodView<br>
 git地址：https://github.com/venshine/GoodView<br>
@@ -1275,6 +1293,7 @@ git地址：https://github.com/H07000223/FlycoTabLayout<br>
 
 
 
+
 项目名：NotifyUtil<br>
 git地址：https://github.com/wenmingvs/NotifyUtil<br>
 预览:<br>
@@ -1290,6 +1309,7 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 
 
 ##公开项目案例:<br>
+
 
 
 
@@ -1416,6 +1436,7 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+
 ##疑难杂症:<br>
 
 
@@ -1426,10 +1447,24 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+项目名：EaseInterpolator<br>
+git地址：https://github.com/cimi-chen/EaseInterpolator<br>
+预览:<br>
+无<br>
+描述：自定义动画插值器<br>
+
+项目名：InterpolatorShow<br>
+git地址：https://github.com/008chen/InterpolatorShow<br>
+预览:<br>
+<img src="https://github.com/008chen/InterpolatorShow/raw/master/screenshot/sample.gif" width="30%"/><br>
+描述：动画插值器演示<br>
+
+
 项目名：MaterialDesignColor<br>
 git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 预览: <img src="https://camo.githubusercontent.com/2826fe84e44434a841a2b917f64ef1efb8ce1156/687474703a2f2f6769742e6f736368696e612e6e65742f75706c6f6164732f696d616765732f323031352f303631322f3135303433395f35646539653331375f3134313030392e706e67" width="30%" /><br>
 描述：谷歌官方的Material Design颜色值<br>
+
 
 项目名：MultiChannelPackageTool<br>
 git地址：https://github.com/seven456/MultiChannelPackageTool<br>
@@ -1583,6 +1618,10 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+项目名：Coder-Knowledge-Graph<br>
+git地址：https://github.com/wxyyxc1992/Coder-Knowledge-Graph<br>
+解释：<br>
+Knowledge Graph For Coder<br>
 
 项目名：InterviewQuestion<br>
 git地址：https://github.com/leerduo/InterviewQuestion<br>
