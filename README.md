@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-5-26
+###更新时间:2016-5-27
 
 
 
@@ -211,6 +211,12 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+项目名：recyclerview-animators<br>
+git地址：https://github.com/wasabeef/recyclerview-animators<br>
+预览:<br>
+<img src="https://github.com/wasabeef/recyclerview-animators/raw/master/art/demo.gif" width="320x"> <br>
+
+
 项目名：expandable-recycler-view<br>
 git地址：https://github.com/bignerdranch/expandable-recycler-view<br>
 预览:<br>
@@ -326,6 +332,7 @@ git地址：https://github.com/EverythingMe/overscroll-decor<br>
 git地址：https://github.com/Aspsine/IRecyclerView<br>
 预览:<br>
 ![](https://github.com/Aspsine/IRecyclerView/raw/master/art/bat_vs_supper_header.gif) <br>
+
 
 
 
@@ -485,6 +492,17 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+项目名：WilliamChart<br>
+git地址：https://github.com/diogobernardino/WilliamChart<br>
+预览:<br>
+<img src="https://github.com/diogobernardino/WilliamChart/raw/master/art/demo2.gif" width="30%"/><br>
+
+项目名：MaterialList<br>
+git地址：https://github.com/dexafree/MaterialList<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/dbd35b767b0c4c6e356bf83c217a6179b08bacd9/687474703a2f2f692e696d6775722e636f6d2f79573775424e792e706e67" width="30%"/><br>
 
 项目名：Android-SpinKit<br>
 git地址：https://github.com/ybq/Android-SpinKit<br>
