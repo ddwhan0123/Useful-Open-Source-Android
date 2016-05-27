@@ -1338,6 +1338,11 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 
 
 
+项目名：WeiBo<br>
+git地址: https://github.com/wenmingvs/WeiBo<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/987307f97d48e35bf4098f62d93790ff88ec475d/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3639316363313531677731663373307179366473616732303979306873316c332e676966" width="30%" /><br>
+
 项目名：HeartBeat<br>
 git地址: https://github.com/maxiee/HeartBeat<br>
 预览:<br>
