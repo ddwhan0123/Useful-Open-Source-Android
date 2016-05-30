@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-5-27
+###更新时间:2016-5-30
 
 
 
@@ -210,6 +210,23 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+
+
+项目名：ARVExpandableGridLayout<br>
+git地址：https://github.com/h6ah4i/ARVExpandableGridLayout<br>
+预览:<br>
+<img src="https://github.com/h6ah4i/ARVExpandableGridLayout/raw/master/pic/screenshot.png?raw=true" width="30%"/><br>
+
+项目名：MaterialTransitions<br>
+git地址：https://github.com/toddway/MaterialTransitions<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/toddway/MaterialTransitions/master/img/activity-transitions.gif" width="30%"/><br>
+
+项目名：Searchable-RecyclerView-Demo<br>
+git地址：https://github.com/Wrdlbrnft/Searchable-RecyclerView-Demo<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/da0e732c8554f89f52184266564a42ef9c691d58/687474703a2f2f692e737461636b2e696d6775722e636f6d2f68747a30592e676966" width="320x"> <br>
+
 项目名：UltimateRecyclerView<br>
 git地址：https://github.com/cymcsg/UltimateRecyclerView<br>
 预览:<br>
@@ -344,6 +361,7 @@ git地址：https://github.com/Aspsine/IRecyclerView<br>
 
 
 
+
 ##ViewPager 相关:<br>
 
 
@@ -353,6 +371,12 @@ git地址：https://github.com/Aspsine/IRecyclerView<br>
 
 
 
+
+
+项目名：TransitionPlayer<br>
+git地址：https://github.com/linfaxin/TransitionPlayer<br>
+预览:<br>
+<img src="https://github.com/linfaxin/TransitionPlayer/raw/master/demo/demo_xiaoma_intro.gif" width="30%"/><br>
 
 项目名：welcome-android<br>
 git地址：https://github.com/stephentuso/welcome-android<br>
@@ -489,6 +513,7 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
 ##自定义控件/动画:<br>
 
 
@@ -497,6 +522,53 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+
+项目名：3dTagCloudAndroid<br>
+git地址：https://github.com/misakuo/3dTagCloudAndroid<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/misakuo/3dTagCloudAndroid/master/screenshot.gif" width="30%"/><br>
+
+项目名：FloatView<br>
+git地址：https://github.com/AlexLiuSheng/FloatView<br>
+预览:<br>
+<img src="https://github.com/AlexLiuSheng/FloatView/raw/master/z.gif" width="30%"/><br>
+
+项目名：yava<br>
+git地址：https://github.com/hujiaweibujidao/yava<br>
+预览:<br>
+<img src="https://github.com/hujiaweibujidao/yava/raw/master/yava.gif" width="30%"/><br>
+
+项目名：beauty-treatment-android-animations<br>
+git地址：https://github.com/JlUgia/beauty-treatment-android-animations<br>
+预览:<br>
+<img src="https://github.com/JlUgia/beauty-treatment-android-animations/raw/master/assets/swiperefresh.gif" width="30%"/><br>
+
+项目名：Transitions-Everywhere<br>
+git地址：https://github.com/andkulikov/Transitions-Everywhere<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/0dbd6c6ad1b4f67503002df27efc5c0551183430/68747470733a2f2f686162726173746f726167652e6f72672f66696c65732f6335312f6231652f6232362f63353162316562323666623934313639386164356131333638643036363033622e676966" width="30%"/><br>
+
+项目名：FPSAnimator<br>
+git地址：https://github.com/MasayukiSuda/FPSAnimator<br>
+预览:<br>
+<img src="https://github.com/MasayukiSuda/FPSAnimator/raw/master/art/tweenBitmapSampleDemo.gif" width="30%"/><br>
+
+项目名：android-transition<br>
+git地址：https://github.com/kaichunlin/android-transition<br>
+预览:<br>
+<img src="https://github.com/kaichunlin/android-transition/raw/master/github/animation_transition.gif" width="30%"/><br>
+
+项目名：Confetti<br>
+git地址：https://github.com/hqwang/Confetti<br>
+预览:<br>
+<img src="https://github.com/hqwang/Confetti/raw/master/haha.gif" width="30%"/><br>
+
+项目名：ViewAnimator<br>
+git地址：https://github.com/florent37/ViewAnimator<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/0c031aa501e2d450ca7c9ea52a0a58d65c18371b/68747470733a2f2f6a2e676966732e636f6d2f45526c427a572e676966" width="30%"/><br>
 
 项目名：WilliamChart<br>
 git地址：https://github.com/diogobernardino/WilliamChart<br>
@@ -1195,6 +1267,11 @@ git地址：https://github.com/bingoogolapple/BGAQRCode-Android<br>
 
 
 
+项目名：NoHttp<br>
+git地址：https://github.com/yanzhenjie/NoHttp<br>
+解释:<br>
+NoHttp是专门做Android网络请求与下载的框架。 <br>
+
 项目名：KakaCache<br>
 git地址：https://github.com/LittleFriendsGroup/KakaCache<br>
 预览:<br>
@@ -1474,6 +1551,13 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+项目名：MaterialFilePicker<br>
+git地址：https://github.com/nbsp-team/MaterialFilePicker<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/89e8e63f14922125ab7a6c5734065e24a5413efa/68747470733a2f2f692e696d6775722e636f6d2f6d6a787330356e2e706e67" width="30%"/><br>
+描述：Material file picker for Android<br>
+
+
 项目名：EaseInterpolator<br>
 git地址：https://github.com/cimi-chen/EaseInterpolator<br>
 预览:<br>
@@ -1644,6 +1728,18 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+
+
+项目名：AndroidNote<br>
+git地址：https://github.com/CharonChui/AndroidNote<br>
+解释：<br>
+Android study notes.<br>
+
+项目名：free-programming-books-zh_CN<br>
+git地址：https://github.com/justjavac/free-programming-books-zh_CN<br>
+解释：<br>
+免费的编程中文书籍索引<br>
 
 项目名：Coder-Knowledge-Graph<br>
 git地址：https://github.com/wxyyxc1992/Coder-Knowledge-Graph<br>
