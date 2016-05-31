@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-5-30
+###更新时间:2016-5-31
 
 
 
@@ -144,6 +144,7 @@ git地址：https://github.com/jeasonlzy0216/ImagePicker<br>
 
 
 ##ListView 相关:<br>
+
 
 
 
@@ -466,6 +467,7 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
 项目名： passwordview<br>
 git地址：https://github.com/lisawray/passwordview<br>
 预览:<br>
@@ -514,6 +516,7 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
 ##自定义控件/动画:<br>
 
 
@@ -524,6 +527,15 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：android-autofittextview<br>
+git地址：https://github.com/grantland/android-autofittextview<br>
+预览:<br>
+<img src="https://github.com/grantland/android-autofittextview/raw/master/website/static/autofittextview.gif?raw=true" width="30%"/><br>
+
+项目名：ActivityRouter<br>
+git地址：https://github.com/mzule/ActivityRouter<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/mzule/ActivityRouter/master/gif/router.gif" width="30%"/><br>
 
 项目名：3dTagCloudAndroid<br>
 git地址：https://github.com/misakuo/3dTagCloudAndroid<br>
@@ -1188,6 +1200,7 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
+
 项目名：uberprogressview<br>
 git地址：https://github.com/ishan1604/uberprogressview<br>
 预览:<br>
@@ -1244,7 +1257,9 @@ git地址：https://github.com/lsjwzh/MaterialLoadingProgressBar<br>
 
 
 
+
 ##二维码 相关:<br>
+
 
 
 
@@ -1260,7 +1275,11 @@ git地址：https://github.com/bingoogolapple/BGAQRCode-Android<br>
 
 
 
+
+
 ##网络 相关:<br>
+
+
 
 
 
@@ -1307,7 +1326,9 @@ git地址：https://github.com/bumptech/glide<br>
 
 
 
+
 ##菜单/Tab:<br>
+
 
 
 
@@ -1385,7 +1406,10 @@ git地址：https://github.com/H07000223/FlycoTabLayout<br>
 
 
 
+
 ##通知:<br>
+
+
 
 
 
@@ -1407,7 +1431,12 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 
 
 
+
+
 ##公开项目案例:<br>
+
+
+
 
 
 
@@ -1541,6 +1570,7 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+
 ##疑难杂症:<br>
 
 
@@ -1550,6 +1580,11 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+项目名：RocooFix<br>
+git地址：https://github.com/dodola/RocooFix<br>
+预览:<br>
+<img src="https://github.com/dodola/RocooFix/raw/master/images/device-2016-05-28-010835.png" width="30%"/><br>
+描述：another hotfix framework<br>
 
 项目名：MaterialFilePicker<br>
 git地址：https://github.com/nbsp-team/MaterialFilePicker<br>
@@ -1730,6 +1765,11 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+项目名：android-training-course-in-chinese<br>
+git地址：https://github.com/kesenhoo/android-training-course-in-chinese<br>
+解释：<br>
+Android官方培训课程中文版<br>
 
 项目名：AndroidNote<br>
 git地址：https://github.com/CharonChui/AndroidNote<br>
