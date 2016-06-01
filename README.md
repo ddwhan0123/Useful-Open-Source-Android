@@ -534,6 +534,18 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+项目名：secure-preferences<br>
+git地址：https://github.com/scottyab/secure-preferences<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/29a9bb9967b7584cce1341c726817284cae1cd7a/68747470733a2f2f7261772e6769746875622e636f6d2f73636f74747961622f7365637572652d707265666572656e6365732f6d61737465722f646f63732f696d616765732f73735f6672616d655f7365637572655f707265662e706e67" width="30%"/><br>
+
+项目名：Permissions-Helper<br>
+git地址：https://github.com/Andrew-Quebe/Permissions-Helper<br>
+预览:<br>
+<img src="https://github.com/Andrew-Quebe/Permissions-Helper/raw/master/artwork/google.png" width="30%"/><br>
+
 项目名：material-tip<br>
 git地址：https://github.com/fcannizzaro/material-tip<br>
 预览:<br>
@@ -1455,6 +1467,12 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 
 
 
+
+
+项目名：Android-Material-Themes-Demo<br>
+git地址: https://github.com/StevenByle/Android-Material-Themes-Demo<br>
+预览:<br>
+<img src="https://github.com/StevenByle/Android-Material-Themes-Demo/raw/master/README%20Content/Material%20Theme%20Variations.png" width="30%" /><br>
 
 项目名：BaseAnimation<br>
 git地址: https://github.com/z56402344/BaseAnimation<br>
