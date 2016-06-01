@@ -213,6 +213,13 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+
+项目名：CommonAdapter<br>
+git地址：https://github.com/tianzhijiexian/CommonAdapter<br>
+预览:<br>
+<img src="https://github.com/tianzhijiexian/CommonAdapter/raw/master/demo/demo.png" width="30%"/><br>
+
+
 项目名：ARVExpandableGridLayout<br>
 git地址：https://github.com/h6ah4i/ARVExpandableGridLayout<br>
 预览:<br>
