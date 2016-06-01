@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-5-31
+###更新时间:2016-6-1
 
 
 
@@ -526,6 +526,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：material-tip<br>
+git地址：https://github.com/fcannizzaro/material-tip<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/fcannizzaro/material-tip/master/preview.gif" width="30%"/><br>
 
 项目名：android-autofittextview<br>
 git地址：https://github.com/grantland/android-autofittextview<br>
@@ -1444,6 +1449,11 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 
 
 
+项目名：BaseAnimation<br>
+git地址: https://github.com/z56402344/BaseAnimation<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/88cc44e21784fdeb62c90d1cf9b0d0baa16a626b/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313430323130323232313336353738" width="30%" /><br>
+
 项目名：WeiBo<br>
 git地址: https://github.com/wenmingvs/WeiBo<br>
 预览:<br>
@@ -1579,6 +1589,13 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+
+
+项目名：android-gpuimage-plus<br>
+git地址：https://github.com/wysaid/android-gpuimage-plus<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/wysaid/android-gpuimage-plus/master/screenshots/1.jpg" width="30%"/><br>
+描述：GPU accelerated filters for Android based on OpenGL.<br>
 
 项目名：RocooFix<br>
 git地址：https://github.com/dodola/RocooFix<br>
@@ -1765,6 +1782,15 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+项目名：Android-Best-Practices<br>
+git地址：https://github.com/tianzhijiexian/Android-Best-Practices<br>
+解释：<br>
+Android最佳实践示例<br>
+
+项目名：awesome-android<br>
+git地址：https://github.com/JStumpp/awesome-android<br>
+解释：<br>
+A curated list of awesome Android packages and resources.<br>
 
 项目名：android-training-course-in-chinese<br>
 git地址：https://github.com/kesenhoo/android-training-course-in-chinese<br>
