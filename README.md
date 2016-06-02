@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-6-1
+###更新时间:2016-6-2
 
 
 
@@ -533,8 +533,15 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：TSnackBar<br>
+git地址：https://github.com/AndreiD/TSnackBar<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/AndreiD/TSnackBar/master/app/snackbar.gif" width="30%"/><br>
 
-
+项目名：FlycoSystemBar<br>
+git地址：https://github.com/H07000223/FlycoSystemBar<br>
+预览:<br>
+<img src="https://github.com/H07000223/FlycoSystemBar/raw/master/art/5.0.gif" width="30%"/><br>
 
 项目名：secure-preferences<br>
 git地址：https://github.com/scottyab/secure-preferences<br>
@@ -1359,6 +1366,10 @@ git地址：https://github.com/bumptech/glide<br>
 
 
 
+项目名：MaterialDrawer<br>
+git地址：https://github.com/mikepenz/MaterialDrawer<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/mikepenz/MaterialDrawer/develop/DEV/github/screenshots1.jpg" width="30%"/>
 
 项目名：SwipeBackLayout<br>
 git地址：https://github.com/ikew0ng/SwipeBackLayout<br>
@@ -1457,6 +1468,9 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 
 
 
+
+
+
 ##公开项目案例:<br>
 
 
@@ -1467,7 +1481,10 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 
 
 
-
+项目名：Tiny-note<br>
+git地址: https://github.com/gougouccnu/Tiny-note<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/51090a107b7f51acc18692c8944d02bf786ce806/687474703a2f2f6f38316c6a68656a662e626b742e636c6f7564646e2e636f6d2f6e6577506963332e6a70673f696d61676556696577322f312f772f3237302f682f3438302f712f3735" width="30%" /><br>
 
 项目名：Android-Material-Themes-Demo<br>
 git地址: https://github.com/StevenByle/Android-Material-Themes-Demo<br>
@@ -1806,6 +1823,12 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+
+项目名：open-source-android-apps<br>
+git地址：https://github.com/pcqpcq/open-source-android-apps<br>
+解释：<br>
+Open-Source Android Apps<br>
 
 项目名：Android-Best-Practices<br>
 git地址：https://github.com/tianzhijiexian/Android-Best-Practices<br>
