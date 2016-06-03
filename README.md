@@ -41,6 +41,9 @@ git地址：https://github.com/curtis2/SuperVideoPlayer<br>
 
 
 
+
+
+
 ##Bottom Navigation 相关:<br>
 
 
@@ -101,6 +104,11 @@ git地址：https://github.com/aurelhubert/ahbottomnavigation<br>
 
 
 
+
+项目名：DistanceMeasure<br>
+git地址：https://github.com/shixinzhang/DistanceMeasure<br>
+预览:<br>
+![](https://github.com/shixinzhang/DistanceMeasure/raw/master/screenshots/screen_2.jpeg) <br>
 
 项目名：PhotoPicker<br>
 git地址：https://github.com/donglua/PhotoPicker<br>
