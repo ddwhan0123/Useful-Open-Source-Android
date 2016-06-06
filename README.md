@@ -222,6 +222,11 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+项目名：RecyclerViewSyncDemo<br>
+git地址：https://github.com/stoyicker/RecyclerViewSyncDemo<br>
+预览:<br>
+<img src="https://github.com/stoyicker/RecyclerViewSyncDemo/raw/master/demo/resources/screen_recording_demo.gif" width="30%"/><br>
+
 项目名：CommonAdapter<br>
 git地址：https://github.com/tianzhijiexian/CommonAdapter<br>
 预览:<br>
@@ -540,6 +545,28 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+
+项目名：MarkdownView<br>
+git地址：https://github.com/falnatsheh/MarkdownView<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/7f71f41a9ce5382384401df67fd24bb131c7e7a6/687474703a2f2f692e696d6775722e636f6d2f45444453785a4b2e6a7067" width="30%"/><br>
+
+项目名：snackbar<br>
+git地址：https://github.com/nispok/snackbar<br>
+预览:<br>
+<img src="https://github.com/nispok/snackbar/raw/master/art/home-2line.png" width="30%"/><br>
+
+项目名：MarqueeView<br>
+git地址：https://github.com/sfsheng0322/MarqueeView<br>
+预览:<br>
+<img src="https://github.com/sfsheng0322/MarqueeView/raw/master/screenshot/MarqueeView_Gif.gif" width="30%"/><br>
+
+项目名：DrawerBehavior<br>
+git地址：https://github.com/JakeWharton/DrawerBehavior<br>
+预览:<br>
+太牛逼了没有图<br>
 
 项目名：android-widget-ticktock<br>
 git地址：https://github.com/BCGDV-ASIA/android-widget-ticktock<br>
@@ -1252,7 +1279,13 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
+
+
+
 ##Progress 相关:<br>
+
+
+
 
 
 
@@ -1336,7 +1369,10 @@ git地址：https://github.com/bingoogolapple/BGAQRCode-Android<br>
 
 
 
+
+
 ##网络 相关:<br>
+
 
 
 
@@ -1386,7 +1422,12 @@ git地址：https://github.com/bumptech/glide<br>
 
 
 
+
+
 ##菜单/Tab:<br>
+
+
+
 
 
 
@@ -1470,7 +1511,11 @@ git地址：https://github.com/H07000223/FlycoTabLayout<br>
 
 
 
+
+
 ##通知:<br>
+
+
 
 
 
@@ -1660,6 +1705,10 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+
+项目名：RxPermissions<br>
+git地址：https://github.com/tbruyelle/RxPermissions<br>
+描述：Android runtime permissions powered by RxJava<br>
 
 项目名：android-gpuimage-plus<br>
 git地址：https://github.com/wysaid/android-gpuimage-plus<br>
@@ -1852,6 +1901,30 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+项目名：AndroidNote<br>
+git地址：https://github.com/GcsSloop/AndroidNote<br>
+解释：<br>
+ 安卓学习笔记<br>
+
+项目名：AndroidLibs<br>
+git地址：https://github.com/XXApple/AndroidLibs<br>
+解释：<br>
+ 正在成为史上最全分类 Android 开源代码大全~~~~ http://www.androidcat.com/<br>
+
+项目名：awesome-android<br>
+git地址：https://github.com/snowdream/awesome-android<br>
+解释：<br>
+ android libs from github or other websites http://snowdream.github.io/awesome-android<br>
+
+项目名：awesome-deep-learning-papers<br>
+git地址：https://github.com/terryum/awesome-deep-learning-papers<br>
+解释：<br>
+ Most Cited Deep Learning Papers<br>
+
+项目名：material-design-dimens<br>
+git地址：https://github.com/DmitryMalkovich/material-design-dimens<br>
+解释：<br>
+Default colors and dimens per Material Design guidelines and Android Design guidelines inside one library.<br>
 
 项目名：open-source-android-apps<br>
 git地址：https://github.com/pcqpcq/open-source-android-apps<br>
