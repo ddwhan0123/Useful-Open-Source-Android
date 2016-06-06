@@ -4,13 +4,17 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-6-3
+###更新时间:2016-6-6
+
+
 
 
 
 
 
 ##多媒体 相关：<br>
+
+
 
 
 
@@ -547,6 +551,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：android-image-slide-panel<br>
+git地址：https://github.com/luinnx/android-image-slide-panel<br>
+预览:<br>
+<img src="https://github.com/luinnx/android-image-slide-panel/raw/master/screen01.gif" width="30%"/><br>
 
 项目名：MarkdownView<br>
 git地址：https://github.com/falnatsheh/MarkdownView<br>
