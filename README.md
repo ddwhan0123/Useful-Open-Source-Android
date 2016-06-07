@@ -554,6 +554,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：MaterialPreference<br>
+git地址：https://github.com/codevscolor/MaterialPreference<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/dcbe0b4b613468eb8c10af628cf3d904d7f48b4f/68747470733a2f2f7333332e706f7374696d672e6f72672f7668717476666f6a332f4b49544b41542e676966" width="30%"/><br>
+
 项目名：BlurView<br>
 git地址：https://github.com/Dimezis/BlurView<br>
 预览:<br>
