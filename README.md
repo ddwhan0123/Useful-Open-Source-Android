@@ -492,6 +492,8 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
+
 项目名： passwordview<br>
 git地址：https://github.com/lisawray/passwordview<br>
 预览:<br>
@@ -551,6 +553,16 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：BlurView<br>
+git地址：https://github.com/Dimezis/BlurView<br>
+预览:<br>
+<img src="https://github.com/Dimezis/BlurView/raw/master/BlurScreenshot.png" width="30%"/><br>
+
+项目名：HorizontalWheelView<br>
+git地址：https://github.com/shchurov/HorizontalWheelView<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/ee6124cc259de10d4a4f6bfbc06ff3c06728803b/687474703a2f2f692e67697068792e636f6d2f764831715378637742424f69512e676966" width="30%"/><br>
 
 项目名：android-image-slide-panel<br>
 git地址：https://github.com/luinnx/android-image-slide-panel<br>
@@ -1563,6 +1575,11 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 
 
 
+项目名：OhMyBiliBili<br>
+git地址: https://github.com/HotBitmapGG/OhMyBiliBili<br>
+预览:<br>
+<img src="https://github.com/HotBitmapGG/OhMyBiliBili/raw/OhMyBiliBili/bilibiliPic/01.jpg?raw=true" width="30%" /><br>
+
 项目名：Tiny-note<br>
 git地址: https://github.com/gougouccnu/Tiny-note<br>
 预览:<br>
@@ -1714,6 +1731,12 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+
+
+
+项目名：dynamic-load-apk<br>
+git地址：https://github.com/singwhatiwanna/dynamic-load-apk<br>
+描述：Apk动态加载框架<br>
 
 项目名：RxPermissions<br>
 git地址：https://github.com/tbruyelle/RxPermissions<br>
