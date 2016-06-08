@@ -20,6 +20,12 @@
 
 
 
+
+项目名：JamsMusicPlayer<br>
+git地址：https://github.com/psaravan/JamsMusicPlayer<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/5a10d39909b2e64053adb49250802d31efe1d3a6/687474703a2f2f692e696d6775722e636f6d2f3268644d467a502e6a7067" width="30%" />
+
 项目名：mintube<br>
 git地址：https://github.com/imshyam/mintube<br>
 预览:<br>
@@ -397,6 +403,10 @@ git地址：https://github.com/Aspsine/IRecyclerView<br>
 
 
 
+项目名：TabbedCoordinatorLayout<br>
+git地址：https://github.com/vitovalov/TabbedCoordinatorLayout<br>
+预览:<br>
+<img src="https://github.com/vitovalov/TabbedCoordinatorLayout/raw/master/art/demo.gif" width="30%"/><br>
 
 项目名：TransitionPlayer<br>
 git地址：https://github.com/linfaxin/TransitionPlayer<br>
@@ -553,6 +563,13 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+
+项目名：android-drag-square<br>
+git地址：https://github.com/xmuSistone/android-drag-square<br>
+预览:<br>
+<img src="https://github.com/xmuSistone/android-drag-square/raw/master/capture1.gif" width="30%"/><br>
 
 项目名：MaterialPreference<br>
 git地址：https://github.com/codevscolor/MaterialPreference<br>
@@ -1450,7 +1467,7 @@ git地址：https://github.com/bumptech/glide<br>
 
 
 
-##菜单/Tab:<br>
+##菜单/Bar:<br>
 
 
 
@@ -1460,6 +1477,17 @@ git地址：https://github.com/bumptech/glide<br>
 
 
 
+
+项目名：SwipeBackActivity<br>
+git地址：https://github.com/binIoter/SwipeBackActivity<br>
+预览:<br>
+<img src="https://github.com/binIoter/SwipeBackActivity/raw/master/app/src/main/res/assets/review.gif" width="30%"/>
+
+
+项目名：morphy-toolbar<br>
+git地址：https://github.com/badoualy/morphy-toolbar<br>
+预览:<br>
+<img src="https://github.com/badoualy/morphy-toolbar/raw/master/ART/gif1.gif" width="30%"/>
 
 项目名：MaterialDrawer<br>
 git地址：https://github.com/mikepenz/MaterialDrawer<br>
@@ -1738,6 +1766,16 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+项目名：AndroidAgeraTutorial<br>
+git地址：https://github.com/captain-miao/AndroidAgeraTutorial<br>
+预览:<br>
+<img src="https://github.com/google/agera/raw/master/doc/images/agera.png" width="30%"/><br>
+
+项目名：Android-Studio-MVP-template<br>
+git地址：https://github.com/benoitletondor/Android-Studio-MVP-template<br>
+预览:<br>
+<img src="https://github.com/benoitletondor/Android-Studio-MVP-template/raw/master/static/createboilerplate.png" width="30%"/><br>
+描述：Android MVP template for Android Studio<br>
 
 项目名：dynamic-load-apk<br>
 git地址：https://github.com/singwhatiwanna/dynamic-load-apk<br>
