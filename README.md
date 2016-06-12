@@ -601,6 +601,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：MotionMachine<br>
+git地址：https://github.com/poetmountain/MotionMachine<br>
+预览:<br>
+<img src="https://github.com/poetmountain/MotionMachine/raw/master/Guides/group.gif" width="30%"/><br>
+
 项目名：LeafPic<br>
 git地址：https://github.com/HoraApps/LeafPic<br>
 预览:<br>
@@ -1700,6 +1705,16 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 
 
 
+
+项目名：BiliPlayer<br>
+git地址: https://github.com/liujia95/BiliPlayer<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/bef8fe75d16ddc0950a98a437b221d9103e0f364/687474703a2f2f692e696d6775722e636f6d2f42766b6978716c2e6a7067" width="30%" /><br>
+
+项目名：Mondroid<br>
+git地址: https://github.com/hitherejoe/Mondroid<br>
+预览:<br>
+<img src="https://github.com/hitherejoe/Mondroid/raw/master/images/mondroid_screens.png" width="30%" /><br>
 
 项目名：Girls<br>
 git地址: https://github.com/Gracker/Girls<br>
