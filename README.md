@@ -242,6 +242,11 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+项目名：binding-collection-adapter<br>
+git地址：https://github.com/evant/binding-collection-adapter<br>
+预览:<br>
+无 （封装的适配器）<br>
+
 项目名：RecyclerTabLayout<br>
 git地址：https://github.com/nshmura/RecyclerTabLayout<br>
 预览:<br>
@@ -585,8 +590,6 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
-
-
 ##自定义控件/动画:<br>
 
 
@@ -597,6 +600,16 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：LeafPic<br>
+git地址：https://github.com/HoraApps/LeafPic<br>
+预览:<br>
+<img src="https://github.com/HoraApps/LeafPic/raw/master/screenshots/2.png" width="30%"/><br>
+
+项目名：PdfViewPager<br>
+git地址：https://github.com/voghDev/PdfViewPager<br>
+预览:<br>
+<img src="https://github.com/voghDev/PdfViewPager/raw/master/screenshots/zooming.gif" width="30%"/><br>
 
 项目名：ChipCloud<br>
 git地址：https://github.com/fiskurgit/ChipCloud<br>
