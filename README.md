@@ -242,7 +242,10 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
-
+项目名：RecyclerTabLayout<br>
+git地址：https://github.com/nshmura/RecyclerTabLayout<br>
+预览:<br>
+<img src="https://github.com/nshmura/RecyclerTabLayout/raw/master/art/loop.gif" width="30%"/><br>
 
 项目名：PopupBubble<br>
 git地址：https://github.com/webianks/PopupBubble<br>
@@ -425,6 +428,7 @@ git地址：https://github.com/Aspsine/IRecyclerView<br>
 
 
 
+
 项目名：TabbedCoordinatorLayout<br>
 git地址：https://github.com/vitovalov/TabbedCoordinatorLayout<br>
 预览:<br>
@@ -515,7 +519,11 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
+
 ##输入内容相关：<br>
+
+
 
 
 
@@ -577,6 +585,8 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
 ##自定义控件/动画:<br>
 
 
@@ -588,6 +598,20 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：ChipCloud<br>
+git地址：https://github.com/fiskurgit/ChipCloud<br>
+预览:<br>
+<img src="https://github.com/fiskurgit/ChipCloud/raw/master/images/trainer_sizes.png" width="30%"/><br>
+
+项目名：LikeButton<br>
+git地址：https://github.com/jd-alexander/LikeButton<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/c75e0c73a4fd9a0b03ff6abab44221060be9d14a/687474703a2f2f692e67697068792e636f6d2f336f386470347571334b34767652314d4a4f2e676966" width="30%"/><br>
+
+项目名：AnimatedSvgView<br>
+git地址：https://github.com/jaredrummler/AnimatedSvgView<br>
+预览:<br>
+<img src="https://github.com/jaredrummler/AnimatedSvgView/raw/master/demo/demo.gif" width="30%"/><br>
 
 项目名：CircularImageView<br>
 git地址：https://github.com/subinkrishna/CircularImageView<br>
@@ -1450,12 +1474,18 @@ git地址：https://github.com/lsjwzh/MaterialLoadingProgressBar<br>
 
 
 
+
+
+
 项目名：BGAQRCode-Android<br>
 git地址：https://github.com/bingoogolapple/BGAQRCode-Android<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/5c5b2863287e8e18cce4e82965394c56f0376c38/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7172636f64652f73637265656e73686f74732f49716567675152436f646544656d6f2e676966) <br>
 
-
+项目名：qreader<br>
+git地址：https://github.com/nisrulz/qreader<br>
+预览:<br>
+<img src="https://github.com/nisrulz/qreader/raw/master/img/github_banner.png" width="30%" /><br>
 
 
 
@@ -1657,6 +1687,11 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 
 
 
+
+项目名：Girls<br>
+git地址: https://github.com/Gracker/Girls<br>
+预览:<br>
+<img src="https://github.com/Gracker/Girls/raw/master/preview/preview_girls.png" /><br>
 
 项目名：OhMyBiliBili<br>
 git地址: https://github.com/HotBitmapGG/OhMyBiliBili<br>
