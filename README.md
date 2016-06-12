@@ -161,7 +161,11 @@ git地址：https://github.com/jeasonlzy0216/ImagePicker<br>
 
 
 
+
+
 ##ListView 相关:<br>
+
+
 
 
 
@@ -221,6 +225,10 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+
+
+
+
 ##RecyclerView 相关:<br>
 
 
@@ -231,6 +239,15 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+
+
+
+
+
+项目名：PopupBubble<br>
+git地址：https://github.com/webianks/PopupBubble<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/3f8912b907378a5227100a1c6d2868d641a826c6/687474703a2f2f7777772e77656269616e6b732e636f6d2f706f707570627562626c652f322e706e67" width="30%"/><br>
 
 项目名：RecyclerViewSyncDemo<br>
 git地址：https://github.com/stoyicker/RecyclerViewSyncDemo<br>
@@ -393,7 +410,12 @@ git地址：https://github.com/Aspsine/IRecyclerView<br>
 
 
 
+
+
 ##ViewPager 相关:<br>
+
+
+
 
 
 
@@ -553,6 +575,8 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
 ##自定义控件/动画:<br>
 
 
@@ -560,6 +584,15 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+
+
+
+项目名：CircularImageView<br>
+git地址：https://github.com/subinkrishna/CircularImageView<br>
+预览:<br>
+<img src="https://github.com/subinkrishna/CircularImageView/raw/master/art/cat.png" width="30%"/><br>
 
 项目名：TextSurface<br>
 git地址：https://github.com/elevenetc/TextSurface<br>
