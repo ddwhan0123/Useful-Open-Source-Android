@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-6-8
+###更新时间:2016-6-12
 
 
 
@@ -564,7 +564,17 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：AndroidBitmapTransform<br>
+git地址：https://github.com/devnied/AndroidBitmapTransform<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/29d89130787c63045a4d301529abf1eaf23e9275/68747470733a2f2f7261772e6769746875622e636f6d2f6465766e6965642f416e64726f69644269746d61705472616e73666f726d2f6d61737465722f253230586665726d6f6465732e706e67" width="30%"/><br>
 
+项目名：AndroidExpandingViewLibrary<br>
+git地址：https://github.com/diegodobelo/AndroidExpandingViewLibrary<br>
+预览:<br>
+无<br>
+解释:<br>
+This is a library to help creating expanding views with animation in Android<br>
 
 项目名：android-drag-square<br>
 git地址：https://github.com/xmuSistone/android-drag-square<br>
