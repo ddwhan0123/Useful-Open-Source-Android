@@ -608,6 +608,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：MaterialScrollBar<br>
+git地址：https://github.com/krimin-killr21/MaterialScrollBar<br>
+预览:<br>
+<img src="https://github.com/krimin-killr21/MaterialScrollBar/raw/master/sample.png" width="30%"/><br>
+
 
 项目名：AndroidPhotoFilters<br>
 git地址：https://github.com/Zomato/AndroidPhotoFilters<br>
