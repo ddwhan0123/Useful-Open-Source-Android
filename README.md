@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-6-12
+###更新时间:2016-6-13
 
 
 
@@ -606,6 +606,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：SyntaxView<br>
+git地址：https://github.com/fiskurgit/SyntaxView<br>
+预览:<br>
+<img src="https://github.com/fiskurgit/SyntaxView/raw/master/screenshot.png" width="30%"/><br>
 
 项目名：BGAFlowLayout-Android<br>
 git地址：https://github.com/bingoogolapple/BGAFlowLayout-Android<br>
@@ -1891,6 +1896,11 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+项目名：easydeviceinfo<br>
+git地址：https://github.com/nisrulz/easydeviceinfo<br>
+预览:（获取手机信息）<br>
+<img src="https://github.com/nisrulz/easydeviceinfo/raw/master/img/github_banner.png" width="30%"/><br>
+
 项目名：AndroidAgeraTutorial<br>
 git地址：https://github.com/captain-miao/AndroidAgeraTutorial<br>
 预览:<br>
@@ -2279,6 +2289,23 @@ A list of useful Java frameworks, libraries, software and hello worlds examples<
 解释：<br>
 An "awesome" type curated list of React Native components, news, tools, and learning material<br>
 
+
+
+
+
+
+
+
+##工具类:<br>
+
+
+
+
+
+
+
+項目地址：https://github.com/h4de5ing/AndroidCommon<br>
+功能：基于Android系统Api封装常用工具类 http://19code.com<br>
 
 
 
