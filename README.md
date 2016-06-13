@@ -537,7 +537,10 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
-
+项目名： MarkedView-for-Android<br>
+git地址：https://github.com/mittsuu/MarkedView-for-Android<br>
+预览:<br>
+<img src="https://github.com/mittsuu/MarkedView-for-Android/raw/master/sample_sc.png" width="30%"/><br>
 
 项目名： Android-RTEditor<br>
 git地址：https://github.com/1gravity/Android-RTEditor<br>
@@ -606,6 +609,15 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：AndroidPhotoFilters<br>
+git地址：https://github.com/Zomato/AndroidPhotoFilters<br>
+预览:<br>
+<img src="https://github.com/Zomato/AndroidPhotoFilters/raw/master/art/photofilters.gif" width="30%"/><br>
+
+项目名：CalendarLibrary<br>
+git地址：https://github.com/ik024/CalendarLibrary<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/4861930/15888021/e055587a-2d82-11e6-9329-4da8b8d8dad8.png" width="30%"/><br>
 
 项目名：SyntaxView<br>
 git地址：https://github.com/fiskurgit/SyntaxView<br>
