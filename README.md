@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-6-13
+###更新时间:2016-6-14
 
 
 
@@ -20,6 +20,11 @@
 
 
 
+
+项目名：MagicCamera<br>
+git地址：https://github.com/wuhaoyu1990/MagicCamera<br>
+预览:<br>
+<img src="https://github.com/wuhaoyu1990/MagicCamera/raw/master/Screenshot_1.png" width="30%" />
 
 项目名：JamsMusicPlayer<br>
 git地址：https://github.com/psaravan/JamsMusicPlayer<br>
@@ -612,6 +617,33 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+
+项目名：SineView<br>
+git地址：https://github.com/guiguegon/SineView<br>
+预览:<br>
+<img src="https://github.com/guiguegon/SineView/raw/master/screenshots/animating.gif" width="30%"/><br>
+
+项目名：animate<br>
+git地址：https://github.com/hitherejoe/animate<br>
+预览:<br>
+<img src="https://github.com/hitherejoe/animate/raw/master/images/object_animator.gif" width="30%"/><br>
+
+项目名：MaterialSearchView<br>
+git地址：https://github.com/MiguelCatalan/MaterialSearchView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/MiguelCatalan/MaterialSearchView/master/art/voice.gif" width="30%"/><br>
+
+项目名：PinLockView<br>
+git地址：https://github.com/aritraroy/PinLockView<br>
+预览:<br>
+<img src="https://github.com/aritraroy/PinLockView/raw/master/screens/promo.png" width="30%"/><br>
+
+项目名：SlideCloseActivity<br>
+git地址：https://github.com/haidaodashushu/SlideCloseActivity<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/39274f68fa57f9e04cd775b13ee12a3d88db6bb6/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630323233313532303039333835" width="30%"/><br>
 
 项目名：MaterialScrollBar<br>
 git地址：https://github.com/krimin-killr21/MaterialScrollBar<br>
@@ -1615,6 +1647,16 @@ git地址：https://github.com/bumptech/glide<br>
 
 
 
+项目名：fab-speed-dial<br>
+git地址：https://github.com/yavski/fab-speed-dial<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/67f8b636d4cd6ee1dfcb8e4c68d2f04ad3ce8560/687474703a2f2f796176736b692e6769746875622e696f2f6661622d73706565642d6469616c2f73616d706c652d30312e676966" width="30%"/>
+
+项目名：MultipleStatusView<br>
+git地址：https://github.com/qyxxjd/MultipleStatusView<br>
+预览:<br>
+<img src="https://github.com/qyxxjd/MultipleStatusView/raw/master/screenshots/demo.gif" width="30%"/>
+
 项目名：SwipeBackActivity<br>
 git地址：https://github.com/binIoter/SwipeBackActivity<br>
 预览:<br>
@@ -1735,6 +1777,8 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 
 
 
+
+
 ##公开项目案例:<br>
 
 
@@ -1744,6 +1788,18 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 
 
 
+
+
+
+项目名：Omni-Notes<br>
+git地址: https://github.com/federicoiosue/Omni-Notes<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/federicoiosue/Omni-Notes/develop/etc/play_store_pics/02.png" width="30%" /><br>
+
+项目名：GanHuoIO<br>
+git地址: https://github.com/burgessjp/GanHuoIO<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/5705342b90d614dc2c675da9be36c7c6d27df5b5/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3632333530342d336137353433653465363530636434612e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="30%" /><br>
 
 项目名：BiliPlayer<br>
 git地址: https://github.com/liujia95/BiliPlayer<br>
@@ -1907,7 +1963,11 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+
+
 ##疑难杂症:<br>
+
+
 
 
 
@@ -2131,7 +2191,13 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+
+
 ##翻译,资料:<br>
+
+
+
 
 
 
@@ -2332,9 +2398,10 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
-项目名：android-postfix-plugin<br>
-git地址：https://github.com/takahirom/android-postfix-plugin<br>
-预览: <img src="https://cloud.githubusercontent.com/assets/1386930/10118005/8d45e898-64a6-11e5-8c32-8f38b0105177.gif" width="30%" /><br>
+项目名：XLog<br>
+git地址：https://github.com/promeG/XLog<br>
+预览:无<br>
+解释：Method call logging based on dexposed<br>
 
 
 项目名：AndroidCommon<br>
