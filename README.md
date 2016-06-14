@@ -242,6 +242,11 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+项目名：CarouselLayoutManager<br>
+git地址：https://github.com/Azoft/CarouselLayoutManager<br>
+预览:<br>
+<img src="https://github.com/Azoft/CarouselLayoutManager/raw/master/resources/carousel_work_small.gif" width="30%"/><br>
+
 项目名：binding-collection-adapter<br>
 git地址：https://github.com/evant/binding-collection-adapter<br>
 预览:<br>
@@ -1913,6 +1918,12 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+项目名：TinyPinyin<br>
+git地址：https://github.com/promeG/TinyPinyin<br>
+预览:<br>
+无<br>
+解释：适用于Java和Android的快速、低内存占用的汉字转拼音库<br>
+
 项目名：easydeviceinfo<br>
 git地址：https://github.com/nisrulz/easydeviceinfo<br>
 预览:（获取手机信息）<br>
@@ -2321,7 +2332,13 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
-項目地址：https://github.com/h4de5ing/AndroidCommon<br>
+项目名：android-postfix-plugin<br>
+git地址：https://github.com/takahirom/android-postfix-plugin<br>
+预览: <img src="https://cloud.githubusercontent.com/assets/1386930/10118005/8d45e898-64a6-11e5-8c32-8f38b0105177.gif" width="30%" /><br>
+
+
+项目名：AndroidCommon<br>
+git地址：https://github.com/h4de5ing/AndroidCommon<br>
 功能：基于Android系统Api封装常用工具类 http://19code.com<br>
 
 
