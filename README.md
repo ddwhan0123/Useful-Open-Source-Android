@@ -21,6 +21,12 @@
 
 
 
+
+项目名：AndroidFFmpeg<br>
+git地址：https://github.com/appunite/AndroidFFmpeg<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/bba08b296f042da8e8597cacb6c980d22d5ffe7b/687474703a2f2f7331322e706f7374696d6167652e6f72672f6f35323877386a73742f53637265656e73686f74312e706e67" width="30%" />
+
 项目名：Material-Movies<br>
 git地址：https://github.com/saulmm/Material-Movies<br>
 预览:<br>
@@ -630,6 +636,17 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+项目名：VisualEffectView<br>
+git地址：https://github.com/efremidze/VisualEffectView<br>
+预览:<br>
+<img src="https://github.com/efremidze/VisualEffectView/raw/master/demo.gif" width="30%"/><br>
+
+项目名：FlowLayout<br>
+git地址：https://github.com/dalong982242260/FlowLayout<br>
+预览:<br>
+<img src="https://github.com/dalong982242260/FlowLayout/raw/master/gif/flowlayout.gif?raw=true" width="30%"/><br>
 
 项目名：EditTag<br>
 git地址：https://github.com/qiugang/EditTag<br>
@@ -1509,7 +1526,11 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
+
+
 ##Progress 相关:<br>
+
+
 
 
 
@@ -1606,7 +1627,9 @@ git地址：https://github.com/nisrulz/qreader<br>
 
 
 
+
 ##网络 相关:<br>
+
 
 
 
@@ -1652,6 +1675,8 @@ git地址：https://github.com/Aspsine/MultiThreadDownload<br>
 git地址：https://github.com/bumptech/glide<br>
 预览:<br>
 ![](https://github.com/bumptech/glide/raw/master/static/glide_logo.png) <br>
+
+
 
 
 
@@ -1815,6 +1840,11 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 
 
 
+
+项目名：WeexOne<br>
+git地址: https://github.com/dodola/WeexOne<br>
+预览:<br>
+<img src="https://github.com/dodola/WeexOne/raw/master/images/1.png" width="30%" /><br>
 
 项目名：YouJoin-Android<br>
 git地址: https://github.com/FreedomZZQ/YouJoin-Android<br>
@@ -2427,7 +2457,10 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
-
+项目名：UpdateApp<br>
+git地址：https://github.com/yaming116/UpdateApp<br>
+预览:无<br>
+解释：开箱即用的app更新，主要负责软件下载、软件安装等 Permission和Service默认添加在aar包里面的，如果使用gradle不需要 在意下面的配置了<br>
 
 项目名：XLog<br>
 git地址：https://github.com/promeG/XLog<br>
