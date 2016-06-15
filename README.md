@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-6-14
+###更新时间:2016-6-15
 
 
 
@@ -20,6 +20,11 @@
 
 
 
+
+项目名：Material-Movies<br>
+git地址：https://github.com/saulmm/Material-Movies<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/cb1a7ead648dd745e5b3e4a2600f24a8dc37bbe7/687474703a2f2f616e64726f636f64652e65732f77702d636f6e74656e742f75706c6f6164732f323031352f30332f66616d696c79322e706e67" width="30%" />
 
 项目名：MagicCamera<br>
 git地址：https://github.com/wuhaoyu1990/MagicCamera<br>
@@ -547,6 +552,12 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
+项目名： Android-SlidingEmojiKeyboard<br>
+git地址：https://github.com/klinker24/Android-SlidingEmojiKeyboard<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/klinker24/Android-SlidingEmojiKeyboard/master/ios-emojis/Other/Promo.png" width="30%"/><br>
+
 项目名： MarkedView-for-Android<br>
 git地址：https://github.com/mittsuu/MarkedView-for-Android<br>
 预览:<br>
@@ -619,6 +630,16 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：EditTag<br>
+git地址：https://github.com/qiugang/EditTag<br>
+预览:<br>
+<img src="https://github.com/qiugang/EditTag/raw/master/screenshots/s01.jpg" width="30%"/><br>
+
+项目名：hintcase<br>
+git地址：https://github.com/Nescafemix/hintcase<br>
+预览:<br>
+<img src="https://github.com/Nescafemix/hintcase/raw/master/assets/welcome_demo.gif" width="30%"/><br>
 
 项目名：SineView<br>
 git地址：https://github.com/guiguegon/SineView<br>
@@ -1583,7 +1604,11 @@ git地址：https://github.com/nisrulz/qreader<br>
 
 
 
+
+
 ##网络 相关:<br>
+
+
 
 
 
@@ -1789,6 +1814,12 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 
 
 
+
+
+项目名：YouJoin-Android<br>
+git地址: https://github.com/FreedomZZQ/YouJoin-Android<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/f1696632a3b0c5b501ef04120c021dc50df07542/687474703a2f2f37767a726a302e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f796f756a6f696e2d616e64726f69642d312d77656c636f6d652e706e673f696d616765566965772f322f772f343030" width="30%" /><br>
 
 
 项目名：Omni-Notes<br>
