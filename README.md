@@ -637,6 +637,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：stepper-indicator<br>
+git地址：https://github.com/badoualy/stepper-indicator<br>
+预览:<br>
+<img src="https://github.com/badoualy/stepper-indicator/raw/master/ART/screen.gif" width="30%"/><br>
+
 项目名：RQShineLabel<br>
 git地址：https://github.com/zipme/RQShineLabel<br>
 预览:<br>
