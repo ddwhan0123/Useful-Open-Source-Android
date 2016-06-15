@@ -637,6 +637,16 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：RQShineLabel<br>
+git地址：https://github.com/zipme/RQShineLabel<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/zipme/RQShineLabel/master/Screenshots/rqshinelabel.gif" width="30%"/><br>
+
+
+项目名：CountdownView<br>
+git地址：https://github.com/iwgang/CountdownView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/iwgang/CountdownView/master/screenshot/screenshot.gif" width="30%"/><br>
 
 项目名：VisualEffectView<br>
 git地址：https://github.com/efremidze/VisualEffectView<br>
@@ -1696,6 +1706,11 @@ git地址：https://github.com/bumptech/glide<br>
 
 
 
+
+项目名：morphy-toolbar<br>
+git地址：https://github.com/badoualy/morphy-toolbar<br>
+预览:<br>
+<img src="https://github.com/badoualy/morphy-toolbar/raw/master/ART/gif1.gif" width="30%"/>
 
 项目名：fab-speed-dial<br>
 git地址：https://github.com/yavski/fab-speed-dial<br>
