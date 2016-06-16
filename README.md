@@ -258,6 +258,11 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+项目名：CommonAdapter<br>
+git地址：https://github.com/qyxxjd/CommonAdapter<br>
+预览:<br>
+<img src="https://github.com/qyxxjd/CommonAdapter/raw/master/screenshots/multiple.png" width="30%"/><br>
+
 项目名：CarouselLayoutManager<br>
 git地址：https://github.com/Azoft/CarouselLayoutManager<br>
 预览:<br>
@@ -1867,10 +1872,14 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 
 
 
+
+
 项目名：V2EX<br>
 git地址:https://github.com/zzhoujay/V2EX<br>
 预览:<br>
 <img src="https://camo2.githubusercontent.com/cf30e380aaf91cd609d52b99f63c692cb28b1dd7/687474703a2f2f6769742e6f736368696e612e6e65742f75706c6f6164732f696d616765732f323031352f303732382f3230333533345f64363637646565645f3134313030392e706e67" width="30%" /><br>
+
+
 
 项目名：WeexOne<br>
 git地址: https://github.com/dodola/WeexOne<br>
@@ -2297,10 +2306,24 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+项目名：Fragmentation<br>
+git地址：https://github.com/YoKeyword/Fragmentation<br>
+预览:<br>
+<img src="https://github.com/YoKeyword/Fragmentation/raw/master/gif/demo.gif" width="30%"/><br>
+解释：<br>
+A powerful library that manage Fragment for Android!<br>
+
+
+项目名：Perfect_IM_SNS<br>
+git地址：https://github.com/CameloeAnthony/Perfect_IM_SNS<br>
+解释：<br>
+这是一个整理即时通讯（IM）和社交系统（SNS）优秀开源项目的文档<br>
+
 项目名：AndroidNote<br>
 git地址：https://github.com/GcsSloop/AndroidNote<br>
 解释：<br>
- 安卓学习笔记<br>
+安卓学习笔记<br>
 
 项目名：AndroidLibs<br>
 git地址：https://github.com/XXApple/AndroidLibs<br>
