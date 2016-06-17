@@ -646,6 +646,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：BottomDialogs<br>
+git地址：https://github.com/javiersantos/BottomDialogs<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/javiersantos/BottomDialogs/master/Screenshots/gif-1.gif" width="30%"/><br>
+
 项目名：fontbinding<br>
 git地址：https://github.com/lisawray/fontbinding<br>
 预览:<br>
@@ -1735,6 +1740,13 @@ git地址：https://github.com/bumptech/glide<br>
 
 
 
+
+
+项目名：MaterialArcMenu<br>
+git地址：https://github.com/saurabharora90/MaterialArcMenu<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/saurabharora90/MaterialArcMenu/develop/assets/snackbar.gif" width="30%"/>
+
 项目名：DropDownMenu<br>
 git地址：https://github.com/Bragegs/DropDownMenu<br>
 预览:<br>
@@ -1899,6 +1911,11 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+
+项目名：Weather-Lite<br>
+git地址:https://github.com/ZhangQinglian/Weather-Lite<br>
+预览:<br>
+<img src="https://camo2.githubusercontent.com/3b934017c8122e0b8301c26543ac8ed56dac5458/687474703a2f2f37787072676e2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f6465766963652d323031362d30352d31372d3137333131352e706e67" /><br>
 
 项目名：V2EX<br>
 git地址:https://github.com/zzhoujay/V2EX<br>
@@ -2542,6 +2559,14 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
+
+
+
+项目名：SuperAdapter<br>
+git地址：https://github.com/byteam/SuperAdapter<br>
+预览:无<br>
+解释：<br>
+一个Adapter同时适用RecyclerView、ListView、GridView等。<br>
 
 项目名：UpdateApp<br>
 git地址：https://github.com/yaming116/UpdateApp<br>
