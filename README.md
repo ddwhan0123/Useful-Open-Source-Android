@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-6-16
+###更新时间:2016-6-17
 
 
 
@@ -645,6 +645,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：ExpandableLayout<br>
+git地址：https://github.com/SilenceDut/ExpandableLayout<br>
+预览:<br>
+<img src="https://github.com/SilenceDut/ExpandableLayout/raw/master/media/simple_use.gif" width="30%"/><br>
 
 项目名：BottomDialogs<br>
 git地址：https://github.com/javiersantos/BottomDialogs<br>
@@ -1585,6 +1590,11 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
+项目名：CircleProgressBar<br>
+git地址：https://github.com/dinuscxj/CircleProgressBar<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/dinuscxj/CircleProgressBar/master/Preview/CircleProgressBar.gif?width=300" width="60%" />
+
 项目名：uberprogressview<br>
 git地址：https://github.com/ishan1604/uberprogressview<br>
 预览:<br>
@@ -1857,7 +1867,11 @@ git地址：https://github.com/H07000223/FlycoTabLayout<br>
 
 
 
+
+
 ##通知:<br>
+
+
 
 
 
@@ -2109,7 +2123,11 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+
+
 ##疑难杂症:<br>
+
+
 
 
 
@@ -2336,6 +2354,8 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+
 ##翻译,资料:<br>
 
 
@@ -2348,6 +2368,16 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+
+
+
+项目名：FullStackDeveloperCourse<br>
+git地址：https://github.com/warmheartli/FullStackDeveloperCourse<br>
+预览:<br>
+无<br>
+解释：<br>
+教你成为全栈工程师<br>
 
 项目名：react-native-guide<br>
 git地址：https://github.com/reactnativecn/react-native-guide<br>
