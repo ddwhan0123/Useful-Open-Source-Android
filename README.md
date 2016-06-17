@@ -258,6 +258,11 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+项目名：RecyclerViewUndoSwipe<br>
+git地址：https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe<br>
+预览:<br>
+<img src="https://camo2.githubusercontent.com/633c9f0144b49b6a90edb18e44361f843010cd0f/687474703a2f2f696d6775722e636f6d2f523931554a716c2e676966" width="30%"/><br>
+
 项目名：CommonAdapter<br>
 git地址：https://github.com/qyxxjd/CommonAdapter<br>
 预览:<br>
@@ -641,6 +646,20 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：fontbinding<br>
+git地址：https://github.com/lisawray/fontbinding<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/lisawray/fontbinding/master/screenshot_land.png" width="30%"/><br>
+
+项目名：nice-spinner<br>
+git地址：https://github.com/arcadefire/nice-spinner<br>
+预览:<br>
+<img src="https://github.com/arcadefire/nice-spinner/raw/master/nice-spinner.gif" width="30%"/><br>
+
+项目名：Fancybuttons<br>
+git地址：https://github.com/medyo/Fancybuttons<br>
+预览:<br>
+<img src="https://github.com/medyo/Fancybuttons/raw/master/resources/fancy.png" width="30%"/><br>
 
 项目名：stepper-indicator<br>
 git地址：https://github.com/badoualy/stepper-indicator<br>
@@ -1848,6 +1867,13 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 预览:<br>
 ![](https://github.com/dkmeteor/Bubble-Notification/raw/master/gif/list_demo1.gif) <br>
 
+项目名：PermissionEverywhere<br>
+git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
+预览: <img src="hhttps://github.com/kaknazaveshtakipishi/PermissionEverywhere/raw/master/art/screenshot.png" width="30%" /><br>
+描述：Library for requesting a permission from Service using Notification<br>
+
+
+
 
 
 
@@ -2173,10 +2199,7 @@ git地址：https://github.com/laobie/FindViewByMe<br>
 预览: <img src="http://ac-qygvx1cc.clouddn.com/fa8259e43ce35445.png" width="30%" /><br>
 描述：FindViewByMe是一个自动生成FindViewById代码的IDEA/Android Studio插件<br>
 
-项目名：PermissionEverywhere<br>
-git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
-预览: <img src="hhttps://github.com/kaknazaveshtakipishi/PermissionEverywhere/raw/master/art/screenshot.png" width="30%" /><br>
-描述：Library for requesting a permission from Service using Notification<br>
+
 
 项目名：ECTranslation<br>
 git地址：https://github.com/Skykai521/ECTranslation<br>
@@ -2247,7 +2270,7 @@ git地址：https://github.com/kgmyshin/eventbus-intellij-plugin<br>
 ![](https://raw.githubusercontent.com/kgmyshin/eventbus-intellij-plugin/master/art/cap.gif) <br>
 
 项目名：Nammu<br>
-git地址https://github.com/tajchert/Nammu<br>
+git地址：https://github.com/tajchert/Nammu<br>
 预览:高版本授权处理<br>
 ![](https://github.com/tajchert/Nammu/raw/master/image/screenshot.png) <br>
 
@@ -2295,6 +2318,7 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
 ##翻译,资料:<br>
 
 
@@ -2306,6 +2330,14 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+
+项目名：react-native-guide<br>
+git地址：https://github.com/reactnativecn/react-native-guide<br>
+预览:<br>
+无<br>
+解释：<br>
+React-Native学习指南<br>
 
 项目名：Fragmentation<br>
 git地址：https://github.com/YoKeyword/Fragmentation<br>
