@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-6-17
+###更新时间:2016-6-20
 
 
 
@@ -564,6 +564,9 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
+
+
 ##输入内容相关：<br>
 
 
@@ -575,6 +578,14 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
+
+
+
+项目名： WhatsappFormatter<br>
+git地址：https://github.com/cooltechworks/WhatsappFormatter<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/cooltechworks/WhatsappFormatter/master/screenshot/whatsappformattingdemo.gif" width="30%"/><br>
 
 项目名： Android-SlidingEmojiKeyboard<br>
 git地址：https://github.com/klinker24/Android-SlidingEmojiKeyboard<br>
