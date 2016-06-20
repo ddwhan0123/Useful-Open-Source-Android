@@ -122,7 +122,14 @@ git地址：https://github.com/aurelhubert/ahbottomnavigation<br>
 
 
 
+
+
+
 ##图片选择器/编辑器 相关:<br>
+
+
+
+
 
 
 
@@ -645,6 +652,37 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+项目名：-dampView-springingView<br>
+git地址：https://github.com/Huyamin150/-dampView-springingView<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/c13c4178eaa9b1cd5b02cbc9ff10ca75baeb7b12/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630343135313134343535333234" width="30%"/><br>
+
+项目名：android-vertical-slide-view<br>
+git地址：https://github.com/xmuSistone/android-vertical-slide-view<br>
+预览:<br>
+<img src="https://github.com/xmuSistone/android-vertical-slide-view/raw/master/capture.gif" width="30%"/><br>
+
+项目名：SpringView<br>
+git地址：https://github.com/liaoinstan/SpringView<br>
+预览:<br>
+<img src="https://github.com/liaoinstan/SpringView/raw/master/screenshot/1459212372609_s.gif" width="30%"/><br>
+
+项目名：NumberMorphView<br>
+git地址：https://github.com/me-abhinav/NumberMorphView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/me-abhinav/NumberMorphView/dev/sample.gif" width="30%"/><br>
+
+项目名：Spotlight<br>
+git地址：https://github.com/wooplr/Spotlight<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/wooplr/Spotlight/master/art/intro.gif?token=AA5ZAHdvAspW6Zj8YyyKamkV7jWXFtMHks5XaQovwA%3D%3D" width="30%"/><br>
+
+项目名：TextDrawable<br>
+git地址：https://github.com/amulyakhare/TextDrawable<br>
+预览:<br>
+<img src="https://github.com/amulyakhare/TextDrawable/raw/master/screens/screen2-material.png" width="30%"/><br>
 
 项目名：ExpandableLayout<br>
 git地址：https://github.com/SilenceDut/ExpandableLayout<br>
@@ -2615,6 +2653,24 @@ git地址：https://github.com/h4de5ing/AndroidCommon<br>
 
 
 
+
+
+
+
+
+
+
+##地图相关:<br>
+
+
+
+
+
+项目名：mapv<br>
+git地址：https://github.com/huiyan-fe/mapv<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/51b287915e7ecd8cfb4cb3e17396861380b33501/687474703a2f2f68756979616e2d66652e6769746875622e696f2f6d6170762f646f632f61737365742f67616c6c6572792f706f6c796c696e655f73696d706c652e6a7067" width="30%"/><br>
+描述：地图可视化工具库,canvas,map,visualization<br>
 
 
 ##招聘:<br>
