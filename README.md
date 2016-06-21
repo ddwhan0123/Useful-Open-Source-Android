@@ -4,7 +4,10 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-6-20
+###更新时间:2016-6-21
+
+
+
 
 
 
@@ -13,6 +16,9 @@
 
 
 ##多媒体 相关：<br>
+
+
+
 
 
 
@@ -70,7 +76,13 @@ git地址：https://github.com/curtis2/SuperVideoPlayer<br>
 
 
 
+
+
+
 ##Bottom Navigation 相关:<br>
+
+
+
 
 
 
@@ -138,6 +150,13 @@ git地址：https://github.com/aurelhubert/ahbottomnavigation<br>
 
 
 
+
+
+项目名：GestureViews<br>
+git地址：https://github.com/alexvasilkov/GestureViews<br>
+预览:<br>
+<img src="https://github.com/alexvasilkov/GestureViews/raw/master/sample/art/demo.gif" width="30%" /><br>
+
 项目名：DistanceMeasure<br>
 git地址：https://github.com/shixinzhang/DistanceMeasure<br>
 预览:<br>
@@ -186,7 +205,11 @@ git地址：https://github.com/jeasonlzy0216/ImagePicker<br>
 
 
 
+
+
 ##ListView 相关:<br>
+
+
 
 
 
@@ -252,6 +275,8 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+
+
 ##RecyclerView 相关:<br>
 
 
@@ -264,6 +289,12 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+
+
+项目名：BeautifulParallax<br>
+git地址：https://github.com/florent37/BeautifulParallax<br>
+预览:<br>
+<img src="https://github.com/florent37/BeautifulParallax/raw/master/screens/giphy.gif" width="30%"/><br>
 
 项目名：RecyclerViewUndoSwipe<br>
 git地址：https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe<br>
@@ -458,6 +489,8 @@ git地址：https://github.com/Aspsine/IRecyclerView<br>
 
 
 
+
+
 ##ViewPager 相关:<br>
 
 
@@ -471,6 +504,11 @@ git地址：https://github.com/Aspsine/IRecyclerView<br>
 
 
 
+
+项目名：ExpandingPager<br>
+git地址：https://github.com/qs-lll/ExpandingPager<br>
+预览:<br>
+<img src="https://github.com/qs-lll/ExpandingPager/raw/master/img/ExpandingPager.gif" width="30%"/><br>
 
 项目名：TabbedCoordinatorLayout<br>
 git地址：https://github.com/vitovalov/TabbedCoordinatorLayout<br>
@@ -664,6 +702,15 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：JellyToggleButton<br>
+git地址：https://github.com/Nightonke/JellyToggleButton<br>
+预览:<br>
+<img src="https://github.com/Nightonke/JellyToggleButton/raw/master/img/JellyToggleButton4.gif?raw=true" width="30%"/><br>
+
+项目名：LoadFrameLayout<br>
+git地址：https://github.com/Aspsine/LoadFrameLayout<br>
+预览:<br>
+<img src="https://github.com/Aspsine/LoadFrameLayout/raw/master/art/screenshot.gif?raw=true" width="30%"/><br>
 
 项目名：-dampView-springingView<br>
 git地址：https://github.com/Huyamin150/-dampView-springingView<br>
