@@ -294,6 +294,15 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+项目名：RecyclerViewEnhanced<br>
+git地址：https://github.com/nikhilpanju/RecyclerViewEnhanced<br>
+预览:<br>
+<img src="https://github.com/nikhilpanju/RecyclerViewEnhanced/raw/master/sample/src/common/images/Demo.gif" width="30%"/><br>
+
+项目名：PagingRecycler<br>
+git地址：https://github.com/Batterii/PagingRecycler<br>
+解释:<br>
+A quick way to implement a paging pattern for a RecyclerView<br>
 
 项目名：BeautifulParallax<br>
 git地址：https://github.com/florent37/BeautifulParallax<br>
@@ -2041,7 +2050,15 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+项目名：material-intro<br>
+git地址:https://github.com/HeinrichReimer/material-intro<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/c0837d13fd6f45b0f77b9723962d3716abac188e/687474703a2f2f692e696d6775722e636f6d2f686d686e7a55622e706e67" /><br>
 
+项目名：talalarmo<br>
+git地址:https://github.com/trikita/talalarmo<br>
+预览:<br>
+<img src="https://github.com/trikita/talalarmo/raw/master/artwork/setting-alarm.png" /><br>
 
 项目名：Weather-Lite<br>
 git地址:https://github.com/ZhangQinglian/Weather-Lite<br>
@@ -2487,10 +2504,17 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+项目名：AndroidInterview<br>
+git地址：https://github.com/fanrunqi/AndroidInterview<br>
+预览:<br>
+无<br>
+解释:<br>
+android 面试资料<br>
+
 项目名：tutorials<br>
 git地址：https://github.com/MorvanZhou/tutorials<br>
 预览:<br>
-<img src="https://github.com/shiraji/permissions-dispatcher-plugin/raw/master/website/images/pd.gif" width="30%" /><br>
+无<br>
 解释:<br>
 Python 练习<br>
 
@@ -2712,6 +2736,15 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
+
+
+
+
+项目名：Android-Material-Icon-Generator<br>
+git地址：https://github.com/Maddoc42/Android-Material-Icon-Generator<br>
+预览:<br>
+<img src="https://github.com/Maddoc42/Android-Material-Icon-Generator/raw/master/screenshots/01.small.png" width="30%"/><br>
+描述：Android icons with looooong material shadows! http://bitdroid.de/Android-Material-Icon-Generator<br>
 
 项目名：Icons<br>
 git地址：https://github.com/materialos/Icons<br>
