@@ -718,6 +718,12 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：Compressor<br>
+git地址：https://github.com/zetbaitsu/Compressor<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/zetbaitsu/Compressor/master/ss.png" width="30%"/><br>
+
 项目名：StepView<br>
 git地址：https://github.com/baoyachi/StepView<br>
 预览:<br>
@@ -2502,7 +2508,12 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
-
+项目名：LearningNotes<br>
+git地址：https://github.com/GeniusVJR/LearningNotes<br>
+预览:<br>
+无<br>
+解释:<br>
+Enjoy Learning.<br>
 
 项目名：AndroidInterview<br>
 git地址：https://github.com/fanrunqi/AndroidInterview<br>
