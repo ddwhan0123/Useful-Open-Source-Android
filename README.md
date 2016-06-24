@@ -719,6 +719,17 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：AndroidPdfViewer<br>
+git地址：https://github.com/barteksc/AndroidPdfViewer<br>
+解释:<br>
+Android view for displaying PDFs rendered with PdfiumAndroid<br>
+
+项目名：SublimePicker<br>
+git地址：https://github.com/vikramkakkar/SublimePicker<br>
+预览:<br>
+<img src="https://github.com/vikramkakkar/SublimePicker/raw/master/img/date_picker_v2.png?raw=true" width="30%"/><br>
+
 项目名：Compressor<br>
 git地址：https://github.com/zetbaitsu/Compressor<br>
 预览:<br>
