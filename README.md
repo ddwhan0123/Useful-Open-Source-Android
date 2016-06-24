@@ -708,6 +708,9 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+
 ##自定义控件/动画:<br>
 
 
@@ -719,6 +722,13 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+
+项目名：GradientLayout<br>
+git地址：https://github.com/csdodd/GradientLayout<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/csdodd/GradientLayout/master/demo.gif" width="30%"/><br>
 
 项目名：AndroidPdfViewer<br>
 git地址：https://github.com/barteksc/AndroidPdfViewer<br>
@@ -1728,6 +1738,12 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
+
+
+项目名：LoadingView<br>
+git地址：https://github.com/ldoublem/LoadingView<br>
+预览:<br>
+<img src="https://github.com/ldoublem/LoadingView/raw/master/screen/%E6%95%88%E6%9E%9C.gif" width="60%" />
 
 项目名：CircleProgressBar<br>
 git地址：https://github.com/dinuscxj/CircleProgressBar<br>
