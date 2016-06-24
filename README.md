@@ -27,6 +27,10 @@
 
 
 
+项目名：Timber<br>
+git地址：https://github.com/naman14/Timber<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-09-18-12-33-27.png" width="30%" />
 
 项目名：AndroidFFmpeg<br>
 git地址：https://github.com/appunite/AndroidFFmpeg<br>
@@ -504,6 +508,10 @@ git地址：https://github.com/Aspsine/IRecyclerView<br>
 
 
 
+项目名：SlidingBall<br>
+git地址：https://github.com/dalong982242260/SlidingBall<br>
+预览:<br>
+<img src="https://github.com/dalong982242260/SlidingBall/raw/master/img/dalong.gif?raw=true" width="30%"/><br>
 
 项目名：ExpandingPager<br>
 git地址：https://github.com/qs-lll/ExpandingPager<br>
@@ -701,6 +709,15 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：StepView<br>
+git地址：https://github.com/baoyachi/StepView<br>
+预览:<br>
+<img src="https://github.com/baoyachi/StepView/raw/master/art/snapshot.png" width="30%"/><br>
+
+项目名：AndroidPhotoshopColorPicker<br>
+git地址：https://github.com/AzeeSoft/AndroidPhotoshopColorPicker<br>
+预览:<br>
+<img src="https://github.com/AzeeSoft/AndroidPhotoshopColorPicker/raw/master/raw/screen_1.jpg?raw=true" width="30%"/><br>
 
 项目名：JellyToggleButton<br>
 git地址：https://github.com/Nightonke/JellyToggleButton<br>
@@ -1790,11 +1807,15 @@ git地址：https://github.com/nisrulz/qreader<br>
 
 
 
+项目名：SaveVolley<br>
+git地址：https://github.com/CaMnter/SaveVolley<br>
+解释:<br>
+Save volley from anything, By Agera to save. Thus, derived the AgeraVolley . (｡>﹏<｡) <br>
 
 项目名：NoHttp<br>
 git地址：https://github.com/yanzhenjie/NoHttp<br>
 解释:<br>
-NoHttp是专门做Android网络请求与下载的框架。 <br>
+NoHttp是专门做Android网络请求与下载的框架 <br>
 
 项目名：KakaCache<br>
 git地址：https://github.com/LittleFriendsGroup/KakaCache<br>
@@ -2466,7 +2487,12 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
-
+项目名：tutorials<br>
+git地址：https://github.com/MorvanZhou/tutorials<br>
+预览:<br>
+<img src="https://github.com/shiraji/permissions-dispatcher-plugin/raw/master/website/images/pd.gif" width="30%" /><br>
+解释:<br>
+Python 练习<br>
 
 项目名：FullStackDeveloperCourse<br>
 git地址：https://github.com/warmheartli/FullStackDeveloperCourse<br>
@@ -2680,13 +2706,18 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
-##工具类:<br>
+##工具类/素材:<br>
 
 
 
 
 
 
+项目名：Icons<br>
+git地址：https://github.com/materialos/Icons<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/5341898/9100839/4076791e-3b94-11e5-8dc3-f7e7f9f40549.png" width="30%"/><br>
+描述：地图可视化工具库,canvas,map,visualization<br>
 
 项目名：SuperAdapter<br>
 git地址：https://github.com/byteam/SuperAdapter<br>
