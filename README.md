@@ -2045,7 +2045,7 @@ git地址：https://github.com/H07000223/FlycoTabLayout<br>
 项目名：NotifyUtil<br>
 git地址：https://github.com/wenmingvs/NotifyUtil<br>
 预览:<br>
-![](https://camo.githubusercontent.com/77127a63d1b75088bc118ec092224e9421ee747c/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f3639316363313531677731663037677464787935336732306263306830316c312e676966) <br>
+![](https://camo.githubusercontent.com/fb9cdcef024978a816d19af4a9c3102aae0c9e26/687474703a2f2f7777322e73696e61696d672e636e2f6d773639302f3639316363313531677731663037373532616867726732306463306b307530792e676966) <br>
 
 项目名：Bubble-Notification<br>
 git地址：https://github.com/dkmeteor/Bubble-Notification<br>
