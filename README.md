@@ -2306,6 +2306,11 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+项目名：PermissionGen<br>
+git地址：https://github.com/lovedise/PermissionGen<br>
+预览:<br>
+无<br>
+解释：简单好用的授权封装<br>
 
 项目名：TinyPinyin<br>
 git地址：https://github.com/promeG/TinyPinyin<br>
