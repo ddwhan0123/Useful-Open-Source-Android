@@ -733,6 +733,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：Revealator<br>
+git地址：https://github.com/Jaouan/Revealator<br>
+预览:<br>
+<img src="https://github.com/Jaouan/Revealator/raw/master/art/demo.gif" width="30%"/><br>
+
 项目名：PhotoEditDemo<br>
 git地址：https://github.com/jarlen/PhotoEditDemo<br>
 预览:<br>
