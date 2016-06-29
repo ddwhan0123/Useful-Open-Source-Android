@@ -314,7 +314,7 @@ git地址：https://github.com/florent37/BeautifulParallax<br>
 项目名：RecyclerViewUndoSwipe<br>
 git地址：https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe<br>
 预览:<br>
-<img src="https://camo2.githubusercontent.com/633c9f0144b49b6a90edb18e44361f843010cd0f/687474703a2f2f696d6775722e636f6d2f523931554a716c2e676966" width="30%"/><br>
+<img src="https://camo.githubusercontent.com/633c9f0144b49b6a90edb18e44361f843010cd0f/687474703a2f2f696d6775722e636f6d2f523931554a716c2e676966" width="30%"/><br>
 
 项目名：CommonAdapter<br>
 git地址：https://github.com/qyxxjd/CommonAdapter<br>
@@ -1781,7 +1781,7 @@ git地址：https://github.com/dinuscxj/CircleProgressBar<br>
 项目名：uberprogressview<br>
 git地址：https://github.com/ishan1604/uberprogressview<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/ishan1604/uberprogressview/master/UberProgressViewDemo.gif" width="60%" />
+<img src="https://raw.githubusercontent.com/ishan1604/uberprogressview/master/branding/UberProgressViewDemo.gif" width="60%" />
 
 项目名：materialish-progress<br>
 git地址：https://github.com/pnikosis/materialish-progress<br>
