@@ -726,6 +726,16 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：BezierMaker<br>
+git地址：https://github.com/venshine/BezierMaker<br>
+预览:<br>
+<img src="https://github.com/venshine/BezierMaker/raw/master/screenshot/1.gif" width="30%"/><br>
+
+项目名：MarqueeLayoutLibrary<br>
+git地址：https://github.com/oubowu/MarqueeLayoutLibrary<br>
+预览:<br>
+<img src="https://github.com/oubowu/MarqueeLayoutLibrary/raw/master/pic/demo.gif" width="30%"/><br>
+
 项目名：DashboardView<br>
 git地址：https://github.com/SuperKung/DashboardView<br>
 预览:<br>
@@ -1818,7 +1828,17 @@ git地址：https://github.com/lsjwzh/MaterialLoadingProgressBar<br>
 
 
 
+
+
+
+
+
 ##二维码 相关:<br>
+
+
+
+
+
 
 
 
@@ -2557,6 +2577,14 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+
+项目名：Android_Data<br>
+git地址：https://github.com/Freelander/Android_Data<br>
+预览:<br>
+无<br>
+解释:<br>
+Android 学习资料收集<br>
 
 项目名：blog<br>
 git地址：https://github.com/lzyzsd/blog<br>
