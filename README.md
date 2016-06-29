@@ -733,6 +733,12 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：PhotoEditDemo<br>
+git地址：https://github.com/jarlen/PhotoEditDemo<br>
+预览:<br>
+无<br>
+解释:实用的图片处理<br>
+
 项目名：Highlight<br>
 git地址：https://github.com/hongyangAndroid/Highlight<br>
 预览:<br>
