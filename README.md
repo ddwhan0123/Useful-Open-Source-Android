@@ -17,6 +17,7 @@
 
 
 
+
 ##多媒体 相关：<br>
 
 
@@ -28,6 +29,11 @@
 
 
 
+
+项目名：Teameeting-Android<br>
+git地址：https://github.com/DyncLang/Teameeting-Android<br>
+预览:<br>
+<img src="https://github.com/DyncLang/Teameeting-Android/raw/master/img/image.gif?raw=true" width="30%" />
 
 项目名：Timber<br>
 git地址：https://github.com/naman14/Timber<br>
@@ -85,7 +91,10 @@ git地址：https://github.com/curtis2/SuperVideoPlayer<br>
 
 
 
+
+
 ##Bottom Navigation 相关:<br>
+
 
 
 
@@ -519,6 +528,7 @@ git地址：https://github.com/Aspsine/IRecyclerView<br>
 
 
 
+
 项目名：SlidingBall<br>
 git地址：https://github.com/dalong982242260/SlidingBall<br>
 预览:<br>
@@ -710,9 +720,6 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
-
-
-
 ##自定义控件/动画:<br>
 
 
@@ -726,7 +733,10 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
-
+项目名：Highlight<br>
+git地址：https://github.com/hongyangAndroid/Highlight<br>
+预览:<br>
+<img src="https://github.com/hongyangAndroid/Highlight/raw/master/highlight2.gif" width="30%"/><br>
 
 项目名：SideBar<br>
 git地址：https://github.com/kongnanlive/SideBar<br>
