@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-6-21
+###更新时间:2016-6-29
 
 
 
@@ -2083,6 +2083,12 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+
+项目名：RxWeather<br>
+git地址:https://github.com/SmartDengg/RxWeather<br>
+预览:<br>
+<img src="https://github.com/SmartDengg/RxWeather/raw/master/images/RxWeather.gif" /><br>
+
 项目名：material-intro<br>
 git地址:https://github.com/HeinrichReimer/material-intro<br>
 预览:<br>
@@ -2539,6 +2545,13 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+项目名：Android-Dev-Favorites<br>
+git地址：https://github.com/ruijun/Android-Dev-Favorites<br>
+预览:<br>
+https://github.com/ruijun/Android-Dev-Favorites/raw/master/Images/favorite.png<br>
+解释:<br>
+The repository is Android development favorites, It used to collect the knowledge of Android Development<br>
 
 项目名：LearningNotes<br>
 git地址：https://github.com/GeniusVJR/LearningNotes<br>
