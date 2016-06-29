@@ -15,6 +15,8 @@
 
 
 
+
+
 ##多媒体 相关：<br>
 
 
@@ -725,6 +727,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：SideBar<br>
+git地址：https://github.com/kongnanlive/SideBar<br>
+预览:<br>
+<img src="https://github.com/kongnanlive/SideBar/raw/master/gif5.gif" width="30%"/><br>
 
 项目名：BezierMaker<br>
 git地址：https://github.com/venshine/BezierMaker<br>
@@ -2115,6 +2122,18 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+
+项目名：quill<br>
+git地址:https://github.com/vickychijwani/quill<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/3667c6d3c932088abb6305982635399c6990f952/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f333033373833312f7175696c6c2d6769746875622f666561747572652d677261706869632e706e67" /><br>
+
+项目名：BookShelf<br>
+git地址:https://github.com/iHaPBoy/BookShelf<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/52dad44165bc8cfdbec1214f9008dcce0539967e/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f303036744e6252776a77316635386e7575337163786a33306a303069636d7976" /><br>
+
+
 项目名：RxWeather<br>
 git地址:https://github.com/SmartDengg/RxWeather<br>
 预览:<br>
@@ -2892,7 +2911,16 @@ git地址：https://github.com/h4de5ing/AndroidCommon<br>
 
 
 
+
+
+
 ##地图相关:<br>
+
+
+
+
+
+
 
 
 
