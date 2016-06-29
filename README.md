@@ -2123,6 +2123,11 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+项目名：EasyWeather<br>
+git地址:https://github.com/code-crusher/EasyWeather<br>
+预览:<br>
+<img src="https://github.com/code-crusher/EasyWeather/raw/master/images/screenshot.png" /><br>
+
 项目名：quill<br>
 git地址:https://github.com/vickychijwani/quill<br>
 预览:<br>
