@@ -725,6 +725,12 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：android-otpview-pinview<br>
+git地址：https://github.com/mukeshsolanki/android-otpview-pinview<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/mukeshsolanki/android-otpview-pinview/master/screenshots/Screenshot_20160622-201727.png" width="30%"/><br>
+
 项目名：GradientLayout<br>
 git地址：https://github.com/csdodd/GradientLayout<br>
 预览:<br>
