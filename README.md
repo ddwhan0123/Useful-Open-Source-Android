@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-6-29
+###更新时间:2016-6-30
 
 
 
@@ -28,6 +28,11 @@
 
 
 
+
+项目名：MusicPlayerView<br>
+git地址：https://github.com/iammert/MusicPlayerView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/iammert/MusicPlayerView/master/art/art2.gif" width="30%" />
 
 
 项目名：Teameeting-Android<br>
@@ -152,7 +157,7 @@ git地址：https://github.com/aurelhubert/ahbottomnavigation<br>
 
 
 
-##图片选择器/编辑器 相关:<br>
+##图片选择器/编辑器/加载 相关:<br>
 
 
 
@@ -166,6 +171,10 @@ git地址：https://github.com/aurelhubert/ahbottomnavigation<br>
 
 
 
+项目名：QiniuImageLoader<br>
+git地址：https://github.com/lingochamp/QiniuImageLoader<br>
+预览:<br>
+<img src="https://github.com/lingochamp/QiniuImageLoader/raw/master/art/demo_1.jpg" width="30%" /><br>
 
 项目名：GestureViews<br>
 git地址：https://github.com/alexvasilkov/GestureViews<br>
@@ -304,6 +313,11 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+
+项目名：HeaderAndFooterRecyclerView<br>
+git地址：https://github.com/cundong/HeaderAndFooterRecyclerView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/cundong/HeaderAndFooterRecyclerView/master/art/art1.png" width="30%"/><br>
 
 项目名：RecyclerViewEnhanced<br>
 git地址：https://github.com/nikhilpanju/RecyclerViewEnhanced<br>
@@ -732,6 +746,10 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：ExpandingPager<br>
+git地址：https://github.com/florent37/ExpandingPager<br>
+预览:<br>
+<img src="https://github.com/florent37/ExpandingPager/raw/master/img/preview.gif" width="30%"/><br>
 
 项目名：Revealator<br>
 git地址：https://github.com/Jaouan/Revealator<br>
@@ -1789,6 +1807,11 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
+项目名：FabProgress<br>
+git地址：https://github.com/katsuki-nakatani/FabProgress<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/aa6c8f9aa0553ce412c83003d54de5edc94bd519/687474703a2f2f6d6972756b6572617070732e636f6d2f77702f77702d636f6e74656e742f75706c6f6164732f323031342f31322f4749465f32303134313232385f3230343734332e676966" width="60%" />
+
 项目名：LoadingView<br>
 git地址：https://github.com/ldoublem/LoadingView<br>
 预览:<br>
@@ -2142,22 +2165,25 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
-
+项目名：ignite<br>
+git地址:https://github.com/infinitered/ignite<br>
+预览:<br>
+<img src="https://github.com/infinitered/ignite/raw/master/_art/screens.gif" width="30%"/><br>
 
 项目名：EasyWeather<br>
 git地址:https://github.com/code-crusher/EasyWeather<br>
 预览:<br>
-<img src="https://github.com/code-crusher/EasyWeather/raw/master/images/screenshot.png" /><br>
+<img src="https://github.com/code-crusher/EasyWeather/raw/master/images/screenshot.png" width="30%"/><br>
 
 项目名：quill<br>
 git地址:https://github.com/vickychijwani/quill<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/3667c6d3c932088abb6305982635399c6990f952/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f333033373833312f7175696c6c2d6769746875622f666561747572652d677261706869632e706e67" /><br>
+<img src="https://camo.githubusercontent.com/3667c6d3c932088abb6305982635399c6990f952/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f333033373833312f7175696c6c2d6769746875622f666561747572652d677261706869632e706e67" width="30%"/><br>
 
 项目名：BookShelf<br>
 git地址:https://github.com/iHaPBoy/BookShelf<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/52dad44165bc8cfdbec1214f9008dcce0539967e/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f303036744e6252776a77316635386e7575337163786a33306a303069636d7976" /><br>
+<img src="https://camo.githubusercontent.com/52dad44165bc8cfdbec1214f9008dcce0539967e/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f303036744e6252776a77316635386e7575337163786a33306a303069636d7976" width="30%"/><br>
 
 
 项目名：RxWeather<br>
@@ -2374,6 +2400,8 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+
+
 ##疑难杂症:<br>
 
 
@@ -2387,6 +2415,14 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+
+
+
+
+项目名：MagicaSakura<br>
+git地址：https://github.com/Bilibili/MagicaSakura<br>
+预览:（多主题框架）<br>
+<img src="https://github.com/xyczero/MagicaSakura/raw/master/screenshot/magicasakura.gif" width="30%"/><br>
 
 项目名：PermissionGen<br>
 git地址：https://github.com/lovedise/PermissionGen<br>
@@ -2623,6 +2659,13 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+项目名：ForAndroidInterview<br>
+git地址：https://github.com/Mr-YangCheng/ForAndroidInterview<br>
+预览:<br>
+无<br>
+解释:<br>
+android interview experience and question in (android、java、data structure、tcp/ip、os)<br>
 
 项目名：Android_Data<br>
 git地址：https://github.com/Freelander/Android_Data<br>
@@ -2878,6 +2921,8 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
+
+
 ##工具类/素材:<br>
 
 
@@ -2888,6 +2933,14 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
+
+
+
+项目名：spark<br>
+git地址：https://github.com/romainguy/elegant-underline<br>
+预览:<br>
+<img src="https://github.com/romainguy/elegant-underline/raw/master/art/elegant-underline.png" width="30%"/><br><br>
+描述：字体库<br>
 
 项目名：spark<br>
 git地址：https://github.com/perwendel/spark<br>
