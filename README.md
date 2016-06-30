@@ -169,7 +169,10 @@ git地址：https://github.com/aurelhubert/ahbottomnavigation<br>
 
 
 
-
+项目名：photofilter<br>
+git地址：https://github.com/mukeshsolanki/photofilter<br>
+预览:<br>
+<img src=https://raw.githubusercontent.com/mukeshsolanki/photofilter/master/screenshots/Car-boost2.png" width="30%" /><br>
 
 项目名：QiniuImageLoader<br>
 git地址：https://github.com/lingochamp/QiniuImageLoader<br>
@@ -732,8 +735,6 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
-
-
 ##自定义控件/动画:<br>
 
 
@@ -743,8 +744,31 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：LiquidButton<br>
+git地址：https://github.com/yoruriko/LiquidButton<br>
+预览:<br>
+<img src="https://github.com/yoruriko/LiquidButton/raw/master/demo.gif" width="30%"/><br>
+
+项目名：android-tagview<br>
+git地址：https://github.com/kaedea/android-tagview<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/c89ab52cbc45a4929dafaff12e7d8d06b02eaa7b/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f4e332d72365a5f463055753368543546733448347930534e5735706a615575424d7533714c5a7350676f513d73363030" width="30%"/><br>
+
+项目名：ZDepthShadow<br>
+git地址：https://github.com/ShogoMizumoto/ZDepthShadow<br>
+预览:<br>
+<img src="https://github.com/ShogoMizumoto/ZDepthShadow/raw/master/blobs/demo.gif" width="30%"/><br>
+
+项目名：Android-Week-View<br>
+git地址：https://github.com/nikhilpanju/Android-Week-View<br>
+预览:<br>
+<img src="https://github.com/nikhilpanju/Android-Week-View/raw/develop/images/screen-shot.png" width="30%"/><br>
 
 
+项目名：SearchViewr<br>
+git地址：https://github.com/lapism/SearchViewr<br>
+预览:<br>
+<img src="https://github.com/lapism/SearchView/raw/master/images/image_2.png" width="30%"/><br>
 
 项目名：ExpandingPager<br>
 git地址：https://github.com/florent37/ExpandingPager<br>
@@ -1991,7 +2015,10 @@ git地址：https://github.com/bumptech/glide<br>
 
 
 
-
+项目名：DropDownMenu<br>
+git地址：https://github.com/baiiu/DropDownMenu<br>
+预览:<br>
+<img src="https://github.com/baiiu/DropDownMenu/raw/master/images/dropDownMenu.gif" width="30%"/>
 
 项目名：MaterialArcMenu<br>
 git地址：https://github.com/saurabharora90/MaterialArcMenu<br>
@@ -2164,6 +2191,10 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+项目名：SeeWeather<br>
+git地址:https://github.com/xcc3641/SeeWeather<br>
+预览:<br>
+<img src=https://camo.githubusercontent.com/57ee8d72fa5ba4f6dcdbfd84b7bfb24d40bb72c8/687474703a2f2f786363333634312e71696e6975646e2e636f6d2f6170702d2545352542302542312545372539432538422545352541342541392545362542302539342d2545352541342539432545362539392539412545362541382541312545352542432538462e706e67" width="30%"/><br>
 
 项目名：ignite<br>
 git地址:https://github.com/infinitered/ignite<br>
@@ -2658,7 +2689,19 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+项目名：AndroidInstantRun<br>
+git地址：https://github.com/nuptboyzhb/AndroidInstantRun<br>
+预览:<br>
+<img src="https://github.com/nuptboyzhb/AndroidInstantRun/raw/master/1.png" width="30%"/><br><br>
+解释:<br>
+Android Instant Run原理分析<br>
 
+项目名：SearchViewAnalysis<br>
+git地址：https://github.com/nukc/SearchViewAnalysis<br>
+预览:<br>
+无<br>
+解释:<br>
+SearchView源码解析<br>
 
 项目名：ForAndroidInterview<br>
 git地址：https://github.com/Mr-YangCheng/ForAndroidInterview<br>
@@ -2934,7 +2977,11 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
-
+项目名：material-theme-jetbrains<br>
+git地址：https://github.com/ChrisRM/material-theme-jetbrains<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/23646fe4611da85b8af26a0272945aebc0f72886/687474703a2f2f63646e2e6869666976652e6e6f2f6d6174657269616c2d75692f7468656d652d6461726b65722e706e67" width="30%"/><br><br>
+描述：JetBrains theme of Material Theme<br>
 
 项目名：spark<br>
 git地址：https://github.com/romainguy/elegant-underline<br>
