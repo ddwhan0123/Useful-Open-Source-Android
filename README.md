@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-6-30
+###更新时间:2016-7-1
 
 
 
@@ -743,6 +743,17 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+项目名：SlantedTextView<br>
+git地址：https://github.com/HeZaiJin/SlantedTextView<br>
+预览:<br>
+<img src="https://github.com/HeZaiJin/SlantedTextView/raw/master/screen_shot/screenshot.png" width="30%"/><br>
+
+项目名：MoneyTextView<br>
+git地址：https://github.com/fabiomsr/MoneyTextView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/fabiomsr/MoneyTextView/develop/art/screenshot2.png" width="30%"/><br>
 
 项目名：LiquidButton<br>
 git地址：https://github.com/yoruriko/LiquidButton<br>
@@ -1525,7 +1536,7 @@ git地址：https://github.com/sd6352051/RiseNumber<br>
 ![](https://camo.githubusercontent.com/0edd9bf488250060322dbf5496dddd8e096b5ca9/687474703a2f2f696d67312e70682e3132362e6e65742f344b775451756f5f637975364a3050443346313231513d3d2f363631393037373539313339373631303037372e676966) <br>
 
 
-项目名：BlurLockView<br>
+项目名：BlurLockView<br>ƒ
 git地址：https://github.com/Nightonke/BlurLockView<br>
 预览:<br>
 ![](https://github.com/Nightonke/BlurLockView/raw/master/Pictures/in_out.gif) <br>
