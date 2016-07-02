@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-7-1
+###更新时间:2016-7-3
 
 
 
@@ -27,7 +27,16 @@
 
 
 
+项目名：VidEffects<br>
+git地址：https://github.com/krazykira/VidEffects<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/2201511/9244232/ded8b760-41b2-11e5-9e4b-54d7c0b9cfca.png" width="30%" />
 
+
+项目名：JieCaoVideoPlayer<br>
+git地址：https://github.com/lipangit/JieCaoVideoPlayer<br>
+预览:<br>
+<img src="https://github.com/lipangit/JieCaoVideoPlayer/raw/develop/screenshots/j6.jpg" width="30%" />
 
 项目名：MusicPlayerView<br>
 git地址：https://github.com/iammert/MusicPlayerView<br>
@@ -316,6 +325,11 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+
+项目名：twoway-view<br>
+git地址：https://github.com/lucasr/twoway-view<br>
+预览:<br>
+<img src="https://github.com/lucasr/twoway-view/raw/master/images/sample.png" width="30%"/><br>
 
 项目名：HeaderAndFooterRecyclerView<br>
 git地址：https://github.com/cundong/HeaderAndFooterRecyclerView<br>
@@ -743,6 +757,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：mugen<br>
+git地址：https://github.com/vinaysshenoy/mugen<br>
+预览:<br>
+<img src="https://github.com/mipreamble/mugen/raw/development/img_assets/mugen_sample_1.gif" width="30%"/><br>
 
 
 项目名：SlantedTextView<br>
@@ -1966,6 +1985,13 @@ git地址：https://github.com/nisrulz/qreader<br>
 
 
 
+
+
+项目名：OkCacheControl<br>
+git地址：https://github.com/ncornette/OkCacheControl<br>
+解释:<br>
+Helper class to configure cache behaviour of OkHttp client and Retrofit <br>
+
 项目名：SaveVolley<br>
 git地址：https://github.com/CaMnter/SaveVolley<br>
 解释:<br>
@@ -2459,6 +2485,10 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+项目名：FirebaseAndroidChat<br>
+git地址：https://github.com/AleBarreto/FirebaseAndroidChat<br>
+预览:（Firebase Android Chat）<br>
+<img src="https://github.com/AleBarreto/FirebaseAndroidChat/raw/master/prints/1.png?raw=true" width="30%"/><br>
 
 
 项目名：MagicaSakura<br>
@@ -2698,6 +2728,14 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+
+项目名：react-native-lesson<br>
+git地址：https://github.com/vczero/react-native-lesson<br>
+预览:<br>
+无<br>
+解释:<br>
+React-Native入门指南<br>
 
 
 项目名：AndroidInstantRun<br>
@@ -2978,6 +3016,8 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 ##工具类/素材:<br>
+
+
 
 
 
