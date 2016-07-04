@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-7-3
+###更新时间:2016-7-4
 
 
 
@@ -2066,6 +2066,10 @@ git地址：https://github.com/bumptech/glide<br>
 
 
 
+项目名：smooth-app-bar-layout<br>
+git地址：https://github.com/henrytao-me/smooth-app-bar-layout<br>
+预览:<br>
+<img src="https://github.com/henrytao-me/smooth-app-bar-layout/raw/master/screenshots/screenshots.jpg" width="30%"/>
 
 项目名：DropDownMenu<br>
 git地址：https://github.com/baiiu/DropDownMenu<br>
