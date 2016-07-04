@@ -684,7 +684,10 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
-
+项目名： MaterialSearchView<br>
+git地址：https://github.com/Mauker1/MaterialSearchView<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/6676f599bcaac6b35b57a4c9729c52725b32d4c5/687474703a2f2f692e737461636b2e696d6775722e636f6d2f43354c41342e676966" width="30%"/><br>
 
 项目名： WhatsappFormatter<br>
 git地址：https://github.com/cooltechworks/WhatsappFormatter<br>
@@ -2240,6 +2243,11 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+项目名：MarkdownEditors<br>
+git地址:https://github.com/qinci/MarkdownEditors<br>
+预览:<br>
+<img src="https://github.com/qinci/MarkdownEditors/raw/master/image/image_new_01.jpg" width="30%"/><br>
+
 项目名：SeeWeather<br>
 git地址:https://github.com/xcc3641/SeeWeather<br>
 预览:<br>
@@ -2500,7 +2508,10 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
-
+项目名：jadx<br>
+git地址：https://github.com/skylot/jadx<br>
+预览:（Dex to Java decompiler）<br>
+<img src="https://camo.githubusercontent.com/bd3c0ea851c23c4535e43590a86c940a0786faa6/687474703a2f2f736b796c6f742e6769746875622e696f2f6a6164782f6a6164782d6775692e706e67" width="30%"/><br>
 
 项目名：FirebaseAndroidChat<br>
 git地址：https://github.com/AleBarreto/FirebaseAndroidChat<br>
