@@ -325,6 +325,12 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+项目名：AdapterDelegates<br>
+git地址：https://github.com/sockeqwe/AdapterDelegates<br>
+预览:<br>
+无<br>
+解释：<br>
+"Favor composition over inheritance" for RecyclerView Adapters http://hannesdorfmann.com/android/adapter-delegates<br>
 
 项目名：twoway-view<br>
 git地址：https://github.com/lucasr/twoway-view<br>
@@ -757,6 +763,12 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+项目名：touchdemo<br>
+git地址：https://github.com/cdflynn/touchdemo<br>
+预览:<br>
+<img src="https://github.com/cdflynn/touchdemo/raw/develop/app/media/td_sh.gif?raw=true" width="30%"/><br>
 
 项目名：mugen<br>
 git地址：https://github.com/vinaysshenoy/mugen<br>
@@ -2238,6 +2250,11 @@ git地址:https://github.com/infinitered/ignite<br>
 预览:<br>
 <img src="https://github.com/infinitered/ignite/raw/master/_art/screens.gif" width="30%"/><br>
 
+项目名：PackageTracker<br>
+git地址:https://github.com/fython/PackageTracker<br>
+预览:<br>
+<img src="https://github.com/fython/PackageTracker/raw/master/art/web_hi_res_512.png" width="30%"/><br>
+
 项目名：EasyWeather<br>
 git地址:https://github.com/code-crusher/EasyWeather<br>
 预览:<br>
@@ -2728,7 +2745,12 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
-
+项目名：AdvancedRxJava<br>
+git地址：https://github.com/Piasy/AdvancedRxJava<br>
+预览:<br>
+无<br>
+解释:<br>
+Advanced RxJava http://akarnokd.blogspot.com/ 系列博客的中文翻译，已征得作者授权。<br>
 
 项目名：react-native-lesson<br>
 git地址：https://github.com/vczero/react-native-lesson<br>
@@ -3026,7 +3048,11 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
-
+项目名：fragmentargs<br>
+git地址：https://github.com/sockeqwe/fragmentargs<br>
+预览:<br>
+无<br>
+描述：Annotation Processor to create arguments for android fragments without using reflections.<br>
 
 项目名：material-theme-jetbrains<br>
 git地址：https://github.com/ChrisRM/material-theme-jetbrains<br>
@@ -3108,6 +3134,27 @@ git地址：https://github.com/huiyan-fe/mapv<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/51b287915e7ecd8cfb4cb3e17396861380b33501/687474703a2f2f68756979616e2d66652e6769746875622e696f2f6d6170762f646f632f61737365742f67616c6c6572792f706f6c796c696e655f73696d706c652e6a7067" width="30%"/><br>
 描述：地图可视化工具库,canvas,map,visualization<br>
+
+
+
+
+
+
+
+##数据库：<br>
+
+
+
+
+
+
+
+项目名：Paper<br>
+git地址：https://github.com/pilgr/Paper<br>
+预览:<br>
+<img src="https://github.com/pilgr/Paper/raw/master/paper_icon.png" width="30%"/><br>
+描述：Fast and simple data storage library for Android<br>
+
 
 
 ##招聘:<br>
