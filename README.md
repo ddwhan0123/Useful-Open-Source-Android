@@ -178,6 +178,12 @@ git地址：https://github.com/aurelhubert/ahbottomnavigation<br>
 
 
 
+
+项目名：ndroid-multiple-images-selector<br>
+git地址：https://github.com/zfdang/android-multiple-images-selector<br>
+预览:<br>
+<img src=https://github.com/zfdang/android-multiple-images-selector/raw/master/demo.gif" width="30%" /><br>
+
 项目名：photofilter<br>
 git地址：https://github.com/mukeshsolanki/photofilter<br>
 预览:<br>
@@ -682,7 +688,10 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
-
+项目名： AndroidEdit<br>
+git地址：https://github.com/qinci/AndroidEdit<br>
+预览:<br>
+<img src="https://github.com/qinci/AndroidEdit/raw/master/image/image.gif" width="30%"/><br>
 
 项目名： MaterialSearchView<br>
 git地址：https://github.com/Mauker1/MaterialSearchView<br>
@@ -767,6 +776,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：glide-transformations<br>
+git地址：https://github.com/wasabeef/glide-transformations<br>
+预览:<br>
+<img src="https://github.com/wasabeef/glide-transformations/raw/master/art/demo.gif" width="30%"/><br>
 
 项目名：touchdemo<br>
 git地址：https://github.com/cdflynn/touchdemo<br>
@@ -2512,6 +2526,11 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+项目名：android-crash<br>
+git地址：https://github.com/msdx/android-crash<br>
+预览: （android程序崩溃异常处理框架）<br>
+无<br>
+
 项目名：jadx<br>
 git地址：https://github.com/skylot/jadx<br>
 预览:（Dex to Java decompiler）<br>
@@ -2759,6 +2778,17 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+
+
+
+
+项目名：LearningOpenGLES2-Android<br>
+git地址：https://github.com/skyfe79/LearningOpenGLES2-Android<br>
+预览:<br>
+<img src="https://github.com/skyfe79/LearningOpenGLES2-Android/raw/master/01.RedAlert/result.gif" width="30%"/><br><br>
+解释:<br>
+Learning OpenGL ES 2 in Java for Android<br>
 
 项目名：AdvancedRxJava<br>
 git地址：https://github.com/Piasy/AdvancedRxJava<br>
@@ -3052,6 +3082,10 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
+
+
+
+
 ##工具类/素材:<br>
 
 
@@ -3062,6 +3096,27 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
+
+
+项目名：android-common<br>
+git地址：https://github.com/litesuits/android-common<br>
+预览:<br>
+无<br>
+描述：Android Common Utils or Helper.<br>
+
+
+项目名：android-beacon-library<br>
+git地址：https://github.com/AltBeacon/android-beacon-library<br>
+预览:<br>
+无<br>
+描述： Allows Android apps to interact with BLE beacons
+<br>
+
+项目名：packagehunter<br>
+git地址：https://github.com/nisrulz/packagehunter<br>
+预览:<br>
+<img src="https://github.com/nisrulz/packagehunter/raw/master/img/github_banner.png" width="30%"/><br>
+描述： Android library to hunt down package information<br>
 
 项目名：fragmentargs<br>
 git地址：https://github.com/sockeqwe/fragmentargs<br>
@@ -3164,11 +3219,14 @@ git地址：https://github.com/huiyan-fe/mapv<br>
 
 
 
+
 项目名：Paper<br>
 git地址：https://github.com/pilgr/Paper<br>
 预览:<br>
 <img src="https://github.com/pilgr/Paper/raw/master/paper_icon.png" width="30%"/><br>
 描述：Fast and simple data storage library for Android<br>
+
+
 
 
 
