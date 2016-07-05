@@ -777,6 +777,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：android-about-page<br>
+git地址：https://github.com/medyo/android-about-page<br>
+预览:<br>
+<img src="https://github.com/medyo/android-about-page/raw/master/resources/cover.png" width="30%"/><br>
+
 项目名：glide-transformations<br>
 git地址：https://github.com/wasabeef/glide-transformations<br>
 预览:<br>
@@ -2261,6 +2266,14 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+
+
+
+项目名：SuperMvp<br>
+git地址:https://github.com/liuyanggithub/SuperMvp<br>
+预览:<br>
+<img src="https://github.com/liuyanggithub/SuperMvp/raw/master/picture1.gif" width="30%"/><br>
+
 项目名：MarkdownEditors<br>
 git地址:https://github.com/qinci/MarkdownEditors<br>
 预览:<br>
@@ -2524,7 +2537,10 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
-
+项目名：AndServer<br>
+git地址：https://github.com/yanzhenjie/AndServer<br>
+预览:（Android端搭建简单的Http服务器的框架）<br>
+无<br>
 
 项目名：android-crash<br>
 git地址：https://github.com/msdx/android-crash<br>
