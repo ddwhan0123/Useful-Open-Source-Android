@@ -27,6 +27,13 @@
 
 
 
+
+
+项目名：VideoPlayerManager<br>
+git地址：https://github.com/danylovolokh/VideoPlayerManager<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/2686355/12434458/6f677ae4-bf0f-11e5-8fa9-b3d3b8a30165.gif" width="30%"/><br>
+
 项目名：VidEffects<br>
 git地址：https://github.com/krazykira/VidEffects<br>
 预览:<br>
@@ -688,6 +695,8 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
+
 项目名： AndroidEdit<br>
 git地址：https://github.com/qinci/AndroidEdit<br>
 预览:<br>
@@ -776,6 +785,18 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+
+项目名：TextViewOverflowing<br>
+git地址：https://github.com/JustinAngel/TextViewOverflowing<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/5648a66f14dee4e2523be6ea16f364e9b575d0e0/687474703a2f2f692e696d6775722e636f6d2f3977717075696c2e6a7067" width="30%"/><br>
+
+项目名：vector-compat<br>
+git地址：https://github.com/wnafee/vector-compat<br>
+预览:<br>
+<img src="https://github.com/wnafee/vector-compat/raw/master/artwork/example_2.gif" width="30%"/><br>
 
 项目名：fave-button<br>
 git地址：https://github.com/xhamr/fave-button<br>
@@ -1393,10 +1414,7 @@ git地址：https://github.com/prolificinteractive/swipe-action-layout<br>
 <img src="https://github.com/prolificinteractive/swipe-action-layout/raw/master/images/demo1.gif" width="30%"/><br>
 
 
-项目名：VideoPlayerManager<br>
-git地址：https://github.com/danylovolokh/VideoPlayerManager<br>
-预览:<br>
-<img src="https://cloud.githubusercontent.com/assets/2686355/12434458/6f677ae4-bf0f-11e5-8fa9-b3d3b8a30165.gif" width="30%"/><br>
+
 
 项目名：ScratchView<br>
 git地址：https://github.com/cooltechworks/ScratchView<br>
