@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-7-4
+###更新时间:2016-7-6
 
 
 
@@ -776,6 +776,16 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：fave-button<br>
+git地址：https://github.com/xhamr/fave-button<br>
+预览:<br>
+<img src="https://github.com/xhamr/fave-button/raw/master/fave-button1.gif" width="30%"/><br>
+
+项目名：Popview-Android<br>
+git地址：https://github.com/krishnarb3/Popview-Android<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/0507f2331a833b16bfac0215679af3481c564e5c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f466f47536374744f46386534302f67697068792e676966" width="30%"/><br>
 
 项目名：android-about-page<br>
 git地址：https://github.com/medyo/android-about-page<br>
@@ -2085,6 +2095,12 @@ git地址：https://github.com/bumptech/glide<br>
 
 
 
+项目名：SideMenuController<br>
+git地址：https://github.com/teodorpatras/SideMenuController<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/teodorpatras/SideMenuController/master/assets/under_left.gif" width="30%"/>
+
+
 项目名：smooth-app-bar-layout<br>
 git地址：https://github.com/henrytao-me/smooth-app-bar-layout<br>
 预览:<br>
@@ -2267,7 +2283,10 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
-
+项目名：react-native-demo<br>
+git地址:https://github.com/Trinea/react-native-demo<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/14ad31d130082a6bf1081dac0af551d59091c1a3/687474703a2f2f702e636f64656b6b2e636f6d2f696d616765732f77656978696e2d636f64656b6b2d3136302e6a7067" width="30%"/><br>
 
 项目名：SuperMvp<br>
 git地址:https://github.com/liuyanggithub/SuperMvp<br>
@@ -2797,7 +2816,12 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
-
+项目名：article<br>
+git地址：https://github.com/WeMobileDev/article<br>
+预览:<br>
+<img src="https://github.com/WeMobileDev/article/raw/master/assets/qrcode_for_wemobiledev.jpg" width="30%"/><br><br>
+解释:<br>
+articles bt WeChat Mobile Development Team<br>
 
 项目名：LearningOpenGLES2-Android<br>
 git地址：https://github.com/skyfe79/LearningOpenGLES2-Android<br>
