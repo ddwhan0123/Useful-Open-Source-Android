@@ -184,7 +184,10 @@ git地址：https://github.com/aurelhubert/ahbottomnavigation<br>
 
 
 
-
+项目名：WatermarkCreator<br>
+git地址：https://github.com/ashishbhandari/WatermarkCreator<br>
+预览:<br>
+<img src=https://raw.githubusercontent.com/ashishbhandari/WatermarkCreator/master/screenshots/watermark_creator.gif" width="30%" /><br>
 
 项目名：ndroid-multiple-images-selector<br>
 git地址：https://github.com/zfdang/android-multiple-images-selector<br>
@@ -785,8 +788,20 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：AvatarImageView<br>
+git地址：https://github.com/Carbs0126/AvatarImageView<br>
+预览:<br>
+<img src="https://github.com/Carbs0126/Screenshot/raw/master/avatar_image_view4.jpg" width="30%"/><br>
 
+项目名：FogView_Library<br>
+git地址：https://github.com/dynamitechetan/FogView_Library<br>
+预览:<br>
+<img src="https://github.com/dynamitechetan/FogView_Library/raw/master/screenshots/screen1.gif" width="30%"/><br>
 
+项目名：tooltips<br>
+git地址：https://github.com/tomergoldst/tooltips<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/19874536/16546659/485f29ba-415a-11e6-898d-c880e4b643b6.gif" width="30%"/><br>
 
 项目名：TextViewOverflowing<br>
 git地址：https://github.com/JustinAngel/TextViewOverflowing<br>
@@ -2834,6 +2849,13 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+项目名：awesome-redux<br>
+git地址：https://github.com/xgrommx/awesome-redux<br>
+预览:<br>
+无<br>
+解释:<br>
+Awesome list of Redux examples and middlewares<br>
+
 项目名：article<br>
 git地址：https://github.com/WeMobileDev/article<br>
 预览:<br>
@@ -3154,7 +3176,11 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
-
+项目名：ig-json-parser<br>
+git地址：https://github.com/Instagram/ig-json-parser<br>
+预览:<br>
+无<br>
+描述：Fast JSON parser for java projects<br>
 
 项目名：android-common<br>
 git地址：https://github.com/litesuits/android-common<br>
