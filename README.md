@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-7-6
+###更新时间:2016-7-7
 
 
 
@@ -182,22 +182,25 @@ git地址：https://github.com/aurelhubert/ahbottomnavigation<br>
 
 
 
-
+项目名：TZImagePickerController<br>
+git地址：https://github.com/banchichen/TZImagePickerController<br>
+预览:<br>
+<img src="https://github.com/banchichen/TZImagePickerController/raw/master/TZImagePickerController/ScreenShots/photoPickerVc.PNG" width="30%" /><br>
 
 项目名：WatermarkCreator<br>
 git地址：https://github.com/ashishbhandari/WatermarkCreator<br>
 预览:<br>
-<img src=https://raw.githubusercontent.com/ashishbhandari/WatermarkCreator/master/screenshots/watermark_creator.gif" width="30%" /><br>
+<img src="https://raw.githubusercontent.com/ashishbhandari/WatermarkCreator/master/screenshots/watermark_creator.gif" width="30%" /><br>
 
 项目名：ndroid-multiple-images-selector<br>
 git地址：https://github.com/zfdang/android-multiple-images-selector<br>
 预览:<br>
-<img src=https://github.com/zfdang/android-multiple-images-selector/raw/master/demo.gif" width="30%" /><br>
+<img src="https://github.com/zfdang/android-multiple-images-selector/raw/master/demo.gif" width="30%" /><br>
 
 项目名：photofilter<br>
 git地址：https://github.com/mukeshsolanki/photofilter<br>
 预览:<br>
-<img src=https://raw.githubusercontent.com/mukeshsolanki/photofilter/master/screenshots/Car-boost2.png" width="30%" /><br>
+<img src="https://raw.githubusercontent.com/mukeshsolanki/photofilter/master/screenshots/Car-boost2.png" width="30%" /><br>
 
 项目名：QiniuImageLoader<br>
 git地址：https://github.com/lingochamp/QiniuImageLoader<br>
@@ -790,6 +793,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：Scrollable<br>
+git地址：https://github.com/noties/Scrollable<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/noties/Scrollable/master/sample.gif" width="30%"/><br>
 
 项目名：ShineButton<br>
 git地址：https://github.com/ChadCSong/ShineButton<br>
@@ -3198,6 +3206,13 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
+
+
+项目名：ThinkAndroid<br>
+git地址：https://github.com/white-cat/ThinkAndroid<br>
+预览:<br>
+无<br>
+描述：ThinkAndroid是一个免费的开源的、简易的、遵循Apache2开源协议发布的Android开发框架<br>
 
 项目名：ig-json-parser<br>
 git地址：https://github.com/Instagram/ig-json-parser<br>
