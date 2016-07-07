@@ -788,6 +788,15 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+
+项目名：ShineButton<br>
+git地址：https://github.com/ChadCSong/ShineButton<br>
+预览:<br>
+<img src="https://github.com/ChadCSong/ShineButton/raw/master/demo_shine_others.gif" width="30%"/><br>
+
+
 项目名：AvatarImageView<br>
 git地址：https://github.com/Carbs0126/AvatarImageView<br>
 预览:<br>
@@ -2314,7 +2323,10 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
-
+项目名：open-event-android<br>
+git地址:https://github.com/fossasia/open-event-android<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/e849f761ca58613ef4c669e61c35e35c5ab87f9c/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f6e354734797733742d2d552f302e6a7067" width="30%"/><br>
 
 项目名：react-native-demo<br>
 git地址:https://github.com/Trinea/react-native-demo<br>
@@ -2588,6 +2600,17 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+
+
+项目名：NewsTemplate<br>
+git地址：https://github.com/JeasonWong/NewsTemplate<br>
+预览:（新闻客户端必备功能）<br>
+<img src="https://camo.githubusercontent.com/fde230ae89d2bef2067077dec05d782dfc65c233/687474703a2f2f69342e7069696d672e636f6d2f313037302f643261323336306663613963396566382e676966" width="30%"/><br>
+
+项目名：svg2android<br>
+git地址：https://github.com/inloop/svg2android<br>
+预览:（SVG to Android VectorDrawable XML resource file http://inloop.github.io/svg2android）<br>
+<img src="https://github.com/inloop/svg2android/raw/gh-pages/img/example_imported_svg.png" width="30%"/><br>
 
 项目名：AndServer<br>
 git地址：https://github.com/yanzhenjie/AndServer<br>
