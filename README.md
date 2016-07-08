@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-7-7
+###更新时间:2016-7-8
 
 
 
@@ -343,6 +343,10 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+项目名：FocusResize<br>
+git地址：https://github.com/borjabravo10/FocusResize<br>
+预览:<br>
+<img src="https://github.com/borjabravo10/FocusResize/raw/master/resources/focusResize.gif" width="30%"/><br>
 
 项目名：AdapterDelegates<br>
 git地址：https://github.com/sockeqwe/AdapterDelegates<br>
@@ -789,10 +793,20 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：MetaballLoading<br>
+git地址：https://github.com/dodola/MetaballLoading<br>
+预览:<br>
+<img src="https://github.com/dodola/MetaballLoading/raw/master/metaball.gif" width="30%"/><br>
 
+项目名：GifImageView<br>
+git地址：https://github.com/felipecsl/GifImageView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/felipecsl/GifImageView/master/demo.gif" width="30%"/><br>
 
-
-
+项目名：DiscreteSlider<br>
+git地址：https://github.com/lawloretienne/DiscreteSlider<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/lawloretienne/DiscreteSlider/master/images/DiscreteSlider_Screenshot2.png" width="30%"/><br>
 
 项目名：Scrollable<br>
 git地址：https://github.com/noties/Scrollable<br>
@@ -2145,6 +2159,9 @@ git地址：https://github.com/bumptech/glide<br>
 
 
 
+
+
+
 项目名：SideMenuController<br>
 git地址：https://github.com/teodorpatras/SideMenuController<br>
 预览:<br>
@@ -2328,7 +2345,10 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
-
+项目名：520Linkee<br>
+git地址:https://github.com/GrayJIAXU/520Linkee<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/73c04ce59469697bfc1ee6987a031f8b9bf8a294/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f323030343336322d616364393736356633386161363962372e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="30%"/><br>
 
 
 项目名：open-event-android<br>
@@ -3207,6 +3227,12 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
+
+项目名：material-design-icons-adt-template<br>
+git地址：https://github.com/intrications/material-design-icons-adt-template<br>
+预览:<br>
+<img src="https://github.com/intrications/material-design-icons-adt-template/raw/master/template.png" width="30%"/><br><br>
+描述：Android Studio / Eclipse ADT template for material-design-icons resources<br>
 
 项目名：ThinkAndroid<br>
 git地址：https://github.com/white-cat/ThinkAndroid<br>
