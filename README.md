@@ -806,6 +806,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：ShareSDK<br>
+git地址：https://github.com/xyzlf/ShareSDK<br>
+预览:<br>
+<img src="https://github.com/xyzlf/ShareSDK/raw/master/share.png" width="30%"/><br>
+
 项目名：highlightjs-android<br>
 git地址：https://github.com/PDDStudio/highlightjs-android<br>
 预览:<br>
@@ -2179,6 +2184,11 @@ git地址：https://github.com/bumptech/glide<br>
 
 
 
+
+项目名：FlyoutMenus<br>
+git地址：https://github.com/ShamylZakariya/FlyoutMenus<br>
+预览:<br>
+<img src="https://github.com/ShamylZakariya/FlyoutMenus/raw/master/readme-assets/flyoutmenus-big.gif" width="30%"/>
 
 项目名：SideMenuController<br>
 git地址：https://github.com/teodorpatras/SideMenuController<br>
