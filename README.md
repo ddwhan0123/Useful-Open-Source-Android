@@ -820,10 +820,15 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：GuideView<br>
+git地址：https://github.com/binIoter/GuideView<br>
+预览:<br>
+<img src="https://github.com/xyzlf/ShareSDK/raw/master/share.png" width="30%"/><br>
+
 项目名：ShareSDK<br>
 git地址：https://github.com/xyzlf/ShareSDK<br>
 预览:<br>
-<img src="https://github.com/xyzlf/ShareSDK/raw/master/share.png" width="30%"/><br>
+<img src="https://github.com/binIoter/GuideView/raw/master/app/src/main/res/assets/review.gif" width="30%"/><br>
 
 项目名：highlightjs-android<br>
 git地址：https://github.com/PDDStudio/highlightjs-android<br>
