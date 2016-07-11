@@ -352,6 +352,11 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+项目名：sectioned-recyclerview<br>
+git地址：https://github.com/afollestad/sectioned-recyclerview<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/afollestad/sectioned-recyclerview/master/art/showcase.png" width="30%"/><br>
+
 项目名：sicooDemo<br>
 git地址：https://github.com/daimaXZ/sicooDemo<br>
 预览:<br>
@@ -2971,6 +2976,13 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+项目名：guidetodatamining<br>
+git地址：https://github.com/egrcc/guidetodatamining<br>
+预览:<br>
+<img src="https://github.com/egrcc/guidetodatamining/raw/master/img/mozi.jpeg" width="30%"/><br><br>
+解释:<br>
+面向程序员的数据挖掘指南 http://guidetodatamining.com/<br>
 
 项目名：github-roam<br>
 git地址：https://github.com/phodal/github-roam<br>
