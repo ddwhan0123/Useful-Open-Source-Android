@@ -351,6 +351,12 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+
+项目名：AndroidDatabinding<br>
+git地址：https://github.com/jiahuahuang/AndroidDatabinding<br>
+解释:<br>
+一个关于Data Binding的基本使用和recyclerview的通用适配器<br>
+
 项目名：FocusResize<br>
 git地址：https://github.com/borjabravo10/FocusResize<br>
 预览:<br>
@@ -2373,6 +2379,9 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+
+
+
 项目名：520Linkee<br>
 git地址:https://github.com/GrayJIAXU/520Linkee<br>
 预览:<br>
@@ -2657,6 +2666,10 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+项目名：HotFix<br>
+git地址：https://github.com/dodola/HotFix<br>
+解释：<br>
+安卓App热补丁动态修复框架<br>
 
 项目名：img-optimizer-gradle-plugin<br>
 git地址：https://github.com/chenenyu/img-optimizer-gradle-plugin<br>
