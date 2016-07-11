@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-7-8
+###更新时间:2016-7-11
 
 
 
@@ -28,6 +28,11 @@
 
 
 
+
+项目名：Music-Player<br>
+git地址：https://github.com/andremion/Music-Player<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/andremion/Music-Player/master/art/music_player_concept_cropped.gif" width="30%"/><br>
 
 项目名：VideoPlayerManager<br>
 git地址：https://github.com/danylovolokh/VideoPlayerManager<br>
@@ -174,6 +179,9 @@ git地址：https://github.com/aurelhubert/ahbottomnavigation<br>
 
 
 ##图片选择器/编辑器/加载 相关:<br>
+
+
+
 
 
 
@@ -792,6 +800,16 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+
+
+
+
+项目名：highlightjs-android<br>
+git地址：https://github.com/PDDStudio/highlightjs-android<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/PDDStudio/highlightjs-android/master/gfx/demo.png" width="30%"/><br>
 
 项目名：MetaballLoading<br>
 git地址：https://github.com/dodola/MetaballLoading<br>
@@ -2630,6 +2648,11 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+项目名：img-optimizer-gradle-plugin<br>
+git地址：https://github.com/chenenyu/img-optimizer-gradle-plugin<br>
+预览:（一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩）<br>
+<img src="https://github.com/chenenyu/img-optimizer-gradle-plugin/raw/master/arts/task.png" width="30%"/><br>
+
 项目名：NewsTemplate<br>
 git地址：https://github.com/JeasonWong/NewsTemplate<br>
 预览:（新闻客户端必备功能）<br>
@@ -2899,6 +2922,13 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+项目名：awesome-android-performance<br>
+git地址：https://github.com/Juude/awesome-android-performance<br>
+预览:<br>
+无<br>
+解释:<br>
+Android performance optimization tutorials, videos and tools list(Android性能优化视频，文档以及工具)<br>
 
 项目名：awesome-redux<br>
 git地址：https://github.com/xgrommx/awesome-redux<br>
