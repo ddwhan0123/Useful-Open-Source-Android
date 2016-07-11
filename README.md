@@ -352,6 +352,11 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+项目名：sicooDemo<br>
+git地址：https://github.com/daimaXZ/sicooDemo<br>
+预览:<br>
+<img src="https://github.com/daimaXZ/sicooDemo/raw/master/sicoo.gif" width="30%"/><br>
+
 项目名：AndroidDatabinding<br>
 git地址：https://github.com/jiahuahuang/AndroidDatabinding<br>
 解释:<br>
@@ -719,7 +724,10 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
-
+项目名： android-animate-RichEditor<br>
+git地址：https://github.com/xmuSistone/android-animate-RichEditor<br>
+预览:<br>
+<img src="https://github.com/xmuSistone/android-animate-RichEditor/raw/master/capture02.gif" width="30%"/><br>
 
 项目名： AndroidEdit<br>
 git地址：https://github.com/qinci/AndroidEdit<br>
@@ -2122,7 +2130,10 @@ git地址：https://github.com/nisrulz/qreader<br>
 
 
 
-
+项目名：KakaCache-RxJava<br>
+git地址：https://github.com/LittleFriendsGroup/KakaCache-RxJava<br>
+解释:<br>
+Android中网络请求及图片加载的缓存处理框架<br>
 
 项目名：OkCacheControl<br>
 git地址：https://github.com/ncornette/OkCacheControl<br>
@@ -2381,6 +2392,16 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+
+项目名：murmur<br>
+git地址:https://github.com/nekocode/murmur<br>
+预览:<br>
+<img src="https://github.com/nekocode/murmur/raw/master/art/screenshot3.png" width="30%"/><br>
+
+项目名：CarAssistant<br>
+git地址:https://github.com/qyxxjd/CarAssistant<br>
+预览:<br>
+<img src="https://github.com/qyxxjd/CarAssistant/raw/master/screenshots/Screenshot001.png?raw=true" width="30%"/><br>
 
 项目名：520Linkee<br>
 git地址:https://github.com/GrayJIAXU/520Linkee<br>
@@ -2945,6 +2966,13 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+项目名：github-roam<br>
+git地址：https://github.com/phodal/github-roam<br>
+预览:<br>
+无<br>
+解释:<br>
+GitHub 漫游指南<br>
 
 项目名：awesome-android-performance<br>
 git地址：https://github.com/Juude/awesome-android-performance<br>
