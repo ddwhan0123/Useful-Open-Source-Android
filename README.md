@@ -824,6 +824,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：SuperCircleSample<br>
+git地址：https://github.com/HayDar-Android/SuperCircleSample<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/HayDar-Android/SuperCircleSample/master/a.gif" width="30%"/><br>
+
 项目名：CarouselView<br>
 git地址：https://github.com/binaryroot/CarouselView<br>
 预览:<br>
