@@ -190,6 +190,7 @@ git地址：https://github.com/aurelhubert/ahbottomnavigation<br>
 
 
 
+
 项目名：TZImagePickerController<br>
 git地址：https://github.com/banchichen/TZImagePickerController<br>
 预览:<br>
@@ -824,6 +825,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：FloatingText<br>
+git地址：https://github.com/UFreedom/FloatingText<br>
+预览:<br>
+<img src="https://github.com/UFreedom/FloatingText/raw/master/coordinates.png" width="30%"/><br>
 
 项目名：GuideView<br>
 git地址：https://github.com/binIoter/GuideView<br>
