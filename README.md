@@ -824,7 +824,10 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
-
+项目名：CarouselView<br>
+git地址：https://github.com/binaryroot/CarouselView<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/9d7b68b2635c5a13cbe82639921e937597b4f8c7/68747470733a2f2f7333312e706f7374696d672e6f72672f68357a6d6b69687a762f657a6769665f636f6d5f766964656f5f746f5f6769662e676966" width="30%"/><br>
 
 项目名：FloatingText<br>
 git地址：https://github.com/UFreedom/FloatingText<br>
