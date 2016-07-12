@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-7-11
+###更新时间:2016-7-12
 
 
 
@@ -2190,6 +2190,11 @@ git地址：https://github.com/bumptech/glide<br>
 预览:<br>
 ![](https://github.com/bumptech/glide/raw/master/static/glide_logo.png) <br>
 
+项目名：GlideBitmapPool<br>
+git地址：https://github.com/amitshekhariitbhu/GlideBitmapPool<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/amitshekhariitbhu/GlideBitmapPool/master/assets/gcsamplelog.png" width="30%"/>
+
 
 
 
@@ -2401,7 +2406,10 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
-
+项目名：T-MVP<br>
+git地址:https://github.com/north2014/T-MVP<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/8f5227054ccf8722ed44796d3e76bc5619e2cc6f/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3735313836302d306263633062343963336162313361332e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="30%"/><br>
 
 项目名：murmur<br>
 git地址:https://github.com/nekocode/murmur<br>
@@ -2696,6 +2704,11 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+
+项目名：Carbon<br>
+git地址：https://github.com/ZieIony/Carbon<br>
+预览:<br>
+<img src="https://github.com/ZieIony/Carbon/raw/master/images/flowlayoutchips.png" width="30%"/><br>
 
 项目名：HotFix<br>
 git地址：https://github.com/dodola/HotFix<br>
