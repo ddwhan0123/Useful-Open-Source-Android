@@ -739,6 +739,11 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+项目名： SkyFloatingLabelTextField<br>
+git地址：https://github.com/Skyscanner/SkyFloatingLabelTextField<br>
+预览:<br>
+<img src="https://github.com/Skyscanner/SkyFloatingLabelTextField/raw/master/SkyFloatingLabelTextField/images/example-1.gif" width="30%"/><br>
+
 项目名： android-animate-RichEditor<br>
 git地址：https://github.com/xmuSistone/android-animate-RichEditor<br>
 预览:<br>
@@ -833,6 +838,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：Pulsator4Droid<br>
+git地址：https://github.com/booncol/Pulsator4Droid<br>
+预览:<br>
+<img src="https://github.com/booncol/Pulsator4Droid/raw/master/demo.gif" width="30%"/><br>
 
 项目名：WaitingDots<br>
 git地址：https://github.com/tajchert/WaitingDots<br>
@@ -2168,6 +2178,9 @@ git地址：https://github.com/nisrulz/qreader<br>
 
 
 ##网络 相关:<br>
+
+
+
 
 
 
