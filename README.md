@@ -2179,6 +2179,11 @@ git地址：https://github.com/nisrulz/qreader<br>
 
 
 
+项目名：okhttp-idling-resource<br>
+git地址：https://github.com/JakeWharton/okhttp-idling-resource<br>
+解释:<br>
+An Espresso IdlingResource for OkHttp. <br>
+
 项目名：KakaCache-RxJava<br>
 git地址：https://github.com/LittleFriendsGroup/KakaCache-RxJava<br>
 解释:<br>
@@ -2760,6 +2765,10 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+项目名：Tinker_imitator<br>
+git地址：https://github.com/zzz40500/Tinker_imitator<br>
+解释:<br>
+抢先体验Demo: 原理: 微信热更新方案<br>
 
 项目名：Carbon<br>
 git地址：https://github.com/ZieIony/Carbon<br>
