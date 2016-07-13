@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-7-12
+###更新时间:2016-7-13
 
 
 
@@ -352,6 +352,10 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+项目名：BaseRecyclerViewAdapterHelper<br>
+git地址：https://github.com/CymChad/BaseRecyclerViewAdapterHelper<br>
+预览:<br>
+<img src="https://github.com/CymChad/BaseRecyclerViewAdapterHelper/raw/master/demo_res/chlid_click.gif" width="30%"/><br>
 
 项目名：sectioned-recyclerview<br>
 git地址：https://github.com/afollestad/sectioned-recyclerview<br>
@@ -614,6 +618,11 @@ git地址：https://github.com/Aspsine/IRecyclerView<br>
 
 
 
+项目名：MaterialIntroTutorial<br>
+git地址：https://github.com/riggaroo/MaterialIntroTutorial<br>
+预览:<br>
+<img src="https://github.com/riggaroo/MaterialIntroTutorial/raw/master/example-usage.gif" width="30%"/><br>
+
 项目名：SlidingBall<br>
 git地址：https://github.com/dalong982242260/SlidingBall<br>
 预览:<br>
@@ -823,6 +832,17 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+项目名：ElemeShoppingView<br>
+git地址：https://github.com/JeasonWong/ElemeShoppingView<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/bcf966b31e9d2cb16ad81341fed16627dc2f30e9/687474703a2f2f69322e7069696d672e636f6d2f313037302f303232353766393331366262646362362e676966" width="30%"/><br>
+
+项目名：MaterialIntroView<br>
+git地址：https://github.com/iammert/MaterialIntroView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/iammert/MaterialIntroView/master/art/materialintroviewgif.gif" width="30%"/><br>
 
 项目名：SuperCircleSample<br>
 git地址：https://github.com/HayDar-Android/SuperCircleSample<br>
@@ -2230,6 +2250,16 @@ git地址：https://github.com/amitshekhariitbhu/GlideBitmapPool<br>
 
 
 
+
+项目名：StatusBarCompat<br>
+git地址：https://github.com/niorgai/StatusBarCompat<br>
+预览（沉浸式菜单栏）:<br>
+<img src="https://camo.githubusercontent.com/ffdde1e5a95d4c6732cceb19e88fda8bb0668a78/687474703a2f2f3773627179732e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f66756c6c53637265656e2e706e67" width="30%"/>
+
+项目名：RoversActionApi<br>
+git地址：https://github.com/schiztech/RoversActionApi<br>
+预览:<br>
+<img src="https://github.com/schiztech/RoversActionApi/raw/master/screenshots/screen1.png" width="30%"/>
 
 项目名：FlyoutMenus<br>
 git地址：https://github.com/ShamylZakariya/FlyoutMenus<br>
