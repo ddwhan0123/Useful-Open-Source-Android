@@ -834,6 +834,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：WaitingDots<br>
+git地址：https://github.com/tajchert/WaitingDots<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/tajchert/WaitingDots/master/images/dotsLoadingAnimation.gif" width="30%"/><br>
+
 项目名：ElemeShoppingView<br>
 git地址：https://github.com/JeasonWong/ElemeShoppingView<br>
 预览:<br>
@@ -2449,6 +2454,13 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+
+
+
+项目名：CoCoin<br>
+git地址:https://github.com/Nightonke/CoCoin<br>
+预览:<br>
+<img src="https://github.com/Nightonke/CoCoin/raw/master/PNG/CoCoin_White_Bg.png" width="30%"/><br>
 
 项目名：T-MVP<br>
 git地址:https://github.com/north2014/T-MVP<br>
