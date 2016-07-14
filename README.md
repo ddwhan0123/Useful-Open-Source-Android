@@ -838,6 +838,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：AboutIt<br>
+git地址：https://github.com/victorhaggqvist/AboutIt<br>
+预览:<br>
+<img src="https://github.com/victorhaggqvist/AboutIt/raw/master/img/img4.png" width="30%"/><br>
+
 
 项目名：Pulsator4Droid<br>
 git地址：https://github.com/booncol/Pulsator4Droid<br>
