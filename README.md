@@ -2778,6 +2778,11 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+项目名：ObservableScheduler<br>
+git地址：https://github.com/jiang111/ObservableScheduler<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/jiang111/ObservableScheduler/master/art/art.gif" width="30%"/><br>
+
 项目名：Tinker_imitator<br>
 git地址：https://github.com/zzz40500/Tinker_imitator<br>
 解释:<br>
