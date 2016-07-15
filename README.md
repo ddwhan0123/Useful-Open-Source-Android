@@ -1,10 +1,10 @@
 # Useful-Open-Source-Android
 
-##发起者：王亟亟<br>
+##power by：王亟亟<br>
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-7-13
+###更新时间:2016-7-15
 
 
 
@@ -2279,6 +2279,11 @@ git地址：https://github.com/amitshekhariitbhu/GlideBitmapPool<br>
 
 
 
+项目名：RelativePopupWindow<br>
+git地址：https://github.com/kakajika/RelativePopupWindow<br>
+预览（Android PopupWindow that can be easily located relative to anchor View）:<br>
+<img src="https://github.com/kakajika/RelativePopupWindow/raw/master/art/art1.gif" width="30%"/>
+
 项目名：StatusBarCompat<br>
 git地址：https://github.com/niorgai/StatusBarCompat<br>
 预览（沉浸式菜单栏）:<br>
@@ -2479,6 +2484,16 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+
+项目名：MoeQuest<br>
+git地址:https://github.com/HotBitmapGG/MoeQuest<br>
+预览:<br>
+<img src="https://github.com/HotBitmapGG/MoeQuest/raw/master/meizi_pic/02.jpg?raw=true" width="30%"/><br>
+
+项目名：Constraints<br>
+git地址:https://github.com/hitherejoe/Constraints<br>
+预览:<br>
+<img src="https://github.com/hitherejoe/Constraints/raw/master/images/constraintlayout.png" width="30%"/><br>
 
 项目名：CoCoin<br>
 git地址:https://github.com/Nightonke/CoCoin<br>
@@ -2782,6 +2797,11 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+
+项目名：Hermes<br>
+git地址：https://github.com/Xiaofei-it/Hermes<br>
+描述：<br>
+简单易用的安卓进程间通信IPC框架<br>
 
 项目名：ObservableScheduler<br>
 git地址：https://github.com/jiang111/ObservableScheduler<br>
