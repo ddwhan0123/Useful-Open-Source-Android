@@ -18,7 +18,11 @@
 
 
 
+
+
 ##多媒体 相关：<br>
+
+
 
 
 
@@ -119,7 +123,9 @@ git地址：https://github.com/curtis2/SuperVideoPlayer<br>
 
 
 
+
 ##Bottom Navigation 相关:<br>
+
 
 
 
@@ -341,7 +347,10 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+
 ##RecyclerView 相关:<br>
+
+
 
 
 
@@ -728,7 +737,11 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
+
 ##输入内容相关：<br>
+
+
 
 
 
@@ -2147,7 +2160,11 @@ git地址：https://github.com/lsjwzh/MaterialLoadingProgressBar<br>
 
 
 
+
+
 ##二维码 相关:<br>
+
+
 
 
 
@@ -2182,7 +2199,11 @@ git地址：https://github.com/nisrulz/qreader<br>
 
 
 
+
+
 ##网络 相关:<br>
+
+
 
 
 
@@ -2474,7 +2495,10 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+
 ##公开项目案例:<br>
+
+
 
 
 
@@ -3086,7 +3110,11 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+
 ##翻译,资料:<br>
+
+
 
 
 
@@ -3436,6 +3464,8 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
+
+
 ##工具类/素材:<br>
 
 
@@ -3446,6 +3476,11 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
+
+
+项目名：RxLifecycle<br>
+git地址：https://github.com/trello/RxLifecycle<br>
+描述：Lifecycle handling APIs for Android apps using RxJava<br>
 
 项目名：material-design-icons-adt-template<br>
 git地址：https://github.com/intrications/material-design-icons-adt-template<br>
