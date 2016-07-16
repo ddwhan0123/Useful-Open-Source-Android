@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-7-15
+###更新时间:2016-7-16
 
 
 
@@ -625,6 +625,12 @@ git地址：https://github.com/Aspsine/IRecyclerView<br>
 
 
 
+
+
+项目名：wrapping-viewpager<br>
+git地址：https://github.com/iffa/wrapping-viewpager<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/c4e619027d5de20a29ded67de75e63a4b392db7d/68747470733a2f2f7468756d62732e6766796361742e636f6d2f5265616c6973746963426c69737366756c4164616d7373746167686f726e6564626565746c652d73697a655f726573747269637465642e676966" width="30%"/><br>
 
 
 项目名：MaterialIntroTutorial<br>
