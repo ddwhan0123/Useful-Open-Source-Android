@@ -857,6 +857,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：AnimationEasingFunctions<br>
+git地址：https://github.com/daimajia/AnimationEasingFunctions<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/b22b160910884cdd5984b67864b5786e4d34a793/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f36313064633033346a77316568757a6f756c346838673230623030676d6839732e676966" width="30%"/><br>
+
 项目名：AboutIt<br>
 git地址：https://github.com/victorhaggqvist/AboutIt<br>
 预览:<br>
@@ -2273,6 +2278,11 @@ git地址：https://github.com/square/picasso<br>
 git地址：https://github.com/Aspsine/MultiThreadDownload<br>
 预览:<br>
 <img src="https://github.com/Aspsine/MultiThreadDownload/raw/master/art/pic1.png" width="60%" />
+
+项目名：RetrofitRxCache<br>
+git地址：https://github.com/cpoopc/RetrofitRxCache<br>
+解释:<br>
+trans normal Observable into Observable with cache,support retrofit<br>
 
 项目名：glide<br>
 git地址：https://github.com/bumptech/glide<br>
