@@ -3147,6 +3147,15 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+项目名：N个开源代码收纳<br>
+URL：http://www.jcodecraeer.com/plus/list.php?tid=31<br>
+URL：http://www.23code.com/<br>
+URL：http://www.android-gems.com/<br>
+URL：http://androidcat.com/?view=CatFragment<br>
+URL：http://www.open-open.com/lib/tag/Android<br>
+解释:<br>
+开源库收纳<br>
+
 项目名：Awesome-RxJava<br>
 git地址：https://github.com/lzyzsd/Awesome-RxJava<br>
 解释:<br>
