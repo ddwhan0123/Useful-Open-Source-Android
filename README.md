@@ -857,6 +857,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：DatePicker<br>
+git地址：https://github.com/AigeStudio/DatePicker<br>
+预览:<br>
+<img src="https://github.com/AigeStudio/DatePicker/raw/master/PreviewGif.gif" width="30%"/><br>
+
 项目名：AnimationEasingFunctions<br>
 git地址：https://github.com/daimajia/AnimationEasingFunctions<br>
 预览:<br>
