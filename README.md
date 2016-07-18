@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-7-16
+###更新时间:2016-7-18
 
 
 
@@ -2525,6 +2525,11 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+项目名：OpenEyes<br>
+git地址:https://github.com/xiaohaibin/OpenEyes<br>
+预览:<br>
+<img src="https://github.com/xiaohaibin/OpenEyes/raw/master/screenshots/001.jpg" width="30%"/><br>
+
 项目名：MoeQuest<br>
 git地址:https://github.com/HotBitmapGG/MoeQuest<br>
 预览:<br>
@@ -3498,6 +3503,12 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
+
+项目名：AndroidStudioPluginsNPlay<br>
+git地址：https://github.com/andyb129/AndroidStudioPluginsNPlay<br>
+预览:<br>
+<img src="https://github.com/andyb129/AndroidStudioPluginsNPlay/raw/master/images/plugins.jpeg" width="30%"/><br><br>
+描述：A list of cool/useful Android studio plugins<br>
 
 项目名：Colorful<br>
 git地址：https://github.com/hehonghui/Colorful<br>
