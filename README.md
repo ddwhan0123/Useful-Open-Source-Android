@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-7-18
+###更新时间:2016-7-19
 
 
 
@@ -856,6 +856,17 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+项目名：GiftCard<br>
+git地址：https://github.com/ldoublem/GiftCard<br>
+预览:<br>
+<img src="https://github.com/ldoublem/GiftCard/raw/master/screenshot/shot.gif" width="30%"/><br>
+
+项目名：AbilityChart<br>
+git地址：https://github.com/jiefly/AbilityChart<br>
+预览:<br>
+<img src="https://github.com/jiefly/AbilityChart/raw/master/app/GIF_AbilityChart.gif" width="30%"/><br>
 
 项目名：DatePicker<br>
 git地址：https://github.com/AigeStudio/DatePicker<br>
