@@ -361,6 +361,11 @@ git地址：https://github.com/yydcdut/SlideAndDragListView<br>
 
 
 
+项目名：RecyclerViewTools<br>
+git地址：https://github.com/eyeem/RecyclerViewTools<br>
+解释:<br>
+Collection of tools for RecyclerView. Includes headers, sections, pull to refresh, etc<br>
+
 项目名：BaseRecyclerViewAdapterHelper<br>
 git地址：https://github.com/CymChad/BaseRecyclerViewAdapterHelper<br>
 预览:<br>
@@ -856,6 +861,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：PullDownView<br>
+git地址：https://github.com/w4lle/PullDownView<br>
+预览:<br>
+<img src="https://github.com/w4lle/PullDownView/raw/master/pulldownLayout.gif" width="30%"/><br>
 
 项目名：StereoView<br>
 git地址：https://github.com/ImmortalZ/StereoView<br>
@@ -3178,6 +3188,10 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+项目名：github-help<br>
+git地址：https://github.com/waylau/github-help<br>
+解释:<br>
+《Github 帮助文档》 中文翻译（包含了官方文档以及其他文章）<br>
 
 项目名：Gradle-2-User-Guide<br>
 git地址：https://github.com/waylau/Gradle-2-User-Guide<br>
