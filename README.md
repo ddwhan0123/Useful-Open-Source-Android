@@ -857,6 +857,10 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：StereoView<br>
+git地址：https://github.com/ImmortalZ/StereoView<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/dc86ed6f966895ef1e343efc5cc7fd0469ec33c1/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630373135313535343532303530" width="30%"/><br>
 
 项目名：GiftCard<br>
 git地址：https://github.com/ldoublem/GiftCard<br>
@@ -3174,6 +3178,11 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+项目名：Gradle-2-User-Guide<br>
+git地址：https://github.com/waylau/Gradle-2-User-Guide<br>
+解释:<br>
+Gradle 2 User Guide 中文翻译《Gradle 2 用户指南》<br>
 
 项目名：N个开源代码收纳<br>
 URL：http://www.jcodecraeer.com/plus/list.php?tid=31<br>
