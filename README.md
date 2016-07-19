@@ -2245,6 +2245,13 @@ git地址：https://github.com/nisrulz/qreader<br>
 
 
 
+项目名：Fast-Android-Networking<br>
+git地址：https://github.com/amitshekhariitbhu/Fast-Android-Networking<br>
+解释:<br>
+A Complete Fast Android Networking Library that also support HTTP/2 <br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/amitshekhariitbhu/Fast-Android-Networking/master/assets/fastandroidnetworking.png" width="30%" />
+
 项目名：okhttp-idling-resource<br>
 git地址：https://github.com/JakeWharton/okhttp-idling-resource<br>
 解释:<br>
@@ -2540,6 +2547,11 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+
+项目名：PaperAirplane-Dev-Team/BlackLight<br>
+git地址:https://github.com/PaperAirplane-Dev-Team/BlackLight<br>
+解释:<br>
+A light Sina Weibo client for Android https://black.lighting<br>
 
 项目名：OpenEyes<br>
 git地址:https://github.com/xiaohaibin/OpenEyes<br>
@@ -3528,6 +3540,12 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
+
+项目名：logger<br>
+git地址：https://github.com/orhanobut/logger<br>
+预览:<br>
+<img src="https://github.com/orhanobut/logger/raw/master/images/description.png" width="30%"/><br><br>
+描述：Simple, pretty and powerful logger for android<br>
 
 项目名：AndroidStudioPluginsNPlay<br>
 git地址：https://github.com/andyb129/AndroidStudioPluginsNPlay<br>
