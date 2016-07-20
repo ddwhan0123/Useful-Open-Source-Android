@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-7-19
+###更新时间:2016-7-20
 
 
 
@@ -861,6 +861,16 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：MPAndroidChart<br>
+git地址：https://github.com/PhilJay/MPAndroidChart<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/782ded242133f98db56004fc94401570b8749620/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d50416e64726f696443686172742f6d61737465722f73637265656e73686f74732f726164617263686172742e706e67" width="30%"/><br>
+
+项目名：FloatingViewService<br>
+git地址：https://github.com/hanbaokun/FloatingViewService<br>
+预览:<br>
+<img src="https://github.com/hanbaokun/FloatingViewService/raw/master/Screenshot_2016-07-14-14-30-59-237_com.miui.home.png" width="30%"/><br>
 
 项目名：PullDownView<br>
 git地址：https://github.com/w4lle/PullDownView<br>
