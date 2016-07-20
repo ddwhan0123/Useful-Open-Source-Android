@@ -44,8 +44,6 @@ git地址：https://github.com/borjabravo10/FocusResize<br>
 
 项目名：AdapterDelegates<br>
 git地址：https://github.com/sockeqwe/AdapterDelegates<br>
-预览:<br>
-无<br>
 解释：<br>
 "Favor composition over inheritance" for RecyclerView Adapters http://hannesdorfmann.com/android/adapter-delegates<br>
 
@@ -189,7 +187,7 @@ git地址：https://github.com/Yalantis/pull-to-make-soup<br>
 项目名：FlyRefresh<br>
 git地址：https://github.com/race604/FlyRefresh<br>
 预览:<br>
-![](https://github.com/race604/FlyRefresh/raw/master/images/flyrefresh.gif) <br>
+<img src="https://github.com/race604/FlyRefresh/raw/master/images/flyrefresh.gif" width="30%"/><br>
 
 项目名：android-advancedrecyclerview<br>
 git地址：https://github.com/h6ah4i/android-advancedrecyclerview<br>
@@ -199,7 +197,8 @@ git地址：https://github.com/h6ah4i/android-advancedrecyclerview<br>
 项目名：RecyclerViewItemAnimators<br>
 git地址：https://github.com/gabrielemariotti/RecyclerViewItemAnimators<br>
 预览:<br>
-![](https://github.com/gabrielemariotti/RecyclerViewItemAnimators/raw/master/demo.gif) <br>
+
+<img src="https://github.com/gabrielemariotti/RecyclerViewItemAnimators/raw/master/demo.gif" width="30%"/><br>
 
 项目名：BGARefreshLayout-Android<br>
 git地址：https://github.com/bingoogolapple/BGARefreshLayout-Android<br>
