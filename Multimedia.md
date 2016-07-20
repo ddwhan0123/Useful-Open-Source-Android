@@ -8,7 +8,9 @@
 
 
 
+---------
 
+###播放器相关：<br>
 
 
 
@@ -16,6 +18,21 @@
 git地址：https://github.com/andremivon/Music-Player<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/andremion/Music-Player/master/art/music_player_concept_cropped.gif" width="30%"/><br>
+
+项目名：JieCaoVideoPlayer<br>
+git地址：https://github.com/lipangit/JieCaoVideoPlayer<br>
+预览:<br>
+<img src="https://github.com/lipangit/JieCaoVideoPlayer/raw/develop/screenshots/j6.jpg" width="30%" />
+
+项目名：MusicPlayerView<br>
+git地址：https://github.com/iammert/MusicPlayerView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/iammert/MusicPlayerView/master/art/art2.gif" width="30%" />
+
+-------------
+
+###视频相关：<br>
+
 
 项目名：VideoPlayerManager<br>
 git地址：https://github.com/danylovolokh/VideoPlayerManager<br>
@@ -28,15 +45,9 @@ git地址：https://github.com/krazykira/VidEffects<br>
 <img src="https://cloud.githubusercontent.com/assets/2201511/9244232/ded8b760-41b2-11e5-9e4b-54d7c0b9cfca.png" width="30%" />
 
 
-项目名：JieCaoVideoPlayer<br>
-git地址：https://github.com/lipangit/JieCaoVideoPlayer<br>
-预览:<br>
-<img src="https://github.com/lipangit/JieCaoVideoPlayer/raw/develop/screenshots/j6.jpg" width="30%" />
 
-项目名：MusicPlayerView<br>
-git地址：https://github.com/iammert/MusicPlayerView<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/iammert/MusicPlayerView/master/art/art2.gif" width="30%" />
+
+
 
 
 项目名：Teameeting-Android<br>
