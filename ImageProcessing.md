@@ -31,15 +31,6 @@ git地址：https://github.com/jeasonlzy0216/ImagePicker<br>
 git地址：https://github.com/banchichen/TZImagePickerController<br>
 预览:<br>
 <img src="https://github.com/banchichen/TZImagePickerController/raw/master/TZImagePickerController/ScreenShots/photoPickerVc.PNG" width="30%" /><br>
------------
-
-
-
-
-项目名：WatermarkCreator<br>
-git地址：https://github.com/ashishbhandari/WatermarkCreator<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/ashishbhandari/WatermarkCreator/master/screenshots/watermark_creator.gif" width="30%" /><br>
 
 项目名：ndroid-multiple-images-selector<br>
 git地址：https://github.com/zfdang/android-multiple-images-selector<br>
@@ -50,18 +41,24 @@ git地址：https://github.com/zfdang/android-multiple-images-selector<br>
 
 ###图像处理：<br>
 
+项目名：WatermarkCreator<br>
+git地址：https://github.com/ashishbhandari/WatermarkCreator<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/ashishbhandari/WatermarkCreator/master/screenshots/watermark_creator.gif" width="30%" /><br>
+
 项目名：photofilter<br>
 git地址：https://github.com/mukeshsolanki/photofilter<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/mukeshsolanki/photofilter/master/screenshots/Car-boost2.png" width="30%" /><br>
 
-
----------
-
 项目名：QiniuImageLoader<br>
 git地址：https://github.com/lingochamp/QiniuImageLoader<br>
 预览:<br>
 <img src="https://github.com/lingochamp/QiniuImageLoader/raw/master/art/demo_1.jpg" width="30%" /><br>
+
+---------
+
+
 
 项目名：GestureViews<br>
 git地址：https://github.com/alexvasilkov/GestureViews<br>
