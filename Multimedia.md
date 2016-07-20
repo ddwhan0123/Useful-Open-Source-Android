@@ -74,10 +74,7 @@ git地址：https://github.com/appunite/AndroidFFmpeg<br>
 
 
 
-项目名：MagicCamera<br>
-git地址：https://github.com/wuhaoyu1990/MagicCamera<br>
-预览:<br>
-<img src="https://github.com/wuhaoyu1990/MagicCamera/raw/master/Screenshot_1.png" width="30%" />
+
 
 
 
@@ -86,10 +83,7 @@ git地址：https://github.com/imshyam/mintube<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/imshyam/mintube/master/screens/diff.png" width="30%" />
 
-项目名：MagicalCamera<br>
-git地址：https://github.com/fabian7593/MagicalCamera<br>
-预览:<br>
-<img src="https://github.com/fabian7593/MagicalCamera/raw/master/magicalcamera.gif" width="30%" />
+
 
 项目名：easy-video-player<br>
 git地址：https://github.com/afollestad/easy-video-player<br>
