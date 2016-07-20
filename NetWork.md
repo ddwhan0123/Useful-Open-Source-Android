@@ -70,7 +70,7 @@ git地址：https://github.com/square/picasso<br>
 项目名：MultiThreadDownload<br>
 git地址：https://github.com/Aspsine/MultiThreadDownload<br>
 预览:<br>
-<img src="https://github.com/Aspsine/MultiThreadDownload/raw/master/art/pic1.png" width="60%" />
+<img src="https://github.com/Aspsine/MultiThreadDownload/raw/master/art/pic1.png" width="30%" />
 
 项目名：RetrofitRxCache<br>
 git地址：https://github.com/cpoopc/RetrofitRxCache<br>
