@@ -3687,11 +3687,8 @@ git地址：https://github.com/pilgr/Paper<br>
 
 
 
-##招聘:<br>
-
-招聘項目地址：https://github.com/Bilibili/join-us<br>
-公司：Bilibili<br>
-城市：上海<br>
+##招聘/内推:<br>
+##[点击跳转 Job.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Job.md)
 
 
 
