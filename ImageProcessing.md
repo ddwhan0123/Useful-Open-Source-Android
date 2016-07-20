@@ -8,8 +8,15 @@
 
 
 
+---------
 
+###图片选择器相关：<br>
 
+项目名：PhotoPicker<br>
+git地址：https://github.com/donglua/PhotoPicker<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/fdfbd6a029ad0f17e8cb782b1fc2cc579ca99e19/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f3565396138316462677731657472613665666c31686a3230367a3063657765742e6a7067" width="30%" /><br>
+-----------
 
 
 项目名：TZImagePickerController<br>
@@ -42,15 +49,16 @@ git地址：https://github.com/alexvasilkov/GestureViews<br>
 预览:<br>
 <img src="https://github.com/alexvasilkov/GestureViews/raw/master/sample/art/demo.gif" width="30%" /><br>
 
+---------
+### 照相机相关<br>
+
+
 项目名：DistanceMeasure<br>
 git地址：https://github.com/shixinzhang/DistanceMeasure<br>
 预览:<br>
-![](https://github.com/shixinzhang/DistanceMeasure/raw/master/screenshots/screen_2.jpeg) <br>
+<img src="https://github.com/shixinzhang/DistanceMeasure/raw/master/screenshots/screen_2.jpeg" width="30%" /><br>
 
-项目名：PhotoPicker<br>
-git地址：https://github.com/donglua/PhotoPicker<br>
-预览:<br>
-![](https://camo.githubusercontent.com/fdfbd6a029ad0f17e8cb782b1fc2cc579ca99e19/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f3565396138316462677731657472613665666c31686a3230367a3063657765742e6a7067) <br>
+
 
 
 项目名：android-image-picker<br>
