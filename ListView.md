@@ -22,7 +22,7 @@ git地址：https://github.com/traex/CalendarListview<br>
 项目名：PullToZoomInListView<br>
 git地址：https://github.com/matrixxun/PullToZoomInListView<br>
 预览:<br>
-![](https://github.com/matrixxun/PullToZoomInListView/raw/master/art/pull-to-zoom.gif) <br>
+<img src="https://github.com/matrixxun/PullToZoomInListView/raw/master/art/pull-to-zoom.gif" width="30%" /><br>
 
 项目名：ListViewAnimations<br>
 git地址：https://github.com/nhaarman/ListViewAnimations<br>
