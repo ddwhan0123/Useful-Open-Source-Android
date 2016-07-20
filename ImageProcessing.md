@@ -46,6 +46,11 @@ git地址：https://github.com/zfdang/android-multiple-images-selector<br>
 git地址：https://github.com/alexvasilkov/GestureViews<br>
 预览:<br>
 <img src="https://github.com/alexvasilkov/GestureViews/raw/master/sample/art/demo.gif" width="30%" /><br>
+
+项目名：AndroidPicturePicker<br>
+git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/10e37ca4f68e656eef1722b2a458140f4ef92564/687474703a2f2f3773627934372e636f6d352e7a302e676c622e636c6f7564646e2e636f6d2f73637265656e73686f74322e6a70672d7868647069" width="30%" /><br>
 ----------
 
 ###图像处理：<br>
@@ -86,16 +91,6 @@ git地址：https://github.com/shixinzhang/DistanceMeasure<br>
 
 
 
-
-
-
-
-
-
-项目名：AndroidPicturePicker<br>
-git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/10e37ca4f68e656eef1722b2a458140f4ef92564/687474703a2f2f3773627934372e636f6d352e7a302e676c622e636c6f7564646e2e636f6d2f73637265656e73686f74322e6a70672d7868647069" width="30%" /><br>
 
 
 
