@@ -2280,7 +2280,7 @@ git地址：https://github.com/amitshekhariitbhu/Fast-Android-Networking<br>
 解释:<br>
 A Complete Fast Android Networking Library that also support HTTP/2 <br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/amitshekhariitbhu/Fast-Android-Networking/master/assets/fastandroidnetworking.png" width="30%" />
+<img src="https://raw.githubusercontent.com/amitshekhariitbhu/Fast-Android-Networking/master/assets/androidnetworking.png" width="30%" />
 
 项目名：okhttp-idling-resource<br>
 git地址：https://github.com/JakeWharton/okhttp-idling-resource<br>
