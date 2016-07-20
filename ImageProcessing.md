@@ -12,6 +12,11 @@
 
 ###图片选择器相关：<br>
 
+项目名：android-image-picker<br>
+git地址：https://github.com/sd6352051/android-image-picker<br>
+预览:<br>
+<img src="https://github.com/sd6352051/android-image-picker/raw/master/gif/gallery.gif" width="30%" /><br>
+
 项目名：PhotoPicker<br>
 git地址：https://github.com/donglua/PhotoPicker<br>
 预览:<br>
@@ -60,13 +65,17 @@ git地址：https://github.com/lingochamp/QiniuImageLoader<br>
 预览:<br>
 <img src="https://github.com/lingochamp/QiniuImageLoader/raw/master/art/demo_1.jpg" width="30%" /><br>
 
+项目名：ImageEditor-Android<br>
+git地址：https://github.com/siwangqishiq/ImageEditor-Android<br>
+预览:<br>
+<img src="https://github.com/siwangqishiq/ImageEditAndroid/raw/master/screens/demo1.gif" width="30%" /><br>
 ---------
 
 
 
 
 
----------
+
 ### 照相机相关<br>
 
 
@@ -78,16 +87,10 @@ git地址：https://github.com/shixinzhang/DistanceMeasure<br>
 
 
 
-项目名：android-image-picker<br>
-git地址：https://github.com/sd6352051/android-image-picker<br>
-预览:<br>
-![](https://github.com/sd6352051/android-image-picker/raw/master/gif/gallery.gif) <br>
 
 
-项目名：ImageEditor-Android<br>
-git地址：https://github.com/siwangqishiq/ImageEditor-Android<br>
-预览:<br>
-![](https://github.com/siwangqishiq/ImageEditAndroid/raw/master/screens/demo1.gif) <br>
+
+
 
 项目名：AndroidPicturePicker<br>
 git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
