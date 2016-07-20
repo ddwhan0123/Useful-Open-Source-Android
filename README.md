@@ -862,6 +862,12 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：PaperShredder<br>
+git地址：https://github.com/ldoublem/PaperShredder<br>
+预览:<br>
+<img src="https://github.com/ldoublem/PaperShredder/raw/master/screenshot/shot.png" width="30%"/><br>
+
 项目名：MPAndroidChart<br>
 git地址：https://github.com/PhilJay/MPAndroidChart<br>
 预览:<br>
@@ -2571,6 +2577,11 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+
+项目名：NHentai-android<br>
+git地址:https://github.com/FengMoeTeam/NHentai-android<br>
+预览:<br>
+<img src="https://github.com/FengMoeTeam/NHentai-android/raw/master/art/screenshot_main.png" width="30%"/><br>
 
 项目名：PaperAirplane-Dev-Team/BlackLight<br>
 git地址:https://github.com/PaperAirplane-Dev-Team/BlackLight<br>
