@@ -90,7 +90,15 @@ git地址：https://github.com/shixinzhang/DistanceMeasure<br>
 <img src="https://github.com/shixinzhang/DistanceMeasure/raw/master/screenshots/screen_2.jpeg" width="30%" /><br>
 
 
+项目名：MagicCamera<br>
+git地址：https://github.com/wuhaoyu1990/MagicCamera<br>
+预览:<br>
+<img src="https://github.com/wuhaoyu1990/MagicCamera/raw/master/Screenshot_1.png" width="30%" />
 
+项目名：MagicalCamera<br>
+git地址：https://github.com/fabian7593/MagicalCamera<br>
+预览:<br>
+<img src="https://github.com/fabian7593/MagicalCamera/raw/master/magicalcamera.gif" width="30%" />
 
 
 
