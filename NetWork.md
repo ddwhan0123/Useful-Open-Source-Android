@@ -60,7 +60,7 @@ git地址：https://github.com/square/okhttp<br>
 项目名：OkHttpUtils<br>
 git地址：https://github.com/jeasonlzy0216/OkHttpUtils<br>
 预览:<br>
-![](https://camo.githubusercontent.com/9de765ff0932e14c2fdeceb4b8c7a9608dd686a2/687474703a2f2f3778737335332e636f6d322e7a302e676c622e636c6f7564646e2e636f6d2f6f6b687474707574696c732f64656d6f322e676966) <br>
+![](https://camo.githubusercontent.com/131905708417d897e06474291aee049c95ae8ecb/687474703a2f2f3778737335332e636f6d322e7a302e676c622e636c6f7564646e2e636f6d2f6f6b687474707574696c732f64656d6f312e706e67) <br>
 
 项目名：picasso<br>
 git地址：https://github.com/square/picasso<br>
