@@ -81,7 +81,15 @@
 
 
 
+项目名：android-sticky-viewpager<br>
+git地址：https://github.com/xmuSistone/android-sticky-viewpager<br>
+预览:<br>
+<img src="https://github.com/xmuSistone/android-sticky-viewpager/raw/master/gif01.gif" width="30%"/><br>
 
+项目名：Android-ParallaxHeaderViewPager<br>
+git地址：https://github.com/kmshack/Android-ParallaxHeaderViewPager<br>
+预览:<br>
+<img src="https://github.com/kmshack/Android-ParallaxHeaderViewPager/raw/master/screen.png" width="30%"/><br>
 
 项目名：wrapping-viewpager<br>
 git地址：https://github.com/iffa/wrapping-viewpager<br>
@@ -313,6 +321,29 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+
+
+项目名：LikesLayout<br>
+git地址:https://github.com/Iojjj/LikesLayout<br>
+预览:<br>
+<img src="https://github.com/Iojjj/LikesLayout/raw/master/images/demo.gif" width="30%"/><br>
+
+项目名：android-filepicker<br>
+git地址:https://github.com/Angads25/android-filepicker<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/Angads25/android-filepicker/master/screenshot1.png" width="30%"/><br>
+
+项目名：RoundedCornersBackgroundSpan<br>
+git地址:https://github.com/Iojjj/RoundedCornersBackgroundSpan<br>
+预览:<br>
+<img src="https://github.com/Iojjj/RoundedCornersBackgroundSpan/raw/master/images/demo.png" width="30%"/><br>
+
+项目名：ticker<br>
+git地址:https://github.com/robinhood/ticker<br>
+预览:<br>
+<img src="https://github.com/robinhood/ticker/raw/master/assets/ticker_main.gif" width="30%"/><br>
 
 项目名：PaperShredder<br>
 git地址：https://github.com/ldoublem/PaperShredder<br>
@@ -1747,6 +1778,10 @@ git地址：https://github.com/nisrulz/qreader<br>
 
 
 
+项目名：LoopBar<br>
+git地址：https://github.com/Cleveroad/LoopBar<br>
+预览:Tap Bar with infinite scrolling:<br>
+<img src="https://github.com/Cleveroad/LoopBar/raw/master/images/header.png" width="30%"/>
 
 
 项目名：RelativePopupWindow<br>
@@ -2289,6 +2324,13 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+
+
+项目名：PermissionUtils<br>
+git地址：https://github.com/rebus007/PermissionUtils<br>
+描述：<br>
+Check marshmallow permission easily https://rebus007.github.io/PermissionUtils/<br>
+
 项目名：Hermes<br>
 git地址：https://github.com/Xiaofei-it/Hermes<br>
 描述：<br>
@@ -2590,7 +2632,10 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
-
+项目名:Android-APT-Framework<br>
+git地址：https://github.com/lizhaoxuan/Android-APT-Framework<br>
+解释:<br>
+Android编译时注解框架系列博客<br>
 
 项目名：github-help<br>
 git地址：https://github.com/waylau/github-help<br>
@@ -2967,6 +3012,10 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
+
+项目名：ParcelableGenerator<br>
+git地址：https://github.com/baoyongzhang/ParcelableGenerator<br>
+描述：A line of code to get Parcelable. Android Parcelable models made easy<br>
 
 项目名：logger<br>
 git地址：https://github.com/orhanobut/logger<br>
