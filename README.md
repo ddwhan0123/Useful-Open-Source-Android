@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-7-20<br>
+###更新时间:2016-7-23<br>
 
 
 ------------
@@ -324,6 +324,11 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+项目名：CircularAnim<br>
+git地址:https://github.com/XunMengWinter/CircularAnim<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/XunMengWinter/source/master/gif/CircularAnimDemo.gif" width="30%"/><br>
 
 项目名：LikesLayout<br>
 git地址:https://github.com/Iojjj/LikesLayout<br>
