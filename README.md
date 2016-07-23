@@ -1627,25 +1627,30 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
+项目名：discreteSeekBar<br>
+git地址：https://github.com/AnderWeb/discreteSeekBar<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/b1c5e00bc9164c24b995a95942dbb731edd8d39e/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d4a6a7678564d436d3175672f56485550575642667062492f41414141414141414874512f5450746f4f6a4849354d412f773633392d683335362f7365656b626172322e676966" width="30%" />
+
 项目名：FabProgress<br>
 git地址：https://github.com/katsuki-nakatani/FabProgress<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/aa6c8f9aa0553ce412c83003d54de5edc94bd519/687474703a2f2f6d6972756b6572617070732e636f6d2f77702f77702d636f6e74656e742f75706c6f6164732f323031342f31322f4749465f32303134313232385f3230343734332e676966" width="60%" />
+<img src="https://camo.githubusercontent.com/aa6c8f9aa0553ce412c83003d54de5edc94bd519/687474703a2f2f6d6972756b6572617070732e636f6d2f77702f77702d636f6e74656e742f75706c6f6164732f323031342f31322f4749465f32303134313232385f3230343734332e676966" width="30%" />
 
 项目名：LoadingView<br>
 git地址：https://github.com/ldoublem/LoadingView<br>
 预览:<br>
-<img src="https://github.com/ldoublem/LoadingView/raw/master/screen/%E6%95%88%E6%9E%9C.gif" width="60%" />
+<img src="https://github.com/ldoublem/LoadingView/raw/master/screen/%E6%95%88%E6%9E%9C.gif" width="30%" />
 
 项目名：CircleProgressBar<br>
 git地址：https://github.com/dinuscxj/CircleProgressBar<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/dinuscxj/CircleProgressBar/master/Preview/CircleProgressBar.gif?width=300" width="60%" />
+<img src="https://raw.githubusercontent.com/dinuscxj/CircleProgressBar/master/Preview/CircleProgressBar.gif?width=300" width="30%" />
 
 项目名：uberprogressview<br>
 git地址：https://github.com/ishan1604/uberprogressview<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/ishan1604/uberprogressview/master/branding/UberProgressViewDemo.gif" width="60%" />
+<img src="https://raw.githubusercontent.com/ishan1604/uberprogressview/master/branding/UberProgressViewDemo.gif" width="30%" />
 
 项目名：materialish-progress<br>
 git地址：https://github.com/pnikosis/materialish-progress<br>
@@ -1655,12 +1660,12 @@ git地址：https://github.com/pnikosis/materialish-progress<br>
 项目名：ElasticDownload<br>
 git地址：https://github.com/Tibolte/ElasticDownload<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/fail.gif" width="60%" />
+<img src="https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/fail.gif" width="30%" />
 
 项目名：CatLoadingView<br>
 git地址：https://github.com/Rogero0o/CatLoadingView<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/762015246e027b7d46df51faa51fd669e44f974b/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f61363935616364656a7731663268626d66787a6b3567323038753061326173732e676966" width="60%" />
+<img src="https://camo.githubusercontent.com/762015246e027b7d46df51faa51fd669e44f974b/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f61363935616364656a7731663268626d66787a6b3567323038753061326173732e676966" width="30%" />
 
 
 项目名：NumberProgressBar<br>
@@ -1955,6 +1960,11 @@ git地址：https://github.com/H07000223/FlycoTabLayout<br>
 
 
 
+
+项目名：Pugnotification<br>
+git地址：https://github.com/halysongoncalves/Pugnotification<br>
+预览: <img src="https://raw.githubusercontent.com/halysongoncalves/pugnotification/master/art/screenshot.png" width="30%" /><br>
+描述：A powerful library for creating notifications in android platform<br>
 
 项目名：NotifyUtil<br>
 git地址：https://github.com/wenmingvs/NotifyUtil<br>
