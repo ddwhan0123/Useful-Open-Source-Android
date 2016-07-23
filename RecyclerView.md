@@ -11,6 +11,15 @@
 
 
 
+项目名：SuperSLiM<br>
+git地址：https://github.com/TonicArtos/SuperSLiM<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/3a55cfd0bbfd28e72aa875f4905cc23cc37a87f4/68747470733a2f2f342e62702e626c6f6773706f742e636f6d2f2d657034364a4b70476138342f564a685831706c575743492f4141414141414141585a592f394131417272563361336b2f73313630302f5375706572534c694d2d44656d6f2d736d616c6c2e676966" width="30%"/><br>
+
+项目名：PinnedSectionItemDecoration<br>
+git地址：https://github.com/oubowu/PinnedSectionItemDecoration<br>
+预览:<br>
+<img src="https://github.com/oubowu/PinnedSectionItemDecoration/raw/master/pic/big_header_linearlayout.gif" width="30%"/><br>
 
 项目名：RecyclerViewTools<br>
 git地址：https://github.com/eyeem/RecyclerViewTools<br>
