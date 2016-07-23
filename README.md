@@ -81,6 +81,11 @@
 
 
 
+项目名：AutoPlayViewPager<br>
+git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
+预览:<br>
+<img src="https://github.com/xyzlf/AutoPlayViewPager/raw/master/autoplay_view.gif" width="30%"/><br>
+
 项目名：android-sticky-viewpager<br>
 git地址：https://github.com/xmuSistone/android-sticky-viewpager<br>
 预览:<br>
@@ -2004,7 +2009,16 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+项目名：rxjava-webservice-example<br>
+git地址：https://github.com/mutexkid/rxjava-webservice-example<br>
+解释：<br>
+simple comparison between Retrofit with & without RxJava<br>
 
+
+项目名：AndroidMVPSample<br>
+git地址：https://github.com/WuXiaolong/AndroidMVPSample<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/d85d22f75cea33eea01829b448c7251ff093f2c7/687474703a2f2f3771356332682e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f416e64726f696450726f6772616d6d65724c6f676f2e6a7067" width="30%" />
 
 项目名：Material-Movies<br>
 git地址：https://github.com/saulmm/Material-Movies<br>
