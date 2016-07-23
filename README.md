@@ -194,13 +194,21 @@ git地址：https://github.com/DavidWangTM/CardSlide<br>
 预览:<br>
 ![](https://raw.githubusercontent.com/DavidWangTM/CardSlide/master/nice.gif) <br>
 
+
+
+
 ##GridView 相关:<br>
+
+
 项目名：android-GridViewWithHeaderAndFooter<br>
 git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 预览:<br>
 ![](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png) <br>
 
-
+项目名：DragExpandGrid<br>
+git地址：https://github.com/wedcel/DragExpandGrid<br>
+预览:<br>
+<img src="https://github.com/wedcel/DragExpandGrid/raw/master/device-2015-08-26-180601.gif" width="30%" /><br>
 
 
 
@@ -226,6 +234,11 @@ git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 
 
 
+
+项目名： SortRichEditor<br>
+git地址：https://github.com/Hitomis/SortRichEditor<br>
+预览:<br>
+<img src="https://github.com/Hitomis/SortRichEditor/raw/master/preview/SortRichEditor.gif" width="30%"/><br>
 
 项目名： SkyFloatingLabelTextField<br>
 git地址：https://github.com/Skyscanner/SkyFloatingLabelTextField<br>
@@ -327,7 +340,30 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：BooheeScrollView<br>
+git地址:https://github.com/zhaozhentao/BooheeScrollView<br>
+预览:<br>
+<img src="https://github.com/zhaozhentao/BooheeScrollView/raw/master/screenshot/screen.gif" width="30%"/><br>
 
+项目名：ScrollNumber<br>
+git地址:https://github.com/a-voyager/ScrollNumber<br>
+预览:<br>
+<img src="https://github.com/a-voyager/ScrollNumber/raw/master/imgs/01.gif" width="30%"/><br>
+
+项目名：DraggableView<br>
+git地址:https://github.com/elevenetc/DraggableView<br>
+预览:<br>
+<img src="https://github.com/elevenetc/DraggableView/raw/master/docs/skewview.gif" width="30%"/><br>
+
+项目名：DragLinearLayout<br>
+git地址:https://github.com/justasm/DragLinearLayout<br>
+预览:<br>
+<img src="https://github.com/justasm/DragLinearLayout/raw/master/sample/sample_in_action.gif" width="30%"/><br>
+
+项目名：SubmitButton<br>
+git地址:https://github.com/SparkYuan/SubmitButton<br>
+预览:<br>
+<img src="https://github.com/SparkYuan/SubmitButton/raw/master/pic/submitbutton.gif" width="30%"/><br>
 
 
 项目名：CircularAnim<br>
@@ -2661,6 +2697,16 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+项目名:awesome-mac<br>
+git地址：https://github.com/jaywcjlove/awesome-mac<br>
+解释:<br>
+ This repo is a collection of awesome Mac applications and tools for developers and designers<br>
+
+项目名:AndroidInterview-Q-A<br>
+git地址：https://github.com/JackyAndroid/AndroidInterview-Q-A<br>
+解释:<br>
+The top Internet companies android interview questions and answers<br>
+
 项目名:Android-APT-Framework<br>
 git地址：https://github.com/lizhaoxuan/Android-APT-Framework<br>
 解释:<br>
@@ -3039,8 +3085,40 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
+项目名：AndroidDataStorage<br>
+git地址：https://github.com/Xiaofei-it/AndroidDataStorage<br>
+解释：An easy-to-use and high-performance library for storing data in the Android system.<br>
 
+项目名：LogReport<br>
+git地址：https://github.com/wenmingvs/LogReport<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/2af4594399fa69d85eb9b81f099f77586e6f33bf/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f363931636331353167773166357a6230716f72396e6a32303870303932676d312e6a7067" width="30%"/><br><br>
+解释：崩溃日志上传框架<br>
 
+项目名：Toast-PhoneGap-Plugin<br>
+git地址：https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin<br>
+预览:<br>
+<img src="https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin/raw/master/screenshots/screenshot-ios-toast.png" width="30%"/><br><br>
+
+项目名：CrashMonkey4Android<br>
+git地址：https://github.com/DoctorQ/CrashMonkey4Android<br>
+描述：Android Andvance Monkey<br>
+
+项目名：Layout-to-Image<br>
+git地址：https://github.com/vipulasri/Layout-to-Image<br>
+预览:<br>
+<img src="https://github.com/vipulasri/Layout-to-Image/raw/master/header.png" width="30%"/><br><br>
+描述：Android Layout (Relative Layout, Linear Layout etc) to Image<br>
+
+项目名：android_dbinspector<br>
+git地址：https://github.com/infinum/android_dbinspector<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/5a2f9fe0725a29ff92f941daa814a65f2bdc193c/68747470733a2f2f7261772e6769746875622e636f6d2f696e66696e756d2f616e64726f69645f6462696e73706563746f722f6d61737465722f73637265656e73686f74732e706e67" width="30%"/><br><br>
+描述：Android library for viewing and sharing in app databases<br>
+
+项目名：FontZip<br>
+git地址：https://github.com/forJrking/FontZip<br>
+描述：字体资源文件压缩神器<br>
 
 项目名：ParcelableGenerator<br>
 git地址：https://github.com/baoyongzhang/ParcelableGenerator<br>
