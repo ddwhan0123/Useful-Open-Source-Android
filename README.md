@@ -2391,6 +2391,11 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+项目名：RxBus<br>
+git地址：https://github.com/AndroidKnife/RxBus<br>
+解释:<br>
+Event Bus By RxJava.<br>
+
 项目名：PermissionUtils<br>
 git地址：https://github.com/rebus007/PermissionUtils<br>
 描述：<br>
@@ -2696,6 +2701,11 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+项目名:stackoverflow-java-top-qa<br>
+git地址：https://github.com/giantray/stackoverflow-java-top-qa<br>
+解释:<br>
+stackoverflow上Java相关回答整理翻译<br>
 
 项目名:awesome-mac<br>
 git地址：https://github.com/jaywcjlove/awesome-mac<br>
