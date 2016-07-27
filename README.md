@@ -2046,6 +2046,11 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+项目名：ferro<br>
+git地址：https://github.com/MaksTuev/ferro<br>
+解释：<br>
+Simple and powerful MVP library for Android<br>
+<img src="https://github.com/MaksTuev/ferro/raw/master/ferro.gif" width="30%" />
 
 
 项目名：rxjava-webservice-example<br>
@@ -3099,7 +3104,9 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
-
+项目名：XLog<br>
+git地址：https://github.com/promeG/XLog<br>
+解释:Method call logging based on dexposed<br>
 
 项目名：AndroidDataStorage<br>
 git地址：https://github.com/Xiaofei-it/AndroidDataStorage<br>
