@@ -338,7 +338,10 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
-
+项目名：500px-android-blur<br>
+git地址:https://github.com/500px/500px-android-blur<br>
+预览:<br>
+<img src="https://github.com/500px/500px-android-blur/raw/master/blurdemo.gif" width="30%"/><br>
 
 项目名：BooheeScrollView<br>
 git地址:https://github.com/zhaozhentao/BooheeScrollView<br>
@@ -2389,7 +2392,10 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
-
+项目名：NightModel<br>
+git地址：https://github.com/achenglike/NightModel<br>
+解释:<br>
+夜间皮肤切换<br>
 
 项目名：RxBus<br>
 git地址：https://github.com/AndroidKnife/RxBus<br>
