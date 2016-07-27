@@ -341,6 +341,16 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：AndroidFillableLoaders<br>
+git地址:https://github.com/JorgeCastilloPrz/AndroidFillableLoaders<br>
+预览:<br>
+<img src="https://github.com/JorgeCastilloPrz/AndroidFillableLoaders/raw/master/art/demoPlain.gif" width="30%"/><br>
+
+项目名：SeatTable<br>
+git地址:https://github.com/qifengdeqingchen/SeatTable<br>
+预览:<br>
+<img src="https://github.com/qifengdeqingchen/SeatTable/raw/master/demo.gif" width="30%"/><br>
+
 项目名：500px-android-blur<br>
 git地址:https://github.com/500px/500px-android-blur<br>
 预览:<br>
@@ -2727,7 +2737,10 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
-
+项目名：android_design_patterns_analysis<br>
+git地址：https://github.com/simple-android-framework-exchange/android_design_patterns_analysis<br>
+解释:<br>
+Android源码设计模式分析项目<br>
 
 项目名：AndroidGuide<br>
 git地址：https://github.com/ColorfulCat/AndroidGuide<br>
