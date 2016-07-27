@@ -233,7 +233,10 @@ git地址：https://github.com/wedcel/DragExpandGrid<br>
 
 
 
-
+项目名： RxMarkdown<br>
+git地址：https://github.com/yydcdut/RxMarkdown<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/yydcdut/RxMarkdown/master/art/rxmarkdown.gif" width="30%"/><br>
 
 项目名： SortRichEditor<br>
 git地址：https://github.com/Hitomis/SortRichEditor<br>
@@ -2392,10 +2395,18 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+项目名：PermissionHelper<br>
+git地址：https://github.com/k0shk0sh/PermissionHelper<br>
+解释:<br>
+Android Library to help you with your runtime Permissions<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/acdedd12c3dcef45a80dc62f6632d50a0536468b/68747470733a2f2f7261772e6769746875622e636f6d2f6b3073686b3073682f5065726d697373696f6e48656c7065722f6d61737465722f6172742f6e65787573362e6a7067" width="30%"/><br>
 
 
-
-
+项目名：AndFix<br>
+git地址：https://github.com/alibaba/AndFix<br>
+解释:<br>
+AndFix is a library that offer hot-fix for Android App.<br>
 
 项目名：NightModel<br>
 git地址：https://github.com/achenglike/NightModel<br>
@@ -2711,6 +2722,13 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+
+
+项目名：AndroidGuide<br>
+git地址：https://github.com/ColorfulCat/AndroidGuide<br>
+解释:<br>
+AndroidCat安卓书签网 http://www.androidcat.com/<br>
 
 
 项目名:stackoverflow-java-top-qa<br>
@@ -3103,6 +3121,12 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
+
+项目名：fastjson<br>
+git地址：https://github.com/alibaba/fastjson<br>
+预览:<br>
+<img src="https://github.com/alibaba/fastjson/raw/master/logo.jpg" width="30%"/><br><br>
+解释： A fast JSON parser/generator for Java https://github.com/alibaba/fastjson/wiki<br>
 
 项目名：XLog<br>
 git地址：https://github.com/promeG/XLog<br>
