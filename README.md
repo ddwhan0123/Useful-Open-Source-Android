@@ -2061,12 +2061,19 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+项目名：toilet<br>
+git地址：https://github.com/vczero/toilet<br>
+解释：<br>
+厕所在哪（React Native App）<br>
+预览:<br>
+<img src="https://github.com/vczero/toilet/raw/master/map.png" width="30%" />
 
 
 项目名：ferro<br>
 git地址：https://github.com/MaksTuev/ferro<br>
 解释：<br>
 Simple and powerful MVP library for Android<br>
+演示:<br>
 <img src="https://github.com/MaksTuev/ferro/raw/master/ferro.gif" width="30%" />
 
 
@@ -2406,6 +2413,14 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 ##疑难杂症:<br>
 
+
+
+项目名：AndroidProcess<br>
+git地址:https://github.com/wenmingvs/AndroidProcess<br>
+解释:<br>
+判断App位于前台或者后台的6种方法<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/2705119469f3409a439def08f47de8a3c81169ce/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f36393163633135316777316630397a34677a33356d6732306263306830316b782e676966" width="30%"/><br>
 
 
 
@@ -3138,6 +3153,12 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
+
+项目名：AutoInstaller<br>
+git地址：https://github.com/a-voyager/AutoInstaller<br>
+预览:<br>
+<img src="https://github.com/a-voyager/AutoInstaller/raw/master/imgs/GIF.gif" width="30%"/><br><br>
+解释：应用自动静默更新安装库.<br>
 
 项目名：fastjson<br>
 git地址：https://github.com/alibaba/fastjson<br>
