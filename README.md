@@ -231,7 +231,15 @@ git地址：https://github.com/wedcel/DragExpandGrid<br>
 
 
 
+项目名： ChipLayout<br>
+git地址：https://github.com/OfficialAmal/ChipLayout<br>
+预览:<br>
+<img src="https://github.com/OfficialAmal/ChipLayout/raw/master/img/img2.png" width="30%"/><br>
 
+项目名： Emojix<br>
+git地址：https://github.com/nekocode/Emojix<br>
+预览:<br>
+<img src="https://github.com/nekocode/Emojix/raw/master/art/preview.png" width="30%"/><br>
 
 项目名： RxMarkdown<br>
 git地址：https://github.com/yydcdut/RxMarkdown<br>
@@ -2417,6 +2425,18 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 ##疑难杂症:<br>
 
 
+
+
+
+
+
+
+项目名：Android-Easy-MultiDex<br>
+git地址:https://github.com/TangXiaoLv/Android-Easy-MultiDex<br>
+解释:<br>
+Android，multidex，splitdex，分包插件<br>
+预览:<br>
+<img src="https://github.com/TangXiaoLv/Android-Easy-MultiDex/raw/master/png/3.png" width="30%"/><br>
 
 项目名：AndroidProcess<br>
 git地址:https://github.com/wenmingvs/AndroidProcess<br>
