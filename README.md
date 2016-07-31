@@ -347,6 +347,19 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+项目名：Flowing-Gradient<br>
+git地址:https://github.com/dynamitechetan/Flowing-Gradient<br>
+预览:<br>
+<img src="https://github.com/dynamitechetan/Flowing-Gradient/raw/master/screenshots/Screenshot_20160720-215934.png" width="30%"/><br>
+
+项目名：LikeAnimation<br>
+git地址:https://github.com/frogermcs/LikeAnimation<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/752e0e35b15b6b684cee90b6bf4309f387caa36f/687474703a2f2f66726f6765726d63732e6769746875622e696f2f696d616765732f32322f627574746f6e5f616e696d2e676966" width="30%"/><br>
+
+
 项目名：MaterialSearchBar<br>
 git地址:https://github.com/mancj/MaterialSearchBar<br>
 预览:<br>
