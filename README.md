@@ -1706,7 +1706,10 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
-
+项目名：circular-music-progressbar<br>
+git地址：https://github.com/aliab/circular-music-progressbar<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/aliab/circular-music-progressbar/master/art/splash.jpg" width="30%" />
 
 项目名：discreteSeekBar<br>
 git地址：https://github.com/AnderWeb/discreteSeekBar<br>
@@ -2081,6 +2084,9 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 ##公开项目案例:<br>
+
+
+
 
 
 
@@ -3189,6 +3195,14 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
+
+
+
+项目名：android-selector-chapek<br>
+git地址：https://github.com/inmite/android-selector-chapek<br>
+预览:<br>
+<img src="https://github.com/inmite/android-selector-chapek/raw/master/img/select_option.png" width="30%"/><br><br>
+解释：Android Studio plugin which automatically generates drawable selectors from appropriately named resources<br>
 
 项目名：AutoInstaller<br>
 git地址：https://github.com/a-voyager/AutoInstaller<br>
