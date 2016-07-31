@@ -55,6 +55,13 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 ###图像处理：<br>
 
+
+
+项目名：uCrop<br>
+git地址：https://github.com/Yalantis/uCrop<br>
+预览:<br>
+<img src="https://github.com/Yalantis/uCrop/raw/master/preview.gif" width="30%" /><br>
+
 项目名：WatermarkCreator<br>
 git地址：https://github.com/ashishbhandari/WatermarkCreator<br>
 预览:<br>
