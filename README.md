@@ -349,6 +349,29 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+
+
+项目名：FlightSeat<br>
+git地址:https://github.com/ldoublem/FlightSeat<br>
+预览:<br>
+<img src="https://github.com/ldoublem/FlightSeat/raw/master/screenshot/seat_gif.gif" width="30%"/><br>
+
+项目名：SimpleRatingBar<br>
+git地址:https://github.com/FlyingPumba/SimpleRatingBar<br>
+预览:<br>
+<img src="https://github.com/FlyingPumba/SimpleRatingBar/raw/master/images/sample.gif" width="30%"/><br>
+
+项目名：pull-back-layout<br>
+git地址:https://github.com/oxoooo/pull-back-layout<br>
+预览:<br>
+<img src="https://github.com/oxoooo/pull-back-layout/raw/master/screenshot.gif" width="30%"/><br>
+
+项目名：TastyToast<br>
+git地址:https://github.com/yadav-rahul/TastyToast<br>
+预览:<br>
+<img src="https://github.com/yadav-rahul/TastyToast/raw/lib/static/warning.gif" width="30%"/><br>
+
+
 项目名：Flowing-Gradient<br>
 git地址:https://github.com/dynamitechetan/Flowing-Gradient<br>
 预览:<br>
@@ -1808,9 +1831,15 @@ git地址：https://github.com/lsjwzh/MaterialLoadingProgressBar<br>
 
 
 
+项目名：android-zxingLibrary<br>
+git地址：https://github.com/yipianfengye/android-zxingLibrary<br>
+预览:<br>
+<img src="https://github.com/yipianfengye/android-zxingLibrary/raw/master/images/ezgif.com-video-to-gif%20(2)%2015.33.08.gif" width="30%" /><br>
 
-
-
+项目名：qreader<br>
+git地址：https://github.com/nisrulz/qreader<br>
+预览:<br>
+<img src="https://github.com/nisrulz/qreader/raw/master/img/github_banner.png" width="30%" /><br>
 
 项目名：BGAQRCode-Android<br>
 git地址：https://github.com/bingoogolapple/BGAQRCode-Android<br>
@@ -2090,6 +2119,21 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+
+
+项目名：OpenLauncher<br>
+git地址：https://github.com/Benny-Kok/OpenLauncher<br>
+解释：<br>
+Android open source launcher project (Active)<br>
+预览:<br>
+<img src="https://github.com/Benny-Kok/OpenLauncher/raw/master/DisplayPictures/Screenshot_2016-08-03-20-57-15.png" width="30%" />
+
+项目名：toilet<br>
+git地址：https://github.com/vczero/toilet<br>
+解释：<br>
+厕所在哪（React Native App）<br>
+预览:<br>
+<img src="https://github.com/vczero/toilet/raw/master/map.png" width="30%" />
 
 项目名：toilet<br>
 git地址：https://github.com/vczero/toilet<br>
@@ -3355,6 +3399,12 @@ git地址：https://github.com/materialos/Icons<br>
 预览:<br>
 <img src="https://cloud.githubusercontent.com/assets/5341898/9100839/4076791e-3b94-11e5-8dc3-f7e7f9f40549.png" width="30%"/><br>
 描述：地图可视化工具库,canvas,map,visualization<br>
+
+项目名：pelias<br>
+git地址：https://github.com/pelias/pelias<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/4246770/16506005/a2429288-3ed4-11e6-8af0-7ef78824213f.gif" width="30%"/><br>
+描述：Pelias is a modular open-source geocoder using ElasticSearch for fast geocoding. https://mapzen.com/pelias<br>
 
 项目名：SuperAdapter<br>
 git地址：https://github.com/byteam/SuperAdapter<br>
