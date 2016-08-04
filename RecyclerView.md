@@ -9,7 +9,10 @@
 
 
 
-
+项目名：SwipeRecyclerView<br>
+git地址：https://github.com/yanzhenjie/SwipeRecyclerView<br>
+预览:<br>
+<img src="https://github.com/yanzhenjie/SwipeRecyclerView/raw/master/image/1.gif" width="30%"/><br>
 
 项目名：SwipeToLoadLayout<br>
 git地址：https://github.com/Aspsine/SwipeToLoadLayout<br>
