@@ -57,6 +57,12 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+
+项目名：StickerView<br>
+git地址：https://github.com/nimengbo/StickerView<br>
+预览:<br>
+<img src="https://github.com/nimengbo/StickerView/raw/master/stickerGIF.gif" width="30%" /><br>
+
 项目名：uCrop<br>
 git地址：https://github.com/Yalantis/uCrop<br>
 预览:<br>
