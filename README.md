@@ -350,6 +350,10 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
+项目名：TastyToast<br>
+git地址:https://github.com/yadav-rahul/TastyToast<br>
+预览:<br>
+<img src="https://github.com/yadav-rahul/TastyToast/raw/lib/static/success.gif" width="30%"/><br>
 
 项目名：FlightSeat<br>
 git地址:https://github.com/ldoublem/FlightSeat<br>
