@@ -9,9 +9,16 @@
 
 
 
+项目名：BottomDialog<br>
+git地址：https://github.com/Curzibn/BottomDialog<br>
+预览:<br>
+<img src="https://github.com/Curzibn/BottomDialog/raw/master/art/horizontal.png" width="30%" />
 
 
-
+项目名：BottomNavigation<br>
+git地址：https://github.com/Ashok-Varma/BottomNavigation<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/Ashok-Varma/BottomNavigation/master/all.gif" width="30%" />
 
 
 项目名：BottomNavigation<br>
