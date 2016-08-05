@@ -2498,6 +2498,16 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+
+
+
+
+项目名：Luban<br>
+git地址:https://github.com/Curzibn/Luban<br>
+解释:<br>
+Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法<br>
+
+
 项目名：Android-Easy-MultiDex<br>
 git地址:https://github.com/TangXiaoLv/Android-Easy-MultiDex<br>
 解释:<br>
