@@ -2502,6 +2502,13 @@ git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 
 
 
+项目名：AnotherMonitor<br>
+git地址:https://github.com/AntonioRedondo/AnotherMonitor<br>
+解释:<br>
+Monitors and records the CPU and memory usage of Android devices https://play.google.com/store/apps/details?id=org.anothermonitor<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/e8a643e7373bfa716cc54ac949a12c6c760639c9/68747470733a2f2f6c68342e67677068742e636f6d2f6766774d683449683056443041617849385f656831316d364352755f7a5357362d5536463235416a43646c556a436b6c69574842674a4d684462336550646c5f454d6f54" width="30%"/><br>
+
 项目名：Luban<br>
 git地址:https://github.com/Curzibn/Luban<br>
 解释:<br>
