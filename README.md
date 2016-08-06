@@ -1734,7 +1734,10 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
-
+项目名：Circle-Progress-View<br>
+git地址：https://github.com/jakob-grabner/Circle-Progress-View<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/jakob-grabner/Circle-Progress-View/master/media/big.png" width="30%" />
 
 项目名：circular-music-progressbar<br>
 git地址：https://github.com/aliab/circular-music-progressbar<br>
@@ -2127,6 +2130,22 @@ git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 
 
 
+
+
+
+项目名：Notes<br>
+git地址：https://github.com/lguipeng/Notes<br>
+解释：<br>
+Material Design Notes App<br>
+预览:<br>
+<img src="https://github.com/lguipeng/Notes/raw/master/screenshot/screenshot_2.png" width="30%" />
+
+项目名：android-cube-app<br>
+git地址：https://github.com/liaohuqiu/android-cube-app<br>
+解释：<br>
+http://cube-sdk.liaohuqiu.net/<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/a841fc83f71eb2e3c2438ecf8ca672b280ccb519/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f6c6f61642d6d6f72652f6c6f61642d6d6f72652d666f722d6c6973742d766965772e676966" width="30%" />
 
 项目名：OpenLauncher<br>
 git地址：https://github.com/Benny-Kok/OpenLauncher<br>
