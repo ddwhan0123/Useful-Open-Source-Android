@@ -348,7 +348,10 @@ git地址：https://github.com/mr5/icarus-android<br>
 
 
 
-
+项目名：MaterialLogin<br>
+git地址:https://github.com/fanrunqi/MaterialLogin<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/fanrunqi/MaterialLogin/master/screenshots/b.png" width="30%"/><br>
 
 项目名：TastyToast<br>
 git地址:https://github.com/yadav-rahul/TastyToast<br>
