@@ -74,7 +74,7 @@ git地址:https://github.com/xiaohaibin/OpenEyes<br>
 项目名：MoeQuest<br>
 git地址:https://github.com/HotBitmapGG/MoeQuest<br>
 预览:<br>
-<img src="https://github.com/HotBitmapGG/MoeQuest/raw/master/meizi_pic/02.jpg?raw=true" width="30%"/><br>
+<img src="https://github.com/HotBitmapGG/MoeQuest/raw/master/meizi_pic/03.png?raw=true" width="30%"/><br>
 
 项目名：Constraints<br>
 git地址:https://github.com/hitherejoe/Constraints<br>
@@ -130,7 +130,7 @@ git地址:https://github.com/qinci/MarkdownEditors<br>
 项目名：SeeWeather<br>
 git地址:https://github.com/xcc3641/SeeWeather<br>
 预览:<br>
-<img src=https://camo.githubusercontent.com/57ee8d72fa5ba4f6dcdbfd84b7bfb24d40bb72c8/687474703a2f2f786363333634312e71696e6975646e2e636f6d2f6170702d2545352542302542312545372539432538422545352541342541392545362542302539342d2545352541342539432545362539392539412545362541382541312545352542432538462e706e67" width="30%"/><br>
+<img src="https://github.com/xcc3641/SeeWeather/raw/master/images/day.png" width="30%"/><br>
 
 项目名：ignite<br>
 git地址:https://github.com/infinitered/ignite<br>
