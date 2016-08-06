@@ -29,12 +29,7 @@ git地址：https://github.com/vczero/toilet<br>
 预览:<br>
 <img src="https://github.com/vczero/toilet/raw/master/map.png" width="30%" />
 
-项目名：toilet<br>
-git地址：https://github.com/vczero/toilet<br>
-解释：<br>
-厕所在哪（React Native App）<br>
-预览:<br>
-<img src="https://github.com/vczero/toilet/raw/master/map.png" width="30%" />
+
 
 
 项目名：ferro<br>
