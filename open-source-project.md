@@ -1,5 +1,15 @@
 
-##开源项目
+##开源项目<br>
+
+
+
+
+项目名：Luban-Circle-Demo<br>
+git地址：https://github.com/huijimuhe/Luban-Circle-Demo<br>
+解释：<br>
+仿朋友圈按顺序上传图片至七牛，基于luban算法压缩<br>
+预览:<br>
+<img src="https://github.com/huijimuhe/Luban-Circle-Demo/raw/master/art/device-2016-08-05-122301.png" width="30%" />
 
 项目名：Notes<br>
 git地址：https://github.com/lguipeng/Notes<br>
