@@ -63,6 +63,11 @@ git地址：https://github.com/nimengbo/StickerView<br>
 预览:<br>
 <img src="https://github.com/nimengbo/StickerView/raw/master/stickerGIF.gif" width="30%" /><br>
 
+项目名：ZDStickerView<br>
+git地址：https://github.com/zedoul/ZDStickerView<br>
+预览:<br>
+<img src="https://github.com/zedoul/ZDStickerView/raw/develop/SCREENSHOT.png?raw=true" width="30%" /><br>
+
 项目名：uCrop<br>
 git地址：https://github.com/Yalantis/uCrop<br>
 预览:<br>
