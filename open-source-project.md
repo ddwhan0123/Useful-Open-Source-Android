@@ -294,7 +294,7 @@ git地址:https://github.com/joyoyao/superCleanMaster<br>
 项目名：f8app<br>
 git地址：https://github.com/fbsamples/f8app<br>
 预览:<br>
-![](https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png) <br>
+<img src="https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png" width="30%" /><br>
 
 项目名：Baby<br>
 git地址：https://github.com/rogerou/Baby<br>
@@ -316,7 +316,7 @@ git地址：https://github.com/geminiwen/AndroidCubeDemo<br>
 项目名：MicroReader<br>
 git地址：https://github.com/YiuChoi/MicroReader<br>
 预览:<br>
-![](https://github.com/YiuChoi/MicroReader/raw/master/screenshot/Screenshot_20160503-085853.png) <br>
+<img src="https://github.com/YiuChoi/MicroReader/raw/master/screenshot/Screenshot_20160503-085853.png" width="30%" />
 
 项目名：DanmakuFlameMaster<br>
 git地址https://github.com/Bilibili/DanmakuFlameMaster<br>
@@ -326,12 +326,12 @@ git地址https://github.com/Bilibili/DanmakuFlameMaster<br>
 项目名：XhsWelcomeAnim<br>
 git地址：https://github.com/w446108264/XhsWelcomeAnim<br>
 预览:<br>
-![](https://raw.githubusercontent.com/w446108264/XhsWelcomeAnim/master/output/show.gif) <br>
+<img src="https://raw.githubusercontent.com/w446108264/XhsWelcomeAnim/master/output/show.gif" width="30%" />
 
 项目名：Meizhi<br>
 git地址：https://github.com/drakeet/Meizhi<br>
 预览:<br>
-![](https://github.com/drakeet/Meizhi/raw/master/screenshots/s0.png) <br>
+<img src="https://github.com/drakeet/Meizhi/raw/master/screenshots/s0.png" width="30%" />
 
 项目名：RXRetrofitDaggerMvpDemo<br>
 git地址：https://github.com/tuozhaobing/RXRetrofitDaggerMvpDemo<br>
@@ -341,23 +341,21 @@ git地址：https://github.com/tuozhaobing/RXRetrofitDaggerMvpDemo<br>
 项目名：PhotoNoter<br>
 git地址：https://github.com/yydcdut/PhotoNoter<br>
 预览:<br>
-![](https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/animation.gif) <br>
+<img src="https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/animation.gif" width="30%" />
 
 项目名：CNode-Material-Design<br>
 git地址：https://github.com/TakWolf/CNode-Material-Design<br>
 预览:<br>
-![](https://github.com/TakWolf/CNode-Material-Design/raw/develop/art/screenshot_s02.png) <br>
+<img src="https://github.com/TakWolf/CNode-Material-Design/raw/develop/art/screenshot_s02.png" width="30%" />
 
 
 项目名：Moose<br>
 git地址：https://github.com/Harlber/Moose<br>
 预览:<br>
-![](https://github.com/Harlber/Moose/raw/master/art/image_drawer.png) <br>
+<img src="https://github.com/Harlber/Moose/raw/master/art/image_drawer.png" width="30%" />
 
 项目名：GeometricWeather<br>
 git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 预览:<br>
-![](https://github.com/WangDaYeeeeee/GeometricWeather/raw/master/preview/enframe_2016-02-09-08-25-001.png) <br>
-
-
+<img src="https://github.com/WangDaYeeeeee/GeometricWeather/raw/master/preview/enframe_2016-02-09-08-25-001.png" width="30%" />
 
