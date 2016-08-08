@@ -95,6 +95,19 @@
 
 
 
+
+
+
+项目名：JIkeGallery<br>
+git地址:https://github.com/JeasonWong/JIkeGallery<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/1706924e07392c8d2c326ff1eb479cd5311bd238/687474703a2f2f69342e7069696d672e636f6d2f313037302f613433343434313832663637376231642e676966" width="30%"/><br>
+
+项目名：android-UCToast<br>
+git地址:https://github.com/liaohuqiu/android-UCToast<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/liaohuqiu/android-UCToast/master/art/uc-toast.gif" width="30%"/><br>
+
 项目名：MaterialLogin<br>
 git地址:https://github.com/fanrunqi/MaterialLogin<br>
 预览:<br>
