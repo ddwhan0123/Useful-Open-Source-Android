@@ -1657,6 +1657,11 @@ git地址：https://github.com/nisrulz/qreader<br>
 
 
 
+
+
+
+
+
 ##通知:<br>
 
 
@@ -2100,6 +2105,10 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+项目名：AndroidRuler<br>
+git地址：https://github.com/dalong982242260/AndroidRuler/raw/master/img/ruler_3.png<br>
+解释:<br>
+android自定义尺子收集demo<br>
 
 
 项目名：android_design_patterns_analysis<br>
