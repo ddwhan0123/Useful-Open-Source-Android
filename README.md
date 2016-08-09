@@ -98,6 +98,11 @@
 
 
 
+项目名：FastLayout<br>
+git地址:https://github.com/FabianTerhorst/FastLayout<br>
+解釋：<br>
+Generates a Java Object for your xml layout to reduce inflate time to zero<br>
+
 项目名：JIkeGallery<br>
 git地址:https://github.com/JeasonWong/JIkeGallery<br>
 预览:<br>
