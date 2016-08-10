@@ -2673,7 +2673,10 @@ git地址：https://github.com/h4de5ing/AndroidCommon<br>
 
 
 
-
+项目名：FieldMapView<br>
+git地址：https://github.com/naman14/FieldMapView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/naman14/FieldMapView/master/graphics/Screenshot_2015-04-26-19-13-00.png" width="30%"/><br>
 
 项目名：mapv<br>
 git地址：https://github.com/huiyan-fe/mapv<br>
