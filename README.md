@@ -1355,7 +1355,7 @@ git地址：https://github.com/zaaach/CityPicker<br>
 项目名：android-anyshape<br>
 git地址：https://github.com/lankton/android-anyshape<br>
 预览:<br>
-![](https://github.com/lankton/android-anyshape/raw/master/pictures/with_normal.jpg) <br>
+<img src="https://github.com/lankton/android-anyshape/raw/master/pictures/with_normal.jpg" width="30%" />
 
 项目名：FlowLayout<br>
 git地址：https://github.com/hongyangAndroid/FlowLayout<br>
