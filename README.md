@@ -1256,24 +1256,19 @@ git地址：https://github.com/linsea/OpenDanmaku<br>
 项目名：Shimmer-android<br>
 git地址：https://github.com/RomainPiel/Shimmer-android<br>
 预览:<br>
-![](https://github.com/RomainPiel/Shimmer-android/raw/master/shimmer.gif) <br>
-
-项目名：CompactCalendarView<br>
-git地址：https://github.com/SundeepK/CompactCalendarView<br>
-预览:<br>
-![](https://github.com/SundeepK/CompactCalendarView/raw/master/images/compact-calendar-view-example.png) <br>
+<img src="https://github.com/RomainPiel/Shimmer-android/raw/master/shimmer.gif" width="30%" />
 
 
 项目名：translucent-android<br>
 git地址：https://github.com/mallethugo/translucent-android<br>
 预览:<br>
-![](https://github.com/mallethugo/translucent/raw/master/demo.gif) <br>
+<img src="https://github.com/mallethugo/translucent/raw/master/demo.gif" width="30%" />
 
 
 项目名：toolbar-button<br>
 git地址：https://github.com/GautamGupta/toolbar-button<br>
 预览:<br>
-![](https://raw.githubusercontent.com/GautamGupta/toolbar-button/master/art/toolbar-button.gif) <br>
+<img src="https://raw.githubusercontent.com/GautamGupta/toolbar-button/master/art/toolbar-button.gif" width="30%" />
 
 项目名：CircularImageView<br>
 git地址：https://github.com/Pkmmte/CircularImageView<br>
@@ -1283,7 +1278,7 @@ git地址：https://github.com/Pkmmte/CircularImageView<br>
 项目名：folding-cell-android<br>
 git地址：https://github.com/Ramotion/folding-cell-android<br>
 预览:<br>
-![](https://github.com/Ramotion/folding-cell-android/raw/master/folding_cell_preview.gif) <br>
+<img src="https://github.com/Ramotion/folding-cell-android/raw/master/folding_cell_preview.gif" width="30%" />
 
 项目名：BrokenView<br>
 git地址：https://github.com/zhanyongsheng/BrokenView<br>
@@ -1293,12 +1288,12 @@ git地址：https://github.com/zhanyongsheng/BrokenView<br>
 项目名：Tooltip<br>
 git地址：https://github.com/jayrambhia/Tooltip<br>
 预览:<br>
-![](https://raw.githubusercontent.com/jayrambhia/Tooltip/master/art/demo.gif) <br>
+<img src="https://raw.githubusercontent.com/jayrambhia/Tooltip/master/art/demo.gif" width="30%" />
 
 项目名：QuickActionView<br>
 git地址：https://github.com/ovenbits/QuickActionView<br>
 预览:<br>
-![](https://raw.githubusercontent.com/ovenbits/QuickActionView/master/screenshots/qav.gif) <br>
+<img src="https://raw.githubusercontent.com/ovenbits/QuickActionView/master/screenshots/qav.gif" width="30%" />
 
 
 项目名：LoopRotarySwitch<br>
@@ -1309,7 +1304,7 @@ git地址：https://github.com/dalong982242260/LoopRotarySwitch<br>
 项目名：SendButton<br>
 git地址：https://github.com/pa1pal/SendButton<br>
 预览:<br>
-![](https://raw.githubusercontent.com/pa1pal/SendButton/master/app/phone_gif.gif) <br>
+<img src="https://raw.githubusercontent.com/pa1pal/SendButton/master/app/phone_gif.gif" width="30%" />
 
 项目名：ArcProgressStackView<br>
 git地址：https://github.com/GIGAMOLE/ArcProgressStackView<br>
