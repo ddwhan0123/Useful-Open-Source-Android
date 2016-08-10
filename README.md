@@ -101,15 +101,8 @@ git地址:https://github.com/w446108264/ScrollableLayout<br>
 预览:<br>
 <img src="https://github.com/w446108264/ScrollableLayout/raw/master/output/show.gif" width="30%"/><br>
 
-项目名：FunSwitch<br>
-git地址:https://github.com/ztelur/FunSwitch<br>
-预览:<br>
-<img src="https://github.com/ztelur/FunSwitch/raw/master/sample.gif" width="30%"/><br>
 
-项目名：FunSwitch<br>
-git地址:https://github.com/ztelur/FunSwitch<br>
-预览:<br>
-<img src="https://github.com/ztelur/FunSwitch/raw/master/sample.gif" width="30%"/><br>
+
 
 项目名：android_scratchoff<br>
 git地址:https://github.com/jackpocket/android_scratchoff<br>
