@@ -542,10 +542,7 @@ git地址：https://github.com/AzeeSoft/AndroidPhotoshopColorPicker<br>
 预览:<br>
 <img src="https://github.com/AzeeSoft/AndroidPhotoshopColorPicker/raw/master/raw/screen_1.jpg?raw=true" width="30%"/><br>
 
-项目名：JellyToggleButton<br>
-git地址：https://github.com/Nightonke/JellyToggleButton<br>
-预览:<br>
-<img src="https://github.com/Nightonke/JellyToggleButton/raw/master/img/JellyToggleButton4.gif?raw=true" width="30%"/><br>
+
 
 项目名：LoadFrameLayout<br>
 git地址：https://github.com/Aspsine/LoadFrameLayout<br>
@@ -626,7 +623,7 @@ git地址：https://github.com/iwgang/CountdownView<br>
 项目名：VisualEffectView<br>
 git地址：https://github.com/efremidze/VisualEffectView<br>
 预览:<br>
-<img src="https://github.com/efremidze/VisualEffectView/raw/master/demo.gif" width="30%"/><br>
+<img src="https://github.com/efremidze/VisualEffectView/raw/master/Images/demo.gif" width="30%"/><br>
 
 项目名：FlowLayout<br>
 git地址：https://github.com/dalong982242260/FlowLayout<br>
@@ -674,10 +671,6 @@ git地址：https://github.com/krimin-killr21/MaterialScrollBar<br>
 <img src="https://github.com/krimin-killr21/MaterialScrollBar/raw/master/sample.png" width="30%"/><br>
 
 
-项目名：AndroidPhotoFilters<br>
-git地址：https://github.com/Zomato/AndroidPhotoFilters<br>
-预览:<br>
-<img src="https://github.com/Zomato/AndroidPhotoFilters/raw/master/art/photofilters.gif" width="30%"/><br>
 
 项目名：CalendarLibrary<br>
 git地址：https://github.com/ik024/CalendarLibrary<br>
@@ -837,10 +830,10 @@ git地址：https://github.com/Andrew-Quebe/Permissions-Helper<br>
 预览:<br>
 <img src="https://github.com/Andrew-Quebe/Permissions-Helper/raw/master/artwork/google.png" width="30%"/><br>
 
-项目名：material-tip<br>
-git地址：https://github.com/fcannizzaro/material-tip<br>
+项目名：material-stepper<br>
+git地址：https://github.com/fcannizzaro/material-stepper<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/fcannizzaro/material-tip/master/preview.gif" width="30%"/><br>
+<img src="https://github.com/FrancisCan/MaterialStepper/raw/master/screenshot/text.png?raw=true" width="30%"/><br>
 
 项目名：android-autofittextview<br>
 git地址：https://github.com/grantland/android-autofittextview<br>
@@ -1004,10 +997,6 @@ git地址：https://github.com/guanchao/ScrollerCalendar<br>
 预览:<br>
 <img src="https://github.com/guanchao/ScrollerCalendar/raw/master/images/sample1.gif" width="30%"/><br>
 
-项目名：Pixelate<br>
-git地址：https://github.com/DanielMartinus/Pixelate<br>
-预览:<br>
-<img src="https://github.com/DanielMartinus/Pixelate/raw/master/images/pixelate_illustration.png"/><br>
 
 项目名：swipe-action-layout<br>
 git地址：https://github.com/prolificinteractive/swipe-action-layout<br>
@@ -1244,10 +1233,6 @@ git地址：https://github.com/blundell/QuickSand<br>
 预览:<br>
 ![](https://github.com/blundell/QuickSand/raw/master/demo/demo_z1c.gif) <br>
 
-项目名：Android-Image-Cropper<br>
-git地址：https://github.com/ArthurHub/Android-Image-Cropper<br>
-预览:<br>
-![](https://github.com/ArthurHub/Android-Image-Cropper/raw/master/art/zoom%20sample.gif?raw=true) <br>
 
 项目名：WJMagicCurveView<br>
 git地址：https://github.com/wingjay/WJMagicCurveView<br>
