@@ -63,6 +63,11 @@ git地址：https://github.com/Zomato/AndroidPhotoFilters<br>
 预览:<br>
 <img src="https://github.com/Zomato/AndroidPhotoFilters/raw/master/art/photofilters.gif" width="30%" /><br>
 
+项目名：PhotoEditDemo<br>
+git地址：https://github.com/jarlen/PhotoEditDemo<br>
+解释:<br>
+1，图片编辑(图片添加，文字添加)，实现图片编辑中的图片添加，旋转，缩放，删除；文字的添加，大小缩放，字体更换，颜色更换，删除； 2，基本滤镜实现与接口封装； 涂鸦(画笔的样式，粗细，颜色，橡皮擦，贴图)； 相框(简单相框，酷炫相框)； 马赛就克(基本马赛克，酷炫马赛克，橡皮擦)及其接口封装 3，接下来， 图像剪切，旋转等功能实现测试接口封装； GIF与MP4，图片互转实现测试与接口封装；<br>
+
 项目名：Android-Image-Cropper<br>
 git地址：https://github.com/ArthurHub/Android-Image-Cropper<br>
 预览:<br>
