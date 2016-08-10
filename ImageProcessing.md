@@ -58,6 +58,11 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+项目名：LowPolyAndroid<br>
+git地址：https://github.com/zzhoujay/LowPolyAndroid<br>
+预览:<br>
+<img src="https://github.com/zzhoujay/LowPolyAndroid/raw/master/image/img.png" width="30%" /><br>
+
 项目名：VisualEffectView<br>
 git地址：https://github.com/efremidze/VisualEffectView<br>
 预览:<br>
