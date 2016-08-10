@@ -9,6 +9,11 @@ git地址：https://github.com/Cleveroad/LoopBar<br>
 预览:Tap Bar with infinite scrolling:<br>
 <img src="https://github.com/Cleveroad/LoopBar/raw/master/images/header.png" width="30%"/>
 
+项目名：circle-menu<br>
+git地址：https://github.com/Ramotion/circle-menu<br>
+预览:CircleMenu is a simple, elegant menu with a circular layout<br>
+<img src="https://github.com/Ramotion/circle-menu/raw/master/preview.gif" width="30%"/>
+
 
 项目名：RelativePopupWindow<br>
 git地址：https://github.com/kakajika/RelativePopupWindow<br>
