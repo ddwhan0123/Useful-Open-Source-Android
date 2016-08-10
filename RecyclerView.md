@@ -8,6 +8,10 @@
 
 
 
+项目名：WaveSideBar<br>
+git地址：https://github.com/Solartisan/WaveSideBar<br>
+预览:<br>
+<img src="https://github.com/Solartisan/WaveSideBar/raw/master/preview/simple.gif" width="30%"/><br>
 
 项目名：android-Ultra-Pull-To-Refresh<br>
 git地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh<br>
