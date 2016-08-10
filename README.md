@@ -361,7 +361,7 @@ git地址：https://github.com/felipecsl/GifImageView<br>
 项目名：DiscreteSlider<br>
 git地址：https://github.com/lawloretienne/DiscreteSlider<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/lawloretienne/DiscreteSlider/master/images/DiscreteSlider_Screenshot2.png" width="30%"/><br>
+<img src="https://raw.githubusercontent.com/lawloretienne/DiscreteSlider/master/images/DiscreteSlider_Screenshot4.png" width="30%"/><br>
 
 项目名：Scrollable<br>
 git地址：https://github.com/noties/Scrollable<br>
