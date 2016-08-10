@@ -11,6 +11,11 @@ git地址：https://github.com/vikramkakkar/SublimePicker<br>
 预览:<br>
 <img src="https://github.com/vikramkakkar/SublimePicker/raw/master/img/date_picker_v2.png?raw=true" width="30%"/><br>
 
+项目名：Caldroid<br>
+git地址：https://github.com/roomorama/Caldroid<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/8160f830305493135ea8ae1fbd9e12713d6f0972/68747470733a2f2f7261772e6769746875622e636f6d2f726f6f6d6f72616d612f43616c64726f69642f6d61737465722f73637265656e73686f742f312e706e67" width="30%"/><br>
+
 项目名：CalendarLibrary<br>
 git地址：https://github.com/ik024/CalendarLibrary<br>
 预览:<br>
