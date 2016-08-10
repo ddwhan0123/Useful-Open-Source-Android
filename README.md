@@ -473,7 +473,7 @@ git地址：https://github.com/florent37/ExpandingPager<br>
 项目名：Revealator<br>
 git地址：https://github.com/Jaouan/Revealator<br>
 预览:<br>
-<img src="https://github.com/Jaouan/Revealator/raw/master/art/demo.gif" width="30%"/><br>
+<img src="https://github.com/Jaouan/Revealator/raw/master/art/demo3.gif" width="30%"/><br>
 
 
 项目名：Highlight<br>
@@ -1377,7 +1377,7 @@ git地址：https://github.com/javiersantos/MaterialStyledDialogs<br>
 项目名：material-dialogs<br>
 git地址：https://github.com/afollestad/material-dialogs<br>
 预览:<br>
-![](https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/mddemoshowcase.png) <br>
+<img src="https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/readmeshowcase.png" width="30%" />
 
 项目名：TagViewLayout<br>
 git地址：https://github.com/jjhesk/TagViewLayout<br>
