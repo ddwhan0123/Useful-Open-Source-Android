@@ -58,6 +58,11 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+项目名：VisualEffectView<br>
+git地址：https://github.com/efremidze/VisualEffectView<br>
+预览:<br>
+<img src="https://github.com/efremidze/VisualEffectView/raw/master/Images/demo.gif" width="30%" /><br>
+
 项目名：AndroidPhotoFilters<br>
 git地址：https://github.com/Zomato/AndroidPhotoFilters<br>
 预览:<br>
