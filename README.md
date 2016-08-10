@@ -172,10 +172,7 @@ git地址:https://github.com/dynamitechetan/Flowing-Gradient<br>
 预览:<br>
 <img src="https://github.com/dynamitechetan/Flowing-Gradient/raw/master/screenshots/Screenshot_20160720-215934.png" width="30%"/><br>
 
-项目名：LikeAnimation<br>
-git地址:https://github.com/frogermcs/LikeAnimation<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/752e0e35b15b6b684cee90b6bf4309f387caa36f/687474703a2f2f66726f6765726d63732e6769746875622e696f2f696d616765732f32322f627574746f6e5f616e696d2e676966" width="30%"/><br>
+
 
 
 项目名：MaterialSearchBar<br>
@@ -229,10 +226,7 @@ git地址:https://github.com/XunMengWinter/CircularAnim<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/XunMengWinter/source/master/gif/CircularAnimDemo.gif" width="30%"/><br>
 
-项目名：LikesLayout<br>
-git地址:https://github.com/Iojjj/LikesLayout<br>
-预览:<br>
-<img src="https://github.com/Iojjj/LikesLayout/raw/master/images/demo.gif" width="30%"/><br>
+
 
 项目名：android-filepicker<br>
 git地址:https://github.com/Angads25/android-filepicker<br>
@@ -367,10 +361,6 @@ git地址：https://github.com/noties/Scrollable<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/noties/Scrollable/master/sample.gif" width="30%"/><br>
 
-项目名：ShineButton<br>
-git地址：https://github.com/ChadCSong/ShineButton<br>
-预览:<br>
-<img src="https://github.com/ChadCSong/ShineButton/raw/master/demo_shine_others.gif" width="30%"/><br>
 
 
 项目名：AvatarImageView<br>
@@ -398,10 +388,7 @@ git地址：https://github.com/wnafee/vector-compat<br>
 预览:<br>
 <img src="https://github.com/wnafee/vector-compat/raw/master/artwork/example_2.gif" width="30%"/><br>
 
-项目名：fave-button<br>
-git地址：https://github.com/xhamr/fave-button<br>
-预览:<br>
-<img src="https://github.com/xhamr/fave-button/raw/master/fave-button1.gif" width="30%"/><br>
+
 
 项目名：Popview-Android<br>
 git地址：https://github.com/krishnarb3/Popview-Android<br>
@@ -611,10 +598,7 @@ git地址：https://github.com/iwgang/CountdownView<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/iwgang/CountdownView/master/screenshot/screenshot.gif" width="30%"/><br>
 
-项目名：VisualEffectView<br>
-git地址：https://github.com/efremidze/VisualEffectView<br>
-预览:<br>
-<img src="https://github.com/efremidze/VisualEffectView/raw/master/Images/demo.gif" width="30%"/><br>
+
 
 项目名：FlowLayout<br>
 git地址：https://github.com/dalong982242260/FlowLayout<br>
@@ -696,10 +680,6 @@ git地址：https://github.com/fiskurgit/ChipCloud<br>
 预览:<br>
 <img src="https://github.com/fiskurgit/ChipCloud/raw/master/images/trainer_sizes.png" width="30%"/><br>
 
-项目名：LikeButton<br>
-git地址：https://github.com/jd-alexander/LikeButton<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/c75e0c73a4fd9a0b03ff6abab44221060be9d14a/687474703a2f2f692e67697068792e636f6d2f336f386470347571334b34767652314d4a4f2e676966" width="30%"/><br>
 
 项目名：AnimatedSvgView<br>
 git地址：https://github.com/jaredrummler/AnimatedSvgView<br>
@@ -903,10 +883,7 @@ git地址：https://github.com/seedante/CardAnimation<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/6036f276ae5018ae37a71fd16575fee8dbf449de/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f33323339392f73637265656e73686f74732f313236353438372f6174746163686d656e74732f3137333534352f7365637265742d70726f6a6563742d616e696d6174696f6e5f32782e676966" width="30%"/><br>
 
-项目名：GoodView<br>
-git地址：https://github.com/venshine/GoodView<br>
-预览:<br>
-<img src="https://github.com/venshine/GoodView/raw/master/screenshot/screenshot.gif" width="30%"/><br>
+
 
 项目名：NestedToolbarTutorial<br>
 git地址：https://github.com/AlexZhukovich/NestedToolbarTutorial<br>
@@ -918,10 +895,6 @@ git地址：https://github.com/Even201314/NumberMorphView4Android<br>
 预览:<br>
 <img src="https://github.com/Even201314/NumberMorphView4Android/raw/master/raw/master/screenshot/sample.gif" width="30%"/><br>
 
-项目名：FaceOffToggleButton<br>
-git地址：https://github.com/Nightonke/FaceOffToggleButton<br>
-预览:<br>
-<img src="https://github.com/Nightonke/FaceOffToggleButton/raw/master/img/Animation.gif?raw=true"/><br>
 
 项目名：StatusBarAdapt<br>
 git地址：https://github.com/CoolThink/StatusBarAdapt<br>
@@ -968,19 +941,6 @@ git地址：https://github.com/Ramotion/preview-transition<br>
 git地址：https://github.com/Jude95/SwipeBackHelper<br>
 预览:<br>
 <img src="https://github.com/Jude95/SwipeBackHelper/raw/master/swipeback.gif" width="30%"/><br>
-
-项目名：circle-menu<br>
-git地址：https://github.com/Ramotion/circle-menu<br>
-预览:<br>
-<img src="https://github.com/Ramotion/circle-menu/raw/master/preview.gif" width="30%"/><br>
-
-
-项目名：LowPolyAndroid<br>
-git地址：https://github.com/zzhoujay/LowPolyAndroid<br>
-预览:<br>
-<img src="https://github.com/zzhoujay/LowPolyAndroid/raw/master/image/img.png" width="30%"/><br>
-
-
 
 
 项目名：swipe-action-layout<br>
@@ -1033,13 +993,6 @@ git地址：https://github.com/alamkanak/Android-Week-View<br>
 预览:<br>
 <img src="https://github.com/alamkanak/Android-Week-View/raw/develop/images/screen-shot.png" width="30%" /><br>
 
-项目名：Caldroid<br>
-git地址：https://github.com/roomorama/Caldroid<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/8160f830305493135ea8ae1fbd9e12713d6f0972/68747470733a2f2f7261772e6769746875622e636f6d2f726f6f6d6f72616d612f43616c64726f69642f6d61737465722f73637265656e73686f742f312e706e67" width="30%" /><br>
-
-
-
 
 项目名：BitmapMerger<br>
 git地址：https://github.com/cooltechworks/BitmapMerger<br>
@@ -1054,7 +1007,7 @@ git地址：https://github.com/douglasjunior/android-simple-tooltip<br>
 项目名：ExpandableLayout<br>
 git地址：https://github.com/cachapa/ExpandableLayout<br>
 预览:<br>
-<img src="https://github.com/cachapa/ExpandableLayout/raw/master/images/expandable_fixed.gif" width="30%" /><br>
+<img src="https://github.com/cachapa/ExpandableLayout/raw/master/images/simple.gif" width="30%" /><br>
 
 项目名：AnimTextView<br>
 git地址：https://github.com/z56402344/AnimTextView<br>
