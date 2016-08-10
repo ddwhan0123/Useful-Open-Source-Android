@@ -98,6 +98,26 @@
 
 
 
+项目名：FunSwitch<br>
+git地址:https://github.com/ztelur/FunSwitch<br>
+预览:<br>
+<img src="https://github.com/ztelur/FunSwitch/raw/master/sample.gif" width="30%"/><br>
+
+项目名：android_scratchoff<br>
+git地址:https://github.com/jackpocket/android_scratchoff<br>
+预览:<br>
+<img src="https://github.com/jackpocket/android_scratchoff/raw/master/scratchoff.gif" width="30%"/><br>
+
+项目名：CountDownView<br>
+git地址:https://github.com/alexfu/CountDownView<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/fbd94d911c3b86c0723e09550b73280f5ef51d63/687474703a2f2f692e696d6775722e636f6d2f6953537162795a2e706e67" width="30%"/><br>
+
+项目名：crystal-preloaders<br>
+git地址:https://github.com/syedowaisali/crystal-preloaders<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/cc7f7f9c3869e07623e789df154b10878e0506fa/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3042396244454e7949414254365230347a4e446c54656c633051324d" width="30%"/><br>
+
 项目名：FastLayout<br>
 git地址:https://github.com/FabianTerhorst/FastLayout<br>
 解釋：<br>
@@ -1498,6 +1518,15 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
+项目名：LikeSinaSportProgress<br>
+git地址：https://github.com/YangShaoXiong/LikeSinaSportProgress<br>
+预览:<br>
+<img src="https://github.com/YangShaoXiong/LikeSinaSportProgress/raw/master/screenshot/image.gif" width="30%" />
+
+项目名：crystal-range-seekbar<br>
+git地址：https://github.com/syedowaisali/crystal-range-seekbar<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/a91a36fcd741020ed5fa45e4f6eb3860c4b3ddcf/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3042396244454e794941425436636e68334d5859335457737451574d" width="30%" />
 
 项目名：Circle-Progress-View<br>
 git地址：https://github.com/jakob-grabner/Circle-Progress-View<br>
