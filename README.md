@@ -16,8 +16,6 @@
 ##[点击跳转 multimedia.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Multimedia.md)
 
 
-
-
 ## 标签/label 相关:<br>
 ##[点击跳转 Label.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Label.md)
 
@@ -25,28 +23,16 @@
 ##[点击跳转 like.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/like.md)
 
 
-
-
-
-
 ## 图片选择器/编辑器/加载 相关:<br>
 ##[点击跳转 ImageProcessing.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/ImageProcessing.md)
-
-
-
 
 
 ## ListView 相关:<br>
 ##[点击跳转 ListView.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/ListView.md)
 
 
-
-
-
-
 ## RecyclerView 相关:<br>
 ##[点击跳转 RecyclerView.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/RecyclerView.md)
-
 
 
 ## Switch 相关:<br>
@@ -55,29 +41,12 @@
 ## TimePicker 相关:<br>
 ##[点击跳转 TimePicker.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/TimePicker.md)
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## ViewPager 相关:<br>
 ##[点击跳转 ViewPager.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/edit/master/ViewPager.md)
 
 
-
-
-
 ##GridView 相关:<br>
 ##[点击跳转 GridView.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/GridView.md)
-
-
 
 
 ##输入内容 相关：<br>
@@ -234,10 +203,7 @@ git地址:https://github.com/Angads25/android-filepicker<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/Angads25/android-filepicker/master/screenshot1.png" width="30%"/><br>
 
-项目名：RoundedCornersBackgroundSpan<br>
-git地址:https://github.com/Iojjj/RoundedCornersBackgroundSpan<br>
-预览:<br>
-<img src="https://github.com/Iojjj/RoundedCornersBackgroundSpan/raw/master/images/demo.png" width="30%"/><br>
+
 
 项目名：ticker<br>
 git地址:https://github.com/robinhood/ticker<br>
@@ -417,10 +383,7 @@ git地址：https://github.com/vinaysshenoy/mugen<br>
 <img src="https://github.com/mipreamble/mugen/raw/development/img_assets/mugen_sample_1.gif" width="30%"/><br>
 
 
-项目名：SlantedTextView<br>
-git地址：https://github.com/HeZaiJin/SlantedTextView<br>
-预览:<br>
-<img src="https://github.com/HeZaiJin/SlantedTextView/raw/master/screen_shot/screenshot.png" width="30%"/><br>
+
 
 项目名：MoneyTextView<br>
 git地址：https://github.com/fabiomsr/MoneyTextView<br>
@@ -432,10 +395,7 @@ git地址：https://github.com/yoruriko/LiquidButton<br>
 预览:<br>
 <img src="https://github.com/yoruriko/LiquidButton/raw/master/demo.gif" width="30%"/><br>
 
-项目名：android-tagview<br>
-git地址：https://github.com/kaedea/android-tagview<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/c89ab52cbc45a4929dafaff12e7d8d06b02eaa7b/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f4e332d72365a5f463055753368543546733448347930534e5735706a615575424d7533714c5a7350676f513d73363030" width="30%"/><br>
+
 
 项目名：ZDepthShadow<br>
 git地址：https://github.com/ShogoMizumoto/ZDepthShadow<br>
@@ -601,15 +561,6 @@ git地址：https://github.com/iwgang/CountdownView<br>
 
 
 
-项目名：FlowLayout<br>
-git地址：https://github.com/dalong982242260/FlowLayout<br>
-预览:<br>
-<img src="https://github.com/dalong982242260/FlowLayout/raw/master/gif/flowlayout.gif?raw=true" width="30%"/><br>
-
-项目名：EditTag<br>
-git地址：https://github.com/qiugang/EditTag<br>
-预览:<br>
-<img src="https://github.com/qiugang/EditTag/raw/master/screenshots/s01.jpg" width="30%"/><br>
 
 项目名：hintcase<br>
 git地址：https://github.com/Nescafemix/hintcase<br>
@@ -655,10 +606,7 @@ git地址：https://github.com/fiskurgit/SyntaxView<br>
 预览:<br>
 <img src="https://github.com/fiskurgit/SyntaxView/raw/master/screenshot.png" width="30%"/><br>
 
-项目名：BGAFlowLayout-Android<br>
-git地址：https://github.com/bingoogolapple/BGAFlowLayout-Android<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/0f1c8cb45fefe7e38b327fc49c4f549c0be12397/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f666c6f776c61796f75742f73637265656e73686f74732f6267612d666c6f776c61796f75742d64656d6f312e676966" width="30%"/><br>
+
 
 
 项目名：MotionMachine<br>
@@ -1204,7 +1152,7 @@ git地址：https://github.com/AlbertGrobas/MovingImageView<br>
 项目名：android-FingerprintDialog<br>
 git地址：https://github.com/googlesamples/android-FingerprintDialog<br>
 预览:<br>
-![](https://github.com/googlesamples/android-FingerprintDialog/raw/master/screenshots/2-fingerprint-dialog.png) <br>
+<img src="https://github.com/googlesamples/android-FingerprintDialog/raw/master/screenshots/2-fingerprint-dialog.png" width="30%" />
 
 项目名：CursorWheelLayout<br>
 git地址：https://github.com/BCsl/CursorWheelLayout<br>
@@ -1232,7 +1180,7 @@ git地址：https://github.com/cshzhang/largeimageview<br>
 项目名：LabelView<br>
 git地址：https://github.com/drakeet/LabelView<br>
 预览:<br>
-![](https://camo.githubusercontent.com/24fced4586273e9b5c0b74aa8a19146cc05eb86a/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f3836653266663835677731657933307a6f326666396a32313331306f386e34302e6a7067) <br>
+<img src="https://camo.githubusercontent.com/24fced4586273e9b5c0b74aa8a19146cc05eb86a/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f3836653266663835677731657933307a6f326666396a32313331306f386e34302e6a7067" width="30%" />
 
 项目名：LovelyDialog<br>
 git地址：https://github.com/yarolegovich/LovelyDialog<br>
@@ -1316,12 +1264,13 @@ git地址：https://github.com/GIGAMOLE/ArcProgressStackView<br>
 项目名：SwipeableCard<br>
 git地址：https://github.com/michelelacorte/SwipeableCard<br>
 预览:<br>
-![](https://camo.githubusercontent.com/e422180793dd686c00d84c708d74d18b87f52ec1/687474703a2f2f692e67697068792e636f6d2f3236746e38514f41714c345356795273412e676966) <br>
+
+<img src="https://camo.githubusercontent.com/e422180793dd686c00d84c708d74d18b87f52ec1/687474703a2f2f692e67697068792e636f6d2f3236746e38514f41714c345356795273412e676966" width="30%" />
 
 项目名：MaterialStyledDialogs<br>
 git地址：https://github.com/javiersantos/MaterialStyledDialogs<br>
 预览:<br>
-![](https://raw.githubusercontent.com/javiersantos/MaterialStyledDialogs/master/Screenshots/banner.png) <br>
+<img src="https://raw.githubusercontent.com/javiersantos/MaterialStyledDialogs/master/Screenshots/banner.png" width="30%" />
 
 项目名：material-dialogs<br>
 git地址：https://github.com/afollestad/material-dialogs<br>
@@ -1331,22 +1280,22 @@ git地址：https://github.com/afollestad/material-dialogs<br>
 项目名：TagViewLayout<br>
 git地址：https://github.com/jjhesk/TagViewLayout<br>
 预览:<br>
-![](https://camo.githubusercontent.com/67c7881c1ffbc58332d3ec8ad2cf55a7bcb42344/687474703a2f2f692e67697068792e636f6d2f32596b39656b38516166676c322e676966) <br>
+<img src="https://camo.githubusercontent.com/67c7881c1ffbc58332d3ec8ad2cf55a7bcb42344/687474703a2f2f692e67697068792e636f6d2f32596b39656b38516166676c322e676966" width="30%" />
 
 项目名：RadarScanView<br>
 git地址：https://github.com/gpfduoduo/RadarScanView<br>
 预览:<br>
-![](https://github.com/gpfduoduo/RadarScanView/raw/master/RadarScanView/gif/radar.gif) <br>
+<img src="https://github.com/gpfduoduo/RadarScanView/raw/master/RadarScanView/gif/radar.gif" width="30%" />
 
 项目名：android-snake-menu<br>
 git地址：https://github.com/xmuSistone/android-snake-menu<br>
 预览:<br>
-![](https://github.com/xmuSistone/android-snake-menu/raw/master/capture2.gif) <br>
+<img src="https://github.com/xmuSistone/android-snake-menu/raw/master/capture2.gif" width="30%" />
 
 项目名：CityPicker<br>
 git地址：https://github.com/zaaach/CityPicker<br>
 预览:<br>
-![](https://github.com/zaaach/CityPicker/raw/master/screenshot/screenshot.gif) <br>
+<img src="https://github.com/zaaach/CityPicker/raw/master/screenshot/screenshot.gif" width="30%" />
 
 项目名：android-anyshape<br>
 git地址：https://github.com/lankton/android-anyshape<br>
@@ -1367,7 +1316,7 @@ git地址：https://github.com/brucetoo/ComboView<br>
 项目名：EasyLikeArea<br>
 git地址：https://github.com/CaMnter/EasyLikeArea<br>
 预览:<br>
-![](https://camo.githubusercontent.com/1465e7e1f7c9877d71e82412130abcd1944a4e96/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f3030366c504563396a77316632676465657562786a67333066773073673769332e676966) <br>
+<img src="https://camo.githubusercontent.com/1465e7e1f7c9877d71e82412130abcd1944a4e96/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f3030366c504563396a77316632676465657562786a67333066773073673769332e676966" width="30%" />
 
 项目名：JJSearchViewAnim<br>
 git地址：https://github.com/android-cjj/JJSearchViewAnim<br>
@@ -1377,13 +1326,13 @@ git地址：https://github.com/android-cjj/JJSearchViewAnim<br>
 项目名：MaterialSearchView<br>
 git地址：https://github.com/android-cjj/MaterialSearchView<br>
 预览:<br>
-![](https://camo.githubusercontent.com/8220bd55683ee57442aef6c833e1a971d07b6429/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530382f30372f313632343332673033696c7a7a69373335696d686d382e676966) <br>
+<img src="https://camo.githubusercontent.com/8220bd55683ee57442aef6c833e1a971d07b6429/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530382f30372f313632343332673033696c7a7a69373335696d686d382e676966" width="30%" />
 
 
 项目名：swirl<br>
 git地址：https://github.com/mattprecious/swirl<br>
 预览:<br>
-![](https://github.com/mattprecious/swirl/raw/master/images/sample.gif) <br>
+<img src="https://github.com/mattprecious/swirl/raw/master/images/sample.gif" width="30%" />
 
 
 项目名：BoomMenu<br>
@@ -1394,23 +1343,23 @@ git地址：https://github.com/Nightonke/BoomMenu<br>
 项目名：ScaleDragCircleView<br>
 git地址：https://github.com/tuozhaobing/ScaleDragCircleView<br>
 预览:<br>
-![](https://github.com/tuozhaobing/ScaleDragCircleView/raw/master/demolarge.gif) <br>
+<img src="https://github.com/tuozhaobing/ScaleDragCircleView/raw/master/demolarge.gif" width="30%" />
 
 
 项目名：Android-CircleMenu<br>
 git地址：https://github.com/hongyangAndroid/Android-CircleMenu<br>
 预览:<br>
-![](https://github.com/hongyangAndroid/CircleMenu/raw/master/sample_zhy_CircleMenu/screen_shot.gif) <br>
+<img src="https://github.com/hongyangAndroid/CircleMenu/raw/master/sample_zhy_CircleMenu/screen_shot.gif" width="30%" />
 
 项目名：DWToast<br>
 git地址：https://github.com/DavidWangTM/DWToast<br>
 预览:<br>
-![](https://github.com/DavidWangTM/DWToast/raw/master/nav.gif) <br>
+<img src="https://github.com/DavidWangTM/DWToast/raw/master/nav.gif" width="30%" />
 
 项目名：URLLinkView<br>
 git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 预览:<br>
-![](https://camo.githubusercontent.com/acab5da5f5428e89def195e1492d3e2879941a08/687474703a2f2f696d6775722e636f6d2f52526839717a7a2e676966) <br>
+<img src="https://camo.githubusercontent.com/acab5da5f5428e89def195e1492d3e2879941a08/687474703a2f2f696d6775722e636f6d2f52526839717a7a2e676966" width="30%" />
 
 
 
