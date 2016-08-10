@@ -96,7 +96,15 @@
 
 
 
+项目名：ScrollableLayout<br>
+git地址:https://github.com/w446108264/ScrollableLayout<br>
+预览:<br>
+<img src="https://github.com/w446108264/ScrollableLayout/raw/master/output/show.gif" width="30%"/><br>
 
+项目名：FunSwitch<br>
+git地址:https://github.com/ztelur/FunSwitch<br>
+预览:<br>
+<img src="https://github.com/ztelur/FunSwitch/raw/master/sample.gif" width="30%"/><br>
 
 项目名：FunSwitch<br>
 git地址:https://github.com/ztelur/FunSwitch<br>
@@ -2132,12 +2140,18 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
-
+项目名：android-unit-testing-tutorial<br>
+git地址：https://github.com/ChrisZou/android-unit-testing-tutorial<br>
+解释:<br>
+Code project corresponding to a serials of tutorial posts for android unit testing<br>
 
 项目名：AndroidRuler<br>
-git地址：https://github.com/dalong982242260/AndroidRuler/raw/master/img/ruler_3.png<br>
+git地址：
+https://github.com/dalong982242260/AndroidRuler<br>
 解释:<br>
 android自定义尺子收集demo<br>
+预览：<br>
+https://github.com/dalong982242260/AndroidRuler/raw/master/img/ruler_3.png<br>
 
 
 项目名：android_design_patterns_analysis<br>
