@@ -11,6 +11,16 @@ git地址：https://github.com/xmuSistone/android-sticky-viewpager<br>
 预览:<br>
 <img src="https://github.com/xmuSistone/android-sticky-viewpager/raw/master/gif01.gif" width="30%"/><br>
 
+项目名：StickyHeaderViewPager<br>
+git地址：https://github.com/w446108264/StickyHeaderViewPager<br>
+预览:<br>
+<img src="https://github.com/w446108264/StickyHeaderViewPager/raw/master/output/big.gif" width="30%"/><br>
+
+项目名：MagicIndicator<br>
+git地址：https://github.com/hackware1993/MagicIndicator<br>
+预览:<br>
+<img src="https://github.com/hackware1993/MagicIndicator/raw/master/magicindicator.gif" width="30%"/><br>
+
 项目名：Android-ParallaxHeaderViewPager<br>
 git地址：https://github.com/kmshack/Android-ParallaxHeaderViewPager<br>
 预览:<br>
@@ -86,7 +96,7 @@ git地址：https://github.com/ToxicBakery/ViewPagerTransforms<br>
 项目名：HollyViewPager<br>
 git地址：https://github.com/florent37/HollyViewPager<br>
 预览:<br>
-![](https://camo.githubusercontent.com/42b77379300d39233842379c64a8d3bd6f432e38/687474703a2f2f6a2e676966732e636f6d2f765a344439472e676966) <br>
+<img src="https://camo.githubusercontent.com/42b77379300d39233842379c64a8d3bd6f432e38/687474703a2f2f6a2e676966732e636f6d2f765a344439472e676966" width="30%" /><br>
 
 项目名：AppIntro<br>
 git地址：https://github.com/PaoloRotolo/AppIntro<br>
@@ -107,7 +117,7 @@ git地址：https://github.com/hongyangAndroid/MagicViewPager<br>
 项目名：Android-ConvenientBanner<br>
 git地址：https://github.com/saiwu-bigkoo/Android-ConvenientBanner<br>
 预览:<br>
-![](https://github.com/saiwu-bigkoo/Android-ConvenientBanner/raw/master/preview/convenientbannerdemo.gif) <br>
+<img src="https://github.com/saiwu-bigkoo/Android-ConvenientBanner/raw/master/preview/convenientbannerdemo.gif" width="30%" /><br>
 
 项目名：CardSlide<br>
 git地址：https://github.com/DavidWangTM/CardSlide<br>
