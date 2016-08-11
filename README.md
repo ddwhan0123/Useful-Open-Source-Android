@@ -78,6 +78,30 @@
 
 
 
+项目名：FlipCards<br>
+git地址:https://github.com/zhangke3016/FlipCards<br>
+预览:<br>
+<img src="https://github.com/zhangke3016/FlipCards/raw/master/gif/screen.gif" width="30%"/><br>
+
+项目名：RelativePopupWindow<br>
+git地址:https://github.com/kakajika/RelativePopupWindow<br>
+预览:<br>
+<img src="https://github.com/kakajika/RelativePopupWindow/raw/master/art/art1.gif" width="30%"/><br>
+
+项目名：anko<br>
+git地址:https://github.com/Kotlin/anko<br>
+预览:<br>
+<img src="https://github.com/Kotlin/anko/raw/master/doc/helloworld.png" width="30%"/><br>
+
+项目名：WheelPicker<br>
+git地址:https://github.com/AigeStudio/WheelPicker<br>
+预览:<br>
+<img src="https://github.com/AigeStudio/WheelPicker/raw/master/Previews/main/Preview.gif" width="30%"/><br>
+
+项目名：android-adDialog<br>
+git地址:https://github.com/yipianfengye/android-adDialog<br>
+预览:<br>
+<img src="https://github.com/yipianfengye/android-adDialog/raw/master/images/ezgif.com-video-to-gif1.gif" width="30%"/><br>
 
 项目名：welcome-coordinator<br>
 git地址:https://github.com/txusballesteros/welcome-coordinator<br>
