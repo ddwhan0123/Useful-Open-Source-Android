@@ -12,6 +12,13 @@
 
 ###图片选择器相关：<br>
 
+
+
+项目名：SnappySmoothScroller<br>
+git地址：https://github.com/nshmura/SnappySmoothScroller<br>
+预览:<br>
+<img src="https://github.com/nshmura/SnappySmoothScroller/raw/master/assets/demo.gif" width="30%" /><br>
+
 项目名：android-image-picker<br>
 git地址：https://github.com/sd6352051/android-image-picker<br>
 预览:<br>
@@ -57,6 +64,11 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+
+项目名：StickerView<br>
+git地址：https://github.com/wuapnjie/StickerView<br>
+预览:<br>
+<img src="https://github.com/wuapnjie/StickerView/raw/master/screenshots/stickerview.gif" width="30%" /><br>
 
 项目名：LowPolyAndroid<br>
 git地址：https://github.com/zzhoujay/LowPolyAndroid<br>
