@@ -79,6 +79,16 @@
 
 
 
+项目名：welcome-coordinator<br>
+git地址:https://github.com/txusballesteros/welcome-coordinator<br>
+预览:<br>
+<img src="https://github.com/txusballesteros/welcome-coordinator/raw/master/assets/onboarding_demo.gif" width="30%"/><br>
+
+项目名：Onboarding<br>
+git地址:https://github.com/eoinfogarty/Onboarding<br>
+预览:<br>
+<img src="https://github.com/eoinfogarty/Onboarding/raw/master/graphics/example.gif" width="30%"/><br>
+
 项目名：ScrollableLayout<br>
 git地址:https://github.com/w446108264/ScrollableLayout<br>
 预览:<br>
@@ -1595,7 +1605,17 @@ git地址：https://github.com/nisrulz/qreader<br>
 
 
 
+项目名：strman-java<br>
+git地址:https://github.com/shekhargulati/strman-java<br>
+解释:<br>
+A Java 8 string manipulation library. It is inspired by https://github.com/dleitee/strman<br>
 
+
+
+项目名：XCImageCompressor<br>
+git地址:https://github.com/jczmdeveloper/XCImageCompressor<br>
+解释:<br>
+An Android Image Compressor which use bither-android-lib - Android 图片压缩器<br>
 
 
 项目名：AnotherMonitor<br>
