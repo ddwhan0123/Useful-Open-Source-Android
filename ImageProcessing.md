@@ -65,6 +65,12 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+
+项目名：CameraFilter<br>
+git地址：https://github.com/WeLikeVis/CameraFilter<br>
+预览:<br>
+<img src="https://github.com/WeLikeVis/CameraFilter/raw/master/art/4.png" width="30%" /><br>
+
 项目名：StickerView<br>
 git地址：https://github.com/wuapnjie/StickerView<br>
 预览:<br>
