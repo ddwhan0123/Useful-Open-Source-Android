@@ -78,6 +78,27 @@
 
 
 
+
+项目名：AndroidAudioRecorder<br>
+git地址:https://github.com/adrielcafe/AndroidAudioRecorder<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/adrielcafe/AndroidAudioRecorder/master/screenshots.png" width="30%"/><br>
+
+项目名：nougat-boot-animation<br>
+git地址:https://github.com/ybq/nougat-boot-animation<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/ybq/nougat-boot-animation/master/art/effect.gif" width="30%"/><br>
+
+项目名：SmallChart<br>
+git地址:https://github.com/Idtk/SmallChart<br>
+预览:<br>
+<img src="https://github.com/Idtk/SmallChart/raw/master/image/bar.png" width="30%"/><br>
+
+项目名：selectSeat<br>
+git地址:https://github.com/mrhyh/selectSeat<br>
+预览:<br>
+<img src="https://github.com/mrhyh/selectSeat/raw/master/movieSeatSelect.gif" width="30%"/><br>
+
 项目名：FlipCards<br>
 git地址:https://github.com/zhangke3016/FlipCards<br>
 预览:<br>
@@ -1537,9 +1558,15 @@ git地址：https://github.com/lsjwzh/MaterialLoadingProgressBar<br>
 
 
 
+项目名：CuteR<br>
+git地址：https://github.com/chinuno-usami/CuteR<br>
+预览:<br>
+<img src="https://github.com/chinuno-usami/CuteR/raw/master/sample_output_colourful.png" width="30%" /><br>
 
-
-
+项目名：qart4j<br>
+git地址：https://github.com/dieforfree/qart4j<br>
+预览:<br>
+<img src="https://github.com/dieforfree/qart4j/raw/master/sample-output.png" width="30%" /><br>
 
 
 项目名：android-zxingLibrary<br>
