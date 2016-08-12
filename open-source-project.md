@@ -3,6 +3,12 @@
 
 
 
+项目名：EasyGank<br>
+git地址：https://github.com/CaMnter/EasyGank<br>
+解释：<br>
+The project build framework based on the Rx series and MVP pattern. http://gank.io/ <br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/249ddcb0d2d2063e51c71e172724e3f231b1c684/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f3030366c5045633967773166333074676634326e686a333161793239386e65352e6a7067" width="30%" />
 
 项目名：Luban-Circle-Demo<br>
 git地址：https://github.com/huijimuhe/Luban-Circle-Demo<br>
