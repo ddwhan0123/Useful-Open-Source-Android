@@ -236,6 +236,11 @@ git地址: https://github.com/HotBitmapGG/OhMyBiliBili<br>
 预览:<br>
 <img src="https://github.com/HotBitmapGG/OhMyBiliBili/raw/OhMyBiliBili/bilibiliPic/01.jpg?raw=true" width="30%" /><br>
 
+项目名：onyx<br>
+git地址: https://github.com/hanuor/onyx<br>
+预览:<br>
+<img src="https://github.com/hanuor/onyx/raw/master/anim2.gif" width="30%" /><br>
+
 项目名：Tiny-note<br>
 git地址: https://github.com/gougouccnu/Tiny-note<br>
 预览:<br>
