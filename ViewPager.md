@@ -6,6 +6,12 @@
 
 
 
+
+项目名：pagerbullet<br>
+git地址：https://github.com/robohorse/pagerbullet<br>
+预览:<br>
+<img src="https://github.com/robohorse/pagerbullet/raw/master/images/sample.png" width="30%"/><br>
+
 项目名：StartPageAd<br>
 git地址：https://github.com/mrhyh/StartPageAd<br>
 预览:<br>
