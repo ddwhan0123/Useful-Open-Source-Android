@@ -77,6 +77,13 @@
 
 
 
+
+项目名：animate<br>
+git地址:https://github.com/hitherejoe/animate<br>
+预览:<br>
+<img src="https://github.com/hitherejoe/animate/raw/master/images/touch_feedback.gif" width="30%"/><br>
+
+
 项目名：HashGirl<br>
 git地址:https://github.com/skyfe79/HashGirl<br>
 预览:<br>
