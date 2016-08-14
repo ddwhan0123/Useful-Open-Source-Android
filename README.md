@@ -76,7 +76,10 @@
 
 
 
-
+项目名：NumberPicker<br>
+git地址:https://github.com/ShawnLin013/NumberPicker<br>
+预览:<br>
+<img src="https://github.com/ShawnLin013/NumberPicker/raw/master/screenshot/NumberPicker-Screenshot.png" width="30%"/><br>
 
 项目名：animate<br>
 git地址:https://github.com/hitherejoe/animate<br>
