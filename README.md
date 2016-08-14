@@ -4,13 +4,14 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-8-10<br>
+###更新时间:2016-8-14<br>
 
 
 
 
 
-
+## Toast 相关:<br>
+##[点击跳转 Toast.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Toast.md)
 
 ## 视频/拍照/视频/多媒体 相关:<br>
 ##[点击跳转 multimedia.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Multimedia.md)
@@ -202,20 +203,14 @@ git地址:https://github.com/JeasonWong/JIkeGallery<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/1706924e07392c8d2c326ff1eb479cd5311bd238/687474703a2f2f69342e7069696d672e636f6d2f313037302f613433343434313832663637376231642e676966" width="30%"/><br>
 
-项目名：android-UCToast<br>
-git地址:https://github.com/liaohuqiu/android-UCToast<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/liaohuqiu/android-UCToast/master/art/uc-toast.gif" width="30%"/><br>
+
 
 项目名：MaterialLogin<br>
 git地址:https://github.com/fanrunqi/MaterialLogin<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/fanrunqi/MaterialLogin/master/screenshots/b.png" width="30%"/><br>
 
-项目名：TastyToast<br>
-git地址:https://github.com/yadav-rahul/TastyToast<br>
-预览:<br>
-<img src="https://github.com/yadav-rahul/TastyToast/raw/lib/static/success.gif" width="30%"/><br>
+
 
 项目名：FlightSeat<br>
 git地址:https://github.com/ldoublem/FlightSeat<br>
@@ -232,10 +227,7 @@ git地址:https://github.com/oxoooo/pull-back-layout<br>
 预览:<br>
 <img src="https://github.com/oxoooo/pull-back-layout/raw/master/screenshot.gif" width="30%"/><br>
 
-项目名：TastyToast<br>
-git地址:https://github.com/yadav-rahul/TastyToast<br>
-预览:<br>
-<img src="https://github.com/yadav-rahul/TastyToast/raw/lib/static/warning.gif" width="30%"/><br>
+
 
 
 项目名：Flowing-Gradient<br>
@@ -1403,10 +1395,6 @@ git地址：https://github.com/lankton/android-anyshape<br>
 预览:<br>
 <img src="https://github.com/lankton/android-anyshape/raw/master/pictures/with_normal.jpg" width="30%" />
 
-项目名：FlowLayout<br>
-git地址：https://github.com/hongyangAndroid/FlowLayout<br>
-预览:<br>
-![](https://github.com/hongyangAndroid/FlowLayout/raw/master/flowlayout_03.gif) <br>
 
 
 项目名：ComboView<br>
