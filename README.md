@@ -10,6 +10,9 @@
 
 
 
+## NumberView/数字自定义View 相关:<br>
+##[点击跳转 NumberView.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/NumberView.md)
+
 ## Toast 相关:<br>
 ##[点击跳转 Toast.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Toast.md)
 
@@ -83,10 +86,7 @@ git地址:https://github.com/JeasonWong/SlackLoadingView<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/f8e66102a3782e6b1bd6116bc2fee0179c375a5e/687474703a2f2f69322e7069696d672e636f6d2f313037302f306133626265623762373363366638372e676966" width="30%"/><br>
 
-项目名：NumberPicker<br>
-git地址:https://github.com/ShawnLin013/NumberPicker<br>
-预览:<br>
-<img src="https://github.com/ShawnLin013/NumberPicker/raw/master/screenshot/NumberPicker-Screenshot.png" width="30%"/><br>
+
 
 项目名：animate<br>
 git地址:https://github.com/hitherejoe/animate<br>
@@ -183,10 +183,7 @@ git地址:https://github.com/jackpocket/android_scratchoff<br>
 预览:<br>
 <img src="https://github.com/jackpocket/android_scratchoff/raw/master/scratchoff.gif" width="30%"/><br>
 
-项目名：CountDownView<br>
-git地址:https://github.com/alexfu/CountDownView<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/fbd94d911c3b86c0723e09550b73280f5ef51d63/687474703a2f2f692e696d6775722e636f6d2f6953537162795a2e706e67" width="30%"/><br>
+
 
 项目名：crystal-preloaders<br>
 git地址:https://github.com/syedowaisali/crystal-preloaders<br>
@@ -263,10 +260,7 @@ git地址:https://github.com/zhaozhentao/BooheeScrollView<br>
 预览:<br>
 <img src="https://github.com/zhaozhentao/BooheeScrollView/raw/master/screenshot/screen.gif" width="30%"/><br>
 
-项目名：ScrollNumber<br>
-git地址:https://github.com/a-voyager/ScrollNumber<br>
-预览:<br>
-<img src="https://github.com/a-voyager/ScrollNumber/raw/master/imgs/01.gif" width="30%"/><br>
+
 
 项目名：DraggableView<br>
 git地址:https://github.com/elevenetc/DraggableView<br>
@@ -298,10 +292,7 @@ git地址:https://github.com/Angads25/android-filepicker<br>
 
 
 
-项目名：ticker<br>
-git地址:https://github.com/robinhood/ticker<br>
-预览:<br>
-<img src="https://github.com/robinhood/ticker/raw/master/assets/ticker_main.gif" width="30%"/><br>
+
 
 项目名：PaperShredder<br>
 git地址：https://github.com/ldoublem/PaperShredder<br>
@@ -477,12 +468,6 @@ git地址：https://github.com/vinaysshenoy/mugen<br>
 
 
 
-
-项目名：MoneyTextView<br>
-git地址：https://github.com/fabiomsr/MoneyTextView<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/fabiomsr/MoneyTextView/develop/art/screenshot2.png" width="30%"/><br>
-
 项目名：LiquidButton<br>
 git地址：https://github.com/yoruriko/LiquidButton<br>
 预览:<br>
@@ -596,10 +581,6 @@ git地址：https://github.com/liaoinstan/SpringView<br>
 预览:<br>
 <img src="https://github.com/liaoinstan/SpringView/raw/master/screenshot/1459212372609_s.gif" width="30%"/><br>
 
-项目名：NumberMorphView<br>
-git地址：https://github.com/me-abhinav/NumberMorphView<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/me-abhinav/NumberMorphView/dev/sample.gif" width="30%"/><br>
 
 项目名：Spotlight<br>
 git地址：https://github.com/wooplr/Spotlight<br>
@@ -645,14 +626,6 @@ git地址：https://github.com/badoualy/stepper-indicator<br>
 git地址：https://github.com/zipme/RQShineLabel<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/zipme/RQShineLabel/master/Screenshots/rqshinelabel.gif" width="30%"/><br>
-
-
-项目名：CountdownView<br>
-git地址：https://github.com/iwgang/CountdownView<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/iwgang/CountdownView/master/screenshot/screenshot.gif" width="30%"/><br>
-
-
 
 
 项目名：hintcase<br>
@@ -932,10 +905,7 @@ git地址：https://github.com/AlexZhukovich/NestedToolbarTutorial<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/321b9d0d1ecb421b1b1411578e52aa10be099ee2/687474703a2f2f616c65787a682e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031352f30382f6e65737465645f746f6f6c6261725f6769665f64656d6f2e676966" width="30%"/><br>
 
-项目名：NumberMorphView4Android<br>
-git地址：https://github.com/Even201314/NumberMorphView4Android<br>
-预览:<br>
-<img src="https://github.com/Even201314/NumberMorphView4Android/raw/master/raw/master/screenshot/sample.gif" width="30%"/><br>
+
 
 
 项目名：StatusBarAdapt<br>
@@ -1051,10 +1021,7 @@ git地址：https://github.com/cachapa/ExpandableLayout<br>
 预览:<br>
 <img src="https://github.com/cachapa/ExpandableLayout/raw/master/images/simple.gif" width="30%" /><br>
 
-项目名：AnimTextView<br>
-git地址：https://github.com/z56402344/AnimTextView<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/928419dd3d300081d975c51b2a6ad293b9624ab7/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531323134323233363431303631" width="30%" /><br>
+
 
 项目名：A-MusicView<br>
 git地址：https://github.com/north2014/A-MusicView<br>
@@ -1091,10 +1058,7 @@ git地址：https://github.com/danylovolokh/ImageTransition<br>
 预览:<br>
 <img src="https://cloud.githubusercontent.com/assets/2686355/13902301/783b604c-ee4c-11e5-8428-bab7a67f6fff.gif" width="30%" /><br>
 
-项目名：TextCounter<br>
-git地址：https://github.com/premnirmal/TextCounter<br>
-预览:<br>
-<img src="https://github.com/premnirmal/TextCounter/raw/master/img/counter.gif" width="30%" /><br>
+
 
 项目名：IndicatorBox<br>
 git地址：https://github.com/wusp/IndicatorBox<br>
@@ -1173,15 +1137,9 @@ git地址：https://github.com/kakajika/SwipeAwayDialog<br>
 预览:<br>
 ![](https://raw.githubusercontent.com/wiki/kakajika/SwipeAwayDialog/images/octocats.gif) <br>
 
-项目名：countingtextview<br>
-git地址：https://github.com/uguratar/countingtextview<br>
-预览:<br>
-![](https://camo.githubusercontent.com/30a57e0df2f29e4b3dd8172dff5bbdbee877eefc/687474703a2f2f692e696d6775722e636f6d2f6e6f58774b47372e676966) <br>
 
-项目名：RiseNumber<br>
-git地址：https://github.com/sd6352051/RiseNumber<br>
-预览:<br>
-![](https://camo.githubusercontent.com/0edd9bf488250060322dbf5496dddd8e096b5ca9/687474703a2f2f696d67312e70682e3132362e6e65742f344b775451756f5f637975364a3050443346313231513d3d2f363631393037373539313339373631303037372e676966) <br>
+
+
 
 
 项目名：BlurLockView<br>ƒ
@@ -1370,10 +1328,6 @@ git地址：https://github.com/afollestad/material-dialogs<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/readmeshowcase.png" width="30%" />
 
-项目名：TagViewLayout<br>
-git地址：https://github.com/jjhesk/TagViewLayout<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/67c7881c1ffbc58332d3ec8ad2cf55a7bcb42344/687474703a2f2f692e67697068792e636f6d2f32596b39656b38516166676c322e676966" width="30%" />
 
 项目名：RadarScanView<br>
 git地址：https://github.com/gpfduoduo/RadarScanView<br>
