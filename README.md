@@ -1671,9 +1671,23 @@ git地址：https://github.com/nisrulz/qreader<br>
 
 
 
+项目名：android-BluetoothChat<br>
+git地址:https://github.com/sirmordred/android-BluetoothChat<br>
+预览:<br>
+<img src="https://github.com/sirmordred/android-BluetoothChat/raw/master/screenshots/2-devices.png" width="30%"/><br>
 
 
+项目名：AppUninstall<br>
+git地址:https://github.com/venshine/AppUninstall<br>
+解释:<br>
+Android App监听自身卸载，反馈统计<br>
 
+项目名：android-slidingactivity<br>
+git地址:https://github.com/klinker41/android-slidingactivity<br>
+预览:<br>
+<img src="https://github.com/klinker41/android-slidingactivity/raw/master/preview.gif" width="30%"/><br>
+解释:<br>
+Android library which allows you to swipe down from an activity to close it<br>
 
 
 项目名：SmsRadar<br>
@@ -2046,6 +2060,12 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+
+项目名：awesome-android-tips<br>
+git地址：https://github.com/jiang111/awesome-android-tips<br>
+解释:<br>
+some code tips in android<br>
 
 项目名：Andriod-collect-blogs<br>
 git地址：https://github.com/ZQiang94/Andriod-collect-blogs<br>
