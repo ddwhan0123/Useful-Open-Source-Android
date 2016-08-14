@@ -14,6 +14,12 @@
 
 
 
+
+项目名：RxGalleryFinal<br>
+git地址：https://github.com/FinalTeam/RxGalleryFinal<br>
+预览:<br>
+<img src="https://github.com/pengjianbo/GalleryFinal/raw/master/images/gallery_final_effect.png" width="30%" /><br>
+
 项目名：SnappySmoothScroller<br>
 git地址：https://github.com/nshmura/SnappySmoothScroller<br>
 预览:<br>
