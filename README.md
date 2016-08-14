@@ -1672,6 +1672,12 @@ git地址：https://github.com/nisrulz/qreader<br>
 
 
 
+
+项目名：SmsRadar<br>
+git地址:https://github.com/tuenti/SmsRadar<br>
+解释:<br>
+Android library created to listen incoming and outgoing SMS's<br>
+
 项目名：strman-java<br>
 git地址:https://github.com/shekhargulati/strman-java<br>
 解释:<br>
