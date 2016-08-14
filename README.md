@@ -241,7 +241,7 @@ git地址:https://github.com/dynamitechetan/Flowing-Gradient<br>
 项目名：MaterialSearchBar<br>
 git地址:https://github.com/mancj/MaterialSearchBar<br>
 预览:<br>
-<img src="https://github.com/mancj/MaterialSearchBar/raw/master/art/device-2016-07-20-170335.png" width="30%"/><br>
+<img src="https://github.com/mancj/MaterialSearchBar/raw/master/art/preview.gif" width="30%"/><br>
 
 项目名：AndroidFillableLoaders<br>
 git地址:https://github.com/JorgeCastilloPrz/AndroidFillableLoaders<br>
