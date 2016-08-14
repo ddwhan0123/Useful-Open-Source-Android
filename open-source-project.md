@@ -3,6 +3,17 @@
 
 
 
+
+
+
+
+项目名：zikobot<br>
+git地址：https://github.com/joxad/zikobot<br>
+解释：<br>
+This project is an open-source alarm using Spotify SDK + Databinding + Dagger 2 <br>
+预览:<br>
+<img src="https://github.com/joxad/zikobot/raw/master/images/light_playstore.png" width="30%" />
+
 项目名：EasyGank<br>
 git地址：https://github.com/CaMnter/EasyGank<br>
 解释：<br>
