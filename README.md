@@ -79,6 +79,22 @@
 
 
 
+项目名：BlurredView<br>
+git地址:https://github.com/wl9739/BlurredView<br>
+预览:<br>
+<img src="https://github.com/wl9739/BlurredView/raw/master/Gif/demo.gif" width="30%"/><br>
+
+项目名：ChatMessageView<br>
+git地址:https://github.com/himanshu-soni/ChatMessageView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/himanshu-soni/ChatMessageView/master/screenshot/screen2.jpg" width="30%"/><br>
+
+项目名：IconFontApp<br>
+git地址:https://github.com/hujiaweibujidao/IconFontApp<br>
+预览:<br>
+<img src="https://github.com/hujiaweibujidao/IconFontApp/raw/master/iconfont.gif" width="30%"/><br>
+
+
 项目名：AndroidAudioRecorder<br>
 git地址:https://github.com/adrielcafe/AndroidAudioRecorder<br>
 预览:<br>
@@ -2021,6 +2037,11 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+项目名：Andriod-collect-blogs<br>
+git地址：https://github.com/ZQiang94/Andriod-collect-blogs<br>
+解释:<br>
+收集Android相关blog<br>
 
 项目名：java-bible<br>
 git地址：https://github.com/biezhi/java-bible<br>
