@@ -2022,6 +2022,11 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+项目名：java-bible<br>
+git地址：https://github.com/biezhi/java-bible<br>
+解释:<br>
+Java Bible is my java technology stack<br>
+
 项目名：android-unit-testing-tutorial<br>
 git地址：https://github.com/ChrisZou/android-unit-testing-tutorial<br>
 解释:<br>
