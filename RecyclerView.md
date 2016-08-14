@@ -8,7 +8,10 @@
 
 
 
-
+项目名：LollipopContactsRecyclerViewFastScroller<br>
+git地址：https://github.com/AndroidDeveloperLB/LollipopContactsRecyclerViewFastScroller<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/AndroidDeveloperLB/LollipopContactsRecyclerViewFastScroller/master/demo.gif" width="30%"/><br>
 
 项目名：MultiTypeView<br>
 git地址：https://github.com/LuckyJayce/MultiTypeView<br>
