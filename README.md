@@ -76,6 +76,12 @@
 
 
 
+
+项目名：SlackLoadingView<br>
+git地址:https://github.com/JeasonWong/SlackLoadingView<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/f8e66102a3782e6b1bd6116bc2fee0179c375a5e/687474703a2f2f69322e7069696d672e636f6d2f313037302f306133626265623762373363366638372e676966" width="30%"/><br>
+
 项目名：NumberPicker<br>
 git地址:https://github.com/ShawnLin013/NumberPicker<br>
 预览:<br>
@@ -1681,6 +1687,11 @@ git地址：https://github.com/nisrulz/qreader<br>
 
 
 
+项目名：Scoops<br>
+git地址:https://github.com/52inc/Scoops<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/3f81a7703d390d3546c4c8ecc366c8e89221f3e6/687474703a2f2f692e696d6775722e636f6d2f5750546a5955502e676966" width="30%"/><br>
+
 项目名：android-BluetoothChat<br>
 git地址:https://github.com/sirmordred/android-BluetoothChat<br>
 预览:<br>
@@ -2071,6 +2082,11 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+
+项目名：README<br>
+git地址：https://github.com/guodongxiaren/README<br>
+解释:<br>
+README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.csdn.net/guodongxiaren/article/details/23690801<br>
 
 项目名：awesome-android-tips<br>
 git地址：https://github.com/jiang111/awesome-android-tips<br>
