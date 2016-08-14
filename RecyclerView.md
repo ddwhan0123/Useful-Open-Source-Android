@@ -8,6 +8,13 @@
 
 
 
+
+
+项目名：MultiTypeView<br>
+git地址：https://github.com/LuckyJayce/MultiTypeView<br>
+预览:<br>
+<img src="https://github.com/LuckyJayce/MultiTypeView/raw/master/raw/1.png" width="30%"/><br>
+
 项目名：AsymmetricGridView<br>
 git地址：https://github.com/felipecsl/AsymmetricGridView<br>
 预览:<br>
