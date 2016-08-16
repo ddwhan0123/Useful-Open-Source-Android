@@ -3,6 +3,10 @@
 
 
 
+项目名：android-drag-FlowLayout<br>
+git地址：https://github.com/LightSun/android-drag-FlowLayout<br>
+预览:<br>
+<img src="https://github.com/LightSun/android-drag-FlowLayout/raw/master/art/drag_flowlayout.gif" width="30%"/><br>
 
 项目名：TagViewLayout<br>
 git地址：https://github.com/jjhesk/TagViewLayout<br>
