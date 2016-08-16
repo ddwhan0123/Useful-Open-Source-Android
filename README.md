@@ -2043,6 +2043,13 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
+项目名：VirtualAppDoc<br>
+git地址：https://github.com/prife/VirtualAppDoc<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/c8c51387dc0d99c46723e0f1b66c11742f7a7772/68747470733a2f2f7261776769742e636f6d2f70726966652f5669727475616c417070446f632f6d61737465722f706e67732f564142696e64657250726f76696465722e737667" width="30%"/><br><br>
+解释:<br>
+Server Process 启动流程<br>
+
 项目名：README<br>
 git地址：https://github.com/guodongxiaren/README<br>
 解释:<br>
