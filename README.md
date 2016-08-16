@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-8-14<br>
+###更新时间:2016-8-16<br>
 
 
 
@@ -80,6 +80,11 @@
 
 
 
+
+项目名：FlexLayout<br>
+git地址:https://github.com/mmin18/FlexLayout<br>
+预览:<br>
+<img src="https://github.com/mmin18/FlexLayout/raw/master/imgs/s3.png" width="30%"/><br>
 
 项目名：Jgraph<br>
 git地址:https://github.com/mychoices/Jgraph<br>
@@ -1636,6 +1641,11 @@ git地址：https://github.com/nisrulz/qreader<br>
 
 
 
+项目名：LargeImage<br>
+git地址:https://github.com/LuckyJayce/LargeImage<br>
+解释:<br>
+Android 加载大图 可以高清显示10000*10000像素的图片，轻松实现微博长图功能<br>
+
 项目名：Scoops<br>
 git地址:https://github.com/52inc/Scoops<br>
 预览:<br>
@@ -2026,6 +2036,7 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 ##翻译,资料:<br>
+
 
 
 
