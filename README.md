@@ -175,10 +175,7 @@ git地址:https://github.com/txusballesteros/welcome-coordinator<br>
 预览:<br>
 <img src="https://github.com/txusballesteros/welcome-coordinator/raw/master/assets/onboarding_demo.gif" width="30%"/><br>
 
-项目名：Onboarding<br>
-git地址:https://github.com/eoinfogarty/Onboarding<br>
-预览:<br>
-<img src="https://github.com/eoinfogarty/Onboarding/raw/master/graphics/example.gif" width="30%"/><br>
+
 
 项目名：ScrollableLayout<br>
 git地址:https://github.com/w446108264/ScrollableLayout<br>
