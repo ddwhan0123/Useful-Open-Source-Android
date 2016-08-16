@@ -8,7 +8,7 @@
 
 
 
----------
+
 
 ###图片选择器相关：<br>
 
@@ -71,6 +71,11 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+
+项目名：jpeg_encoder<br>
+git地址：https://github.com/thejinchao/jpeg_encoder<br>
+解释:<br>
+compress bitmap to jpeg file<br>
 
 项目名：CameraFilter<br>
 git地址：https://github.com/WeLikeVis/CameraFilter<br>
