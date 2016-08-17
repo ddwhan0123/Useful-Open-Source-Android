@@ -7,6 +7,13 @@
 
 
 
+项目名：Gank<br>
+git地址：https://github.com/JohnnyShieh/Gank<br>
+解释：<br>
+An unofficial client of gank.io, based on Flux pattern and Rx series.<br>
+预览:<br>
+<img src="https://github.com/JohnnyShieh/Gank/raw/master/screenshots/today.jpg" width="30%" />
+
 项目名：zikobot<br>
 git地址：https://github.com/joxad/zikobot<br>
 解释：<br>
