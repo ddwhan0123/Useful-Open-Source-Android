@@ -11,7 +11,7 @@
 
 
 ## 二维码/QRcode 相关:<br>
-##[点击跳转 Chart.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/QRcode.md)
+##[点击跳转 QRcode.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/QRcode.md)
 
 ## 图表/Chart 相关:<br>
 ##[点击跳转 Chart.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Chart.md)
