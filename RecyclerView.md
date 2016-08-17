@@ -6,7 +6,15 @@
 
 
 
+项目名：XRecyclerView<br>
+git地址：https://github.com/jianghejie/XRecyclerView<br>
+预览:<br>
+<img src="https://github.com/jianghejie/XRecyclerView/raw/master/art/demo.gif" width="30%"/><br>
 
+项目名：RecyclerRefreshLayout<br>
+git地址：https://github.com/dinuscxj/RecyclerRefreshLayout<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/dinuscxj/RecyclerRefreshLayout/master/Preview/RecyclerRefreshLayoutNormal.gif" width="30%"/><br>
 
 项目名：LollipopContactsRecyclerViewFastScroller<br>
 git地址：https://github.com/AndroidDeveloperLB/LollipopContactsRecyclerViewFastScroller<br>
