@@ -1,4 +1,12 @@
 ##Menu/Bar<br>
+
+
+
+项目名：WellSwipe<br>
+git地址：https://github.com/gumingwei/WellSwipe<br>
+预览:<br>
+<img src="https://github.com/gumingwei/WellSwipe/raw/master/app/wellswipe4.gif" width="30%"/>
+
 项目名：TabView<br>
 git地址：https://github.com/Hentaii/TabView<br>
 预览:<br>
