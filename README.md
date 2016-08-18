@@ -1995,7 +1995,10 @@ git地址：https://github.com/D-clock/AndroidDaemonService<br>
 
 
 
-
+项目名：awesome-android-tips<br>
+git地址：https://github.com/jiang111/awesome-android-tips<br>
+解释:<br>
+some code tips in android<br>
 
 项目名：VirtualAppDoc<br>
 git地址：https://github.com/prife/VirtualAppDoc<br>
@@ -2441,6 +2444,12 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
+
+项目名：android-strings-search-plugin<br>
+git地址：https://github.com/konifar/android-strings-search-plugin<br>
+预览:<br>
+<img src="https://github.com/konifar/android-strings-search-plugin/raw/master/art/demo.gif" width="30%"/><br><br>
+解释：This plugin makes it easy to search text in strings resources<br>
 
 项目名：AndroidUtilCode<br>
 git地址：https://github.com/Blankj/AndroidUtilCode<br>
