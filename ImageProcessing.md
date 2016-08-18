@@ -72,6 +72,11 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+项目名：PloyFun<br>
+git地址：https://github.com/hugeterry/PloyFun<br>
+预览:<br>
+<img src="https://github.com/hugeterry/PloyFun/raw/master/showUI/sample_res03.png" width="30%" /><br>
+
 项目名：jpeg_encoder<br>
 git地址：https://github.com/thejinchao/jpeg_encoder<br>
 解释:<br>
