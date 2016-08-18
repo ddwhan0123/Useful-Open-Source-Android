@@ -52,7 +52,7 @@
 ##[点击跳转 TimePicker.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/TimePicker.md)
 
 ## ViewPager 相关:<br>
-##[点击跳转 ViewPager.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/edit/master/ViewPager.md)
+##[点击跳转 ViewPager.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/ViewPager.md)
 
 
 ##GridView 相关:<br>
