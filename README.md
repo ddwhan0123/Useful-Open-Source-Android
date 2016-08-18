@@ -87,6 +87,16 @@
 
 
 
+项目名：WeChatPswKeyboard<br>
+git地址:https://github.com/zuiwuyuan/WeChatPswKeyboard<br>
+预览:<br>
+<img src="https://github.com/zuiwuyuan/WeChatPswKeyboard/raw/master/imgs/img.gif" width="30%"/><br>
+
+项目名：AndroidSlidingUpPanel<br>
+git地址:https://github.com/umano/AndroidSlidingUpPanel<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/834cfd81ce764457db69dc023e1bd0adf0a8d00d/68747470733a2f2f7261772e6769746875622e636f6d2f756d616e6f2f416e64726f6964536c6964696e67557050616e656c44656d6f2f6d61737465722f736c6964696e67757070616e656c2e706e67" width="30%"/><br>
+
 项目名：Steppers<br>
 git地址:https://github.com/drozdzynski/Steppers<br>
 预览:<br>
