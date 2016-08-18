@@ -1580,6 +1580,11 @@ git地址：https://github.com/lsjwzh/MaterialLoadingProgressBar<br>
 
 
 
+项目名：chinese-copywriting-guidelines<br>
+git地址:https://github.com/sparanoid/chinese-copywriting-guidelines<br>
+解释:<br>
+Chinese Copywriting Guidelines / 中文文案排版指北<br>
+
 项目名：LargeImage<br>
 git地址:https://github.com/LuckyJayce/LargeImage<br>
 解释:<br>
