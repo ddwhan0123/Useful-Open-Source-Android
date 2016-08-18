@@ -5,7 +5,12 @@
 
 
 
-
+项目名：PixPic<br>
+git地址：https://github.com/Yalantis/PixPic<br>
+解释：<br>
+PixPic, a Photo Editing App<br>
+预览:<br>
+<img src="https://github.com/Yalantis/PixPic/raw/master/Screenshots/5.5%20Device%204.jpg" width="30%" />
 
 项目名：Gank<br>
 git地址：https://github.com/JohnnyShieh/Gank<br>
