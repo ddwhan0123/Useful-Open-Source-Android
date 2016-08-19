@@ -87,6 +87,16 @@
 
 
 
+项目名：SmoothCheckBox<br>
+git地址:https://github.com/andyxialm/SmoothCheckBox<br>
+预览:<br>
+<img src="https://github.com/andyxialm/SmoothCheckBox/raw/master/art/smoothcb.gif?raw=true" width="30%"/><br>
+
+项目名：ShapedImageView<br>
+git地址:https://github.com/gavinliu/ShapedImageView<br>
+预览:<br>
+<img src="https://github.com/gavinliu/ShapedImageView/raw/master/screenhots.png" width="30%"/><br>
+
 项目名：WeChatPswKeyboard<br>
 git地址:https://github.com/zuiwuyuan/WeChatPswKeyboard<br>
 预览:<br>
