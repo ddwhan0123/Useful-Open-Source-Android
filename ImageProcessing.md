@@ -66,11 +66,20 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 <img src="https://camo.githubusercontent.com/ecf23b537e735aa1165ca942cb183327df08e9e3/687474703a2f2f3773627934372e636f6d352e7a302e676c622e636c6f7564646e2e636f6d2f73637265656e73686f74312e6a70672d7868647069" width="30%" /><br>
 ----------
 
+
+
+
+
 ###图像处理：<br>
 
 
 
 
+
+项目名：ImageCropView<br>
+git地址：https://github.com/KyoSherlock/ImageCropView<br>
+预览:<br>
+<img src="https://github.com/KyoSherlock/CropView/raw/master/screenshots/0.png" width="30%" /><br>
 
 项目名：PloyFun<br>
 git地址：https://github.com/hugeterry/PloyFun<br>
@@ -164,6 +173,9 @@ git地址：https://github.com/siwangqishiq/ImageEditor-Android<br>
 
 
 ### 照相机相关<br>
+
+
+
 
 
 项目名：DistanceMeasure<br>
