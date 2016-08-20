@@ -6,6 +6,15 @@
 
 
 
+项目名：SwipeCardView<br>
+git地址：https://github.com/xiepeijie/SwipeCardView<br>
+预览:<br>
+<img src="https://github.com/xiepeijie/SwipeCardView/raw/master/ezgif.com.gif" width="30%"/><br>
+
+项目名：android-swipecards-view<br>
+git地址：https://github.com/Arjun-sna/android-swipecards-view<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/173222c3edc0a125dfa0bd2d10262011e6f1eacb/68747470733a2f2f7261776769742e636f6d2f41726a756e2d736e612f41726a756e2d736e612e6769746875622e696f2f6d61737465722f7261772f73776970656361726464656d6f2e676966" width="30%"/><br>
 
 项目名：pagerbullet<br>
 git地址：https://github.com/robohorse/pagerbullet<br>
