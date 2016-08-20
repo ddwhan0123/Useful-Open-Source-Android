@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-8-18<br>
+###更新时间:2016-8-20<br>
 
 
 
@@ -2454,6 +2454,12 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
+
+项目名：AndroidLog<br>
+git地址：https://github.com/twiceyuan/AndroidLog<br>
+预览:<br>
+<img src="https://github.com/twiceyuan/AndroidLog/raw/master/art/json.png" width="30%"/><br><br>
+解释：一个类实现更实用的 Android Log 工具 —— 1 个类，100 个方法、9 KiB<br>
 
 项目名：android-strings-search-plugin<br>
 git地址：https://github.com/konifar/android-strings-search-plugin<br>
