@@ -85,7 +85,10 @@
 
 
 
-
+项目名：ShapeRipple<br>
+git地址:https://github.com/poldz123/ShapeRipple<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/e9ee670a477ec2d0444664cf1d505b0521593fb2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31346a6865724449314b325977772f67697068792e676966" width="30%"/><br>
 
 项目名：SmoothCheckBox<br>
 git地址:https://github.com/andyxialm/SmoothCheckBox<br>
