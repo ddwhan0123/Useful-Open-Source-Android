@@ -4,6 +4,12 @@
 
 
 
+
+项目名：Paginate<br>
+git地址：https://github.com/MarkoMilos/Paginate<br>
+预览:<br>
+<img src="https://github.com/MarkoMilos/Paginate/raw/master/art/demo.gif" width="30%"/><br>
+
 项目名：recycler-fast-scroll<br>
 git地址：https://github.com/FutureMind/recycler-fast-scroll<br>
 预览:<br>
