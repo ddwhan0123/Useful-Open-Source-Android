@@ -8,6 +8,11 @@
 
 
 
+项目名：qcode-decoder<br>
+git地址：https://github.com/cirocosta/qcode-decoder<br>
+解释:<br>
+QR Code decoder using Lazar Laszlo's decoder http://cirocosta.github.io/qcode-decoder/<br>
+
 项目名：CuteR<br>
 git地址：https://github.com/chinuno-usami/CuteR<br>
 预览:<br>
