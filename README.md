@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-8-20<br>
+###更新时间:2016-8-23<br>
 
 
 
@@ -84,6 +84,17 @@
 
 
 
+
+
+项目名：HighLightGuideView<br>
+git地址:https://github.com/jaydenxiao2016/HighLightGuideView<br>
+预览:<br>
+<img src="https://github.com/jaydenxiao2016/HighLightGuideView/raw/master/screenshots/device-2016-08-16-161213.gif" width="30%"/><br>
+
+项目名：TutoShowcase<br>
+git地址:https://github.com/florent37/TutoShowcase<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/florent37/TutoShowcase/master/media/sample.png" width="30%"/><br>
 
 项目名：SignUpTransition<br>
 git地址:https://github.com/JeasonWong/SignUpTransition<br>
