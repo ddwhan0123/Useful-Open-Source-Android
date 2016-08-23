@@ -85,6 +85,11 @@
 
 
 
+项目名：SignUpTransition<br>
+git地址:https://github.com/JeasonWong/SignUpTransition<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/jeasonwong/signuptransition/master/screenshots/scene.gif" width="30%"/><br>
+
 项目名：ShapeRipple<br>
 git地址:https://github.com/poldz123/ShapeRipple<br>
 预览:<br>
