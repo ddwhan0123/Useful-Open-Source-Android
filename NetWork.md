@@ -13,6 +13,10 @@
 
 
 
+项目名：Thunder<br>
+git地址：https://github.com/qiugang/Thunder<br>
+解释:<br>
+OkHttp with UIThread and lifecycle safety callback<br>
 
 
 项目名：MultiType<br>
