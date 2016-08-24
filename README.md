@@ -86,6 +86,16 @@
 
 
 
+项目名：SHSegmentControl<br>
+git地址:https://github.com/7heaven/SHSegmentControl<br>
+预览:<br>
+<img src="https://github.com/7heaven/SHSegmentControl/raw/master/arts/arts2.gif" width="30%"/><br>
+
+项目名：CompoundLayout<br>
+git地址:https://github.com/Jaouan/CompoundLayout<br>
+预览:<br>
+<img src="https://github.com/Jaouan/CompoundLayout/raw/master/art/demo.gif" width="30%"/><br>
+
 项目名：SmileyLoadingView<br>
 git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 预览:<br>
