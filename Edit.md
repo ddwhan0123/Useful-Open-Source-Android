@@ -1,6 +1,13 @@
 
 ##Input
 <br>
+
+
+项目名： HintAnim-EditText<br>
+git地址：https://github.com/cctanfujun/HintAnim-EditText<br>
+预览:<br>
+<img src="https://github.com/cctanfujun/HintAnim-EditText/raw/master/img/Hint-Anim.gif" width="30%"/><br>
+
 项目名： ChipLayout<br>
 git地址：https://github.com/OfficialAmal/ChipLayout<br>
 预览:<br>
