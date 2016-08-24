@@ -178,6 +178,11 @@ git地址：https://github.com/siwangqishiq/ImageEditor-Android<br>
 
 
 
+项目名：SnapAndMatch<br>
+git地址：https://github.com/Jaouan/SnapAndMatch<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/Jaouan/SnapAndMatch/master/app/src/main/res/drawable/help_step_1.png" width="30%" /><br>
+
 项目名：DistanceMeasure<br>
 git地址：https://github.com/shixinzhang/DistanceMeasure<br>
 预览:<br>
