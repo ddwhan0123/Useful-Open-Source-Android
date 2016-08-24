@@ -3,6 +3,11 @@
 <br>
 
 
+项目名： SimplifySpan<br>
+git地址：https://github.com/iwgang/SimplifySpan<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/iwgang/SimplifySpan/master/screenshot/s1.png" width="30%"/><br>
+
 项目名： HintAnim-EditText<br>
 git地址：https://github.com/cctanfujun/HintAnim-EditText<br>
 预览:<br>
