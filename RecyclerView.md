@@ -5,6 +5,11 @@
 
 
 
+项目名：RecyclerViewSwipeDismiss<br>
+git地址：https://github.com/CodeFalling/RecyclerViewSwipeDismiss<br>
+预览:<br>
+<img src="https://github.com/CodeFalling/RecyclerViewSwipeDismiss/raw/master/RecyclerViewSwipeDismiss.gif" width="30%"/><br>
+
 项目名：Paginate<br>
 git地址：https://github.com/MarkoMilos/Paginate<br>
 预览:<br>
