@@ -5,6 +5,14 @@
 
 
 
+
+项目名：fir.flight<br>
+git地址：https://github.com/ryanhoo/fir.flight<br>
+解释：<br>
+An android version Test Flight by using the testing app distribution service provided by fir.im<br>
+预览:<br>
+<img src="https://github.com/ryanhoo/fir.flight/raw/develop/materials/Artboard-Overview-v2.0.png" width="30%" />
+
 项目名：PixPic<br>
 git地址：https://github.com/Yalantis/PixPic<br>
 解释：<br>
