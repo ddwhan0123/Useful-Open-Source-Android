@@ -88,6 +88,11 @@
 
 
 
+项目名：MaterialPreference<br>
+git地址:https://github.com/RikkaW/MaterialPreference<br>
+预览:<br>
+<img src="https://github.com/RikkaW/MaterialPreference/raw/master/demo.gif" width="30%"/><br>
+
 项目名：LiulishuoPreview<br>
 git地址:https://github.com/JeasonWong/LiulishuoPreview<br>
 预览:<br>
