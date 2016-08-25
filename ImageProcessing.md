@@ -75,6 +75,12 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+
+项目名：BlurredView<br>
+git地址:https://github.com/wl9739/BlurredView<br>
+预览:<br>
+<img src="https://github.com/wl9739/BlurredView/raw/master/Gif/demo.gif" width="30%"/><br>
+
 项目名：Android-BitherCompress<br>
 git地址：https://github.com/freekite/Android-BitherCompress<br>
 预览:<br>
