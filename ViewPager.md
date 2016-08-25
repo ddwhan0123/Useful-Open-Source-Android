@@ -6,6 +6,11 @@
 
 
 
+项目名：InfiniteCycleViewPager<br>
+git地址：https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/cfec8d9c33d2c4495b8088253673bff9b9da9e73/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d656f6a53635f6c314f4c732f5637734452764a594b57492f414141414141414144454d2f5a72576e6c757565466a734b7739764c7272634c61595331502d444d67636f4551434c30422f773234312d683338322d6e6f2f76696376702e676966" width="30%"/><br>
+
 项目名：ViewPagerCards<br>
 git地址：https://github.com/rubensousa/ViewPagerCards<br>
 预览:<br>
