@@ -75,6 +75,10 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+项目名：Android-BitherCompress<br>
+git地址：https://github.com/freekite/Android-BitherCompress<br>
+预览:<br>
+<img src="https://github.com/freekite/Android-BitherCompress/raw/master/resources/compress_1471244287213.jpg" width="30%" /><br>
 
 项目名：ImageCropView<br>
 git地址：https://github.com/KyoSherlock/ImageCropView<br>
