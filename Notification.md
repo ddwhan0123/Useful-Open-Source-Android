@@ -3,10 +3,7 @@
 
 
 
-项目名：HeadsUp<br>
-git地址：https://github.com/zzz40500/HeadsUp<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/6bb609f4712b939db0c05b4b50c16a417a9917fd/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d353433613564323661623731643066362e676966" width="30%" /><br>
+
 
 项目名：Pugnotification<br>
 git地址：https://github.com/halysongoncalves/Pugnotification<br>
@@ -27,6 +24,11 @@ git地址：https://github.com/dkmeteor/Bubble-Notification<br>
 git地址：https://github.com/kaknazaveshtakipishi/PermissionEverywhere<br>
 预览: <img src="https://github.com/kaknazaveshtakipishi/PermissionEverywhere/raw/master/art/screenshot.png" width="30%" /><br>
 描述：Library for requesting a permission from Service using Notification<br>
+
+项目名：HeadsUp<br>
+git地址：https://github.com/zzz40500/HeadsUp<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/6bb609f4712b939db0c05b4b50c16a417a9917fd/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d353433613564323661623731643066362e676966" width="30%" /><br>
 
 
 
