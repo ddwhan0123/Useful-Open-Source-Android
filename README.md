@@ -88,6 +88,11 @@
 
 
 
+项目名：ExpandTextView<br>
+git地址:https://github.com/Hymanme/ExpandTextView<br>
+预览:<br>
+<img src="https://github.com/Hymanme/ExpandTextView/raw/master/screenshots/show.gif" width="30%"/><br>
+
 项目名：TileView<br>
 git地址:https://github.com/moagrius/TileView<br>
 预览:<br>
@@ -2465,7 +2470,9 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
-
+项目名：FastBle<br>
+git地址：https://github.com/Jasonchenlijian/FastBle<br>
+解释：Android BLE 蓝牙开发框架，使用回调方式处理，搜索、连接、notify、indicate、读、写等一系列蓝牙操作。<br>
 
 项目名：AndroidLog<br>
 git地址：https://github.com/twiceyuan/AndroidLog<br>
