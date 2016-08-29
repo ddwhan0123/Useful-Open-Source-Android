@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-8-25<br>
+###更新时间:2016-8-29<br>
 
 
 
@@ -87,6 +87,12 @@
 
 
 
+
+
+项目名：loaderviewlibrary<br>
+git地址:https://github.com/elye/loaderviewlibrary<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/ad3e2fed505b8ae48e2a407f1e21361473605639/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6437343863335f32383338316330663131306634646336386663643334306235303366383661322537456d76322e676966" width="30%"/><br>
 
 项目名：SlidingDrawer<br>
 git地址:https://github.com/PierfrancescoSoffritti/SlidingDrawer<br>
