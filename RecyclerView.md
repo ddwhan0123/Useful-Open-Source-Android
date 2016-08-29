@@ -5,6 +5,11 @@
 
 
 
+项目名：epoxy<br>
+git地址：https://github.com/airbnb/epoxy<br>
+预览:<br>
+<img src="https://github.com/airbnb/epoxy/raw/master/epoxy-sample/epoxy_sample_app.gif" width="30%"/><br>
+
 项目名：RecyclerViewSwipeDismiss<br>
 git地址：https://github.com/CodeFalling/RecyclerViewSwipeDismiss<br>
 预览:<br>
