@@ -5,6 +5,11 @@
 
 
 
+项目名：recycler-view-merge-adapter<br>
+git地址：https://github.com/martijnvdwoude/recycler-view-merge-adapter<br>
+解释:<br>
+A merge adapter for the RecyclerView<br>
+
 项目名：epoxy<br>
 git地址：https://github.com/airbnb/epoxy<br>
 预览:<br>
