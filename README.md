@@ -1436,10 +1436,7 @@ git地址：https://github.com/tuozhaobing/ScaleDragCircleView<br>
 <img src="https://github.com/tuozhaobing/ScaleDragCircleView/raw/master/demolarge.gif" width="30%" />
 
 
-项目名：Android-CircleMenu<br>
-git地址：https://github.com/hongyangAndroid/Android-CircleMenu<br>
-预览:<br>
-<img src="https://github.com/hongyangAndroid/CircleMenu/raw/master/sample_zhy_CircleMenu/screen_shot.gif" width="30%" />
+
 
 项目名：DWToast<br>
 git地址：https://github.com/DavidWangTM/DWToast<br>
