@@ -15,6 +15,12 @@
 
 
 
+
+项目名：Compressor<br>
+git地址：https://github.com/zetbaitsu/Compressor<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/zetbaitsu/Compressor/master/ss.png" width="30%"/><br>
+
 项目名：RxGalleryFinal<br>
 git地址：https://github.com/FinalTeam/RxGalleryFinal<br>
 预览:<br>
