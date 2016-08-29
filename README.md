@@ -2493,7 +2493,11 @@ An "awesome" type curated list of React Native components, news, tools, and lear
 
 
 
-
+项目名：Calligraphy<br>
+git地址：https://github.com/chrisjenx/Calligraphy<br>
+预览:<br>
+<img src="https://github.com/chrisjenx/Calligraphy/raw/master/screenshot.png" width="30%"/><br><br>
+解释：Custom fonts in Android the easy way...<br>
 
 项目名：FastBle<br>
 git地址：https://github.com/Jasonchenlijian/FastBle<br>
