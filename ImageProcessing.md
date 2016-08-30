@@ -82,6 +82,10 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+项目名：StyleImageView<br>
+git地址:https://github.com/chengdazhi/StyleImageView<br>
+预览:<br>
+<img src="https://github.com/chengdazhi/StyleImageView/raw/master/images/style_sample.gif" width="30%"/><br>
 
 项目名：srez<br>
 git地址:https://github.com/david-gpu/srez<br>
