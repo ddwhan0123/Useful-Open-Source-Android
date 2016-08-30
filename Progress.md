@@ -6,6 +6,11 @@
 
 
 
+项目名：RingProgress<br>
+git地址：https://github.com/ldoublem/RingProgress<br>
+预览:<br>
+<img src="https://github.com/ldoublem/RingProgress/raw/master/shot/shot1.jpeg" width="30%" />
+
 项目名：SuperCircleSample<br>
 git地址：https://github.com/HayDar-Android/SuperCircleSample<br>
 预览:<br>
