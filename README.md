@@ -88,7 +88,10 @@
 
 
 
-
+项目名：Particle<br>
+git地址:https://github.com/JeasonWong/Particle<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/jeasonwong/Particle/master/screenshots/particle.gif" width="30%"/><br>
 
 项目名：codeview-android<br>
 git地址:https://github.com/Softwee/codeview-android<br>
