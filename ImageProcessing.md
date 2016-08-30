@@ -82,6 +82,12 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+
+项目名：srez<br>
+git地址:https://github.com/david-gpu/srez<br>
+预览:<br>
+<img src="https://github.com/david-gpu/srez/raw/master/srez_sample_output.png" width="30%"/><br>
+
 项目名：BlurredView<br>
 git地址:https://github.com/wl9739/BlurredView<br>
 预览:<br>
