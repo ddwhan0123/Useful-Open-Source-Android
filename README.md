@@ -1509,6 +1509,11 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
+项目名：whorlwind<br>
+git地址:https://github.com/square/whorlwind<br>
+解释:<br>
+Makes fingerprint encryption a breeze<br>
+
 项目名：chinese-copywriting-guidelines<br>
 git地址:https://github.com/sparanoid/chinese-copywriting-guidelines<br>
 解释:<br>
