@@ -30,10 +30,6 @@ git地址：https://github.com/Ashok-Varma/BottomNavigation<br>
 <img src="https://raw.githubusercontent.com/Ashok-Varma/BottomNavigation/master/all.gif" width="30%" />
 
 
-项目名：BottomNavigation<br>
-git地址：https://github.com/Ashok-Varma/BottomNavigation<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/Ashok-Varma/BottomNavigation/master/all.gif" width="30%" />
 
 项目名：FragNav<br>
 git地址：https://github.com/ncapdevi/FragNav<br>
