@@ -59,7 +59,7 @@ git地址：https://github.com/dinuscxj/CircleProgressBar<br>
 项目名：uberprogressview<br>
 git地址：https://github.com/ishan1604/uberprogressview<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/ishan1604/uberprogressview/master/branding/UberProgressViewDemo.gif" width="30%" />
+<img src="https://raw.githubusercontent.com/ishan1604/uberprogressview/master/branding/UberProgressViewDemo.gif" width="28%" />
 
 项目名：materialish-progress<br>
 git地址：https://github.com/pnikosis/materialish-progress<br>
@@ -105,8 +105,7 @@ git地址：https://github.com/CaMnter/EasyArcLoading<br>
 项目名：MaterialLoadingProgressBar<br>
 git地址：https://github.com/lsjwzh/MaterialLoadingProgressBar<br>
 预览:<br>
-![](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif) <br>
-
+<img src="https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif" width="30%" />
 
 
 
