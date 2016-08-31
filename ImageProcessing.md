@@ -82,6 +82,11 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+项目名：PuzzleView<br>
+git地址:https://github.com/wuapnjie/PuzzleView<br>
+预览:<br>
+<img src="https://github.com/wuapnjie/PuzzleView/raw/master/screenshots/gif-demo1.gif" width="30%"/><br>
+
 项目名：StyleImageView<br>
 git地址:https://github.com/chengdazhi/StyleImageView<br>
 预览:<br>
