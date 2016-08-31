@@ -129,7 +129,10 @@ git地址:https://github.com/52inc/Scoops<br>
 
 
 
-
+项目名：AndroidMultiChannelBuildTool<br>
+git地址：https://github.com/GavinCT/AndroidMultiChannelBuildTool<br>
+预览:<br>
+<img src="https://github.com/googlesamples/android-UniversalMusicPlayer/raw/master/screenshots/phone.png" width="30%" /><br><br>
 
 
 项目名：MultiChannelPackageTool<br>
