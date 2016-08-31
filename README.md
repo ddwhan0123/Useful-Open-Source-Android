@@ -8,7 +8,8 @@
 
 
 
-
+## 难点,疑难杂症,各种坑收集 相关:<br>
+##[点击跳转 IncurableDiseases.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/IncurableDiseases.md)
 
 ## 翻译/资料/学习教程 相关:<br>
 ##[点击跳转 Data.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Data.md)
