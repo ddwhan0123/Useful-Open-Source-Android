@@ -22,7 +22,10 @@ git地址:https://github.com/square/whorlwind<br>
 使得指纹加密一件轻而易举的事<br>
 
 
-
+项目名：LogcatViewer<br>
+git地址：https://github.com/fatangare/LogcatViewer<br>
+预览:<br>
+<img src="https://github.com/fatangare/LogcatViewer/raw/master/Images/loglevel.png" width="30%"/><br>
 
 
 
@@ -30,7 +33,10 @@ git地址:https://github.com/square/whorlwind<br>
 
 
 
-
+项目名：AndroidDaemonService<br>
+git地址：https://github.com/D-clock/AndroidDaemonService<br>
+解释：<br>
+合理优雅的进程保活方式<br>
 
 项目名：MarsDaemon<br>
 git地址：https://github.com/Marswin/MarsDaemon<br>
@@ -88,7 +94,11 @@ Chinese Copywriting Guidelines / 中文文案排版指北<br>
 
 
 
+
+
 ###皮肤/主题切换<br>
+
+
 
 
 
@@ -110,7 +120,12 @@ git地址:https://github.com/52inc/Scoops<br>
 
 
 
+
+
+
 ###发布/打包/统计/插件化<br>
+
+
 
 
 
@@ -167,8 +182,21 @@ git地址：https://github.com/alibaba/AndFix<br>
 AndFix is a library that offer hot-fix for Android App.<br>
 
 
+
+
+
+
+
 ###Android 6.0授权问题<br>
 
+
+
+
+
+项目名：PermissionsDispatcher<br>
+git地址：https://github.com/hotchemi/PermissionsDispatcher<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/hotchemi/PermissionsDispatcher/master/art/logo.png" width="30%"/><br>
 
 项目名：Nammu<br>
 git地址：https://github.com/tajchert/Nammu<br>
