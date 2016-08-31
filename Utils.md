@@ -34,3 +34,23 @@ git地址：https://github.com/promeG/TinyPinyin<br>
 git地址：https://github.com/takahirom/android-postfix-plugin<br>
 预览: <img src="https://cloud.githubusercontent.com/assets/1386930/10118005/8d45e898-64a6-11e5-8c32-8f38b0105177.gif" width="30%" /><br>
 描述：Android postfix plugin for AndroidStudio<br>
+
+项目名：FindViewByMe<br>
+git地址：https://github.com/laobie/FindViewByMe<br>
+预览: <img src="http://ac-qygvx1cc.clouddn.com/fa8259e43ce35445.png" width="30%" /><br>
+描述：FindViewByMe是一个自动生成FindViewById代码的IDEA/Android Studio插件<br>
+
+项目名：ECTranslation<br>
+git地址：https://github.com/Skykai521/ECTranslation<br>
+预览: <img src="https://github.com/Skykai521/ECTranslation/raw/master/img/translation_img.png" width="30%" /><br>
+描述：AS 翻译<br>
+
+项目名：android-material-design-icon-generator-plugin<br>
+git地址：https://github.com/konifar/android-material-design-icon-generator-plugin<br>
+预览:<br>
+![](https://raw.githubusercontent.com/konifar/android-material-design-icon-generator-plugin/master/docs/capture.gif) <br>
+
+项目名：permissions-dispatcher-plugin<br>
+git地址：https://github.com/shiraji/permissions-dispatcher-plugin<br>
+预览:<br>
+<img src="https://github.com/shiraji/permissions-dispatcher-plugin/raw/master/website/images/pd.gif" width="30%" /><br>
