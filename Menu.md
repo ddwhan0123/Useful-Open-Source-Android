@@ -2,6 +2,12 @@
 
 
 
+
+项目名：BoomMenu<br>
+git地址：https://github.com/Nightonke/BoomMenu<br>
+预览:<br>
+<img src="https://github.com/Nightonke/BoomMenu/raw/master/Pictures/show_circle.gif?raw=true" width="30%" />
+
 项目名：Android-CircleMenu<br>
 git地址：https://github.com/hongyangAndroid/Android-CircleMenu<br>
 预览:<br>
