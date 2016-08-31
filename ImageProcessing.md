@@ -80,7 +80,10 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
-
+项目名：LargeImage<br>
+git地址：https://github.com/LuckyJayce/LargeImage<br>
+解释:<br>
+Android 加载大图 可以高清显示10000*10000像素的图片，轻松实现微博长图功能<br>
 
 项目名：PuzzleView<br>
 git地址:https://github.com/wuapnjie/PuzzleView<br>
