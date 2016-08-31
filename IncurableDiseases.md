@@ -69,9 +69,26 @@ git地址:https://github.com/52inc/Scoops<br>
 
 
 
-###发布/打包/统计<br>
+###发布/打包/统计/插件化<br>
 
 
+
+项目名：img-optimizer-gradle-plugin<br>
+git地址：https://github.com/chenenyu/img-optimizer-gradle-plugin<br>
+预览:（一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩）<br>
+<img src="https://github.com/chenenyu/img-optimizer-gradle-plugin/raw/master/arts/task.png" width="30%"/><br>
+
+
+项目名：HotFix<br>
+git地址：https://github.com/dodola/HotFix<br>
+解释：<br>
+安卓App热补丁动态修复框架<br>
+
+
+项目名：Tinker_imitator<br>
+git地址：https://github.com/zzz40500/Tinker_imitator<br>
+解释:<br>
+抢先体验Demo: 原理: 微信热更新方案<br>
 
 项目名：AppUninstall<br>
 git地址:https://github.com/venshine/AppUninstall<br>
