@@ -81,6 +81,12 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+项目名：AndroidHeadImageCliper<br>
+git地址：https://github.com/wsy858/AndroidHeadImageCliper<br>
+预览:<br>
+<img src="https://github.com/wsy858/AndroidHeadImageCliper/raw/master/pic/demo2.gif" width="30%"/><br>
+描述：头像上传图片裁剪，实现仿QQ、微信两种效果<br>
+
 项目名：cropper<br>
 git地址：https://github.com/edmodo/cropper<br>
 预览:<br>
