@@ -79,6 +79,13 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 ###图像处理：<br>
 
 
+
+项目名：android-gpuimage-plus<br>
+git地址：https://github.com/wysaid/android-gpuimage-plus<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/wysaid/android-gpuimage-plus/master/screenshots/1.jpg" width="30%"/><br>
+描述：GPU accelerated filters for Android based on OpenGL.<br>
+
 项目名：Luban<br>
 git地址:https://github.com/Curzibn/Luban<br>
 解释:<br>
