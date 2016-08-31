@@ -54,3 +54,8 @@ git地址：https://github.com/konifar/android-material-design-icon-generator-pl
 git地址：https://github.com/shiraji/permissions-dispatcher-plugin<br>
 预览:<br>
 <img src="https://github.com/shiraji/permissions-dispatcher-plugin/raw/master/website/images/pd.gif" width="30%" /><br>
+
+项目名：eventbus-intellij-plugin<br>
+git地址：https://github.com/kgmyshin/eventbus-intellij-plugin<br>
+预览:<br>
+![](https://raw.githubusercontent.com/kgmyshin/eventbus-intellij-plugin/master/art/cap.gif) <br>
