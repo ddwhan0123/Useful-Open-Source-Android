@@ -41,6 +41,13 @@ git地址：https://github.com/saiwu-bigkoo/Android-PickerView<br>
 
 
 
+
+
+项目名：SwipeAwayDialog<br>
+git地址：https://github.com/kakajika/SwipeAwayDialog<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/wiki/kakajika/SwipeAwayDialog/images/octocats.gif" width="30%" /><br>
+
 项目名：material-dialogs<br>
 git地址：https://github.com/afollestad/material-dialogs<br>
 预览:<br>
