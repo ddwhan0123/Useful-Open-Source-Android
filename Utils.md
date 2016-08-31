@@ -25,3 +25,7 @@ Monitors and records the CPU and memory usage of Android devices https://play.go
 git地址：https://github.com/inloop/svg2android<br>
 预览:（SVG to Android VectorDrawable XML resource file http://inloop.github.io/svg2android）<br>
 <img src="https://github.com/inloop/svg2android/raw/gh-pages/img/example_imported_svg.png" width="30%"/><br>
+
+项目名：TinyPinyin<br>
+git地址：https://github.com/promeG/TinyPinyin<br>
+解释：适用于Java和Android的快速、低内存占用的汉字转拼音库<br>
