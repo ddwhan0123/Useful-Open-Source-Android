@@ -56,6 +56,11 @@ git地址：https://github.com/krazykira/VidEffects<br>
 
 
 
+项目名：AndroidVideoCacher<br>
+git地址：https://github.com/danikula/AndroidVideoCacher<br>
+解釋:<br>
+Cache support for any video player with help of single line<br>
+
 
 
 项目名：Teameeting-Android<br>
