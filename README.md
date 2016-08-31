@@ -8,6 +8,9 @@
 
 
 
+## 工具类/封装框架 相关:<br>
+##[点击跳转 Utils.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Utils.md)
+
 ## 难点,疑难杂症,各种坑收集 相关:<br>
 ##[点击跳转 IncurableDiseases.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/IncurableDiseases.md)
 
@@ -1164,10 +1167,7 @@ git地址：https://github.com/ApmeM/android-flowlayout<br>
 预览:<br>
 <img src="https://github.com/ApmeM/android-flowlayout/raw/master/img/PORTRAIT_LTR_FILL_HORIZONTAL_DEBUG.png"/><br>
 
-项目名：LargeImage<br>
-git地址：https://github.com/LuckyJayce/LargeImage<br>
-预览:<br>
-No<br>
+
 
 项目名：flexbox-layout<br>
 git地址：https://github.com/google/flexbox-layout<br>
@@ -1242,10 +1242,6 @@ git地址：https://github.com/wingjay/WJMagicCurveView<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/80b98f800388ded00106762b3d58390087765f87/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3765663031666361677731663335686b706c69346b6732306174306135716b632e676966" width="30%" />
 
-项目名：KenBurnsView<br>
-git地址：https://github.com/flavioarfaria/KenBurnsView<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/64d61cde0875bcfb1636821b2a121af56cc0ecca/687474703a2f2f7777772e70696374757265736861636b2e75732f696d616765732f31353532365f4b656e4275726e73566965772e676966" width="30%" />
 
 项目名：Shuffle<br>
 git地址：https://github.com/Meetic/Shuffle<br>
@@ -1512,37 +1508,6 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
-项目名：whorlwind<br>
-git地址:https://github.com/square/whorlwind<br>
-解释:<br>
-Makes fingerprint encryption a breeze<br>
-
-项目名：chinese-copywriting-guidelines<br>
-git地址:https://github.com/sparanoid/chinese-copywriting-guidelines<br>
-解释:<br>
-Chinese Copywriting Guidelines / 中文文案排版指北<br>
-
-项目名：LargeImage<br>
-git地址:https://github.com/LuckyJayce/LargeImage<br>
-解释:<br>
-Android 加载大图 可以高清显示10000*10000像素的图片，轻松实现微博长图功能<br>
-
-项目名：Scoops<br>
-git地址:https://github.com/52inc/Scoops<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/3f81a7703d390d3546c4c8ecc366c8e89221f3e6/687474703a2f2f692e696d6775722e636f6d2f5750546a5955502e676966" width="30%"/><br>
-
-项目名：android-BluetoothChat<br>
-git地址:https://github.com/sirmordred/android-BluetoothChat<br>
-预览:<br>
-<img src="https://github.com/sirmordred/android-BluetoothChat/raw/master/screenshots/2-devices.png" width="30%"/><br>
-
-
-项目名：AppUninstall<br>
-git地址:https://github.com/venshine/AppUninstall<br>
-解释:<br>
-Android App监听自身卸载，反馈统计<br>
-
 项目名：android-slidingactivity<br>
 git地址:https://github.com/klinker41/android-slidingactivity<br>
 预览:<br>
@@ -1551,110 +1516,13 @@ git地址:https://github.com/klinker41/android-slidingactivity<br>
 Android library which allows you to swipe down from an activity to close it<br>
 
 
-项目名：SmsRadar<br>
-git地址:https://github.com/tuenti/SmsRadar<br>
-解释:<br>
-Android library created to listen incoming and outgoing SMS's<br>
-
-项目名：strman-java<br>
-git地址:https://github.com/shekhargulati/strman-java<br>
-解释:<br>
-A Java 8 string manipulation library. It is inspired by https://github.com/dleitee/strman<br>
 
 
 
-项目名：XCImageCompressor<br>
-git地址:https://github.com/jczmdeveloper/XCImageCompressor<br>
-解释:<br>
-An Android Image Compressor which use bither-android-lib - Android 图片压缩器<br>
-
-
-项目名：AnotherMonitor<br>
-git地址:https://github.com/AntonioRedondo/AnotherMonitor<br>
-解释:<br>
-Monitors and records the CPU and memory usage of Android devices https://play.google.com/store/apps/details?id=org.anothermonitor<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/e8a643e7373bfa716cc54ac949a12c6c760639c9/68747470733a2f2f6c68342e67677068742e636f6d2f6766774d683449683056443041617849385f656831316d364352755f7a5357362d5536463235416a43646c556a436b6c69574842674a4d684462336550646c5f454d6f54" width="30%"/><br>
-
-项目名：Luban<br>
-git地址:https://github.com/Curzibn/Luban<br>
-解释:<br>
-Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法<br>
-
-
-项目名：Android-Easy-MultiDex<br>
-git地址:https://github.com/TangXiaoLv/Android-Easy-MultiDex<br>
-解释:<br>
-Android，multidex，splitdex，分包插件<br>
-预览:<br>
-<img src="https://github.com/TangXiaoLv/Android-Easy-MultiDex/raw/master/png/3.png" width="30%"/><br>
-
-项目名：AndroidProcess<br>
-git地址:https://github.com/wenmingvs/AndroidProcess<br>
-解释:<br>
-判断App位于前台或者后台的6种方法<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/2705119469f3409a439def08f47de8a3c81169ce/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f36393163633135316777316630397a34677a33356d6732306263306830316b782e676966" width="30%"/><br>
 
 
 
-项目名：PermissionHelper<br>
-git地址：https://github.com/k0shk0sh/PermissionHelper<br>
-解释:<br>
-Android Library to help you with your runtime Permissions<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/acdedd12c3dcef45a80dc62f6632d50a0536468b/68747470733a2f2f7261772e6769746875622e636f6d2f6b3073686b3073682f5065726d697373696f6e48656c7065722f6d61737465722f6172742f6e65787573362e6a7067" width="30%"/><br>
 
-
-项目名：AndFix<br>
-git地址：https://github.com/alibaba/AndFix<br>
-解释:<br>
-AndFix is a library that offer hot-fix for Android App.<br>
-
-项目名：NightModel<br>
-git地址：https://github.com/achenglike/NightModel<br>
-解释:<br>
-夜间皮肤切换<br>
-
-项目名：RxBus<br>
-git地址：https://github.com/AndroidKnife/RxBus<br>
-解释:<br>
-Event Bus By RxJava.<br>
-
-项目名：PermissionUtils<br>
-git地址：https://github.com/rebus007/PermissionUtils<br>
-描述：<br>
-Check marshmallow permission easily https://rebus007.github.io/PermissionUtils/<br>
-
-项目名：Hermes<br>
-git地址：https://github.com/Xiaofei-it/Hermes<br>
-描述：<br>
-简单易用的安卓进程间通信IPC框架<br>
-
-项目名：ObservableScheduler<br>
-git地址：https://github.com/jiang111/ObservableScheduler<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/jiang111/ObservableScheduler/master/art/art.gif" width="30%"/><br>
-
-项目名：Tinker_imitator<br>
-git地址：https://github.com/zzz40500/Tinker_imitator<br>
-解释:<br>
-抢先体验Demo: 原理: 微信热更新方案<br>
-
-项目名：Carbon<br>
-git地址：https://github.com/ZieIony/Carbon<br>
-预览:<br>
-<img src="https://github.com/ZieIony/Carbon/raw/master/images/flowlayoutchips.png" width="30%"/><br>
-
-项目名：HotFix<br>
-git地址：https://github.com/dodola/HotFix<br>
-解释：<br>
-安卓App热补丁动态修复框架<br>
-
-项目名：img-optimizer-gradle-plugin<br>
-git地址：https://github.com/chenenyu/img-optimizer-gradle-plugin<br>
-预览:（一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩）<br>
-<img src="https://github.com/chenenyu/img-optimizer-gradle-plugin/raw/master/arts/task.png" width="30%"/><br>
 
 项目名：NewsTemplate<br>
 git地址：https://github.com/JeasonWong/NewsTemplate<br>
