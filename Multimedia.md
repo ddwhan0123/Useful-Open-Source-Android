@@ -98,7 +98,10 @@ git地址：https://github.com/curtis2/SuperVideoPlayer<br>
 预览:<br>
 <img src="https://github.com/curtis2/SuperVideoPlayer/raw/0aaf3ce2b6fc817d50ffdbe79a75ef6701c0b96b/source/start.gif" width="30%" />
 
-
+项目名：VCameraDemo<br>
+git地址：https://github.com/motianhuo/VCameraDemo<br>
+预览:<br>
+![](https://camo.githubusercontent.com/68b7a1d35aa64ecd13594d5ae5d0c584b3982f1f/687474703a2f2f61312e656f65616e64726f69642e636f6d2f6174746163686d656e742f666f72756d2f3230313530372f31352f3136303934316a397a74627878676478717778626e742e676966) <br>
 
 
 
