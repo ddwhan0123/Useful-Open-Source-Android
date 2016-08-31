@@ -79,6 +79,12 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 ###图像处理：<br>
 
 
+项目名：XCImageCompressor<br>
+git地址:https://github.com/jczmdeveloper/XCImageCompressor<br>
+解释:<br>
+An Android Image Compressor which use bither-android-lib - Android 图片压缩器<br>
+
+
 
 项目名：LargeImage<br>
 git地址：https://github.com/LuckyJayce/LargeImage<br>
