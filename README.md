@@ -1454,9 +1454,6 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
-
-
-
 ## 网络相关-下载/图片加载
 ##[点击跳转 NetWork.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/NetWork.md)
 
@@ -1464,14 +1461,8 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
-
-
-
-
-
 ##Menu:<br>
 ##[点击跳转 Menu.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Menu.md)
-
 
 
 
@@ -1524,30 +1515,7 @@ Android library which allows you to swipe down from an activity to close it<br>
 
 
 
-项目名：NewsTemplate<br>
-git地址：https://github.com/JeasonWong/NewsTemplate<br>
-预览:（新闻客户端必备功能）<br>
-<img src="https://camo.githubusercontent.com/fde230ae89d2bef2067077dec05d782dfc65c233/687474703a2f2f69342e7069696d672e636f6d2f313037302f643261323336306663613963396566382e676966" width="30%"/><br>
 
-项目名：svg2android<br>
-git地址：https://github.com/inloop/svg2android<br>
-预览:（SVG to Android VectorDrawable XML resource file http://inloop.github.io/svg2android）<br>
-<img src="https://github.com/inloop/svg2android/raw/gh-pages/img/example_imported_svg.png" width="30%"/><br>
-
-项目名：AndServer<br>
-git地址：https://github.com/yanzhenjie/AndServer<br>
-预览:（Android端搭建简单的Http服务器的框架）<br>
-无<br>
-
-项目名：android-crash<br>
-git地址：https://github.com/msdx/android-crash<br>
-预览: （android程序崩溃异常处理框架）<br>
-无<br>
-
-项目名：jadx<br>
-git地址：https://github.com/skylot/jadx<br>
-预览:（Dex to Java decompiler）<br>
-<img src="https://camo.githubusercontent.com/bd3c0ea851c23c4535e43590a86c940a0786faa6/687474703a2f2f736b796c6f742e6769746875622e696f2f6a6164782f6a6164782d6775692e706e67" width="30%"/><br>
 
 项目名：FirebaseAndroidChat<br>
 git地址：https://github.com/AleBarreto/FirebaseAndroidChat<br>
@@ -1555,32 +1523,7 @@ git地址：https://github.com/AleBarreto/FirebaseAndroidChat<br>
 <img src="https://github.com/AleBarreto/FirebaseAndroidChat/raw/master/prints/1.png?raw=true" width="30%"/><br>
 
 
-项目名：MagicaSakura<br>
-git地址：https://github.com/Bilibili/MagicaSakura<br>
-预览:（多主题框架）<br>
-<img src="https://github.com/xyczero/MagicaSakura/raw/master/screenshot/magicasakura.gif" width="30%"/><br>
 
-项目名：PermissionGen<br>
-git地址：https://github.com/lovedise/PermissionGen<br>
-预览:<br>
-无<br>
-解释：简单好用的授权封装<br>
-
-项目名：TinyPinyin<br>
-git地址：https://github.com/promeG/TinyPinyin<br>
-预览:<br>
-无<br>
-解释：适用于Java和Android的快速、低内存占用的汉字转拼音库<br>
-
-项目名：easydeviceinfo<br>
-git地址：https://github.com/nisrulz/easydeviceinfo<br>
-预览:（获取手机信息）<br>
-<img src="https://github.com/nisrulz/easydeviceinfo/raw/master/img/github_banner.png" width="30%"/><br>
-
-项目名：AndroidAgeraTutorial<br>
-git地址：https://github.com/captain-miao/AndroidAgeraTutorial<br>
-预览:<br>
-<img src="https://github.com/google/agera/raw/master/doc/images/agera.png" width="30%"/><br>
 
 项目名：Android-Studio-MVP-template<br>
 git地址：https://github.com/benoitletondor/Android-Studio-MVP-template<br>
@@ -1588,13 +1531,9 @@ git地址：https://github.com/benoitletondor/Android-Studio-MVP-template<br>
 <img src="https://github.com/benoitletondor/Android-Studio-MVP-template/raw/master/static/createboilerplate.png" width="30%"/><br>
 描述：Android MVP template for Android Studio<br>
 
-项目名：dynamic-load-apk<br>
-git地址：https://github.com/singwhatiwanna/dynamic-load-apk<br>
-描述：Apk动态加载框架<br>
 
-项目名：RxPermissions<br>
-git地址：https://github.com/tbruyelle/RxPermissions<br>
-描述：Android runtime permissions powered by RxJava<br>
+
+
 
 项目名：android-gpuimage-plus<br>
 git地址：https://github.com/wysaid/android-gpuimage-plus<br>
@@ -1602,11 +1541,7 @@ git地址：https://github.com/wysaid/android-gpuimage-plus<br>
 <img src="https://raw.githubusercontent.com/wysaid/android-gpuimage-plus/master/screenshots/1.jpg" width="30%"/><br>
 描述：GPU accelerated filters for Android based on OpenGL.<br>
 
-项目名：RocooFix<br>
-git地址：https://github.com/dodola/RocooFix<br>
-预览:<br>
-<img src="https://github.com/dodola/RocooFix/raw/master/images/device-2016-05-28-010835.png" width="30%"/><br>
-描述：another hotfix framework<br>
+
 
 项目名：MaterialFilePicker<br>
 git地址：https://github.com/nbsp-team/MaterialFilePicker<br>
@@ -1634,43 +1569,17 @@ git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 描述：谷歌官方的Material Design颜色值<br>
 
 
-项目名：MultiChannelPackageTool<br>
-git地址：https://github.com/seven456/MultiChannelPackageTool<br>
-预览: 无<br>
-描述：Android Multi channel package tool （安卓多渠道打包工具）<br>
-
-
-项目名：Hodor<br>
-git地址：https://github.com/Aufree/Hodor<br>
-预览: <img src="https://camo.githubusercontent.com/53cb119b43f24dc8820abcae5dee087a25a4c870/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f373664633766316267773165796b397578747239326a32316a6b30656d6163652e6a7067" width="30%" /><br>
-描述：Hodor 是一套可让你的应用快速支持本地化的解决方案, 允许你在应用内直接更改应用语言而无需退出应用, 类似微信.<br>
-
-项目名：android-postfix-plugin<br>
-git地址：https://github.com/takahirom/android-postfix-plugin<br>
-预览: <img src="https://cloud.githubusercontent.com/assets/1386930/10118005/8d45e898-64a6-11e5-8c32-8f38b0105177.gif" width="30%" /><br>
-描述：Android postfix plugin for AndroidStudio<br>
-
-项目名：MarsDaemon<br>
-git地址：https://github.com/Marswin/MarsDaemon<br>
-预览: 无<br>
-描述：可以实现在Android上实现进程常驻<br>
-
-项目名：FindViewByMe<br>
-git地址：https://github.com/laobie/FindViewByMe<br>
-预览: <img src="http://ac-qygvx1cc.clouddn.com/fa8259e43ce35445.png" width="30%" /><br>
-描述：FindViewByMe是一个自动生成FindViewById代码的IDEA/Android Studio插件<br>
 
 
 
-项目名：ECTranslation<br>
-git地址：https://github.com/Skykai521/ECTranslation<br>
-预览: <img src="https://github.com/Skykai521/ECTranslation/raw/master/img/translation_img.png" width="30%" /><br>
-描述：AS 翻译<br>
 
-项目名：easydeviceinfo<br>
-git地址：https://github.com/nisrulz/easydeviceinfo<br>
-预览: 無<br>
-描述：授权处理<br>
+
+
+
+
+
+
+
 
 
 项目名：AndroidUnitTest<br>
@@ -1704,10 +1613,7 @@ git地址：https://github.com/badoo/android-weak-handler<br>
 预览:<br>
 ![](https://github.com/badoo/android-weak-handler/raw/master/WeakHandler.png) <br>
 
-项目名：android-material-design-icon-generator-plugin<br>
-git地址：https://github.com/konifar/android-material-design-icon-generator-plugin<br>
-预览:<br>
-![](https://raw.githubusercontent.com/konifar/android-material-design-icon-generator-plugin/master/docs/capture.gif) <br>
+
 
 
 项目名：AndroidVideoCacher<br>
@@ -1715,60 +1621,38 @@ git地址：https://github.com/danikula/AndroidVideoCacher<br>
 解釋:<br>
 Cache support for any video player with help of single line<br>
 
-项目名：permissions-dispatcher-plugin<br>
-git地址：https://github.com/shiraji/permissions-dispatcher-plugin<br>
-预览:<br>
-<img src="https://github.com/shiraji/permissions-dispatcher-plugin/raw/master/website/images/pd.gif" width="30%" /><br>
+
 
 项目名：VCameraDemo<br>
 git地址：https://github.com/motianhuo/VCameraDemo<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/68b7a1d35aa64ecd13594d5ae5d0c584b3982f1f/687474703a2f2f61312e656f65616e64726f69642e636f6d2f6174746163686d656e742f666f72756d2f3230313530372f31352f3136303934316a397a74627878676478717778626e742e676966) <br>
 
-项目名：eventbus-intellij-plugin<br>
-git地址：https://github.com/kgmyshin/eventbus-intellij-plugin<br>
-预览:<br>
-![](https://raw.githubusercontent.com/kgmyshin/eventbus-intellij-plugin/master/art/cap.gif) <br>
 
-项目名：Nammu<br>
-git地址：https://github.com/tajchert/Nammu<br>
-预览:高版本授权处理<br>
-![](https://github.com/tajchert/Nammu/raw/master/image/screenshot.png) <br>
+
+
 
 项目名：IntentShare<br>
 git地址：https://github.com/tvbarthel/IntentShare<br>
 描述:<br>
 This project is a light open-source library that improves the sharing experience on Android <br>
 
-项目名：PermissionsDispatcher<br>
-git地址：https://github.com/hotchemi/PermissionsDispatcher<br>
-预览:<br>
-![](https://raw.githubusercontent.com/hotchemi/PermissionsDispatcher/master/art/logo.png ) <br>
+
 
 项目名：appversionchecker<br>
 git地址https://github.com/sugoi-wada/appversionchecker<br>
 预览:<br>
 无 解决Google Play apk更新 <br>
 
-项目名：LogcatViewer<br>
-git地址：https://github.com/fatangare/LogcatViewer<br>
-预览:<br>
-![](https://github.com/fatangare/LogcatViewer/raw/master/Images/loglevel.png) <br>
 
-项目名：TurboDex<br>
-git地址：https://github.com/asLody/TurboDex<br>
-预览:<br>
-无 <br>
+
 
 项目名：JKeyboardPanelSwitch<br>
 git地址：https://github.com/Jacksgong/JKeyboardPanelSwitch<br>
 预览:<br>
 ![](https://raw.githubusercontent.com/Jacksgong/JKeybordPanelSwitch/master/art/adjust_resolved.gif) <br>
 
-项目名：AndroidDaemonService<br>
-git地址：https://github.com/D-clock/AndroidDaemonService<br>
-解释：<br>
-合理优雅的进程保活方式<br>
+
 
 
 
