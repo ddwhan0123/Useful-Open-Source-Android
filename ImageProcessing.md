@@ -80,6 +80,13 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+
+项目名：cropper<br>
+git地址：https://github.com/edmodo/cropper<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/e4fde77bf41d4a60b234b4e268e5cfa8c17d9b6f/687474703a2f2f692e696d6775722e636f6d2f334668735467666c2e6a7067" width="30%"/><br>
+描述：Android widget for cropping and rotating an image<br>
+
 项目名：cookie-cutter<br>
 git地址：https://github.com/adamstyrc/cookie-cutter<br>
 预览:<br>
@@ -223,8 +230,8 @@ git地址：https://github.com/lingochamp/QiniuImageLoader<br>
 项目名：ImageEditor-Android<br>
 git地址：https://github.com/siwangqishiq/ImageEditor-Android<br>
 预览:<br>
-<img src="https://github.com/siwangqishiq/ImageEditAndroid/raw/master/screens/demo1.gif" width="30%" /><br>
----------
+<img src="https://github.com/siwangqishiq/ImageEditAndroid/raw/master/screens/gif1.gif" width="30%" /><br>
+
 
 
 
