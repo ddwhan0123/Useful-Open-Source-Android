@@ -4,11 +4,14 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-8-30<br>
+###更新时间:2016-8-31<br>
 
 
 
 
+
+## 翻译/资料/学习教程 相关:<br>
+##[点击跳转 Data.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Data.md)
 
 ## Bottom Navigation 相关:<br>
 ##[点击跳转 Bottom Navigation.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/BottomNavigation%20.md)
