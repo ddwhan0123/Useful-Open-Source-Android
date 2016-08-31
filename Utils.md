@@ -29,3 +29,8 @@ git地址：https://github.com/inloop/svg2android<br>
 项目名：TinyPinyin<br>
 git地址：https://github.com/promeG/TinyPinyin<br>
 解释：适用于Java和Android的快速、低内存占用的汉字转拼音库<br>
+
+项目名：android-postfix-plugin<br>
+git地址：https://github.com/takahirom/android-postfix-plugin<br>
+预览: <img src="https://cloud.githubusercontent.com/assets/1386930/10118005/8d45e898-64a6-11e5-8c32-8f38b0105177.gif" width="30%" /><br>
+描述：Android postfix plugin for AndroidStudio<br>
