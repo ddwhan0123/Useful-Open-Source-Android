@@ -99,6 +99,12 @@
 
 
 
+项目名：MaterialFilePicker<br>
+git地址：https://github.com/nbsp-team/MaterialFilePicker<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/89e8e63f14922125ab7a6c5734065e24a5413efa/68747470733a2f2f692e696d6775722e636f6d2f6d6a787330356e2e706e67" width="30%"/><br>
+描述：Material file picker for Android<br>
+
 项目名：Particle<br>
 git地址:https://github.com/JeasonWong/Particle<br>
 预览:<br>
@@ -589,6 +595,10 @@ git地址：https://github.com/ShogoMizumoto/ZDepthShadow<br>
 <img src="https://github.com/ShogoMizumoto/ZDepthShadow/raw/master/blobs/demo.gif" width="30%"/><br>
 
 
+项目名：FirebaseAndroidChat<br>
+git地址：https://github.com/AleBarreto/FirebaseAndroidChat<br>
+预览:（Firebase Android Chat）<br>
+<img src="https://github.com/AleBarreto/FirebaseAndroidChat/raw/master/prints/1.png?raw=true" width="30%"/><br>
 
 
 项目名：SearchViewr<br>
@@ -648,7 +658,9 @@ git地址：https://github.com/barteksc/AndroidPdfViewer<br>
 Android view for displaying PDFs rendered with PdfiumAndroid<br>
 
 
-
+项目名：NextKeyboard<br>
+git地址：https://github.com/yoojia/NextKeyboard<br>
+解释：专用键盘：中国车牌号、6位数字密码<br>
 
 
 项目名：StepView<br>
@@ -902,6 +914,13 @@ git地址：https://github.com/scottyab/secure-preferences<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/29a9bb9967b7584cce1341c726817284cae1cd7a/68747470733a2f2f7261772e6769746875622e636f6d2f73636f74747961622f7365637572652d707265666572656e6365732f6d61737465722f646f63732f696d616765732f73735f6672616d655f7365637572655f707265662e706e67" width="30%"/><br>
 
+项目名：android-slidingactivity<br>
+git地址:https://github.com/klinker41/android-slidingactivity<br>
+预览:<br>
+<img src="https://github.com/klinker41/android-slidingactivity/raw/master/preview.gif" width="30%"/><br>
+解释:<br>
+Android library which allows you to swipe down from an activity to close it<br>
+
 项目名：Permissions-Helper<br>
 git地址：https://github.com/Andrew-Quebe/Permissions-Helper<br>
 预览:<br>
@@ -1124,6 +1143,16 @@ git地址：https://github.com/gabrielemariotti/cardslib<br>
 git地址：https://github.com/leonardoxh/FakeSearchView<br>
 预览:<br>
 <img src="https://github.com/leonardoxh/FakeSearchView/raw/master/demo.gif" width="30%" /><br>
+
+项目名：EaseInterpolator<br>
+git地址：https://github.com/cimi-chen/EaseInterpolator<br>
+描述：自定义动画插值器<br>
+
+项目名：InterpolatorShow<br>
+git地址：https://github.com/008chen/InterpolatorShow<br>
+预览:<br>
+<img src="https://github.com/008chen/InterpolatorShow/raw/master/screenshot/sample.gif" width="30%"/><br>
+描述：动画插值器演示<br>
 
 项目名：AndroidCountryCodeSelector<br>
 git地址：https://github.com/junyuecao/AndroidCountryCodeSelector<br>
@@ -1498,43 +1527,6 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
-
-项目名：android-slidingactivity<br>
-git地址:https://github.com/klinker41/android-slidingactivity<br>
-预览:<br>
-<img src="https://github.com/klinker41/android-slidingactivity/raw/master/preview.gif" width="30%"/><br>
-解释:<br>
-Android library which allows you to swipe down from an activity to close it<br>
-
-
-
-
-
-
-
-
-
-
-
-
-项目名：FirebaseAndroidChat<br>
-git地址：https://github.com/AleBarreto/FirebaseAndroidChat<br>
-预览:（Firebase Android Chat）<br>
-<img src="https://github.com/AleBarreto/FirebaseAndroidChat/raw/master/prints/1.png?raw=true" width="30%"/><br>
-
-
-
-
-项目名：Android-Studio-MVP-template<br>
-git地址：https://github.com/benoitletondor/Android-Studio-MVP-template<br>
-预览:<br>
-<img src="https://github.com/benoitletondor/Android-Studio-MVP-template/raw/master/static/createboilerplate.png" width="30%"/><br>
-描述：Android MVP template for Android Studio<br>
-
-
-
-
-
 项目名：android-gpuimage-plus<br>
 git地址：https://github.com/wysaid/android-gpuimage-plus<br>
 预览:<br>
@@ -1543,24 +1535,10 @@ git地址：https://github.com/wysaid/android-gpuimage-plus<br>
 
 
 
-项目名：MaterialFilePicker<br>
-git地址：https://github.com/nbsp-team/MaterialFilePicker<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/89e8e63f14922125ab7a6c5734065e24a5413efa/68747470733a2f2f692e696d6775722e636f6d2f6d6a787330356e2e706e67" width="30%"/><br>
-描述：Material file picker for Android<br>
 
 
-项目名：EaseInterpolator<br>
-git地址：https://github.com/cimi-chen/EaseInterpolator<br>
-预览:<br>
-无<br>
-描述：自定义动画插值器<br>
 
-项目名：InterpolatorShow<br>
-git地址：https://github.com/008chen/InterpolatorShow<br>
-预览:<br>
-<img src="https://github.com/008chen/InterpolatorShow/raw/master/screenshot/sample.gif" width="30%"/><br>
-描述：动画插值器演示<br>
+
 
 
 项目名：MaterialDesignColor<br>
@@ -1574,28 +1552,13 @@ git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 
 
 
-
-
-
-
-
-
-
-
-项目名：AndroidUnitTest<br>
-git地址：https://github.com/florent37/AndroidUnitTest<br>
-预览: 無<br>
-描述：測試工具<br>
-
 项目名：AndroidMultiChannelBuildTool<br>
 git地址：https://github.com/GavinCT/AndroidMultiChannelBuildTool<br>
 预览:<br>
 <img src="https://github.com/googlesamples/android-UniversalMusicPlayer/raw/master/screenshots/phone.png" width="30%" /><br><br>
 
 
-项目名：NextKeyboard<br>
-git地址：https://github.com/yoojia/NextKeyboard<br>
-解释：专用键盘：中国车牌号、6位数字密码<br>
+
 
 
 项目名：Android-AdvancedWebView<br>
@@ -1862,8 +1825,6 @@ Android 学习资料收集<br>
 
 项目名：blog<br>
 git地址：https://github.com/lzyzsd/blog<br>
-预览:<br>
-无<br>
 解释:<br>
 技术分享<br>
 
