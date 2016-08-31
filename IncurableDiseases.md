@@ -8,7 +8,10 @@ git地址:https://github.com/shekhargulati/strman-java<br>
 解释:<br>
 A Java 8 string manipulation library. It is inspired by https://github.com/dleitee/strman<br>
 
-
+项目名：jadx<br>
+git地址：https://github.com/skylot/jadx<br>
+预览:（Dex to Java decompiler）<br>
+<img src="https://camo.githubusercontent.com/bd3c0ea851c23c4535e43590a86c940a0786faa6/687474703a2f2f736b796c6f742e6769746875622e696f2f6a6164782f6a6164782d6775692e706e67" width="30%"/><br>
 
 ###高端功能<br>
 
@@ -18,8 +21,40 @@ git地址:https://github.com/square/whorlwind<br>
 解释:<br>
 使得指纹加密一件轻而易举的事<br>
 
+
+
+
+
+
 ###业务功能难点处理<br>
 
+
+
+
+
+项目名：MarsDaemon<br>
+git地址：https://github.com/Marswin/MarsDaemon<br>
+预览: 无<br>
+描述：可以实现在Android上实现进程常驻<br>
+
+项目名：Hodor<br>
+git地址：https://github.com/Aufree/Hodor<br>
+预览: <img src="https://camo.githubusercontent.com/53cb119b43f24dc8820abcae5dee087a25a4c870/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f373664633766316267773165796b397578747239326a32316a6b30656d6163652e6a7067" width="30%" /><br>
+描述：Hodor 是一套可让你的应用快速支持本地化的解决方案, 允许你在应用内直接更改应用语言而无需退出应用, 类似微信.<br>
+
+项目名：easydeviceinfo<br>
+git地址：https://github.com/nisrulz/easydeviceinfo<br>
+预览:（获取手机信息）<br>
+<img src="https://github.com/nisrulz/easydeviceinfo/raw/master/img/github_banner.png" width="30%"/><br>
+
+项目名：AndServer<br>
+git地址：https://github.com/yanzhenjie/AndServer<br>
+解释:Android端搭建简单的Http服务器的框架<br>
+
+项目名：NewsTemplate<br>
+git地址：https://github.com/JeasonWong/NewsTemplate<br>
+预览:（新闻客户端必备功能）<br>
+<img src="https://camo.githubusercontent.com/fde230ae89d2bef2067077dec05d782dfc65c233/687474703a2f2f69342e7069696d672e636f6d2f313037302f643261323336306663613963396566382e676966" width="30%"/><br>
 
 项目名：ObservableScheduler<br>
 git地址：https://github.com/jiang111/ObservableScheduler<br>
@@ -57,6 +92,12 @@ Chinese Copywriting Guidelines / 中文文案排版指北<br>
 
 
 
+
+项目名：MagicaSakura<br>
+git地址：https://github.com/Bilibili/MagicaSakura<br>
+预览:（多主题框架）<br>
+<img src="https://github.com/xyczero/MagicaSakura/raw/master/screenshot/magicasakura.gif" width="30%"/><br>
+
 项目名：NightModel<br>
 git地址：https://github.com/achenglike/NightModel<br>
 解释:<br>
@@ -72,6 +113,24 @@ git地址:https://github.com/52inc/Scoops<br>
 ###发布/打包/统计/插件化<br>
 
 
+
+
+
+
+项目名：MultiChannelPackageTool<br>
+git地址：https://github.com/seven456/MultiChannelPackageTool<br>
+预览: 无<br>
+描述：Android Multi channel package tool （安卓多渠道打包工具）<br>
+
+项目名：RocooFix<br>
+git地址：https://github.com/dodola/RocooFix<br>
+预览:<br>
+<img src="https://github.com/dodola/RocooFix/raw/master/images/device-2016-05-28-010835.png" width="30%"/><br>
+描述：another hotfix framework<br>
+
+项目名：dynamic-load-apk<br>
+git地址：https://github.com/singwhatiwanna/dynamic-load-apk<br>
+描述：Apk动态加载框架<br>
 
 项目名：img-optimizer-gradle-plugin<br>
 git地址：https://github.com/chenenyu/img-optimizer-gradle-plugin<br>
@@ -111,6 +170,23 @@ AndFix is a library that offer hot-fix for Android App.<br>
 ###Android 6.0授权问题<br>
 
 
+项目名：Nammu<br>
+git地址：https://github.com/tajchert/Nammu<br>
+预览:高版本授权处理<br>
+<img src="https://github.com/tajchert/Nammu/raw/master/image/screenshot.png" width="30%"/><br>
+
+项目名：easydeviceinfo<br>
+git地址：https://github.com/nisrulz/easydeviceinfo<br>
+描述：6.0授权处理<br>
+
+项目名：RxPermissions<br>
+git地址：https://github.com/tbruyelle/RxPermissions<br>
+描述：Android runtime permissions powered by RxJava<br>
+
+项目名：PermissionGen<br>
+git地址：https://github.com/lovedise/PermissionGen<br>
+解释：简单好用的授权封装<br>
+
 项目名：PermissionUtils<br>
 git地址：https://github.com/rebus007/PermissionUtils<br>
 描述：<br>
@@ -130,6 +206,14 @@ Android Library to help you with your runtime Permissions<br>
 git地址：https://github.com/AndroidKnife/RxBus<br>
 解释:<br>
 Event Bus By RxJava.<br>
+
+###开发框架封装<br>
+
+项目名：AndroidAgeraTutorial<br>
+git地址：https://github.com/captain-miao/AndroidAgeraTutorial<br>
+预览:<br>
+<img src="https://github.com/google/agera/raw/master/doc/images/agera.png" width="30%"/><br>
+
 
 
 
