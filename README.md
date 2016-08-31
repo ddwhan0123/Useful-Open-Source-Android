@@ -111,6 +111,11 @@
 
 
 
+项目名：Android-PickerView<br>
+git地址：https://github.com/saiwu-bigkoo/Android-PickerView<br>
+预览:<br>
+<img src="https://github.com/saiwu-bigkoo/PickerView/raw/master/preview/pickerdemo.gif" width="30%"/><br>
+描述：仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果<br>
 
 项目名：MaterialFilePicker<br>
 git地址：https://github.com/nbsp-team/MaterialFilePicker<br>
