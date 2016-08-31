@@ -1249,12 +1249,12 @@ git地址：https://github.com/wingjay/WJMagicCurveView<br>
 项目名：KenBurnsView<br>
 git地址：https://github.com/flavioarfaria/KenBurnsView<br>
 预览:<br>
-![](https://camo.githubusercontent.com/64d61cde0875bcfb1636821b2a121af56cc0ecca/687474703a2f2f7777772e70696374757265736861636b2e75732f696d616765732f31353532365f4b656e4275726e73566965772e676966) <br>
+<img src="https://camo.githubusercontent.com/64d61cde0875bcfb1636821b2a121af56cc0ecca/687474703a2f2f7777772e70696374757265736861636b2e75732f696d616765732f31353532365f4b656e4275726e73566965772e676966" width="30%" />
 
 项目名：Shuffle<br>
 git地址：https://github.com/Meetic/Shuffle<br>
 预览:<br>
-![](https://github.com/Meetic/Shuffle/raw/master/media/shuffle.gif) <br>
+<img src="https://github.com/Meetic/Shuffle/raw/master/media/shuffle.gif" width="30%" />
 
 
 
@@ -1339,7 +1339,7 @@ git地址：https://github.com/GautamGupta/toolbar-button<br>
 项目名：CircularImageView<br>
 git地址：https://github.com/Pkmmte/CircularImageView<br>
 预览:<br>
-![](https://camo.githubusercontent.com/dda2823108ea88dd8a43b5130b6df8c6a01a2b53/687474703a2f2f692e696d6775722e636f6d2f51333365325a622e676966) <br>
+<img src="https://camo.githubusercontent.com/dda2823108ea88dd8a43b5130b6df8c6a01a2b53/687474703a2f2f692e696d6775722e636f6d2f51333365325a622e676966" width="30%" />
 
 项目名：folding-cell-android<br>
 git地址：https://github.com/Ramotion/folding-cell-android<br>
@@ -1349,7 +1349,7 @@ git地址：https://github.com/Ramotion/folding-cell-android<br>
 项目名：BrokenView<br>
 git地址：https://github.com/zhanyongsheng/BrokenView<br>
 预览:<br>
-![](https://raw.githubusercontent.com/zhanyongsheng/raw/master/BrokenView/image/demo.gif) <br>
+<img src="https://raw.githubusercontent.com/zhanyongsheng/raw/master/BrokenView/image/demo.gif" width="30%" />
 
 项目名：Tooltip<br>
 git地址：https://github.com/jayrambhia/Tooltip<br>
