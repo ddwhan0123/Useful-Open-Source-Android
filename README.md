@@ -8,6 +8,19 @@
 
 
 
+## 网络相关-下载/图片加载
+##[点击跳转 NetWork.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/NetWork.md)
+
+
+##Menu:<br>
+##[点击跳转 Menu.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Menu.md)
+
+
+
+## 公开项目案例 相关:<br>
+##[点击跳转 open-source-project.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/open-source-project.md)
+
+
 ## 工具类/封装框架 相关:<br>
 ##[点击跳转 Utils.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Utils.md)
 
@@ -1295,6 +1308,10 @@ git地址：https://github.com/googlesamples/android-FingerprintDialog<br>
 预览:<br>
 <img src="https://github.com/googlesamples/android-FingerprintDialog/raw/master/screenshots/2-fingerprint-dialog.png" width="30%" />
 
+项目名：Android-AdvancedWebView<br>
+git地址：https://github.com/delight-im/Android-AdvancedWebView<br>
+解释：Enhanced WebView component for Android that works as intended out of the box<br>
+
 项目名：CursorWheelLayout<br>
 git地址：https://github.com/BCsl/CursorWheelLayout<br>
 预览:<br>
@@ -1483,148 +1500,6 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
-## 网络相关-下载/图片加载
-##[点击跳转 NetWork.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/NetWork.md)
-
-
-
-
-
-##Menu:<br>
-##[点击跳转 Menu.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Menu.md)
-
-
-
-
-
-
-## 公开项目案例 相关:<br>
-##[点击跳转 open-source-project.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/open-source-project.md)
-
-----------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##疑难杂症:<br>
-
-
-
-
-项目名：android-gpuimage-plus<br>
-git地址：https://github.com/wysaid/android-gpuimage-plus<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/wysaid/android-gpuimage-plus/master/screenshots/1.jpg" width="30%"/><br>
-描述：GPU accelerated filters for Android based on OpenGL.<br>
-
-
-
-
-
-
-
-
-
-项目名：MaterialDesignColor<br>
-git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
-预览: <img src="https://camo.githubusercontent.com/2826fe84e44434a841a2b917f64ef1efb8ce1156/687474703a2f2f6769742e6f736368696e612e6e65742f75706c6f6164732f696d616765732f323031352f303631322f3135303433395f35646539653331375f3134313030392e706e67" width="30%" /><br>
-描述：谷歌官方的Material Design颜色值<br>
-
-
-
-
-
-
-
-项目名：AndroidMultiChannelBuildTool<br>
-git地址：https://github.com/GavinCT/AndroidMultiChannelBuildTool<br>
-预览:<br>
-<img src="https://github.com/googlesamples/android-UniversalMusicPlayer/raw/master/screenshots/phone.png" width="30%" /><br><br>
-
-
-
-
-
-项目名：Android-AdvancedWebView<br>
-git地址：https://github.com/delight-im/Android-AdvancedWebView<br>
-解释：Enhanced WebView component for Android that works as intended out of the box<br>
-
-
-项目名：android-UniversalMusicPlayer<br>
-git地址：https://github.com/googlesamples/android-UniversalMusicPlayer<br>
-预览:<br>
-无 <br>
-
-项目名：android-weak-handler<br>
-git地址：https://github.com/badoo/android-weak-handler<br>
-预览:<br>
-![](https://github.com/badoo/android-weak-handler/raw/master/WeakHandler.png) <br>
-
-
-
-
-项目名：AndroidVideoCacher<br>
-git地址：https://github.com/danikula/AndroidVideoCacher<br>
-解釋:<br>
-Cache support for any video player with help of single line<br>
-
-
-
-项目名：VCameraDemo<br>
-git地址：https://github.com/motianhuo/VCameraDemo<br>
-预览:<br>
-![](https://camo.githubusercontent.com/68b7a1d35aa64ecd13594d5ae5d0c584b3982f1f/687474703a2f2f61312e656f65616e64726f69642e636f6d2f6174746163686d656e742f666f72756d2f3230313530372f31352f3136303934316a397a74627878676478717778626e742e676966) <br>
-
-
-
-
-
-项目名：IntentShare<br>
-git地址：https://github.com/tvbarthel/IntentShare<br>
-描述:<br>
-This project is a light open-source library that improves the sharing experience on Android <br>
-
-
-
-项目名：appversionchecker<br>
-git地址https://github.com/sugoi-wada/appversionchecker<br>
-预览:<br>
-无 解决Google Play apk更新 <br>
-
-
-
-
-项目名：JKeyboardPanelSwitch<br>
-git地址：https://github.com/Jacksgong/JKeyboardPanelSwitch<br>
-预览:<br>
-![](https://raw.githubusercontent.com/Jacksgong/JKeybordPanelSwitch/master/art/adjust_resolved.gif) <br>
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1635,6 +1510,11 @@ git地址：https://github.com/Jacksgong/JKeyboardPanelSwitch<br>
 
 
 
+
+项目名：MaterialDesignColor<br>
+git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
+预览: <img src="https://camo.githubusercontent.com/2826fe84e44434a841a2b917f64ef1efb8ce1156/687474703a2f2f6769742e6f736368696e612e6e65742f75706c6f6164732f696d616765732f323031352f303631322f3135303433395f35646539653331375f3134313030392e706e67" width="30%" /><br>
+描述：谷歌官方的Material Design颜色值<br>
 
 
 项目名：awesome-android-tips<br>
