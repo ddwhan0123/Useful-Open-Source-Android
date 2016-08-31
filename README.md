@@ -248,7 +248,7 @@ git地址:https://github.com/mmin18/FlexLayout<br>
 项目名：SlackLoadingView<br>
 git地址:https://github.com/JeasonWong/SlackLoadingView<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/f8e66102a3782e6b1bd6116bc2fee0179c375a5e/687474703a2f2f69322e7069696d672e636f6d2f313037302f306133626265623762373363366638372e676966" width="30%"/><br>
+<img src="https://raw.githubusercontent.com/jeasonwong/SlackLoadingView/master/screenshots/slack.gif" width="30%"/><br>
 
 
 
@@ -851,8 +851,6 @@ git地址：https://github.com/devnied/AndroidBitmapTransform<br>
 
 项目名：AndroidExpandingViewLibrary<br>
 git地址：https://github.com/diegodobelo/AndroidExpandingViewLibrary<br>
-预览:<br>
-无<br>
 解释:<br>
 This is a library to help creating expanding views with animation in Android<br>
 
@@ -1623,17 +1621,10 @@ git地址：https://github.com/lzyzsd/Awesome-RxJava<br>
 解释:<br>
 RxJava resources<br>
 
-项目名：guidetodatamining<br>
-git地址：https://github.com/egrcc/guidetodatamining<br>
-预览:<br>
-<img src="https://github.com/egrcc/guidetodatamining/raw/master/img/mozi.jpeg" width="30%"/><br><br>
-解释:<br>
-面向程序员的数据挖掘指南 http://guidetodatamining.com/<br>
+
 
 项目名：github-roam<br>
 git地址：https://github.com/phodal/github-roam<br>
-预览:<br>
-无<br>
 解释:<br>
 GitHub 漫游指南<br>
 
@@ -1667,8 +1658,6 @@ Learning OpenGL ES 2 in Java for Android<br>
 
 项目名：AdvancedRxJava<br>
 git地址：https://github.com/Piasy/AdvancedRxJava<br>
-预览:<br>
-无<br>
 解释:<br>
 Advanced RxJava http://akarnokd.blogspot.com/ 系列博客的中文翻译，已征得作者授权。<br>
 
@@ -2206,7 +2195,7 @@ git地址：https://github.com/naman14/FieldMapView<br>
 项目名：mapv<br>
 git地址：https://github.com/huiyan-fe/mapv<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/51b287915e7ecd8cfb4cb3e17396861380b33501/687474703a2f2f68756979616e2d66652e6769746875622e696f2f6d6170762f646f632f61737365742f67616c6c6572792f706f6c796c696e655f73696d706c652e6a7067" width="30%"/><br>
+<img src="https://camo.githubusercontent.com/1e517b885dc3ceff82c07938efdd9e6bace5699e/687474703a2f2f68756979616e2d66652e6769746875622e696f2f6d6170762f76312f646f632f61737365742f67616c6c6572792f706f696e745f686561746d61702e6a7067" width="30%"/><br>
 描述：地图可视化工具库,canvas,map,visualization<br>
 
 
