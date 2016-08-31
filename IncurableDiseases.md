@@ -31,7 +31,10 @@ git地址：https://github.com/fatangare/LogcatViewer<br>
 
 ###业务功能难点处理<br>
 
-
+项目名：JKeyboardPanelSwitch<br>
+git地址：https://github.com/Jacksgong/JKeyboardPanelSwitch<br>
+预览:<br>
+![](https://raw.githubusercontent.com/Jacksgong/JKeybordPanelSwitch/master/art/adjust_resolved.gif) <br>
 
 项目名：AndroidDaemonService<br>
 git地址：https://github.com/D-clock/AndroidDaemonService<br>
