@@ -491,7 +491,7 @@ git地址：https://github.com/UFreedom/FloatingText<br>
 项目名：GuideView<br>
 git地址：https://github.com/binIoter/GuideView<br>
 预览:<br>
-<img src="https://github.com/binIoter/GuideView/raw/master/app/src/main/res/assets/review.gif" width="30%"/><br>
+<img src="https://github.com/binIoter/GuideView/raw/master/app/src/main/assets/img2.png" width="30%"/><br>
 
 
 
@@ -1152,7 +1152,7 @@ git地址：https://github.com/markushi/android-circlebutton<br>
 项目名：BubbleLayout<br>
 git地址：https://github.com/MasayukiSuda/BubbleLayout<br>
 预览:<br>
-<img src="https://github.com/MasayukiSuda/BubbleLayout/raw/master/art/all.gif"/><br>
+<img src="https://github.com/MasayukiSuda/BubbleLayout/raw/master/art/all.gif" width="30%" /><br>
 
 项目名：FieldMapView<br>
 git地址：https://github.com/naman14/FieldMapView<br>
@@ -1197,18 +1197,13 @@ git地址：https://github.com/blipinsk/FlippableStackView<br>
 项目名：MarkView<br>
 git地址：https://github.com/xiprox/MarkView<br>
 预览:<br>
-![](https://camo.githubusercontent.com/fd7c14629d51fed962eff7f807e47ac3231c52f8/687474703a2f2f7075752e73682f684a6b57512f376632353938636236322e706e67) <br>
+<img src="https://camo.githubusercontent.com/fd7c14629d51fed962eff7f807e47ac3231c52f8/687474703a2f2f7075752e73682f684a6b57512f376632353938636236322e706e67" width="30%" /><br>
 
 
 项目名：emojicon<br>
 git地址：https://github.com/rockerhieu/emojicon<br>
 预览:<br>
-![](https://github.com/rockerhieu/emojicon/raw/master/images/sample.jpg) <br>
-
-项目名：SwipeAwayDialog<br>
-git地址：https://github.com/kakajika/SwipeAwayDialog<br>
-预览:<br>
-![](https://raw.githubusercontent.com/wiki/kakajika/SwipeAwayDialog/images/octocats.gif) <br>
+<img src="https://github.com/rockerhieu/emojicon/raw/master/images/sample.jpg" width="30%" /><br>
 
 
 
@@ -1223,17 +1218,17 @@ git地址：https://github.com/Nightonke/BlurLockView<br>
 项目名：drawee-text-view<br>
 git地址:https://github.com/Bilibili/drawee-text-view<br>
 预览:<br>
-![](https://github.com/Bilibili/drawee-text-view/raw/master/art/screenshot.png) <br>
+<img src="https://github.com/Bilibili/drawee-text-view/raw/master/art/screenshot.png" width="30%" /><br>
 
 项目名：Depth-LIB-Android<br>
 git地址：https://github.com/danielzeller/Depth-LIB-Android-<br>
 预览:<br>
-![](https://camo.githubusercontent.com/b55c62484bb6a7d4b5280988d5cbaf993ca6579f/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3635353434392f73637265656e73686f74732f323137393334322f6d656e755f64726962626c652e676966) <br>
+<img src="https://camo.githubusercontent.com/b55c62484bb6a7d4b5280988d5cbaf993ca6579f/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3635353434392f73637265656e73686f74732f323137393334322f6d656e755f64726962626c652e676966" width="30%" /><br>
 
 项目名：ShadowLayout<br>
 git地址：https://github.com/DevLight-Mobile-Agency/ShadowLayout<br>
 预览:<br>
-![](https://camo.githubusercontent.com/cc39e72fbb6d580d3870cf5c892ae573cde751a9/68747470733a2f2f6c68342e676f6f676c6575736572636f6e74656e742e636f6d2f2d324a422d32634576386c6b2f567834466d4851686a4f492f41414141414141414354412f6e725247466a63515842734769495359535a356b38675573566352773547535251434c30422f773334392d683535322d6e6f2f736c2e706e67) <br>
+<img src="https://camo.githubusercontent.com/cc39e72fbb6d580d3870cf5c892ae573cde751a9/68747470733a2f2f6c68342e676f6f676c6575736572636f6e74656e742e636f6d2f2d324a422d32634576386c6b2f567834466d4851686a4f492f41414141414141414354412f6e725247466a63515842734769495359535a356b38675573566352773547535251434c30422f773334392d683535322d6e6f2f736c2e706e67" width="30%" /><br>
 
 
 项目名：QuickSand<br>
@@ -1262,13 +1257,13 @@ git地址：https://github.com/Meetic/Shuffle<br>
 项目名：FragmentAnimations<br>
 git地址：https://github.com/kakajika/FragmentAnimations<br>
 预览:<br>
-![](https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/move.gif) <br>
+<img src="https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/move.gif" width="30%" />
 
 
 项目名：MovingImageView<br>
 git地址：https://github.com/AlbertGrobas/MovingImageView<br>
 预览:<br>
-![](https://github.com/AlbertGrobas/MovingImageView/raw/master/art/sample01.gif) <br>
+<img src="https://github.com/AlbertGrobas/MovingImageView/raw/master/art/sample01.gif" width="30%" />
 
 项目名：android-FingerprintDialog<br>
 git地址：https://github.com/googlesamples/android-FingerprintDialog<br>
@@ -1289,14 +1284,14 @@ git地址：https://github.com/takahirom/PreLollipopTransition<br>
 项目名：ReadMoreTextView<br>
 git地址：https://github.com/borjabravo10/ReadMoreTextView<br>
 预览:<br>
-![](https://github.com/borjabravo10/ReadMoreTextView/raw/master/screenshots/collapsed.png) <br>
+<img src="https://github.com/borjabravo10/ReadMoreTextView/raw/master/screenshots/collapsed.png" width="30%" />
 
 
 
 项目名：largeimageview<br>
 git地址：https://github.com/cshzhang/largeimageview<br>
 预览:<br>
-![](https://github.com/cshzhang/largeimageview/raw/master/largeimageview.gif) <br>
+<img src="https://github.com/cshzhang/largeimageview/raw/master/largeimageview.gif" width="30%" />
 
 项目名：LabelView<br>
 git地址：https://github.com/drakeet/LabelView<br>
@@ -1308,7 +1303,7 @@ git地址：https://github.com/drakeet/LabelView<br>
 项目名：LoadingDrawable<br>
 git地址：https://github.com/dinuscxj/LoadingDrawable<br>
 预览:<br>
-![](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleJumpDrawable.gif?width=300) <br>
+<img src="https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleJumpDrawable.gif" width="30%" />
 
 项目名：OpenGraphView<br>
 git地址：https://github.com/kaelaela/OpenGraphView<br>
@@ -1366,7 +1361,7 @@ git地址：https://github.com/ovenbits/QuickActionView<br>
 项目名：LoopRotarySwitch<br>
 git地址：https://github.com/dalong982242260/LoopRotarySwitch<br>
 预览:<br>
-![](https://github.com/dalong982242260/LoopRotarySwitch/raw/master/img/dalong.gif) <br>
+<img src="https://github.com/dalong982242260/LoopRotarySwitch/raw/master/img/dalong.gif" width="30%" />
 
 项目名：SendButton<br>
 git地址：https://github.com/pa1pal/SendButton<br>
@@ -1441,10 +1436,7 @@ git地址：https://github.com/mattprecious/swirl<br>
 <img src="https://github.com/mattprecious/swirl/raw/master/images/sample.gif" width="30%" />
 
 
-项目名：BoomMenu<br>
-git地址：https://github.com/Nightonke/BoomMenu<br>
-预览:<br>
-![](https://github.com/Nightonke/BoomMenu/raw/master/Pictures/show_circle.gif?raw=true) <br>
+
 
 项目名：ScaleDragCircleView<br>
 git地址：https://github.com/tuozhaobing/ScaleDragCircleView<br>
