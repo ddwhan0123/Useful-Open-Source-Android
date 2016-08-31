@@ -5,6 +5,10 @@
 
 
 
+项目名：CircleProgress<br>
+git地址：https://github.com/Fichardu/CircleProgress<br>
+预览:<br>
+<img src="https://github.com/Fichardu/CircleProgress/raw/master/art/progress.gif" width="30%" />
 
 项目名：RingProgress<br>
 git地址：https://github.com/ldoublem/RingProgress<br>
