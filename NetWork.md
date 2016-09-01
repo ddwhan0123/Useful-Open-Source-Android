@@ -10,7 +10,12 @@
 
 
 
-
+项目名：picasso-transformations<br>
+git地址：https://github.com/wasabeef/picasso-transformations<br>
+解释：<br>
+An Android transformation library providing a variety of image transformations for Picasso<br>
+预览:<br>
+<img src="https://github.com/wasabeef/picasso-transformations/raw/master/art/demo.gif" width="30%" />
 
 
 项目名：Thunder<br>
