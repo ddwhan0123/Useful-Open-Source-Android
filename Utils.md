@@ -48,7 +48,7 @@ git地址：https://github.com/Skykai521/ECTranslation<br>
 项目名：android-material-design-icon-generator-plugin<br>
 git地址：https://github.com/konifar/android-material-design-icon-generator-plugin<br>
 预览:<br>
-![](https://raw.githubusercontent.com/konifar/android-material-design-icon-generator-plugin/master/docs/capture.gif) <br>
+<img src="https://raw.githubusercontent.com/konifar/android-material-design-icon-generator-plugin/master/docs/capture.gif" width="30%" /><br>
 
 项目名：permissions-dispatcher-plugin<br>
 git地址：https://github.com/shiraji/permissions-dispatcher-plugin<br>
