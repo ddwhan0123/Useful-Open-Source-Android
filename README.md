@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-8-31<br>
+###更新时间:2016-9-1<br>
 
 
 
@@ -111,6 +111,11 @@
 
 
 
+
+项目名：CountDownAnimation<br>
+git地址：https://github.com/IvanRF/CountDownAnimation<br>
+预览:<br>
+<img src="https://github.com/IvanRF/CountDownAnimation/raw/master/screenshots/CountDownAnimation1.gif" width="30%"/><br>
 
 项目名：Android-StickyNavLayout<br>
 git地址：https://github.com/hongyangAndroid/Android-StickyNavLayout<br>
