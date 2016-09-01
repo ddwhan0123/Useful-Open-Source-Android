@@ -111,6 +111,12 @@
 
 
 
+
+项目名：Android-StickyNavLayout<br>
+git地址：https://github.com/hongyangAndroid/Android-StickyNavLayout<br>
+预览:<br>
+<img src="https://github.com/hongyangAndroid/Android-StickyNavLayout/raw/master/sc.gif" width="30%"/><br>
+
 项目名：Android-PickerView<br>
 git地址：https://github.com/saiwu-bigkoo/Android-PickerView<br>
 预览:<br>
