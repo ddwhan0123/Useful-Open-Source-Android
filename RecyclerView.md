@@ -290,13 +290,12 @@ git地址：https://github.com/h6ah4i/android-advancedrecyclerview<br>
 项目名：RecyclerViewItemAnimators<br>
 git地址：https://github.com/gabrielemariotti/RecyclerViewItemAnimators<br>
 预览:<br>
-
 <img src="https://github.com/gabrielemariotti/RecyclerViewItemAnimators/raw/master/demo.gif" width="30%"/><br>
 
 项目名：BGARefreshLayout-Android<br>
 git地址：https://github.com/bingoogolapple/BGARefreshLayout-Android<br>
 预览:<br>
-![](https://camo.githubusercontent.com/7539fed2c320aecc0d47320586e8c2ee22a2d762/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f6267615f726566726573686c61796f7574322e676966) <br>
+<img src="https://camo.githubusercontent.com/7539fed2c320aecc0d47320586e8c2ee22a2d762/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f6267615f726566726573686c61796f7574322e676966" width="30%"/><br>
 
 项目名：RecyclerItemDecoration<br>
 git地址：https://github.com/dinuscxj/RecyclerItemDecoration<br>
@@ -316,7 +315,8 @@ git地址：https://github.com/CaMnter/EasyRecyclerViewSidebar<br>
 项目名：DragRecyclerView<br>
 git地址：https://github.com/AleBarreto/DragRecyclerView<br>
 预览:<br>
-![](https://raw.githubusercontent.com/AleBarreto/DragRecyclerView/master/app/Honeycam%202016-01-15%2011-17-30.gif) <br>
+<img src="https://raw.githubusercontent.com/AleBarreto/DragRecyclerView/master/app/Honeycam%202016-01-15%2011-17-30.gif" width="30%"/><br>
+
 
 项目名：SectionedExpandableGridRecyclerView<br>
 git地址：https://github.com/bpncool/SectionedExpandableGridRecyclerView<br>
@@ -347,4 +347,11 @@ git地址：https://github.com/EverythingMe/overscroll-decor<br>
 项目名：IRecyclerView<br>
 git地址：https://github.com/Aspsine/IRecyclerView<br>
 预览:<br>
-![](https://github.com/Aspsine/IRecyclerView/raw/master/art/bat_vs_supper_header.gif) <br>
+<img src="https://github.com/Aspsine/IRecyclerView/raw/master/art/bat_vs_supper_header.gif" width="30%"/><br>
+
+###下拉刷新（单独）<br>
+
+项目名：SmartisanPull<br>
+git地址：https://github.com/hougr/SmartisanPull<br>
+预览:<br>
+<img src="https://github.com/hougr/SmartisanPull/raw/master/screenshot/smartisan_pull_small.gif" width="30%"/><br>
