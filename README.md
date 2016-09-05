@@ -1704,10 +1704,7 @@ git地址：https://github.com/JStumpp/awesome-android<br>
 解释：<br>
 A curated list of awesome Android packages and resources.<br>
 
-项目名：android-training-course-in-chinese<br>
-git地址：https://github.com/kesenhoo/android-training-course-in-chinese<br>
-解释：<br>
-Android官方培训课程中文版<br>
+
 
 项目名：AndroidNote<br>
 git地址：https://github.com/CharonChui/AndroidNote<br>
@@ -1835,9 +1832,7 @@ git地址：https://github.com/konifar/android-strings-search-plugin<br>
 <img src="https://github.com/konifar/android-strings-search-plugin/raw/master/art/demo.gif" width="30%"/><br><br>
 解释：This plugin makes it easy to search text in strings resources<br>
 
-项目名：AndroidUtilCode<br>
-git地址：https://github.com/Blankj/AndroidUtilCode<br>
-解释：Android开发人员不得不收集的代码(持续更新中) http://blankj.com/862.html<br>
+
 
 项目名：android-selector-chapek<br>
 git地址：https://github.com/inmite/android-selector-chapek<br>
