@@ -1574,10 +1574,7 @@ GitHub 漫游指南<br>
 
 
 
-项目名：awesome-redux<br>
-git地址：https://github.com/xgrommx/awesome-redux<br>
-解释:<br>
-Awesome list of Redux examples and middlewares<br>
+
 
 项目名：article<br>
 git地址：https://github.com/WeMobileDev/article<br>
@@ -1605,25 +1602,6 @@ git地址：https://github.com/Mr-YangCheng/ForAndroidInterview<br>
 无<br>
 解释:<br>
 android interview experience and question in (android、java、data structure、tcp/ip、os)<br>
-
-
-
-
-
-项目名：Android-Dev-Favorites<br>
-git地址：https://github.com/ruijun/Android-Dev-Favorites<br>
-预览:<br>
-https://github.com/ruijun/Android-Dev-Favorites/raw/master/Images/favorite.png<br>
-解释:<br>
-The repository is Android development favorites, It used to collect the knowledge of Android Development<br>
-
-项目名：LearningNotes<br>
-git地址：https://github.com/GeniusVJR/LearningNotes<br>
-预览:<br>
-无<br>
-解释:<br>
-Enjoy Learning.<br>
-
 
 
 
