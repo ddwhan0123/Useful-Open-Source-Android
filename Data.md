@@ -14,6 +14,9 @@
 
 
 
+
+
+
 项目名：design_patterns<br>
 文章地址：https://github.com/me115/design_patterns<br>
 解释：<br>
@@ -79,6 +82,12 @@ README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.c
 
 
 
+
+项目名：material-design-dimens<br>
+git地址：https://github.com/DmitryMalkovich/material-design-dimens<br>
+解释：<br>
+Default colors and dimens per Material Design guidelines and Android Design guidelines inside one library<br>
+
 项目名：MaterialDesignColor<br>
 git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 预览: <img src="https://camo.githubusercontent.com/2826fe84e44434a841a2b917f64ef1efb8ce1156/687474703a2f2f6769742e6f736368696e612e6e65742f75706c6f6164732f696d616765732f323031352f303631322f3135303433395f35646539653331375f3134313030392e706e67" width="40%" /><br>
@@ -95,7 +104,10 @@ git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 
 
 
-
+项目名：git-recipes<br>
+git地址：https://github.com/geeeeeeeeek/git-recipes<br>
+解释：<br>
+高质量的Git中文教程，来自国外社区的优秀文章和个人实践<br>
 
 项目名：AndroidInstantRun<br>
 git地址：https://github.com/nuptboyzhb/AndroidInstantRun<br>
