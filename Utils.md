@@ -107,7 +107,11 @@ git地址:https://github.com/sirmordred/android-BluetoothChat<br>
 
 
 
-
+项目名：LogReport<br>
+git地址：https://github.com/wenmingvs/LogReport<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/2af4594399fa69d85eb9b81f099f77586e6f33bf/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f363931636331353167773166357a6230716f72396e6a32303870303932676d312e6a7067" width="30%"/><br><br>
+解释：崩溃日志上传框架<br>
 
 项目名：Toast-PhoneGap-Plugin<br>
 git地址：https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin<br>
