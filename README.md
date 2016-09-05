@@ -1549,24 +1549,6 @@ https://github.com/dalong982242260/AndroidRuler/raw/master/img/ruler_3.png<br>
 
 
 
-项目名：AndroidGuide<br>
-git地址：https://github.com/ColorfulCat/AndroidGuide<br>
-解释:<br>
-AndroidCat安卓书签网 http://www.androidcat.com/<br>
-
-
-项目名:stackoverflow-java-top-qa<br>
-git地址：https://github.com/giantray/stackoverflow-java-top-qa<br>
-解释:<br>
-stackoverflow上Java相关回答整理翻译<br>
-
-
-
-项目名:AndroidInterview-Q-A<br>
-git地址：https://github.com/JackyAndroid/AndroidInterview-Q-A<br>
-解释:<br>
-The top Internet companies android interview questions and answers<br>
-
 项目名:Android-APT-Framework<br>
 git地址：https://github.com/lizhaoxuan/Android-APT-Framework<br>
 解释:<br>
@@ -1613,18 +1595,9 @@ Learning OpenGL ES 2 in Java for Android<br>
 
 
 
-项目名：react-native-lesson<br>
-git地址：https://github.com/vczero/react-native-lesson<br>
-解释:<br>
-React-Native入门指南<br>
 
 
 
-
-项目名：SearchViewAnalysis<br>
-git地址：https://github.com/nukc/SearchViewAnalysis<br>
-解释:<br>
-SearchView源码解析<br>
 
 项目名：ForAndroidInterview<br>
 git地址：https://github.com/Mr-YangCheng/ForAndroidInterview<br>
