@@ -1601,19 +1601,6 @@ git地址：https://github.com/waylau/Gradle-2-User-Guide<br>
 解释:<br>
 Gradle 2 User Guide 中文翻译《Gradle 2 用户指南》<br>
 
-项目名：N个开源代码收纳<br>
-URL：http://www.jcodecraeer.com/plus/list.php?tid=31<br>
-URL：http://www.23code.com/<br>
-URL：http://www.android-gems.com/<br>
-URL：http://androidcat.com/?view=CatFragment<br>
-URL：http://www.open-open.com/lib/tag/Android<br>
-解释:<br>
-开源库收纳<br>
-
-项目名：Awesome-RxJava<br>
-git地址：https://github.com/lzyzsd/Awesome-RxJava<br>
-解释:<br>
-RxJava resources<br>
 
 
 
@@ -1624,15 +1611,11 @@ GitHub 漫游指南<br>
 
 项目名：awesome-android-performance<br>
 git地址：https://github.com/Juude/awesome-android-performance<br>
-预览:<br>
-无<br>
 解释:<br>
 Android performance optimization tutorials, videos and tools list(Android性能优化视频，文档以及工具)<br>
 
 项目名：awesome-redux<br>
 git地址：https://github.com/xgrommx/awesome-redux<br>
-预览:<br>
-无<br>
 解释:<br>
 Awesome list of Redux examples and middlewares<br>
 
@@ -1650,10 +1633,7 @@ git地址：https://github.com/skyfe79/LearningOpenGLES2-Android<br>
 解释:<br>
 Learning OpenGL ES 2 in Java for Android<br>
 
-项目名：AdvancedRxJava<br>
-git地址：https://github.com/Piasy/AdvancedRxJava<br>
-解释:<br>
-Advanced RxJava http://akarnokd.blogspot.com/ 系列博客的中文翻译，已征得作者授权。<br>
+
 
 项目名：react-native-lesson<br>
 git地址：https://github.com/vczero/react-native-lesson<br>
@@ -1691,10 +1671,7 @@ git地址：https://github.com/Freelander/Android_Data<br>
 解释:<br>
 Android 学习资料收集<br>
 
-项目名：blog<br>
-git地址：https://github.com/lzyzsd/blog<br>
-解释:<br>
-技术分享<br>
+
 
 项目名：Android-Dev-Favorites<br>
 git地址：https://github.com/ruijun/Android-Dev-Favorites<br>
@@ -1710,19 +1687,6 @@ git地址：https://github.com/GeniusVJR/LearningNotes<br>
 解释:<br>
 Enjoy Learning.<br>
 
-项目名：AndroidInterview<br>
-git地址：https://github.com/fanrunqi/AndroidInterview<br>
-预览:<br>
-无<br>
-解释:<br>
-android 面试资料<br>
-
-项目名：tutorials<br>
-git地址：https://github.com/MorvanZhou/tutorials<br>
-预览:<br>
-无<br>
-解释:<br>
-Python 练习<br>
 
 项目名：FullStackDeveloperCourse<br>
 git地址：https://github.com/warmheartli/FullStackDeveloperCourse<br>
@@ -1751,10 +1715,7 @@ git地址：https://github.com/CameloeAnthony/Perfect_IM_SNS<br>
 解释：<br>
 这是一个整理即时通讯（IM）和社交系统（SNS）优秀开源项目的文档<br>
 
-项目名：AndroidNote<br>
-git地址：https://github.com/GcsSloop/AndroidNote<br>
-解释：<br>
-安卓学习笔记<br>
+
 
 项目名：AndroidLibs<br>
 git地址：https://github.com/XXApple/AndroidLibs<br>
@@ -1986,11 +1947,7 @@ git地址：https://github.com/a-voyager/AutoInstaller<br>
 <img src="https://github.com/a-voyager/AutoInstaller/raw/master/imgs/GIF.gif" width="30%"/><br><br>
 解释：应用自动静默更新安装库.<br>
 
-项目名：fastjson<br>
-git地址：https://github.com/alibaba/fastjson<br>
-预览:<br>
-<img src="https://github.com/alibaba/fastjson/raw/master/logo.jpg" width="30%"/><br><br>
-解释： A fast JSON parser/generator for Java https://github.com/alibaba/fastjson/wiki<br>
+
 
 项目名：XLog<br>
 git地址：https://github.com/promeG/XLog<br>
