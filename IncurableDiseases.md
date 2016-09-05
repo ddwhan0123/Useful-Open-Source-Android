@@ -25,7 +25,7 @@ git地址:https://github.com/square/whorlwind<br>
 项目名：LogcatViewer<br>
 git地址：https://github.com/fatangare/LogcatViewer<br>
 预览:<br>
-<img src="https://github.com/fatangare/LogcatViewer/raw/master/Images/loglevel.png" width="30%"/><br>
+<img src="https://github.com/fatangare/LogcatViewer/raw/master/Images/filter.png" width="30%"/><br>
 
 
 
@@ -142,6 +142,11 @@ git地址:https://github.com/52inc/Scoops<br>
 git地址：https://github.com/GavinCT/AndroidMultiChannelBuildTool<br>
 预览:<br>
 <img src="https://github.com/googlesamples/android-UniversalMusicPlayer/raw/master/screenshots/phone.png" width="30%" /><br><br>
+
+项目名：gradle_plugin_android_aspectjx<br>
+git地址：https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx<br>
+预览:<br>
+<img src="https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx/raw/master/docs/aspectj_err_0.png" width="30%" /><br>
 
 
 项目名：MultiChannelPackageTool<br>
