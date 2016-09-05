@@ -49,8 +49,17 @@ git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 预览: <img src="https://camo.githubusercontent.com/2826fe84e44434a841a2b917f64ef1efb8ce1156/687474703a2f2f6769742e6f736368696e612e6e65742f75706c6f6164732f696d616765732f323031352f303631322f3135303433395f35646539653331375f3134313030392e706e67" width="40%" /><br>
 描述：谷歌官方的Material Design颜色值<br>
 
-###知识累积/博客<br>
+###知识累积/博客/电子书<br>
+
+
+
 项目名：Andriod-collect-blogs<br>
 git地址：https://github.com/ZQiang94/Andriod-collect-blogs<br>
 解释:<br>
 收集Android相关blog<br>
+
+项目名：AndroidNote<br>
+git地址：https://github.com/GcsSloop/AndroidNote<br>
+解释：<br>
+安卓学习笔记<br>
+
