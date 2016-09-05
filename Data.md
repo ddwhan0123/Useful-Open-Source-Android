@@ -1,7 +1,12 @@
 ##翻译/资料/学习教程<br>
 
 
+
+
 ###问题累积<br>
+
+
+
 
 
 项目名：awesome-android-tips<br>
@@ -10,7 +15,15 @@ git地址：https://github.com/jiang111/awesome-android-tips<br>
 some code tips in android<br>
 
 
+
+
+
 ###Demo/案例<br>
+
+
+
+
+
 
 项目名：android-graphics-demo<br>
 git地址:https://github.com/chiuki/android-graphics-demo<br>
