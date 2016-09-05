@@ -110,7 +110,11 @@ Chinese Copywriting Guidelines / 中文文案排版指北<br>
 
 
 
-
+项目名：Colorful<br>
+git地址：https://github.com/hehonghui/Colorful<br>
+预览:<br>
+<img src="https://github.com/hehonghui/Colorful/raw/master/images/colorful.gif" width="30%"/><br><br>
+描述：Android动态换肤库<br>
 
 项目名：MagicaSakura<br>
 git地址：https://github.com/Bilibili/MagicaSakura<br>
@@ -216,6 +220,8 @@ AndFix is a library that offer hot-fix for Android App.<br>
 
 
 
+
+
 项目名：PermissionsDispatcher<br>
 git地址：https://github.com/hotchemi/PermissionsDispatcher<br>
 预览:<br>
@@ -259,6 +265,9 @@ Android Library to help you with your runtime Permissions<br>
 
 
 ###开发框架封装<br>
+
+
+
 
 项目名：AndroidAgeraTutorial<br>
 git地址：https://github.com/captain-miao/AndroidAgeraTutorial<br>
