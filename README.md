@@ -1802,10 +1802,7 @@ git地址：https://github.com/tiann/understand-plugin-framework<br>
 解释：<br>
 demos to help understand plugin framwrok<br>
 
-项目名：AndroidArchitectureCollection<br>
-git地址：https://github.com/CameloeAnthony/AndroidArchitectureCollection<br>
-解释：<br>
-安卓架构文章合集（a collection of android Architecture）<br>
+
 
 项目名：Gradle-Plugin-User-Guide-Chinese-Verision<br>
 git地址：https://github.com/AvatarQing/Gradle-Plugin-User-Guide-Chinese-Verision<br>
@@ -1842,10 +1839,7 @@ git地址：https://github.com/TeamStuQ/skill-map<br>
 解释：<br>
 StuQ 程序员技能图谱<br>
 
-项目名：AndroidStudyCode<br>
-git地址：https://github.com/D-clock/AndroidStudyCode<br>
-解释：<br>
-关于Android的一些原理学习和代码实现<br>
+
 
 
 
@@ -1860,34 +1854,13 @@ git地址：https://github.com/D-clock/AndroidSystemUiTraining<br>
 
 
 
-标题：useful-java-links<br>
-文章地址：https://github.com/Vedenin/useful-java-links<br>
-解释：<br>
-A list of useful Java frameworks, libraries, software and hello worlds examples<br>
 
 
-
-
-标题design_patterns<br>
-文章地址：https://github.com/me115/design_patterns<br>
-解释：<br>
-本书使用图形和代码结合的方式来解析设计模式<br>
 
 标题 awesome-react-native<br>
 文章地址：https://github.com/jondot/awesome-react-native<br>
 解释：<br>
 An "awesome" type curated list of React Native components, news, tools, and learning material<br>
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1937,11 +1910,7 @@ git地址：https://github.com/a-voyager/AutoInstaller<br>
 git地址：https://github.com/Xiaofei-it/AndroidDataStorage<br>
 解释：An easy-to-use and high-performance library for storing data in the Android system.<br>
 
-项目名：LogReport<br>
-git地址：https://github.com/wenmingvs/LogReport<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/2af4594399fa69d85eb9b81f099f77586e6f33bf/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f363931636331353167773166357a6230716f72396e6a32303870303932676d312e6a7067" width="30%"/><br><br>
-解释：崩溃日志上传框架<br>
+
 
 
 
