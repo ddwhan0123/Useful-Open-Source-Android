@@ -1561,10 +1561,6 @@ git地址：https://github.com/giantray/stackoverflow-java-top-qa<br>
 stackoverflow上Java相关回答整理翻译<br>
 
 
-项目名:awesome-mac<br>
-git地址：https://github.com/jaywcjlove/awesome-mac<br>
-解释:<br>
- This repo is a collection of awesome Mac applications and tools for developers and designers<br>
 
 项目名:AndroidInterview-Q-A<br>
 git地址：https://github.com/JackyAndroid/AndroidInterview-Q-A<br>
@@ -1692,10 +1688,6 @@ git地址：https://github.com/terryum/awesome-deep-learning-papers<br>
 解释：<br>
  Most Cited Deep Learning Papers<br>
 
-项目名：material-design-dimens<br>
-git地址：https://github.com/DmitryMalkovich/material-design-dimens<br>
-解释：<br>
-Default colors and dimens per Material Design guidelines and Android Design guidelines inside one library.<br>
 
 项目名：open-source-android-apps<br>
 git地址：https://github.com/pcqpcq/open-source-android-apps<br>
@@ -1752,10 +1744,7 @@ git地址：https://github.com/wasabeef/awesome-android-libraries<br>
 解释：<br>
 This is an alphabetical list of libraries for Android development, the majority being actively maintained.<br>
 
-项目名：git-recipes<br>
-git地址：https://github.com/geeeeeeeeek/git-recipes<br>
-解释：<br>
-高质量的Git中文教程，来自国外社区的优秀文章和个人实践<br>
+
 
 项目名：understand-plugin-framework<br>
 git地址：https://github.com/tiann/understand-plugin-framework<br>
