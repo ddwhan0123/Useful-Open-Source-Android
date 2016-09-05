@@ -138,6 +138,8 @@ git地址:https://github.com/52inc/Scoops<br>
 
 
 
+
+
 项目名：AndroidMultiChannelBuildTool<br>
 git地址：https://github.com/GavinCT/AndroidMultiChannelBuildTool<br>
 预览:<br>
@@ -254,17 +256,7 @@ Android Library to help you with your runtime Permissions<br>
 <img src="https://camo.githubusercontent.com/acdedd12c3dcef45a80dc62f6632d50a0536468b/68747470733a2f2f7261772e6769746875622e636f6d2f6b3073686b3073682f5065726d697373696f6e48656c7065722f6d61737465722f6172742f6e65787573362e6a7067" width="30%"/><br>
 
 
-###Rx相关<br>
 
-项目名：Awesome-RxJava<br>
-git地址：https://github.com/lzyzsd/Awesome-RxJava<br>
-解释:<br>
-RxJava resources<br>
-
-项目名：RxBus<br>
-git地址：https://github.com/AndroidKnife/RxBus<br>
-解释:<br>
-Event Bus By RxJava.<br>
 
 ###开发框架封装<br>
 
