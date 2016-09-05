@@ -1680,10 +1680,7 @@ git地址：https://github.com/CameloeAnthony/Perfect_IM_SNS<br>
 
 
 
-项目名：AndroidLibs<br>
-git地址：https://github.com/XXApple/AndroidLibs<br>
-解释：<br>
- 正在成为史上最全分类 Android 开源代码大全~~~~ http://www.androidcat.com/<br>
+
 
 项目名：awesome-android<br>
 git地址：https://github.com/snowdream/awesome-android<br>
