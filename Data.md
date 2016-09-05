@@ -3,7 +3,10 @@
 
 
 
-###问题累积<br>
+###问题/知识累积<br>
+
+
+
 
 
 标题：Android 开发绕不过的坑<br>
@@ -101,9 +104,20 @@ git地址：https://github.com/lzyzsd/blog<br>
 技术分享<br>
 
 
+项目名：Gitbook<br>
+git地址：https://github.com/dodola/Gitbook<br>
+解释：<br>
+收录找到的不错的文档<br>
 
+项目名：android-tech-frontier<br>
+git地址：https://github.com/hehonghui/android-tech-frontier<br>
+解释：<br>
+一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目<br>
 
-
+项目名：android-open-source-project-cracking<br>
+文章地址：https://github.com/wingjay/android-open-source-project-cracking<br>
+解释：<br>
+通过对流行的优质android开源项目分析、学习、仿写，最终理解，不仅帮你掌握最新的android技术，更能让你理解开源项目的精华之处，这些都是你成为一名高级android developer必不可少的<br>
 
 
 ###面试题<br>
