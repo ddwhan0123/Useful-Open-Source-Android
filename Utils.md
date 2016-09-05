@@ -19,7 +19,22 @@ git地址：https://github.com/AndroidKnife/RxBus<br>
 Event Bus By RxJava.<br>
 
 
+
+
+
+
+
+
+
+
 ###Json/XMl<br>
+
+
+
+
+
+
+
 
 项目名：fastjson<br>
 git地址：https://github.com/alibaba/fastjson<br>
@@ -27,14 +42,42 @@ git地址：https://github.com/alibaba/fastjson<br>
 <img src="https://github.com/alibaba/fastjson/raw/master/logo.jpg" width="30%"/><br><br>
 解释： A fast JSON parser/generator for Java https://github.com/alibaba/fastjson/wiki<br>
 
+
+
+
+
+
+
 ###BLE/NFC/VA/VR<br>
+
+
+
+项目名：FastBle<br>
+git地址：https://github.com/Jasonchenlijian/FastBle<br>
+解释：Android BLE 蓝牙开发框架，使用回调方式处理，搜索、连接、notify、indicate、读、写等一系列蓝牙操作<br>
 
 项目名：android-BluetoothChat<br>
 git地址:https://github.com/sirmordred/android-BluetoothChat<br>
 预览:<br>
 <img src="https://github.com/sirmordred/android-BluetoothChat/raw/master/screenshots/2-devices.png" width="30%"/><br>
 
-###性能/优化/分析<br>
+
+
+
+
+
+
+###性能/优化/分析/线上回馈<br>
+
+
+
+
+
+
+项目名：Toast-PhoneGap-Plugin<br>
+git地址：https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin<br>
+预览:<br>
+<img src="https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin/raw/master/screenshots/screenshot-ios-toast.png" width="30%"/><br>
 
 项目名：android-crash<br>
 git地址：https://github.com/msdx/android-crash<br>
