@@ -94,6 +94,18 @@ git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 
 
 
+项目名：AndroidInstantRun<br>
+git地址：https://github.com/nuptboyzhb/AndroidInstantRun<br>
+预览:<br>
+<img src="https://github.com/nuptboyzhb/AndroidInstantRun/raw/master/1.png" width="30%"/><br><br>
+解释:<br>
+Android Instant Run原理分析<br>
+
+项目名：Android_Data<br>
+git地址：https://github.com/Freelander/Android_Data<br>
+解释:<br>
+Android 学习资料收集<br>
+
 项目名：N个开源代码收纳<br>
 URL：http://www.jcodecraeer.com/plus/list.php?tid=31<br>
 URL：http://www.23code.com/<br>
@@ -138,6 +150,11 @@ git地址：https://github.com/hehonghui/android-tech-frontier<br>
 git地址：https://github.com/CameloeAnthony/AndroidArchitectureCollection<br>
 解释：<br>
 安卓架构文章合集（a collection of android Architecture）<br>
+
+项目名：FullStackDeveloperCourse<br>
+git地址：https://github.com/warmheartli/FullStackDeveloperCourse<br>
+预览:<br>
+教你成为全栈工程师<br>
 
 
 ###面试题<br>
