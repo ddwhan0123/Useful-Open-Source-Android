@@ -1528,19 +1528,6 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
-
-
-
-
-
-
-项目名：awesome-android-tips<br>
-git地址：https://github.com/jiang111/awesome-android-tips<br>
-解释:<br>
-some code tips in android<br>
-
-
-
 项目名：java-bible<br>
 git地址：https://github.com/biezhi/java-bible<br>
 解释:<br>
@@ -1560,10 +1547,7 @@ android自定义尺子收集demo<br>
 https://github.com/dalong982242260/AndroidRuler/raw/master/img/ruler_3.png<br>
 
 
-项目名：android_design_patterns_analysis<br>
-git地址：https://github.com/simple-android-framework-exchange/android_design_patterns_analysis<br>
-解释:<br>
-Android源码设计模式分析项目<br>
+
 
 项目名：AndroidGuide<br>
 git地址：https://github.com/ColorfulCat/AndroidGuide<br>
@@ -1575,6 +1559,7 @@ AndroidCat安卓书签网 http://www.androidcat.com/<br>
 git地址：https://github.com/giantray/stackoverflow-java-top-qa<br>
 解释:<br>
 stackoverflow上Java相关回答整理翻译<br>
+
 
 项目名:awesome-mac<br>
 git地址：https://github.com/jaywcjlove/awesome-mac<br>
@@ -1609,10 +1594,7 @@ git地址：https://github.com/phodal/github-roam<br>
 解释:<br>
 GitHub 漫游指南<br>
 
-项目名：awesome-android-performance<br>
-git地址：https://github.com/Juude/awesome-android-performance<br>
-解释:<br>
-Android performance optimization tutorials, videos and tools list(Android性能优化视频，文档以及工具)<br>
+
 
 项目名：awesome-redux<br>
 git地址：https://github.com/xgrommx/awesome-redux<br>
