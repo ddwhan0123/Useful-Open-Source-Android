@@ -1743,9 +1743,7 @@ git地址：https://github.com/infinum/android_dbinspector<br>
 <img src="https://camo.githubusercontent.com/5a2f9fe0725a29ff92f941daa814a65f2bdc193c/68747470733a2f2f7261772e6769746875622e636f6d2f696e66696e756d2f616e64726f69645f6462696e73706563746f722f6d61737465722f73637265656e73686f74732e706e67" width="30%"/><br><br>
 描述：Android library for viewing and sharing in app databases<br>
 
-项目名：FontZip<br>
-git地址：https://github.com/forJrking/FontZip<br>
-描述：字体资源文件压缩神器<br>
+
 
 项目名：ParcelableGenerator<br>
 git地址：https://github.com/baoyongzhang/ParcelableGenerator<br>
@@ -1801,11 +1799,7 @@ git地址：https://github.com/ChrisRM/material-theme-jetbrains<br>
 <img src="https://camo.githubusercontent.com/23646fe4611da85b8af26a0272945aebc0f72886/687474703a2f2f63646e2e6869666976652e6e6f2f6d6174657269616c2d75692f7468656d652d6461726b65722e706e67" width="30%"/><br><br>
 描述：JetBrains theme of Material Theme<br>
 
-项目名：spark<br>
-git地址：https://github.com/romainguy/elegant-underline<br>
-预览:<br>
-<img src="https://github.com/romainguy/elegant-underline/raw/master/art/elegant-underline.png" width="30%"/><br><br>
-描述：字体库<br>
+
 
 项目名：spark<br>
 git地址：https://github.com/perwendel/spark<br>
