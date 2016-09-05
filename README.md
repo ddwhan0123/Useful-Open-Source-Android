@@ -1699,25 +1699,7 @@ git地址：https://github.com/pedrovgs/Algorithms<br>
 解释：<br>
 Solutions for some common algorithm problems written in Java.<br>
 
-项目名：EasyAndroidResources<br>
-git地址：https://github.com/CaMnter/EasyAndroidResources<br>
-解释：<br>
-源码解释，算法，小知识<br>
 
-项目名：RxDocs<br>
-git地址：https://github.com/mcxiaoke/RxDocs<br>
-解释：<br>
-Rx和RxJava文档中文翻译项目<br>
-
-项目名：gold-miner<br>
-git地址：https://github.com/xitu/gold-miner<br>
-解释:<br>
-掘金翻译计划，翻译掘金上优质的英文文章 http://gold.xitu.io<br>
-
-项目名：awesome-resources<br>
-git地址：https://github.com/lyfeyaj/awesome-resources<br>
-解释：<br>
-开发资源总结<br>
 
 项目名：skill-map<br>
 git地址：https://github.com/TeamStuQ/skill-map<br>
@@ -1729,12 +1711,6 @@ StuQ 程序员技能图谱<br>
 
 
 
-
-
-项目名：AndroidSystemUiTraining<br>
-git地址：https://github.com/D-clock/AndroidSystemUiTraining<br>
-解释：<br>
-本代码库整理总结 Android 系统自身UI特性，主要包含代码实践和特性总结两方面的内容。<br>
 
 
 
