@@ -28,8 +28,15 @@ some code tips in android<br>
 
 
 
+项目名：design_patterns<br>
+文章地址：https://github.com/me115/design_patterns<br>
+解释：<br>
+本书使用图形和代码结合的方式来解析设计模式<br>
 
-
+标题：useful-java-links<br>
+文章地址：https://github.com/Vedenin/useful-java-links<br>
+解释：<br>
+A list of useful Java frameworks, libraries, software and hello worlds examples<br>
 
 项目名：android-graphics-demo<br>
 git地址:https://github.com/chiuki/android-graphics-demo<br>
@@ -42,6 +49,14 @@ git地址:https://github.com/chiuki/android-test-demo<br>
 Android testing with Dagger 2, Espresso 2 and Mockito<br>
 
 ###代码/语法分析<br>
+
+
+
+
+项目名：AndroidStudyCode<br>
+git地址：https://github.com/D-clock/AndroidStudyCode<br>
+解释：<br>
+关于Android的一些原理学习和代码实现<br>
 
 项目名：TheCode<br>
 git地址:https://github.com/LyndonChin/TheCode<br>
@@ -118,6 +133,11 @@ git地址：https://github.com/hehonghui/android-tech-frontier<br>
 文章地址：https://github.com/wingjay/android-open-source-project-cracking<br>
 解释：<br>
 通过对流行的优质android开源项目分析、学习、仿写，最终理解，不仅帮你掌握最新的android技术，更能让你理解开源项目的精华之处，这些都是你成为一名高级android developer必不可少的<br>
+
+项目名：AndroidArchitectureCollection<br>
+git地址：https://github.com/CameloeAnthony/AndroidArchitectureCollection<br>
+解释：<br>
+安卓架构文章合集（a collection of android Architecture）<br>
 
 
 ###面试题<br>
