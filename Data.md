@@ -5,9 +5,6 @@
 
 
 
-
-
-
 ###Demo/案例<br>
 
 
@@ -83,6 +80,11 @@ README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.c
 
 
 
+项目名：android-training-course-in-chinese<br>
+git地址：https://github.com/kesenhoo/android-training-course-in-chinese<br>
+解释：<br>
+Android官方培训课程中文版<br>
+
 项目名：material-design-dimens<br>
 git地址：https://github.com/DmitryMalkovich/material-design-dimens<br>
 解释：<br>
@@ -103,6 +105,10 @@ git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 
 
 
+
+项目名：AndroidUtilCode<br>
+git地址：https://github.com/Blankj/AndroidUtilCode<br>
+解释：Android开发人员不得不收集的代码(持续更新中) http://blankj.com/862.html<br>
 
 项目名：git-recipes<br>
 git地址：https://github.com/geeeeeeeeek/git-recipes<br>
@@ -189,7 +195,9 @@ some code tips in android<br>
 
 
 
+
 ###面试题<br>
+
 
 
 
