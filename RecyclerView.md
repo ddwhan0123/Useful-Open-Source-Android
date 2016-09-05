@@ -3,6 +3,13 @@
 
 
 
+
+
+项目名：itemtouchhelper-extension<br>
+git地址：https://github.com/loopeer/itemtouchhelper-extension<br>
+预览:<br>
+<img src="https://github.com/loopeer/itemtouchhelper-extension/raw/master/screenshot/itemtouch_spring.gif" width="30%"/><br>
+
 项目名：RecyclerViewCardGallery<br>
 git地址：https://github.com/huazhiyuan2008/RecyclerViewCardGallery<br>
 预览:<br>
