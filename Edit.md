@@ -3,6 +3,12 @@
 <br>
 
 
+
+项目名： Android-WYSIWYG-Editor<br>
+git地址：https://github.com/irshuLx/Android-WYSIWYG-Editor<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/irshuLx/laser-native-editor/master/screens/gif-2.gif" width="30%"/><br>
+
 项目名： SimplifySpan<br>
 git地址：https://github.com/iwgang/SimplifySpan<br>
 预览:<br>
