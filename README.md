@@ -1988,31 +1988,18 @@ git地址：https://github.com/intrications/material-design-icons-adt-template<b
 <img src="https://github.com/intrications/material-design-icons-adt-template/raw/master/template.png" width="30%"/><br><br>
 描述：Android Studio / Eclipse ADT template for material-design-icons resources<br>
 
-项目名：ThinkAndroid<br>
-git地址：https://github.com/white-cat/ThinkAndroid<br>
-预览:<br>
-无<br>
-描述：ThinkAndroid是一个免费的开源的、简易的、遵循Apache2开源协议发布的Android开发框架<br>
 
-项目名：ig-json-parser<br>
-git地址：https://github.com/Instagram/ig-json-parser<br>
-预览:<br>
-无<br>
-描述：Fast JSON parser for java projects<br>
+
+
 
 项目名：android-common<br>
 git地址：https://github.com/litesuits/android-common<br>
 预览:<br>
 无<br>
-描述：Android Common Utils or Helper.<br>
+描述：Android Common Utils or Helper<br>
 
 
-项目名：android-beacon-library<br>
-git地址：https://github.com/AltBeacon/android-beacon-library<br>
-预览:<br>
-无<br>
-描述： Allows Android apps to interact with BLE beacons
-<br>
+
 
 项目名：packagehunter<br>
 git地址：https://github.com/nisrulz/packagehunter<br>
@@ -2062,11 +2049,7 @@ git地址：https://github.com/pelias/pelias<br>
 <img src="https://cloud.githubusercontent.com/assets/4246770/16506005/a2429288-3ed4-11e6-8af0-7ef78824213f.gif" width="30%"/><br>
 描述：Pelias is a modular open-source geocoder using ElasticSearch for fast geocoding. https://mapzen.com/pelias<br>
 
-项目名：SuperAdapter<br>
-git地址：https://github.com/byteam/SuperAdapter<br>
-预览:无<br>
-解释：<br>
-一个Adapter同时适用RecyclerView、ListView、GridView等。<br>
+
 
 项目名：UpdateApp<br>
 git地址：https://github.com/yaming116/UpdateApp<br>
