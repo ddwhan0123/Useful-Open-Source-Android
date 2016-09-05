@@ -1,5 +1,24 @@
 ##Utils<br>
 
+
+###Rx相关<br>
+
+项目名：AdvancedRxJava<br>
+git地址：https://github.com/Piasy/AdvancedRxJava<br>
+解释:<br>
+Advanced RxJava http://akarnokd.blogspot.com/ 系列博客的中文翻译，已征得作者授权。<br>
+
+项目名：Awesome-RxJava<br>
+git地址：https://github.com/lzyzsd/Awesome-RxJava<br>
+解释:<br>
+RxJava resources<br>
+
+项目名：RxBus<br>
+git地址：https://github.com/AndroidKnife/RxBus<br>
+解释:<br>
+Event Bus By RxJava.<br>
+
+
 ###Json/XMl<br>
 
 项目名：fastjson<br>
