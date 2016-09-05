@@ -61,7 +61,9 @@ Event Bus By RxJava.<br>
 
 
 
-
+项目名：ig-json-parser<br>
+git地址：https://github.com/Instagram/ig-json-parser<br>
+描述：Fast JSON parser for java projects<br>
 
 项目名：fastjson<br>
 git地址：https://github.com/alibaba/fastjson<br>
@@ -78,6 +80,12 @@ git地址：https://github.com/alibaba/fastjson<br>
 ###BLE/NFC/VA/VR<br>
 
 
+
+
+项目名：android-beacon-library<br>
+git地址：https://github.com/AltBeacon/android-beacon-library<br>
+描述： Allows Android apps to interact with BLE beacons
+<br>
 
 项目名：FastBle<br>
 git地址：https://github.com/Jasonchenlijian/FastBle<br>
