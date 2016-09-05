@@ -42,6 +42,11 @@ Android testing with Dagger 2, Espresso 2 and Mockito<br>
 
 
 
+项目名：SearchViewAnalysis<br>
+git地址：https://github.com/nukc/SearchViewAnalysis<br>
+解释:<br>
+SearchView源码解析<br>
+
 项目名：AndroidLibs<br>
 git地址：https://github.com/XXApple/AndroidLibs<br>
 解释：<br>
@@ -105,6 +110,17 @@ git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 
 
 
+
+
+项目名:stackoverflow-java-top-qa<br>
+git地址：https://github.com/giantray/stackoverflow-java-top-qa<br>
+解释:<br>
+stackoverflow上Java相关回答整理翻译<br>
+
+项目名：AndroidGuide<br>
+git地址：https://github.com/ColorfulCat/AndroidGuide<br>
+解释:<br>
+AndroidCat安卓书签网 http://www.androidcat.com/<br>
 
 项目名：AndroidUtilCode<br>
 git地址：https://github.com/Blankj/AndroidUtilCode<br>
@@ -198,7 +214,10 @@ some code tips in android<br>
 
 ###面试题<br>
 
-
+项目名:AndroidInterview-Q-A<br>
+git地址：https://github.com/JackyAndroid/AndroidInterview-Q-A<br>
+解释:<br>
+The top Internet companies android interview questions and answers<br>
 
 
 项目名：AndroidInterview<br>
