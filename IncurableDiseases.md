@@ -146,8 +146,12 @@ git地址：https://github.com/GavinCT/AndroidMultiChannelBuildTool<br>
 
 项目名：MultiChannelPackageTool<br>
 git地址：https://github.com/seven456/MultiChannelPackageTool<br>
-预览: 无<br>
 描述：Android Multi channel package tool （安卓多渠道打包工具）<br>
+
+项目名：AndResGuard<br>
+git地址：https://github.com/shwenzhang/AndResGuard<br>
+描述：proguard resource for Android by wechat team<br>
+
 
 项目名：RocooFix<br>
 git地址：https://github.com/dodola/RocooFix<br>
