@@ -12,6 +12,10 @@
 
 
 
+项目名：open-source-android-apps<br>
+git地址：https://github.com/pcqpcq/open-source-android-apps<br>
+解释：<br>
+Open-Source Android Apps<br>
 
 
 项目名：design_patterns<br>
@@ -81,6 +85,8 @@ README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.c
 
 
 ###官方规范<br>
+
+
 
 
 
@@ -209,7 +215,15 @@ git地址：https://github.com/jiang111/awesome-android-tips<br>
 解释:<br>
 some code tips in android<br>
 
+项目名：Android-Best-Practices<br>
+git地址：https://github.com/tianzhijiexian/Android-Best-Practices<br>
+解释：<br>
+Android最佳实践示例<br>
 
+项目名：awesome-android<br>
+git地址：https://github.com/JStumpp/awesome-android<br>
+解释：<br>
+A curated list of awesome Android packages and resources<br>
 
 
 ###面试题<br>
