@@ -264,10 +264,12 @@ Android Library to help you with your runtime Permissions<br>
 
 
 
-###开发框架封装<br>
+###代码封装<br>
 
 
-
+项目名：ThinkAndroid<br>
+git地址：https://github.com/white-cat/ThinkAndroid<br>
+描述：ThinkAndroid是一个免费的开源的、简易的、遵循Apache2开源协议发布的Android开发框架<br>
 
 项目名：AndroidAgeraTutorial<br>
 git地址：https://github.com/captain-miao/AndroidAgeraTutorial<br>
@@ -275,7 +277,11 @@ git地址：https://github.com/captain-miao/AndroidAgeraTutorial<br>
 <img src="https://github.com/google/agera/raw/master/doc/images/agera.png" width="30%"/><br>
 
 
-
+项目名：SuperAdapter<br>
+git地址：https://github.com/byteam/SuperAdapter<br>
+预览:无<br>
+解释：<br>
+一个Adapter同时适用RecyclerView、ListView、GridView等<br>
 
 
 
