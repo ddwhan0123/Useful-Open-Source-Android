@@ -10,6 +10,11 @@
 
 
 
+项目名：AndroidSystemUiTraining<br>
+git地址：https://github.com/D-clock/AndroidSystemUiTraining<br>
+解释：<br>
+本代码库整理总结 Android 系统自身UI特性，主要包含代码实践和特性总结两方面的内容<br>
+
 项目名：awesome-redux<br>
 git地址：https://github.com/xgrommx/awesome-redux<br>
 解释:<br>
@@ -45,6 +50,7 @@ Android testing with Dagger 2, Espresso 2 and Mockito<br>
 
 
 ###代码/语法分析<br>
+
 
 
 
@@ -188,6 +194,21 @@ git地址：https://github.com/lzyzsd/blog<br>
 解释:<br>
 技术分享<br>
 
+项目名：EasyAndroidResources<br>
+git地址：https://github.com/CaMnter/EasyAndroidResources<br>
+解释：<br>
+源码解释，算法，小知识<br>
+
+
+项目名：gold-miner<br>
+git地址：https://github.com/xitu/gold-miner<br>
+解释:<br>
+掘金翻译计划，翻译掘金上优质的英文文章 http://gold.xitu.io<br>
+
+项目名：awesome-resources<br>
+git地址：https://github.com/lyfeyaj/awesome-resources<br>
+解释：<br>
+开发资源总结<br>
 
 项目名：Gitbook<br>
 git地址：https://github.com/dodola/Gitbook<br>
