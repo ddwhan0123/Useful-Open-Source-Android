@@ -10,7 +10,10 @@
 
 
 
-
+项目名：awesome-redux<br>
+git地址：https://github.com/xgrommx/awesome-redux<br>
+解释:<br>
+Awesome list of Redux examples and middlewares<br>
 
 项目名：open-source-android-apps<br>
 git地址：https://github.com/pcqpcq/open-source-android-apps<br>
@@ -117,6 +120,18 @@ git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 
 
 
+
+项目名：LearningNotes<br>
+git地址：https://github.com/GeniusVJR/LearningNotes<br>
+预览:<br>
+Enjoy Learning<br>
+
+项目名：Android-Dev-Favorites<br>
+git地址：https://github.com/ruijun/Android-Dev-Favorites<br>
+预览:<br>
+https://github.com/ruijun/Android-Dev-Favorites/raw/master/Images/favorite.png<br>
+解释:<br>
+The repository is Android development favorites, It used to collect the knowledge of Android Development<br>
 
 项目名:stackoverflow-java-top-qa<br>
 git地址：https://github.com/giantray/stackoverflow-java-top-qa<br>
@@ -226,7 +241,18 @@ git地址：https://github.com/JStumpp/awesome-android<br>
 A curated list of awesome Android packages and resources<br>
 
 
+
+
+
+
+
+
 ###面试题<br>
+
+
+
+
+
 
 项目名:AndroidInterview-Q-A<br>
 git地址：https://github.com/JackyAndroid/AndroidInterview-Q-A<br>
