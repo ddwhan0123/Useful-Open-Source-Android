@@ -1660,15 +1660,7 @@ git地址：https://github.com/wxyyxc1992/Coder-Knowledge-Graph<br>
 解释：<br>
 Knowledge Graph For Coder<br>
 
-项目名：InterviewQuestion<br>
-git地址：https://github.com/leerduo/InterviewQuestion<br>
-解释：<br>
-整理的常见的问题<br>
 
-项目名：TimLiu-Android<br>
-git地址：https://github.com/Tim9Liu9/TimLiu-Android<br>
-解释：<br>
-Android开源项目及库<br>
 
 项目名：androidstudio-plugins<br>
 git地址：https://github.com/dreamlivemeng/androidstudio-plugins<br>
@@ -1678,50 +1670,12 @@ AndroidStudio 优秀插件汇总<br>
 项目名：awesome-android-libraries<br>
 git地址：https://github.com/wasabeef/awesome-android-libraries<br>
 解释：<br>
-This is an alphabetical list of libraries for Android development, the majority being actively maintained.<br>
-
-
-
-项目名：understand-plugin-framework<br>
-git地址：https://github.com/tiann/understand-plugin-framework<br>
-解释：<br>
-demos to help understand plugin framwrok<br>
-
-
-
-项目名：Gradle-Plugin-User-Guide-Chinese-Verision<br>
-git地址：https://github.com/AvatarQing/Gradle-Plugin-User-Guide-Chinese-Verision<br>
-解释：<br>
-Gradle Android插件用户指南翻译<br>
-
-项目名：Algorithms<br>
-git地址：https://github.com/pedrovgs/Algorithms<br>
-解释：<br>
-Solutions for some common algorithm problems written in Java.<br>
-
-
-
-项目名：skill-map<br>
-git地址：https://github.com/TeamStuQ/skill-map<br>
-解释：<br>
-StuQ 程序员技能图谱<br>
+This is an alphabetical list of libraries for Android development, the majority being actively maintained<br>
 
 
 
 
 
-
-
-
-
-
-
-
-
-标题 awesome-react-native<br>
-文章地址：https://github.com/jondot/awesome-react-native<br>
-解释：<br>
-An "awesome" type curated list of React Native components, news, tools, and learning material<br>
 
 
 
