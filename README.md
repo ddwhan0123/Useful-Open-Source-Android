@@ -1864,10 +1864,7 @@ git地址：https://github.com/D-clock/AndroidSystemUiTraining<br>
 本代码库整理总结 Android 系统自身UI特性，主要包含代码实践和特性总结两方面的内容。<br>
 
 
-标题：Android 开发绕不过的坑<br>
-文章地址：http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=498<br>
-解释：<br>
-Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？<br>
+
 
 标题：useful-java-links<br>
 文章地址：https://github.com/Vedenin/useful-java-links<br>
@@ -1915,15 +1912,9 @@ git地址：https://github.com/chrisjenx/Calligraphy<br>
 <img src="https://github.com/chrisjenx/Calligraphy/raw/master/screenshot.png" width="30%"/><br><br>
 解释：Custom fonts in Android the easy way...<br>
 
-项目名：FastBle<br>
-git地址：https://github.com/Jasonchenlijian/FastBle<br>
-解释：Android BLE 蓝牙开发框架，使用回调方式处理，搜索、连接、notify、indicate、读、写等一系列蓝牙操作。<br>
 
-项目名：AndroidLog<br>
-git地址：https://github.com/twiceyuan/AndroidLog<br>
-预览:<br>
-<img src="https://github.com/twiceyuan/AndroidLog/raw/master/art/json.png" width="30%"/><br><br>
-解释：一个类实现更实用的 Android Log 工具 —— 1 个类，100 个方法、9 KiB<br>
+
+
 
 项目名：android-strings-search-plugin<br>
 git地址：https://github.com/konifar/android-strings-search-plugin<br>
@@ -1949,9 +1940,7 @@ git地址：https://github.com/a-voyager/AutoInstaller<br>
 
 
 
-项目名：XLog<br>
-git地址：https://github.com/promeG/XLog<br>
-解释:Method call logging based on dexposed<br>
+
 
 项目名：AndroidDataStorage<br>
 git地址：https://github.com/Xiaofei-it/AndroidDataStorage<br>
@@ -1963,10 +1952,7 @@ git地址：https://github.com/wenmingvs/LogReport<br>
 <img src="https://camo.githubusercontent.com/2af4594399fa69d85eb9b81f099f77586e6f33bf/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f363931636331353167773166357a6230716f72396e6a32303870303932676d312e6a7067" width="30%"/><br><br>
 解释：崩溃日志上传框架<br>
 
-项目名：Toast-PhoneGap-Plugin<br>
-git地址：https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin<br>
-预览:<br>
-<img src="https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin/raw/master/screenshots/screenshot-ios-toast.png" width="30%"/><br><br>
+
 
 项目名：CrashMonkey4Android<br>
 git地址：https://github.com/DoctorQ/CrashMonkey4Android<br>
@@ -1992,23 +1978,13 @@ git地址：https://github.com/forJrking/FontZip<br>
 git地址：https://github.com/baoyongzhang/ParcelableGenerator<br>
 描述：A line of code to get Parcelable. Android Parcelable models made easy<br>
 
-项目名：logger<br>
-git地址：https://github.com/orhanobut/logger<br>
-预览:<br>
-<img src="https://github.com/orhanobut/logger/raw/master/images/description.png" width="30%"/><br><br>
-描述：Simple, pretty and powerful logger for android<br>
+
 
 项目名：AndroidStudioPluginsNPlay<br>
 git地址：https://github.com/andyb129/AndroidStudioPluginsNPlay<br>
 预览:<br>
 <img src="https://github.com/andyb129/AndroidStudioPluginsNPlay/raw/master/images/plugins.jpeg" width="30%"/><br><br>
 描述：A list of cool/useful Android studio plugins<br>
-
-项目名：Colorful<br>
-git地址：https://github.com/hehonghui/Colorful<br>
-预览:<br>
-<img src="https://github.com/hehonghui/Colorful/raw/master/images/colorful.gif" width="30%"/><br><br>
-描述：Android动态换肤库<br>
 
 
 项目名：RxLifecycle<br>
@@ -2106,10 +2082,6 @@ git地址：https://github.com/yaming116/UpdateApp<br>
 预览:无<br>
 解释：开箱即用的app更新，主要负责软件下载、软件安装等 Permission和Service默认添加在aar包里面的，如果使用gradle不需要 在意下面的配置了<br>
 
-项目名：XLog<br>
-git地址：https://github.com/promeG/XLog<br>
-预览:无<br>
-解释：Method call logging based on dexposed<br>
 
 
 项目名：AndroidCommon<br>
