@@ -256,6 +256,11 @@ Android Library to help you with your runtime Permissions<br>
 
 ###Rx相关<br>
 
+项目名：Awesome-RxJava<br>
+git地址：https://github.com/lzyzsd/Awesome-RxJava<br>
+解释:<br>
+RxJava resources<br>
+
 项目名：RxBus<br>
 git地址：https://github.com/AndroidKnife/RxBus<br>
 解释:<br>
