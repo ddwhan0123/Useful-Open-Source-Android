@@ -3,22 +3,6 @@
 
 
 
-###问题/知识累积<br>
-
-
-
-
-
-标题：Android 开发绕不过的坑<br>
-文章地址：http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=498<br>
-解释：<br>
-Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？<br>
-
-
-项目名：awesome-android-tips<br>
-git地址：https://github.com/jiang111/awesome-android-tips<br>
-解释:<br>
-some code tips in android<br>
 
 
 
@@ -155,6 +139,23 @@ git地址：https://github.com/CameloeAnthony/AndroidArchitectureCollection<br>
 git地址：https://github.com/warmheartli/FullStackDeveloperCourse<br>
 预览:<br>
 教你成为全栈工程师<br>
+
+项目名：awesome-android-performance<br>
+git地址：https://github.com/Juude/awesome-android-performance<br>
+解释:<br>
+Android performance optimization tutorials, videos and tools list(Android性能优化视频，文档以及工具)<br>
+
+标题：Android 开发绕不过的坑<br>
+文章地址：http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=498<br>
+解释：<br>
+Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？<br>
+
+
+项目名：awesome-android-tips<br>
+git地址：https://github.com/jiang111/awesome-android-tips<br>
+解释:<br>
+some code tips in android<br>
+
 
 
 ###面试题<br>
