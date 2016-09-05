@@ -6,6 +6,12 @@
 
 
 
+项目名：logger<br>
+git地址：https://github.com/orhanobut/logger<br>
+预览:<br>
+<img src="https://github.com/orhanobut/logger/raw/master/images/description.png" width="30%"/><br><br>
+描述：Simple, pretty and powerful logger for android<br>
+
 
 项目名：XLog<br>
 git地址：https://github.com/promeG/XLog<br>
