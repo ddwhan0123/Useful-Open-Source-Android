@@ -35,7 +35,12 @@ git地址：https://github.com/fatangare/LogcatViewer<br>
 项目名：JKeyboardPanelSwitch<br>
 git地址：https://github.com/Jacksgong/JKeyboardPanelSwitch<br>
 预览:<br>
-![](https://raw.githubusercontent.com/Jacksgong/JKeybordPanelSwitch/master/art/adjust_resolved.gif) <br>
+<img src="https://raw.githubusercontent.com/Jacksgong/JKeybordPanelSwitch/master/art/adjust_resolved.gif" width="30%"/><br>
+
+项目名：chinese-copywriting-guidelines<br>
+git地址：https://github.com/sparanoid/chinese-copywriting-guidelines<br>
+解释：<br>
+Chinese Copywriting Guidelines / 中文文案排版指北 http://sparanoid.com/note/chinese-copywriting-guidelines/
 
 项目名：AndroidDaemonService<br>
 git地址：https://github.com/D-clock/AndroidDaemonService<br>
