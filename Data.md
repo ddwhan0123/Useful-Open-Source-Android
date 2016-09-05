@@ -6,7 +6,10 @@
 ###问题累积<br>
 
 
-
+标题：Android 开发绕不过的坑<br>
+文章地址：http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=498<br>
+解释：<br>
+Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？<br>
 
 
 项目名：awesome-android-tips<br>
