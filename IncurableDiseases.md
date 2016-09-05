@@ -31,6 +31,7 @@ git地址：https://github.com/fatangare/LogcatViewer<br>
 
 ###业务功能难点处理<br>
 
+
 项目名：JKeyboardPanelSwitch<br>
 git地址：https://github.com/Jacksgong/JKeyboardPanelSwitch<br>
 预览:<br>
@@ -203,6 +204,11 @@ AndFix is a library that offer hot-fix for Android App.<br>
 git地址：https://github.com/hotchemi/PermissionsDispatcher<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/hotchemi/PermissionsDispatcher/master/art/logo.png" width="30%"/><br>
+
+项目名：Dexter<br>
+git地址：https://github.com/Karumi/Dexter<br>
+预览:<br>
+<img src="https://github.com/Karumi/Dexter/raw/master/art/sample.gif" width="30%"/><br>
 
 项目名：Nammu<br>
 git地址：https://github.com/tajchert/Nammu<br>
