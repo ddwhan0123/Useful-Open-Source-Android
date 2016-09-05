@@ -10,6 +10,15 @@
 
 
 
+
+
+
+
+项目名：understand-plugin-framework<br>
+git地址：https://github.com/tiann/understand-plugin-framework<br>
+解释：<br>
+demos to help understand plugin framwrok<br>
+
 项目名：AndroidSystemUiTraining<br>
 git地址：https://github.com/D-clock/AndroidSystemUiTraining<br>
 解释：<br>
@@ -256,13 +265,35 @@ git地址：https://github.com/tianzhijiexian/Android-Best-Practices<br>
 解释：<br>
 Android最佳实践示例<br>
 
+项目名：Gradle-Plugin-User-Guide-Chinese-Verision<br>
+git地址：https://github.com/AvatarQing/Gradle-Plugin-User-Guide-Chinese-Verision<br>
+解释：<br>
+Gradle Android插件用户指南翻译<br>
+
+项目名：Algorithms<br>
+git地址：https://github.com/pedrovgs/Algorithms<br>
+解释：<br>
+Solutions for some common algorithm problems written in Java<br>
+
 项目名：awesome-android<br>
 git地址：https://github.com/JStumpp/awesome-android<br>
 解释：<br>
 A curated list of awesome Android packages and resources<br>
 
+项目名：InterviewQuestion<br>
+git地址：https://github.com/leerduo/InterviewQuestion<br>
+解释：<br>
+整理的常见的问题<br>
 
+项目名：TimLiu-Android<br>
+git地址：https://github.com/Tim9Liu9/TimLiu-Android<br>
+解释：<br>
+Android开源项目及库<br>
 
+项目名：skill-map<br>
+git地址：https://github.com/TeamStuQ/skill-map<br>
+解释：<br>
+StuQ 程序员技能图谱<br>
 
 
 
