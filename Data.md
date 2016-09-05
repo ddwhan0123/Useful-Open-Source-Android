@@ -12,6 +12,8 @@
 
 
 
+
+
 项目名：design_patterns<br>
 文章地址：https://github.com/me115/design_patterns<br>
 解释：<br>
@@ -32,10 +34,23 @@ git地址:https://github.com/chiuki/android-test-demo<br>
 解释:<br>
 Android testing with Dagger 2, Espresso 2 and Mockito<br>
 
+
+
+
 ###代码/语法分析<br>
 
 
 
+
+项目名：AndroidLibs<br>
+git地址：https://github.com/XXApple/AndroidLibs<br>
+解释：<br>
+ 正在成为史上最全分类 Android 开源代码大全~~~~ http://www.androidcat.com/<br>
+
+项目名：android_design_patterns_analysis<br>
+git地址：https://github.com/simple-android-framework-exchange/android_design_patterns_analysis<br>
+解释:<br>
+Android源码设计模式分析项目<br>
 
 项目名：AndroidStudyCode<br>
 git地址：https://github.com/D-clock/AndroidStudyCode<br>
@@ -62,6 +77,8 @@ README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.c
 
 ###官方规范<br>
 
+
+
 项目名：MaterialDesignColor<br>
 git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 预览: <img src="https://camo.githubusercontent.com/2826fe84e44434a841a2b917f64ef1efb8ce1156/687474703a2f2f6769742e6f736368696e612e6e65742f75706c6f6164732f696d616765732f323031352f303631322f3135303433395f35646539653331375f3134313030392e706e67" width="40%" /><br>
@@ -73,6 +90,8 @@ git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 
 
 ###知识累积/博客/电子书<br>
+
+
 
 
 
