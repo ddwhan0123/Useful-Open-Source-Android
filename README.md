@@ -1772,11 +1772,7 @@ git地址：https://github.com/intrications/material-design-icons-adt-template<b
 
 
 
-项目名：android-common<br>
-git地址：https://github.com/litesuits/android-common<br>
-预览:<br>
-无<br>
-描述：Android Common Utils or Helper<br>
+
 
 
 
@@ -1831,18 +1827,6 @@ git地址：https://github.com/pelias/pelias<br>
 git地址：https://github.com/yaming116/UpdateApp<br>
 预览:无<br>
 解释：开箱即用的app更新，主要负责软件下载、软件安装等 Permission和Service默认添加在aar包里面的，如果使用gradle不需要 在意下面的配置了<br>
-
-
-
-项目名：AndroidCommon<br>
-git地址：https://github.com/h4de5ing/AndroidCommon<br>
-功能：基于Android系统Api封装常用工具类 http://19code.com<br>
-
-
-
-
-
-
 
 
 
