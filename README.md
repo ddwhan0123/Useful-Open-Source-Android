@@ -1637,23 +1637,14 @@ Learning OpenGL ES 2 in Java for Android<br>
 
 项目名：react-native-lesson<br>
 git地址：https://github.com/vczero/react-native-lesson<br>
-预览:<br>
-无<br>
 解释:<br>
 React-Native入门指南<br>
 
 
-项目名：AndroidInstantRun<br>
-git地址：https://github.com/nuptboyzhb/AndroidInstantRun<br>
-预览:<br>
-<img src="https://github.com/nuptboyzhb/AndroidInstantRun/raw/master/1.png" width="30%"/><br><br>
-解释:<br>
-Android Instant Run原理分析<br>
+
 
 项目名：SearchViewAnalysis<br>
 git地址：https://github.com/nukc/SearchViewAnalysis<br>
-预览:<br>
-无<br>
 解释:<br>
 SearchView源码解析<br>
 
@@ -1664,12 +1655,7 @@ git地址：https://github.com/Mr-YangCheng/ForAndroidInterview<br>
 解释:<br>
 android interview experience and question in (android、java、data structure、tcp/ip、os)<br>
 
-项目名：Android_Data<br>
-git地址：https://github.com/Freelander/Android_Data<br>
-预览:<br>
-无<br>
-解释:<br>
-Android 学习资料收集<br>
+
 
 
 
@@ -1688,12 +1674,7 @@ git地址：https://github.com/GeniusVJR/LearningNotes<br>
 Enjoy Learning.<br>
 
 
-项目名：FullStackDeveloperCourse<br>
-git地址：https://github.com/warmheartli/FullStackDeveloperCourse<br>
-预览:<br>
-无<br>
-解释：<br>
-教你成为全栈工程师<br>
+
 
 项目名：react-native-guide<br>
 git地址：https://github.com/reactnativecn/react-native-guide<br>
