@@ -111,6 +111,10 @@
 
 
 
+项目名：confetti<br>
+git地址：https://github.com/jinatonic/confetti<br>
+预览:<br>
+<img src="https://github.com/jinatonic/confetti/raw/master/assets/confetti_with_touch.gif" width="30%"/><br>
 
 项目名：ScrollTableView<br>
 git地址：https://github.com/loopeer/ScrollTableView<br>
