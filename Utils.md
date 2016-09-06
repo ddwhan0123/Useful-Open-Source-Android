@@ -1,5 +1,11 @@
 ##Utils<br>
 
+
+
+
+
+
+
 ###工具封装<br>
 项目名：android-common<br>
 git地址：https://github.com/litesuits/android-common<br>
@@ -100,6 +106,19 @@ git地址：https://github.com/alibaba/fastjson<br>
 解释： A fast JSON parser/generator for Java https://github.com/alibaba/fastjson/wiki<br>
 
 
+
+
+
+
+###SharePreferences<br>
+
+
+
+
+
+项目名：Treasure<br>
+git地址：https://github.com/baoyongzhang/Treasure<br>
+解释： Very easy to use wrapper library for Android SharePreferences<br>
 
 
 
