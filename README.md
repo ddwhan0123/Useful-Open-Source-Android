@@ -112,6 +112,11 @@
 
 
 
+项目名：CreditSesameRingView<br>
+git地址：https://github.com/HotBitmapGG/CreditSesameRingView<br>
+预览:<br>
+<img src="https://github.com/HotBitmapGG/CreditSesameRingView/raw/master/art/02.gif" width="30%"/><br>
+
 项目名：CountDownAnimation<br>
 git地址：https://github.com/IvanRF/CountDownAnimation<br>
 预览:<br>
