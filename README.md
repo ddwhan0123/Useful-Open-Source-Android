@@ -111,6 +111,11 @@
 
 
 
+项目名：CannyViewAnimator<br>
+git地址：https://github.com/LiveTyping/CannyViewAnimator<br>
+预览:<br>
+<img src="https://github.com/LiveTyping/CannyViewAnimator/raw/master/readme_extra/top_2.gif?raw=true" width="30%"/><br>
+
 项目名：confetti<br>
 git地址：https://github.com/jinatonic/confetti<br>
 预览:<br>
