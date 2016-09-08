@@ -106,6 +106,10 @@ git地址：https://github.com/guodongxiaren/README<br>
 README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.csdn.net/guodongxiaren/article/details/23690801<br>
 
 
+
+
+
+
 ###官方规范<br>
 
 
@@ -139,6 +143,12 @@ git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 
 
 
+
+
+项目名：AndroidNote<br>
+git地址：https://github.com/CharonChui/AndroidNote<br>
+解释：<br>
+Android study notes<br>
 
 项目名：LearningNotes<br>
 git地址：https://github.com/GeniusVJR/LearningNotes<br>
