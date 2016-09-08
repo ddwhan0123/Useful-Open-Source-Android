@@ -144,6 +144,54 @@ git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 
 
 
+项目名：article<br>
+git地址：https://github.com/WeMobileDev/article<br>
+预览:<br>
+<img src="https://github.com/WeMobileDev/article/raw/master/assets/qrcode_for_wemobiledev.jpg" width="30%"/><br><br>
+解释:<br>
+articles bt WeChat Mobile Development Team<br>
+
+项目名：LearningOpenGLES2-Android<br>
+git地址：https://github.com/skyfe79/LearningOpenGLES2-Android<br>
+预览:<br>
+<img src="https://github.com/skyfe79/LearningOpenGLES2-Android/raw/master/01.RedAlert/result.gif" width="30%"/><br><br>
+解释:<br>
+Learning OpenGL ES 2 in Java for Android<br>
+
+项目名：awesome-deep-learning-papers<br>
+git地址：https://github.com/terryum/awesome-deep-learning-papers<br>
+解释：<br>
+ Most Cited Deep Learning Papers<br>
+
+
+
+项目名：Coder-Knowledge-Graph<br>
+git地址：https://github.com/wxyyxc1992/Coder-Knowledge-Graph<br>
+解释：<br>
+Knowledge Graph For Coder<br>
+
+
+项目名：awesome-android-libraries<br>
+git地址：https://github.com/wasabeef/awesome-android-libraries<br>
+解释：<br>
+This is an alphabetical list of libraries for Android development, the majority being actively maintained<br>
+
+
+项目名：Perfect_IM_SNS<br>
+git地址：https://github.com/CameloeAnthony/Perfect_IM_SNS<br>
+解释：<br>
+这是一个整理即时通讯（IM）和社交系统（SNS）优秀开源项目的文档<br>
+
+项目名：android-unit-testing-tutorial<br>
+git地址：https://github.com/ChrisZou/android-unit-testing-tutorial<br>
+解释:<br>
+Code project corresponding to a serials of tutorial posts for android unit testing<br>
+
+项目名：java-bible<br>
+git地址：https://github.com/biezhi/java-bible<br>
+解释:<br>
+Java Bible is my java technology stack<br>
+
 项目名:Android-APT-Framework<br>
 git地址：https://github.com/lizhaoxuan/Android-APT-Framework<br>
 解释:<br>
