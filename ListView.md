@@ -12,7 +12,10 @@
 
 
 
-
+项目名：CalendarListView<br>
+git地址：https://github.com/Kelin-Hong/CalendarListView<br>
+预览:<br>
+<img src="https://github.com/Kelin-Hong/CalendarListView/raw/master/art/CalendarViewDemo.gif" width="30%" /><br>
 
 项目名：CalendarListview<br>
 git地址：https://github.com/traex/CalendarListview<br>
