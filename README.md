@@ -1578,10 +1578,7 @@ git地址：https://github.com/lizhaoxuan/Android-APT-Framework<br>
 解释:<br>
 Android编译时注解框架系列博客<br>
 
-项目名：github-help<br>
-git地址：https://github.com/waylau/github-help<br>
-解释:<br>
-《Github 帮助文档》 中文翻译（包含了官方文档以及其他文章）<br>
+
 
 项目名：Gradle-2-User-Guide<br>
 git地址：https://github.com/waylau/Gradle-2-User-Guide<br>
@@ -1664,20 +1661,6 @@ git地址：https://github.com/terryum/awesome-deep-learning-papers<br>
  Most Cited Deep Learning Papers<br>
 
 
-
-
-
-
-
-项目名：AndroidNote<br>
-git地址：https://github.com/CharonChui/AndroidNote<br>
-解释：<br>
-Android study notes.<br>
-
-项目名：free-programming-books-zh_CN<br>
-git地址：https://github.com/justjavac/free-programming-books-zh_CN<br>
-解释：<br>
-免费的编程中文书籍索引<br>
 
 项目名：Coder-Knowledge-Graph<br>
 git地址：https://github.com/wxyyxc1992/Coder-Knowledge-Graph<br>
