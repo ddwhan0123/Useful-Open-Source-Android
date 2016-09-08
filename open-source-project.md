@@ -380,7 +380,15 @@ git地址：https://github.com/YiuChoi/MicroReader<br>
 项目名：DanmakuFlameMaster<br>
 git地址https://github.com/Bilibili/DanmakuFlameMaster<br>
 预览:<br>
-![](https://camo.githubusercontent.com/5d619b8e479e2c618150278cad3eb1c8e6a1d36d/68747470733a2f2f7261772e6769746875622e636f6d2f637469616f2f637469616f2e6769746875622e696f2f6d61737465722f696d616765732f617070732f62696c692e706e673f7261773d74727565) <br>
+<img src="https://camo.githubusercontent.com/5d619b8e479e2c618150278cad3eb1c8e6a1d36d/68747470733a2f2f7261772e6769746875622e636f6d2f637469616f2f637469616f2e6769746875622e696f2f6d61737465722f696d616765732f617070732f62696c692e706e673f7261773d74727565" width="30%" />
+
+项目名：AndroidRuler<br>
+git地址：
+https://github.com/dalong982242260/AndroidRuler<br>
+解释:<br>
+android自定义尺子收集demo<br>
+预览：<br>
+<img src="https://github.com/dalong982242260/AndroidRuler/raw/master/img/ruler_3.png" width="30%" />
 
 项目名：XhsWelcomeAnim<br>
 git地址：https://github.com/w446108264/XhsWelcomeAnim<br>
