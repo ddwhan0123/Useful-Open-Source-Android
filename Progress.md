@@ -3,7 +3,10 @@
 
 
 
-
+项目名：fit-chart<br>
+git地址：https://github.com/txusballesteros/fit-chart<br>
+预览:<br>
+<img src="https://github.com/txusballesteros/fit-chart/raw/master/assets/linear_animation_mode.gif" width="30%" />
 
 项目名：CircleProgress<br>
 git地址：https://github.com/Fichardu/CircleProgress<br>
