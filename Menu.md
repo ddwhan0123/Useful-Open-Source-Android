@@ -75,10 +75,6 @@ git地址：https://github.com/saurabharora90/MaterialArcMenu<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/saurabharora90/MaterialArcMenu/develop/assets/snackbar.gif" width="30%"/>
 
-项目名：DropDownMenu<br>
-git地址：https://github.com/Bragegs/DropDownMenu<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/Bragegs/DropDownMenu/master/ToggleMenu.gif" width="30%"/>
 
 
 项目名：morphy-toolbar<br>
