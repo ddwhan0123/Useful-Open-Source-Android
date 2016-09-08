@@ -7,6 +7,9 @@
 
 
 ###工具封装<br>
+
+
+
 项目名：android-common<br>
 git地址：https://github.com/litesuits/android-common<br>
 描述：Android Common Utils or Helper<br>
@@ -33,6 +36,8 @@ git地址：https://github.com/romainguy/elegant-underline<br>
 
 
 ###Log<br>
+
+
 
 
 
@@ -186,8 +191,17 @@ Allows to perform various simple operations on bitmaps via JNI , while also prov
 预览:<br>
 <img src="https://raw.githubusercontent.com/AndroidDeveloperLB/AndroidJniBitmapOperations/master/demo.gif" width="30%"/><br>
 
+
+
+
+
 ###开发提速<br>
 
+
+项目名：androidstudio-plugins<br>
+git地址：https://github.com/dreamlivemeng/androidstudio-plugins<br>
+解释：<br>
+AndroidStudio 优秀插件汇总<br>
 
 项目名：svg2android<br>
 git地址：https://github.com/inloop/svg2android<br>
