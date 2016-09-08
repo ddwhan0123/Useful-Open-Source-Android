@@ -87,10 +87,6 @@ git地址：https://github.com/yavski/fab-speed-dial<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/67f8b636d4cd6ee1dfcb8e4c68d2f04ad3ce8560/687474703a2f2f796176736b692e6769746875622e696f2f6661622d73706565642d6469616c2f73616d706c652d30312e676966" width="30%"/>
 
-项目名：MultipleStatusView<br>
-git地址：https://github.com/qyxxjd/MultipleStatusView<br>
-预览:<br>
-<img src="https://github.com/qyxxjd/MultipleStatusView/raw/master/screenshots/demo.gif" width="30%"/>
 
 项目名：SwipeBackActivity<br>
 git地址：https://github.com/binIoter/SwipeBackActivity<br>
