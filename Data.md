@@ -63,6 +63,8 @@ Android testing with Dagger 2, Espresso 2 and Mockito<br>
 
 
 
+
+
 项目名：github-help<br>
 git地址：https://github.com/waylau/github-help<br>
 解释:<br>
@@ -141,6 +143,28 @@ git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 
 
 
+
+项目名:Android-APT-Framework<br>
+git地址：https://github.com/lizhaoxuan/Android-APT-Framework<br>
+解释:<br>
+Android编译时注解框架系列博客<br>
+
+
+
+项目名：Gradle-2-User-Guide<br>
+git地址：https://github.com/waylau/Gradle-2-User-Guide<br>
+解释:<br>
+Gradle 2 User Guide 中文翻译《Gradle 2 用户指南》<br>
+
+项目名：github-roam<br>
+git地址：https://github.com/phodal/github-roam<br>
+解释:<br>
+GitHub 漫游指南<br>
+
+项目名：awesome-android<br>
+git地址：https://github.com/snowdream/awesome-android<br>
+解释：<br>
+ android libs from github or other websites http://snowdream.github.io/awesome-android<br>
 
 项目名：free-programming-books-zh_CN<br>
 git地址：https://github.com/justjavac/free-programming-books-zh_CN<br>
@@ -321,6 +345,12 @@ StuQ 程序员技能图谱<br>
 
 
 
+
+
+项目名：ForAndroidInterview<br>
+git地址：https://github.com/Mr-YangCheng/ForAndroidInterview<br>
+解释:<br>
+android interview experience and question in (android、java、data structure、tcp/ip、os)<br>
 
 
 项目名:AndroidInterview-Q-A<br>
