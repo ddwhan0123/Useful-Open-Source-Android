@@ -5,7 +5,12 @@
 项目名：MaryPopup<br>
 git地址：https://github.com/Meetic/MaryPopup<br>
 预览:<br>
-![](https://github.com/Meetic/MaryPopup/raw/master/media/intro.gif) <br>
+<img src="https://github.com/Meetic/MaryPopup/raw/master/media/intro.gif" width="30%"/><br>
+
+项目名：FlipShare<br>
+git地址：https://github.com/JeasonWong/FlipShare<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/jeasonwong/FlipShare/master/screenshots/flipshare.gif" width="30%"/><br>
 
 项目名：Transitions-Everywhere<br>
 git地址：https://github.com/andkulikov/Transitions-Everywhere<br>
