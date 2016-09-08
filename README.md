@@ -111,6 +111,11 @@
 
 
 
+项目名：MultipleStatusView<br>
+git地址：https://github.com/qyxxjd/MultipleStatusView<br>
+预览:<br>
+<img src="https://github.com/qyxxjd/MultipleStatusView/raw/master/screenshots/demo.gif" width="30%"/>
+
 项目名：CannyViewAnimator<br>
 git地址：https://github.com/LiveTyping/CannyViewAnimator<br>
 预览:<br>
