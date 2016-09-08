@@ -62,6 +62,12 @@ Android testing with Dagger 2, Espresso 2 and Mockito<br>
 
 
 
+
+项目名：github-help<br>
+git地址：https://github.com/waylau/github-help<br>
+解释:<br>
+《Github 帮助文档》 中文翻译（包含了官方文档以及其他文章）<br>
+
 项目名：SearchViewAnalysis<br>
 git地址：https://github.com/nukc/SearchViewAnalysis<br>
 解释:<br>
