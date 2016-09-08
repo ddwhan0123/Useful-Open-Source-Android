@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-9-5<br>
+###更新时间:2016-9-8<br>
 
 
 
@@ -1573,25 +1573,12 @@ https://github.com/dalong982242260/AndroidRuler/raw/master/img/ruler_3.png<br>
 
 
 
-项目名:Android-APT-Framework<br>
-git地址：https://github.com/lizhaoxuan/Android-APT-Framework<br>
-解释:<br>
-Android编译时注解框架系列博客<br>
-
-
-
-项目名：Gradle-2-User-Guide<br>
-git地址：https://github.com/waylau/Gradle-2-User-Guide<br>
-解释:<br>
-Gradle 2 User Guide 中文翻译《Gradle 2 用户指南》<br>
 
 
 
 
-项目名：github-roam<br>
-git地址：https://github.com/phodal/github-roam<br>
-解释:<br>
-GitHub 漫游指南<br>
+
+
 
 
 
@@ -1613,26 +1600,6 @@ Learning OpenGL ES 2 in Java for Android<br>
 
 
 
-
-
-
-
-项目名：ForAndroidInterview<br>
-git地址：https://github.com/Mr-YangCheng/ForAndroidInterview<br>
-预览:<br>
-无<br>
-解释:<br>
-android interview experience and question in (android、java、data structure、tcp/ip、os)<br>
-
-
-
-项目名：react-native-guide<br>
-git地址：https://github.com/reactnativecn/react-native-guide<br>
-预览:<br>
-无<br>
-解释：<br>
-React-Native学习指南<br>
-
 项目名：Fragmentation<br>
 git地址：https://github.com/YoKeyword/Fragmentation<br>
 预览:<br>
@@ -1650,10 +1617,7 @@ git地址：https://github.com/CameloeAnthony/Perfect_IM_SNS<br>
 
 
 
-项目名：awesome-android<br>
-git地址：https://github.com/snowdream/awesome-android<br>
-解释：<br>
- android libs from github or other websites http://snowdream.github.io/awesome-android<br>
+
 
 项目名：awesome-deep-learning-papers<br>
 git地址：https://github.com/terryum/awesome-deep-learning-papers<br>
