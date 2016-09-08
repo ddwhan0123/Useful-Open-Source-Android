@@ -150,7 +150,7 @@ git地址：https://github.com/dkmeteor/Folder-ResideMenu<br>
 项目名：GuillotineMenu-Android<br>
 git地址：https://github.com/Yalantis/GuillotineMenu-Android<br>
 预览:<br>
-![](https://camo.githubusercontent.com/f044b38de3fed4496b98dff747b3bf6555ec67e4/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3439353739322f73637265656e73686f74732f323131333331342f64726166742d30332e676966) <br>
+<img src="https://camo.githubusercontent.com/f044b38de3fed4496b98dff747b3bf6555ec67e4/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3439353739322f73637265656e73686f74732f323131333331342f64726166742d30332e676966" width="30%" />
 
 项目名：android-slidingactivity<br>
 git地址：https://github.com/klinker41/android-slidingactivity<br>
@@ -165,7 +165,7 @@ git地址：https://github.com/fanOfDemo/FloatMenuSample<br>
 项目名：RapidFloatingActionButton<br>
 git地址：https://github.com/wangjiegulu/RapidFloatingActionButton<br>
 预览:<br>
-![](https://raw.githubusercontent.com/wangjiegulu/RapidFloatingActionButton/master/screenshot/rfab_label_list.gif) <br>
+<img src="https://raw.githubusercontent.com/wangjiegulu/RapidFloatingActionButton/master/screenshot/rfab_label_list.gif" width="30%" />
 
 项目名：MaterialDrawer<br>
 git地址：https://github.com/mikepenz/MaterialDrawer<br>
@@ -175,5 +175,10 @@ git地址：https://github.com/mikepenz/MaterialDrawer<br>
 项目名：FlycoTabLayout<br>
 git地址：https://github.com/H07000223/FlycoTabLayout<br>
 预览:<br>
-![](https://github.com/H07000223/FlycoTabLayout/raw/master/preview_1.gif) <br>
+<img src="https://github.com/H07000223/FlycoTabLayout/raw/master/preview_1.gif" width="30%" />
+
+项目名：AppBar<br>
+git地址：https://github.com/tianzhijiexian/AppBar<br>
+预览:<br>
+<img src="https://github.com/tianzhijiexian/AppBar/raw/master/screenshot/preview.png" width="30%" />
 
