@@ -27,10 +27,7 @@ git地址：https://github.com/gumingwei/WellSwipe<br>
 预览:<br>
 <img src="https://github.com/gumingwei/WellSwipe/raw/master/app/wellswipe4.gif" width="30%"/>
 
-项目名：TabView<br>
-git地址：https://github.com/Hentaii/TabView<br>
-预览:<br>
-<img src="https://github.com/Hentaii/TabView/raw/master/app/src/main/res/drawable/show.gif?raw=true" width="30%"/>
+
 
 
 项目名：circle-menu<br>
@@ -82,6 +79,13 @@ git地址：https://github.com/dkmeteor/Folder-ResideMenu<br>
 git地址：https://github.com/Yalantis/GuillotineMenu-Android<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/f044b38de3fed4496b98dff747b3bf6555ec67e4/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3439353739322f73637265656e73686f74732f323131333331342f64726166742d30332e676966" width="30%" />
+
+
+
+项目名：FloatMenuSample<br>
+git地址：https://github.com/fanOfDemo/FloatMenuSample<br>
+预览:<br>
+<img src="https://github.com/fanOfDemo/FloatMenuSample/blob/master/pickture/201605031543.gif" width="60%"/>
 
 ###Bar<br>
 
@@ -170,10 +174,7 @@ git地址：https://github.com/klinker41/android-slidingactivity<br>
 预览:<br>
 ![](https://github.com/klinker41/android-slidingactivity/raw/master/preview.gif) <br>
 
-项目名：FloatMenuSample<br>
-git地址：https://github.com/fanOfDemo/FloatMenuSample<br>
-预览:<br>
-<img src="https://github.com/fanOfDemo/FloatMenuSample/blob/master/pickture/201605031543.gif" width="60%"/>
+
 
 项目名：RapidFloatingActionButton<br>
 git地址：https://github.com/wangjiegulu/RapidFloatingActionButton<br>
