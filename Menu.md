@@ -4,7 +4,7 @@
 
 
 
-
+###Menu<br>
 
 
 项目名：FantasySlide<br>
@@ -32,31 +32,17 @@ git地址：https://github.com/Hentaii/TabView<br>
 预览:<br>
 <img src="https://github.com/Hentaii/TabView/raw/master/app/src/main/res/drawable/show.gif?raw=true" width="30%"/>
 
-项目名：LoopBar<br>
-git地址：https://github.com/Cleveroad/LoopBar<br>
-预览:Tap Bar with infinite scrolling:<br>
-<img src="https://github.com/Cleveroad/LoopBar/raw/master/images/header.png" width="30%"/>
 
 项目名：circle-menu<br>
 git地址：https://github.com/Ramotion/circle-menu<br>
 预览:CircleMenu is a simple, elegant menu with a circular layout<br>
 <img src="https://github.com/Ramotion/circle-menu/raw/master/preview.gif" width="30%"/>
 
-
-项目名：RelativePopupWindow<br>
-git地址：https://github.com/kakajika/RelativePopupWindow<br>
-预览（Android PopupWindow that can be easily located relative to anchor View）:<br>
-<img src="https://github.com/kakajika/RelativePopupWindow/raw/master/art/art1.gif" width="30%"/>
-
-项目名：StatusBarCompat<br>
-git地址：https://github.com/niorgai/StatusBarCompat<br>
-预览（沉浸式菜单栏）:<br>
-<img src="https://camo.githubusercontent.com/ffdde1e5a95d4c6732cceb19e88fda8bb0668a78/687474703a2f2f3773627179732e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f66756c6c53637265656e2e706e67" width="30%"/>
-
 项目名：RoversActionApi<br>
 git地址：https://github.com/schiztech/RoversActionApi<br>
 预览:<br>
 <img src="https://github.com/schiztech/RoversActionApi/raw/master/screenshots/screen1.png" width="30%"/>
+
 
 项目名：FlyoutMenus<br>
 git地址：https://github.com/ShamylZakariya/FlyoutMenus<br>
@@ -69,11 +55,6 @@ git地址：https://github.com/teodorpatras/SideMenuController<br>
 <img src="https://raw.githubusercontent.com/teodorpatras/SideMenuController/master/assets/under_left.gif" width="30%"/>
 
 
-项目名：smooth-app-bar-layout<br>
-git地址：https://github.com/henrytao-me/smooth-app-bar-layout<br>
-预览:<br>
-<img src="https://github.com/henrytao-me/smooth-app-bar-layout/raw/master/screenshots/screenshots.jpg" width="30%"/>
-
 项目名：DropDownMenu<br>
 git地址：https://github.com/baiiu/DropDownMenu<br>
 预览:<br>
@@ -84,6 +65,48 @@ git地址：https://github.com/saurabharora90/MaterialArcMenu<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/saurabharora90/MaterialArcMenu/develop/assets/snackbar.gif" width="30%"/>
 
+
+
+项目名：AndroidResideMenu<br>
+git地址：https://github.com/SpecialCyCi/AndroidResideMenu<br>
+预览:<br>
+<img src="https://github.com/SpecialCyCi/AndroidResideMenu/raw/master/2.gif" width="60%"/>
+
+
+项目名：Folder-ResideMenu<br>
+git地址：https://github.com/dkmeteor/Folder-ResideMenu<br>
+预览:<br>
+<img src="https://github.com/dkmeteor/Folder-ResideMenu/raw/master/Folder-residemenu.gif" width="60%"/>
+
+项目名：GuillotineMenu-Android<br>
+git地址：https://github.com/Yalantis/GuillotineMenu-Android<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/f044b38de3fed4496b98dff747b3bf6555ec67e4/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3439353739322f73637265656e73686f74732f323131333331342f64726166742d30332e676966" width="30%" />
+
+###Bar<br>
+
+
+
+
+
+
+项目名：LoopBar<br>
+git地址：https://github.com/Cleveroad/LoopBar<br>
+预览:Tap Bar with infinite scrolling:<br>
+<img src="https://github.com/Cleveroad/LoopBar/raw/master/images/header.png" width="30%"/>
+
+项目名：StatusBarCompat<br>
+git地址：https://github.com/niorgai/StatusBarCompat<br>
+预览（沉浸式菜单栏）:<br>
+<img src="https://camo.githubusercontent.com/ffdde1e5a95d4c6732cceb19e88fda8bb0668a78/687474703a2f2f3773627179732e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f66756c6c53637265656e2e706e67" width="30%"/>
+
+
+
+
+项目名：smooth-app-bar-layout<br>
+git地址：https://github.com/henrytao-me/smooth-app-bar-layout<br>
+预览:<br>
+<img src="https://github.com/henrytao-me/smooth-app-bar-layout/raw/master/screenshots/screenshots.jpg" width="30%"/>
 
 
 项目名：morphy-toolbar<br>
@@ -118,10 +141,7 @@ git地址：https://github.com/ikew0ng/SwipeBackLayout<br>
 预览:<br>
 <img src="https://github.com/Issacw0ng/SwipeBackLayout/raw/master/art/screenshot.png?raw=true" width="30%"/>
 
-项目名：AndroidResideMenu<br>
-git地址：https://github.com/SpecialCyCi/AndroidResideMenu<br>
-预览:<br>
-<img src="https://github.com/SpecialCyCi/AndroidResideMenu/raw/master/2.gif" width="60%"/>
+
 
 项目名：FlowingDrawer<br>
 git地址：https://github.com/mxn21/FlowingDrawer<br>
@@ -143,15 +163,7 @@ git地址：https://github.com/oguzbilgener/CircularFloatingActionMenu<br>
 预览:<br>
 <img src="https://github.com/oguzbilgener/CircularFloatingActionMenu/raw/master/assets/circularfab.gif"/>
 
-项目名：Folder-ResideMenu<br>
-git地址：https://github.com/dkmeteor/Folder-ResideMenu<br>
-预览:<br>
-<img src="https://github.com/dkmeteor/Folder-ResideMenu/raw/master/Folder-residemenu.gif" width="60%"/>
 
-项目名：GuillotineMenu-Android<br>
-git地址：https://github.com/Yalantis/GuillotineMenu-Android<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/f044b38de3fed4496b98dff747b3bf6555ec67e4/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3439353739322f73637265656e73686f74732f323131333331342f64726166742d30332e676966" width="30%" />
 
 项目名：android-slidingactivity<br>
 git地址：https://github.com/klinker41/android-slidingactivity<br>
