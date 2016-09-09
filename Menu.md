@@ -101,7 +101,7 @@ git地址：https://github.com/Yalantis/GuillotineMenu-Android<br>
 项目名：FloatMenuSample<br>
 git地址：https://github.com/fanOfDemo/FloatMenuSample<br>
 预览:<br>
-<img src="https://github.com/fanOfDemo/FloatMenuSample/blob/master/pickture/201605031543.gif" width="60%"/>
+<img src="https://github.com/fanOfDemo/FloatMenuSample/blob/master/pickture/201605031543.gif" width="30%"/>
 
 
 项目名：CircularFloatingActionMenu<br>
