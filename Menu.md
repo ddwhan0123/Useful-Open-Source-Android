@@ -3,6 +3,15 @@
 
 
 
+
+
+
+
+项目名：FantasySlide<br>
+git地址：https://github.com/mzule/FantasySlide<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/mzule/FantasySlide/master/sample.gif" width="30%" />
+
 项目名：BoomMenu<br>
 git地址：https://github.com/Nightonke/BoomMenu<br>
 预览:<br>
@@ -152,7 +161,7 @@ git地址：https://github.com/klinker41/android-slidingactivity<br>
 项目名：FloatMenuSample<br>
 git地址：https://github.com/fanOfDemo/FloatMenuSample<br>
 预览:<br>
-![](https://github.com/fanOfDemo/FloatMenuSample/blob/master/pickture/201605031543.gif) <br>
+<img src="https://github.com/fanOfDemo/FloatMenuSample/blob/master/pickture/201605031543.gif" width="60%"/>
 
 项目名：RapidFloatingActionButton<br>
 git地址：https://github.com/wangjiegulu/RapidFloatingActionButton<br>
