@@ -9,7 +9,10 @@
 
 
 
-
+项目名：WheelView<br>
+git地址：https://github.com/venshine/WheelView<br>
+预览:<br>
+<img src="https://github.com/venshine/WheelView/raw/master/screenshot/screenshot.gif" width="30%" /><br>
 
 
 项目名：CalendarListView<br>
