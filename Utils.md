@@ -99,7 +99,10 @@ git地址：https://github.com/AndroidKnife/RxBus<br>
 解释:<br>
 Event Bus By RxJava.<br>
 
-
+项目名：rx-receivers<br>
+git地址：https://github.com/f2prateek/rx-receivers<br>
+解释:<br>
+Reactive Bindings for BroadcastReceivers<br>
 
 
 
