@@ -115,6 +115,11 @@
 
 
 
+项目名：ShoppingCartAnimation<br>
+git地址：https://github.com/captain-miao/ShoppingCartAnimation<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/captain-miao/me.github.com/master/animation/add_to_cart_taobao.gif" width="30%"/>
+
 项目名：PathDraw<br>
 git地址：https://github.com/MartinBZDQSM/PathDraw<br>
 预览:<br>
