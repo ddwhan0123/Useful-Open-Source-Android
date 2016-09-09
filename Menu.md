@@ -7,6 +7,22 @@
 ###Menu<br>
 
 
+
+项目名：fab-speed-dial<br>
+git地址：https://github.com/yavski/fab-speed-dial<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/67f8b636d4cd6ee1dfcb8e4c68d2f04ad3ce8560/687474703a2f2f796176736b692e6769746875622e696f2f6661622d73706565642d6469616c2f73616d706c652d30312e676966" width="30%"/>
+
+项目名：RapidFloatingActionButton<br>
+git地址：https://github.com/wangjiegulu/RapidFloatingActionButton<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/wangjiegulu/RapidFloatingActionButton/master/screenshot/rfab_label_list.gif" width="30%" />
+
+项目名：FAB-Loading<br>
+git地址：https://github.com/SaeedMasoumi/FAB-Loading<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/smasoumi/FAB-Loading/master/images/marvel_loader.gif" width="50%"/>
+
 项目名：FantasySlide<br>
 git地址：https://github.com/mzule/FantasySlide<br>
 预览:<br>
@@ -143,11 +159,6 @@ git地址：https://github.com/badoualy/morphy-toolbar<br>
 预览:<br>
 <img src="https://github.com/badoualy/morphy-toolbar/raw/master/ART/gif1.gif" width="30%"/>
 
-项目名：fab-speed-dial<br>
-git地址：https://github.com/yavski/fab-speed-dial<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/67f8b636d4cd6ee1dfcb8e4c68d2f04ad3ce8560/687474703a2f2f796176736b692e6769746875622e696f2f6661622d73706565642d6469616c2f73616d706c652d30312e676966" width="30%"/>
-
 
 项目名：SwipeBackActivity<br>
 git地址：https://github.com/binIoter/SwipeBackActivity<br>
@@ -166,13 +177,6 @@ git地址：https://github.com/mikepenz/MaterialDrawer<br>
 <img src="https://raw.githubusercontent.com/mikepenz/MaterialDrawer/develop/DEV/github/screenshots1.jpg" width="30%"/>
 
 
-项目名：FAB-Loading<br>
-git地址：https://github.com/SaeedMasoumi/FAB-Loading<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/smasoumi/FAB-Loading/master/images/marvel_loader.gif" width="50%"/>
-
-
-
 
 
 项目名：android-slidingactivity<br>
@@ -181,11 +185,6 @@ git地址：https://github.com/klinker41/android-slidingactivity<br>
 ![](https://github.com/klinker41/android-slidingactivity/raw/master/preview.gif) <br>
 
 
-
-项目名：RapidFloatingActionButton<br>
-git地址：https://github.com/wangjiegulu/RapidFloatingActionButton<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/wangjiegulu/RapidFloatingActionButton/master/screenshot/rfab_label_list.gif" width="30%" />
 
 项目名：MaterialDrawer<br>
 git地址：https://github.com/mikepenz/MaterialDrawer<br>
