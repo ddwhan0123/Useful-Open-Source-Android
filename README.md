@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo:[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-9-8<br>
+###更新时间:2016-9-9<br>
 
 
 
@@ -107,9 +107,18 @@
 
 
 
+
+
+
 ##自定义控件/动画:<br>
 
 
+
+
+项目名：PathDraw<br>
+git地址：https://github.com/MartinBZDQSM/PathDraw<br>
+预览:<br>
+<img src="https://github.com/MartinBZDQSM/PathDraw/raw/master/app/src/main/res/raw/woman.gif" width="30%"/>
 
 项目名：MultipleStatusView<br>
 git地址：https://github.com/qyxxjd/MultipleStatusView<br>
