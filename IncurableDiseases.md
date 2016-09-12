@@ -51,6 +51,8 @@ git地址：https://github.com/fatangare/LogcatViewer<br>
 
 
 
+
+
 项目名：JKeyboardPanelSwitch<br>
 git地址：https://github.com/Jacksgong/JKeyboardPanelSwitch<br>
 预览:<br>
@@ -124,7 +126,9 @@ Chinese Copywriting Guidelines / 中文文案排版指北<br>
 
 
 
+
 ###皮肤/主题切换<br>
+
 
 
 
@@ -158,6 +162,7 @@ git地址:https://github.com/52inc/Scoops<br>
 
 
 ###发布/打包/统计/插件化<br>
+
 
 
 
@@ -235,6 +240,8 @@ AndFix is a library that offer hot-fix for Android App.<br>
 
 
 
+
+
 ###Android 6.0授权问题<br>
 
 
@@ -242,6 +249,11 @@ AndFix is a library that offer hot-fix for Android App.<br>
 
 
 
+
+项目名：FcPermissions<br>
+git地址：https://github.com/lypeer/FcPermissions<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/39f0fa468a87dc61edf5f68a53dc24b037f6ccca/687474703a2f2f61632d636e797634376c612e636c6f7564646e2e636f6d2f643836636637353436623436616435632e676966" width="30%"/><br>
 
 项目名：PermissionsDispatcher<br>
 git地址：https://github.com/hotchemi/PermissionsDispatcher<br>
