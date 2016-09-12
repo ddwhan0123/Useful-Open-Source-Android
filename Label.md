@@ -1,6 +1,12 @@
 ##Label/标签相关<br>
 
 
+
+项目名：BubbleView<br>
+git地址：https://github.com/lguipeng/BubbleView<br>
+预览:<br>
+<img src="https://github.com/lguipeng/BubbleView/raw/master/screenshot/screenshot.png" width="30%"/><br>
+
 项目名：Carbon<br>
 git地址：https://github.com/ZieIony/Carbon<br>
 预览:<br>
