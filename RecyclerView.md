@@ -4,6 +4,13 @@
 
 
 
+
+
+项目名：WaveSideBar<br>
+git地址：https://github.com/gjiazhe/WaveSideBar<br>
+预览:<br>
+<img src="https://github.com/gjiazhe/WaveSideBar/raw/master/screenshot/gif.gif" width="30%"/><br>
+
 项目名：diffutil-recyclerview-kotlin<br>
 git地址：https://github.com/antoniolg/diffutil-recyclerview-kotlin<br>
 预览:<br>
