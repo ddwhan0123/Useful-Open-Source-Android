@@ -16,10 +16,10 @@
 
 
 
-项目名：Compressor<br>
-git地址：https://github.com/zetbaitsu/Compressor<br>
+项目名：TedBottomPicker<br>
+git地址：https://github.com/ParkSangGwon/TedBottomPicker<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/zetbaitsu/Compressor/master/ss.png" width="30%"/><br>
+<img src="https://github.com/ParkSangGwon/TedBottomPicker/raw/master/demo.gif?raw=true" width="30%" /><br>
 
 项目名：RxGalleryFinal<br>
 git地址：https://github.com/FinalTeam/RxGalleryFinal<br>
@@ -80,6 +80,11 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+
+项目名：Compressor<br>
+git地址：https://github.com/zetbaitsu/Compressor<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/zetbaitsu/Compressor/master/ss.png" width="30%"/><br>
 
 项目名：AndroidHeadImageCliper<br>
 git地址：https://github.com/wsy858/AndroidHeadImageCliper<br>
