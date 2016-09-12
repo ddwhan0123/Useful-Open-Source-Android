@@ -4,7 +4,10 @@
 
 
 
-
+项目名：diffutil-recyclerview-kotlin<br>
+git地址：https://github.com/antoniolg/diffutil-recyclerview-kotlin<br>
+预览:<br>
+<img src="https://github.com/antoniolg/diffutil-recyclerview-kotlin/raw/master/art/diffutil-recyclerview.gif" width="30%"/><br>
 
 项目名：greedo-layout-for-android<br>
 git地址：https://github.com/500px/greedo-layout-for-android<br>
