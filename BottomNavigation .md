@@ -6,7 +6,10 @@
 
 
 
-
+项目名：BottomSheetBuilder<br>
+git地址：https://github.com/rubensousa/BottomSheetBuilder<br>
+预览:<br>
+<img src="https://github.com/rubensousa/BottomSheetBuilder/raw/master/screens/normal_demo.gif" width="30%" />
 
 项目名：NavigationTabBar<br>
 git地址：https://github.com/DevLight-Mobile-Agency/NavigationTabBar<br>
