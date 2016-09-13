@@ -116,6 +116,11 @@
 
 
 
+项目名：ThumbUp<br>
+git地址：https://github.com/ldoublem/ThumbUp<br>
+预览:<br>
+<img src="https://github.com/ldoublem/ThumbUp/raw/master/screenShot/shot.gif" width="30%"/>
+
 项目名：TapTargetView<br>
 git地址：https://github.com/KeepSafe/TapTargetView<br>
 预览:<br>
