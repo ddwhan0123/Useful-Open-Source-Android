@@ -46,6 +46,9 @@ git地址：https://github.com/romainguy/elegant-underline<br>
 ###Fragment<br>
 
 
+
+
+
 项目名：Fragmentation<br>
 git地址：https://github.com/YoKeyword/Fragmentation<br>
 预览:<br>
@@ -79,6 +82,7 @@ git地址：https://github.com/orhanobut/logger<br>
 项目名：XLog<br>
 git地址：https://github.com/promeG/XLog<br>
 描述： Method call logging based on dexposed<br>
+
 
 
 
@@ -122,6 +126,8 @@ Reactive Bindings for BroadcastReceivers<br>
 
 
 ###Json/XMl<br>
+
+
 
 
 
@@ -190,7 +196,11 @@ git地址:https://github.com/sirmordred/android-BluetoothChat<br>
 
 
 
-
+项目名：CrashWoodpecker<br>
+git地址：https://github.com/drakeet/CrashWoodpecker<br>
+预览:<br>
+<img src="https://github.com/drakeet/CrashWoodpecker/raw/master/art/s2.png" width="30%"/><br><br>
+解释：A nice exception handler library support showing logs both on Logcat & Woodpecker.<br>
 
 项目名：LogReport<br>
 git地址：https://github.com/wenmingvs/LogReport<br>
@@ -226,6 +236,10 @@ Allows to perform various simple operations on bitmaps via JNI , while also prov
 
 
 ###开发提速<br>
+
+
+
+
 
 
 项目名：androidstudio-plugins<br>
