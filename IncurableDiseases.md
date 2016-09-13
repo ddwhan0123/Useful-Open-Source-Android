@@ -3,6 +3,12 @@
 
 ###高级语言特性<br>
 
+
+
+
+
+
+
 项目名：strman-java<br>
 git地址:https://github.com/shekhargulati/strman-java<br>
 解释:<br>
@@ -257,7 +263,10 @@ AndFix is a library that offer hot-fix for Android App.<br>
 
 
 
-
+项目名：AndPermission<br>
+git地址：https://github.com/yanzhenjie/AndPermission<br>
+解释:<br>
+Android Permission = AndPermission. Android运行时权限管理最佳实践<br>
 
 项目名：easypermissions<br>
 git地址：https://github.com/googlesamples/easypermissions<br>
