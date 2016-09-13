@@ -6,6 +6,14 @@
 
 
 
+
+项目名：LingDong2.0<br>
+git地址：https://github.com/zhoubowen-sky/LingDong2.0<br>
+解释：<br>
+“面对面文件快传”，Android端灵动快传，安卓互传文件，局域网，无网传输文件，Android，file transfer<br>
+预览:<br>
+<img src="https://github.com/zhoubowen-sky/LingDong2.0/raw/master/github-images-folder/yaokongdiannao.jpg" width="30%" />
+
 项目名：Filmy<br>
 git地址：https://github.com/salRoid/Filmy<br>
 解释：<br>
