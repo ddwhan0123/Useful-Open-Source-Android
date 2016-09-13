@@ -4,6 +4,11 @@
 
 
 
+项目名： android-autofittextview<br>
+git地址：https://github.com/grantland/android-autofittextview<br>
+预览:<br>
+<img src="https://github.com/grantland/android-autofittextview/raw/master/website/static/autofittextview.gif?raw=true" width="30%"/><br>
+
 项目名： Android-WYSIWYG-Editor<br>
 git地址：https://github.com/irshuLx/Android-WYSIWYG-Editor<br>
 预览:<br>
