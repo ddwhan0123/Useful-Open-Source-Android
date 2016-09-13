@@ -17,6 +17,8 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
+
+
 ###高端功能<br>
 
 
@@ -127,7 +129,11 @@ Chinese Copywriting Guidelines / 中文文案排版指北<br>
 
 
 
+
+
 ###皮肤/主题切换<br>
+
+
 
 
 
@@ -161,7 +167,10 @@ git地址:https://github.com/52inc/Scoops<br>
 
 
 
+
+
 ###发布/打包/统计/插件化<br>
+
 
 
 
@@ -249,6 +258,11 @@ AndFix is a library that offer hot-fix for Android App.<br>
 
 
 
+
+项目名：easypermissions<br>
+git地址：https://github.com/googlesamples/easypermissions<br>
+解释:<br>
+Simplify Android M system permissions<br>
 
 项目名：FcPermissions<br>
 git地址：https://github.com/lypeer/FcPermissions<br>
