@@ -6,6 +6,13 @@
 
 
 
+项目名：Filmy<br>
+git地址：https://github.com/salRoid/Filmy<br>
+解释：<br>
+Awesome material designed movie app powered by tmdb and trakt<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/c8c6ffb5294c3a1536bf928e3e0ab56fe699a2c6/687474703a2f2f7777772e77656269616e6b732e636f6d2f66696c6d792f66696c6d792e706e67" width="30%" />
+
 项目名：Recovery<br>
 git地址：https://github.com/Sunzxyong/Recovery<br>
 解释：<br>
