@@ -8,7 +8,12 @@
 
 
 
-
+项目名：FileDownloader<br>
+git地址：https://github.com/lingochamp/FileDownloader<br>
+解释：<br>
+Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process<br>
+预览:<br>
+<img src="https://github.com/lingochamp/FileDownloader/raw/master/art/parallel_tasks_demo.gif" width="30%" />
 
 项目名：picasso-transformations<br>
 git地址：https://github.com/wasabeef/picasso-transformations<br>
