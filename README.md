@@ -116,6 +116,15 @@
 
 
 
+
+
+
+
+项目名：Android-Animated-Icons<br>
+git地址：https://github.com/andremion/Android-Animated-Icons<br>
+预览:<br>
+<img src="https://github.com/andremion/Android-Animated-Icons/raw/master/assets/preview.gif" width="30%"/>
+
 项目名：ThumbUp<br>
 git地址：https://github.com/ldoublem/ThumbUp<br>
 预览:<br>
