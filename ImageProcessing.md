@@ -81,6 +81,11 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+项目名：LowPoly<br>
+git地址：https://github.com/CoXier/LowPoly<br>
+预览:<br>
+<img src="https://github.com/CoXier/LowPoly/raw/master/art/captain.jpg" width="30%"/><br>
+
 项目名：Compressor<br>
 git地址：https://github.com/zetbaitsu/Compressor<br>
 预览:<br>
