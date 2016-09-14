@@ -263,6 +263,12 @@ AndFix is a library that offer hot-fix for Android App.<br>
 
 
 
+
+项目名：permissive<br>
+git地址：https://github.com/jksiezni/permissive<br>
+解释:<br>
+<img src="https://github.com/jksiezni/permissive/raw/gh-pages/images/screenshots/ask_in_context.png?raw=true" width="30%"/><br>
+
 项目名：AndPermission<br>
 git地址：https://github.com/yanzhenjie/AndPermission<br>
 解释:<br>
