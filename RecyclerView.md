@@ -5,31 +5,41 @@
 
 
 
+项目名：epoxy<br>
+git地址：https://github.com/airbnb/epoxy<br>
+预览:<br>
+<img src="https://github.com/airbnb/epoxy/raw/master/epoxy-sample/epoxy_sample_app.gif" width="30%"/><br>
+
 
 项目名：WaveSideBar<br>
 git地址：https://github.com/gjiazhe/WaveSideBar<br>
 预览:<br>
 <img src="https://github.com/gjiazhe/WaveSideBar/raw/master/screenshot/gif.gif" width="30%"/><br>
 
+
 项目名：diffutil-recyclerview-kotlin<br>
 git地址：https://github.com/antoniolg/diffutil-recyclerview-kotlin<br>
 预览:<br>
 <img src="https://github.com/antoniolg/diffutil-recyclerview-kotlin/raw/master/art/diffutil-recyclerview.gif" width="30%"/><br>
+
 
 项目名：greedo-layout-for-android<br>
 git地址：https://github.com/500px/greedo-layout-for-android<br>
 预览:<br>
 <img src="https://github.com/500px/greedo-layout-for-android/raw/master/screenshot.png" width="30%"/><br>
 
+
 项目名：itemtouchhelper-extension<br>
 git地址：https://github.com/loopeer/itemtouchhelper-extension<br>
 预览:<br>
 <img src="https://github.com/loopeer/itemtouchhelper-extension/raw/master/screenshot/itemtouch_spring.gif" width="30%"/><br>
 
+
 项目名：RecyclerViewCardGallery<br>
 git地址：https://github.com/huazhiyuan2008/RecyclerViewCardGallery<br>
 预览:<br>
 <img src="https://github.com/huazhiyuan2008/RecyclerViewCardGallery/raw/master/art/RecyclerViewCardGallery.gif" width="30%"/><br>
+
 
 项目名：RecyclerViewSnap<br>
 git地址：https://github.com/rubensousa/RecyclerViewSnap<br>
