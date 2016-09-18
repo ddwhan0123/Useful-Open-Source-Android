@@ -118,7 +118,10 @@
 
 
 
-
+项目名：SwipeButtonExample<br>
+git地址：https://github.com/kumar935/SwipeButtonExample<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/63e733ddd01491eaa5a762d7012238b26688234b/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d6a425968675a4b58635a492f567859616c57744e624b492f4141414141414141426a732f516a7a4a564f334961696f4b3765722d59573672567a484d6b6c753363755a5851434c63422f73302f7377697065627574746f6e5f66696e616c5f30332e676966" width="30%"/>
 
 项目名：Android-Animated-Icons<br>
 git地址：https://github.com/andremion/Android-Animated-Icons<br>
