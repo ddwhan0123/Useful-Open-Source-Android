@@ -3,7 +3,10 @@
 
 
 
-
+项目名：sticky-headers-recyclerview<br>
+git地址：https://github.com/timehop/sticky-headers-recyclerview<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/2712b977a781964db02085035e43281773ab4ffa/687474703a2f2f692e696d6775722e636f6d2f49307a746f50772e676966" width="30%"/><br>
 
 项目名：epoxy<br>
 git地址：https://github.com/airbnb/epoxy<br>
