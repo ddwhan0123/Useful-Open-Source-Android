@@ -19,8 +19,8 @@ git地址：https://github.com/andremivon/Music-Player<br>
 
 项目名：JieCaoVideoPlayer<br>
 git地址：https://github.com/lipangit/JieCaoVideoPlayer<br>
-预览:<br>
-<img src="https://github.com/lipangit/JieCaoVideoPlayer/raw/develop/screenshots/j6.jpg" width="30%" />
+解释:<br>
+Android VideoPlayer MediaPlayer VideoView MediaView Float View And Fullscreen<br>
 
 项目名：MusicPlayerView<br>
 git地址：https://github.com/iammert/MusicPlayerView<br>
@@ -104,8 +104,13 @@ git地址：https://github.com/motianhuo/VCameraDemo<br>
 ![](https://camo.githubusercontent.com/68b7a1d35aa64ecd13594d5ae5d0c584b3982f1f/687474703a2f2f61312e656f65616e64726f69642e636f6d2f6174746163686d656e742f666f72756d2f3230313530372f31352f3136303934316a397a74627878676478717778626e742e676966) <br>
 
 
+###多媒体加载<br>
 
 
+项目名：AndroidAudioConverter<br>
+git地址：https://github.com/adrielcafe/AndroidAudioConverter<br>
+解释:<br>
+Convert audio files inside your Android app easily. Supported formats: AAC, MP3, M4A, WMA, WAV and FLAC<br>
 
 
 
