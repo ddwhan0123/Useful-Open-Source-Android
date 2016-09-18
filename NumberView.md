@@ -10,7 +10,7 @@ git地址:https://github.com/lypeer/GoogleClock<br>
 项目名：NumberPicker<br>
 git地址:https://github.com/ShawnLin013/NumberPicker<br>
 预览:<br>
-<img src="https://github.com/ShawnLin013/NumberPicker/raw/master/screenshot/NumberPicker-Screenshot.png" width="30%"/><br>
+<img src="https://github.com/ShawnLin013/NumberPicker/raw/master/screenshot/number-picker-theme.png" width="30%"/><br>
 
 项目名：CountDownView<br>
 git地址:https://github.com/alexfu/CountDownView<br>
