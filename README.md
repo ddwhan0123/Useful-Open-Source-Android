@@ -143,7 +143,7 @@ git地址：https://github.com/captain-miao/ShoppingCartAnimation<br>
 项目名：PathDraw<br>
 git地址：https://github.com/MartinBZDQSM/PathDraw<br>
 预览:<br>
-<img src="https://github.com/MartinBZDQSM/PathDraw/raw/master/app/src/main/res/raw/woman.gif" width="30%"/>
+<img src="https://github.com/MartinBZDQSM/PathDraw/raw/master/resources/woman.gif" width="30%"/>
 
 项目名：MultipleStatusView<br>
 git地址：https://github.com/qyxxjd/MultipleStatusView<br>
@@ -222,10 +222,6 @@ git地址:https://github.com/PierfrancescoSoffritti/ShrinkingImageLayout<br>
 预览:<br>
 <img src="https://github.com/PierfrancescoSoffritti/ShrinkingImageLayout/raw/master/pics/Animation.gif" width="30%"/><br>
 
-项目名：GifView<br>
-git地址:https://github.com/Cutta/GifView<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/19b4e43298746358948ac05ce184fa4d99029159/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3236745073594c356841344945474166752f67697068792e676966" width="30%"/><br>
 
 项目名：UILibrary<br>
 git地址:https://github.com/7heaven/UILibrary<br>
@@ -247,10 +243,6 @@ git地址:https://github.com/RikkaW/MaterialPreference<br>
 预览:<br>
 <img src="https://github.com/RikkaW/MaterialPreference/raw/master/demo.gif" width="30%"/><br>
 
-项目名：LiulishuoPreview<br>
-git地址:https://github.com/JeasonWong/LiulishuoPreview<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/jeasonwong/LiulishuoPreview/master/screenshots/liulishuo.gif" width="30%"/><br>
 
 项目名：SHSegmentControl<br>
 git地址:https://github.com/7heaven/SHSegmentControl<br>
