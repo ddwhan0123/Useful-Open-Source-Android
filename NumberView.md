@@ -1,6 +1,12 @@
 ##NumberView/数字视图相关<br>
 
 
+
+项目名：GoogleClock<br>
+git地址:https://github.com/lypeer/GoogleClock<br>
+预览:<br>
+<img src="https://github.com/lypeer/GoogleClock/raw/master/gif/smallclock.gif" width="30%"/><br>
+
 项目名：NumberPicker<br>
 git地址:https://github.com/ShawnLin013/NumberPicker<br>
 预览:<br>
