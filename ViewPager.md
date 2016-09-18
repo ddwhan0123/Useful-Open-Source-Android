@@ -4,6 +4,10 @@
 
 
 
+项目名：LiulishuoPreview<br>
+git地址：https://github.com/JeasonWong/LiulishuoPreview<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/jeasonwong/LiulishuoPreview/master/screenshots/liulishuo.gif" width="30%"/>
 
 项目名：Orientation-ViewPager<br>
 git地址：https://github.com/mcshengInworking/Orientation-ViewPager<br>
