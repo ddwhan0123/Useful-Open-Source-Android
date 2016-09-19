@@ -47,6 +47,12 @@ git地址：https://github.com/saiwu-bigkoo/Android-PickerView<br>
 
 
 
+
+项目名：MaterialStyledDialogs<br>
+git地址：https://github.com/javiersantos/MaterialStyledDialogs<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/javiersantos/MaterialStyledDialogs/master/Screenshots/banner.png" width="30%" />
+
 项目名：GifView<br>
 git地址：https://github.com/Cutta/GifView<br>
 预览:<br>
