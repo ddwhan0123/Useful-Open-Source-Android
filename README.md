@@ -118,6 +118,11 @@
 
 
 
+项目名：DoorSignView<br>
+git地址：https://github.com/renaudcerrato/DoorSignView<br>
+预览:<br>
+<img src="https://github.com/renaudcerrato/DoorSignView/raw/master/assets/sample.gif" width="30%"/>
+
 项目名：SwipeButtonExample<br>
 git地址：https://github.com/kumar935/SwipeButtonExample<br>
 预览:<br>
