@@ -508,7 +508,7 @@ git地址:https://github.com/XunMengWinter/CircularAnim<br>
 项目名：android-filepicker<br>
 git地址:https://github.com/Angads25/android-filepicker<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/Angads25/android-filepicker/master/screenshot1.png" width="30%"/><br>
+<img src="https://raw.githubusercontent.com/Angads25/android-filepicker/master/theme_holo.png" width="30%"/><br>
 
 
 
