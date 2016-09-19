@@ -12,6 +12,12 @@
 
 
 
+
+项目名：StylishMusicPlayer<br>
+git地址：https://github.com/ryanhoo/StylishMusicPlayer<br>
+预览:<br>
+<img src="https://github.com/ryanhoo/StylishMusicPlayer/raw/develop/materials/Artboard.png" width="30%"/><br>
+
 项目名：Music-Player<br>
 git地址：https://github.com/andremivon/Music-Player<br>
 预览:<br>
