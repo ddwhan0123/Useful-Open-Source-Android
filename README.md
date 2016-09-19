@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo：[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-9-18<br>
+###更新时间:2016-9-19<br>
 
 
 
@@ -1499,10 +1499,7 @@ git地址：https://github.com/michelelacorte/SwipeableCard<br>
 
 <img src="https://camo.githubusercontent.com/e422180793dd686c00d84c708d74d18b87f52ec1/687474703a2f2f692e67697068792e636f6d2f3236746e38514f41714c345356795273412e676966" width="30%" />
 
-项目名：MaterialStyledDialogs<br>
-git地址：https://github.com/javiersantos/MaterialStyledDialogs<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/javiersantos/MaterialStyledDialogs/master/Screenshots/banner.png" width="30%" />
+
 
 
 
@@ -1511,10 +1508,7 @@ git地址：https://github.com/gpfduoduo/RadarScanView<br>
 预览:<br>
 <img src="https://github.com/gpfduoduo/RadarScanView/raw/master/RadarScanView/gif/radar.gif" width="30%" />
 
-项目名：android-snake-menu<br>
-git地址：https://github.com/xmuSistone/android-snake-menu<br>
-预览:<br>
-<img src="https://github.com/xmuSistone/android-snake-menu/raw/master/capture2.gif" width="30%" />
+
 
 项目名：CityPicker<br>
 git地址：https://github.com/zaaach/CityPicker<br>
@@ -1565,10 +1559,7 @@ git地址：https://github.com/tuozhaobing/ScaleDragCircleView<br>
 
 
 
-项目名：DWToast<br>
-git地址：https://github.com/DavidWangTM/DWToast<br>
-预览:<br>
-<img src="https://github.com/DavidWangTM/DWToast/raw/master/nav.gif" width="30%" />
+
 
 项目名：URLLinkView<br>
 git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
