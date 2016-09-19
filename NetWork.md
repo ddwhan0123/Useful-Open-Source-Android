@@ -34,7 +34,7 @@ git地址：https://github.com/drakeet/MultiType<br>
 解释:<br>
 A great Android library to retrofit multiple item view types<br>
 预览:<br>
-<img src="https://github.com/drakeet/MultiType/raw/master/art/screenshot.png" width="30%" />
+<img src="https://github.com/drakeet/MultiType/raw/master/art/screenshot-bilibili.png" width="30%" />
 
 项目名：Fast-Android-Networking<br>
 git地址：https://github.com/amitshekhariitbhu/Fast-Android-Networking<br>
