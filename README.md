@@ -116,6 +116,12 @@
 
 
 
+
+项目名：and_swipeback<br>
+git地址：https://github.com/XBeats/and_swipeback<br>
+预览:<br>
+<img src="https://github.com/XBeats/and_swipeback/raw/master/screenshot/swipeback.gif" width="30%"/>
+
 项目名：DrawableColorChange<br>
 git地址：https://github.com/mathiazhagan01/DrawableColorChange<br>
 预览:<br>
