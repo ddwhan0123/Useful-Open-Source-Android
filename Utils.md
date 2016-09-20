@@ -93,6 +93,9 @@ git地址：https://github.com/promeG/XLog<br>
 
 
 
+
+
+
 项目名：RxDocs<br>
 git地址：https://github.com/mcxiaoke/RxDocs<br>
 解释：<br>
@@ -157,6 +160,8 @@ git地址：https://github.com/alibaba/fastjson<br>
 
 
 
+
+
 项目名：Treasure<br>
 git地址：https://github.com/baoyongzhang/Treasure<br>
 解释： Very easy to use wrapper library for Android SharePreferences<br>
@@ -165,7 +170,12 @@ git地址：https://github.com/baoyongzhang/Treasure<br>
 
 
 
+
+
 ###BLE/NFC/VA/VR<br>
+
+
+
 
 
 
@@ -190,7 +200,11 @@ git地址:https://github.com/sirmordred/android-BluetoothChat<br>
 
 
 
+
 ###性能/优化/分析/线上回馈<br>
+
+
+
 
 
 
@@ -235,12 +249,20 @@ Allows to perform various simple operations on bitmaps via JNI , while also prov
 
 
 
+
+
 ###开发提速<br>
 
 
 
 
 
+
+
+项目名：Floppy<br>
+git地址：https://github.com/FabianTerhorst/Floppy<br>
+解释：<br>
+Fast key value storage for java<br>
 
 项目名：androidstudio-plugins<br>
 git地址：https://github.com/dreamlivemeng/androidstudio-plugins<br>
