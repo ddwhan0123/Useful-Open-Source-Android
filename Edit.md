@@ -4,6 +4,13 @@
 
 
 
+
+项目名： RichText<br>
+git地址：https://github.com/zzhoujay/RichText<br>
+预览 ：<br>
+<img src="https://github.com/zzhoujay/RichText/raw/master/image/image.jpg" width="30%"/><br>
+
+
 项目名： android-autofittextview<br>
 git地址：https://github.com/grantland/android-autofittextview<br>
 解释：<br>
