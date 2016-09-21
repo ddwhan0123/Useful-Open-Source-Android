@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo：[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-9-20<br>
+###更新时间:2016-9-21<br>
 
 
 
@@ -115,7 +115,10 @@
 
 
 
-
+项目名：FlipAnimation<br>
+git地址：https://github.com/4xes/FlipAnimation<br>
+预览:<br>
+<img src="https://github.com/4xes/FlipAnimation/raw/master/art/readme_demo.gif?raw=true" width="30%"/>
 
 项目名：and_swipeback<br>
 git地址：https://github.com/XBeats/and_swipeback<br>
