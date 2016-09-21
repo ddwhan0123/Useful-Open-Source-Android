@@ -2,6 +2,9 @@
 
 ###PopupWindow/弹窗<br>
 
+
+
+
 项目名：MaryPopup<br>
 git地址：https://github.com/Meetic/MaryPopup<br>
 预览:<br>
@@ -42,11 +45,18 @@ git地址：https://github.com/saiwu-bigkoo/Android-PickerView<br>
 ----------------
 
 
+
+
 ###Dialog<br>
 
 
 
 
+
+项目名：PlaceSearchDialog<br>
+git地址：https://github.com/codemybrainsout/PlaceSearchDialog<br>
+预览:<br>
+<img src="https://github.com/codemybrainsout/PlaceSearchDialog/raw/master/preview/preview.png" width="30%" />
 
 项目名：MaterialStyledDialogs<br>
 git地址：https://github.com/javiersantos/MaterialStyledDialogs<br>
