@@ -3,6 +3,15 @@
 
 
 
+
+
+
+
+项目名：CircleRecyclerView<br>
+git地址：https://github.com/kHRYSTAL/CircleRecyclerView<br>
+预览:<br>
+<img src="https://github.com/kHRYSTAL/CircleRecyclerView/raw/master/screenshot/screenshot1.gif" width="30%"/><br>
+
 项目名：sticky-headers-recyclerview<br>
 git地址：https://github.com/timehop/sticky-headers-recyclerview<br>
 预览:<br>
