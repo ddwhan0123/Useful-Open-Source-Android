@@ -4,6 +4,11 @@
 
 
 
+项目名：ahoy-onboarding<br>
+git地址：https://github.com/codemybrainsout/ahoy-onboarding<br>
+预览:<br>
+<img src="https://github.com/codemybrainsout/ahoy-onboarding/raw/master/preview/preview.gif" width="30%"/>
+
 项目名：LiulishuoPreview<br>
 git地址：https://github.com/JeasonWong/LiulishuoPreview<br>
 预览:<br>
