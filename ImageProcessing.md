@@ -17,7 +17,10 @@
 
 
 
-
+项目名：MultiImageSelector<br>
+git地址：https://github.com/lovetuzitong/MultiImageSelector<br>
+预览:<br>
+<img src="https://github.com/lovetuzitong/MultiImageSelector/raw/master/art/select_1.png" width="30%" /><br>
 
 项目名：TedBottomPicker<br>
 git地址：https://github.com/ParkSangGwon/TedBottomPicker<br>
