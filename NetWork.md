@@ -6,7 +6,12 @@
 
 
 
-
+项目名：glide-transformations<br>
+git地址：https://github.com/wasabeef/glide-transformations<br>
+解释：<br>
+An Android transformation library providing a variety of image transformations for Glide<br>
+预览:<br>
+<img src="https://github.com/wasabeef/glide-transformations/raw/master/art/demo.gif" width="30%" />
 
 项目名：FileDownloader<br>
 git地址：https://github.com/lingochamp/FileDownloader<br>
