@@ -60,6 +60,17 @@ git地址：https://github.com/fatangare/LogcatViewer<br>
 
 
 
+项目名：UpdateApp<br>
+git地址：https://github.com/yaming116/UpdateApp<br>
+预览:无<br>
+解释：开箱即用的app更新，主要负责软件下载、软件安装等 Permission和Service默认添加在aar包里面的，如果使用gradle不需要 在意下面的配置了<br>
+
+
+项目名：AutoInstaller<br>
+git地址：https://github.com/a-voyager/AutoInstaller<br>
+预览:<br>
+<img src="https://github.com/a-voyager/AutoInstaller/raw/master/imgs/GIF.gif" width="30%"/><br><br>
+解释：应用自动静默更新安装库<br>
 
 项目名：JKeyboardPanelSwitch<br>
 git地址：https://github.com/Jacksgong/JKeyboardPanelSwitch<br>
