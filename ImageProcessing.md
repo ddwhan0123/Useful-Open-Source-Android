@@ -17,6 +17,11 @@
 
 
 
+项目名：TelegramGallery<br>
+git地址：https://github.com/TangXiaoLv/TelegramGallery<br>
+预览:<br>
+<img src="https://github.com/TangXiaoLv/TelegramGallery/raw/master/png/1.gif" width="30%" /><br>
+
 项目名：MultiImageSelector<br>
 git地址：https://github.com/lovetuzitong/MultiImageSelector<br>
 预览:<br>
