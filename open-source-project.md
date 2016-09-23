@@ -7,6 +7,14 @@
 
 
 
+
+项目名：BookReader<br>
+git地址：https://github.com/JustWayward/BookReader<br>
+解释：<br>
+任阅小说阅读器，高仿追书神器，实现追书推荐、标签检索、翻书效果、文章阅读、缓存章节、日夜间模式、文本朗读等功能<br>
+预览:<br>
+<img src="https://github.com/JustWayward/BookReader/raw/master/screenshot/home_zhuishu.png?raw=true" width="30%" />
+
 项目名：LingDong2.0<br>
 git地址：https://github.com/zhoubowen-sky/LingDong2.0<br>
 解释：<br>
