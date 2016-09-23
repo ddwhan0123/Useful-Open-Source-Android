@@ -1384,7 +1384,7 @@ git地址：https://github.com/kakajika/FragmentAnimations<br>
 项目名：MovingImageView<br>
 git地址：https://github.com/AlbertGrobas/MovingImageView<br>
 预览:<br>
-<img src="https://github.com/AlbertGrobas/MovingImageView/raw/master/art/sample01.gif" width="30%" />
+<img src="https://github.com/AlbertGrobas/MovingImageView/raw/master/art/sample02.gif" width="30%" />
 
 
 项目名：Android-AdvancedWebView<br>
