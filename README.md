@@ -677,10 +677,6 @@ git地址：https://github.com/medyo/android-about-page<br>
 预览:<br>
 <img src="https://github.com/medyo/android-about-page/raw/master/resources/cover.png" width="30%"/><br>
 
-项目名：glide-transformations<br>
-git地址：https://github.com/wasabeef/glide-transformations<br>
-预览:<br>
-<img src="https://github.com/wasabeef/glide-transformations/raw/master/art/demo.gif" width="30%"/><br>
 
 项目名：touchdemo<br>
 git地址：https://github.com/cdflynn/touchdemo<br>
@@ -1011,10 +1007,7 @@ git地址：https://github.com/AndreiD/TSnackBar<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/AndreiD/TSnackBar/master/app/snackbar.gif" width="30%"/><br>
 
-项目名：FlycoSystemBar<br>
-git地址：https://github.com/H07000223/FlycoSystemBar<br>
-预览:<br>
-<img src="https://github.com/H07000223/FlycoSystemBar/raw/master/art/5.0.gif" width="30%"/><br>
+
 
 项目名：secure-preferences<br>
 git地址：https://github.com/scottyab/secure-preferences<br>
@@ -1122,10 +1115,6 @@ git地址：https://github.com/AlexZhukovich/NestedToolbarTutorial<br>
 
 
 
-项目名：StatusBarAdapt<br>
-git地址：https://github.com/CoolThink/StatusBarAdapt<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/7fb2b98eb1e55a1f8bf4fabe8a517a21c7ec3796/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531313233313734353538393637" width="30%"/><br>
 
 项目名：BreadcrumbLayout<br>
 git地址：https://github.com/ayvazj/BreadcrumbLayout<br>
@@ -1397,10 +1386,6 @@ git地址：https://github.com/AlbertGrobas/MovingImageView<br>
 预览:<br>
 <img src="https://github.com/AlbertGrobas/MovingImageView/raw/master/art/sample01.gif" width="30%" />
 
-项目名：android-FingerprintDialog<br>
-git地址：https://github.com/googlesamples/android-FingerprintDialog<br>
-预览:<br>
-<img src="https://github.com/googlesamples/android-FingerprintDialog/raw/master/screenshots/2-fingerprint-dialog.png" width="30%" />
 
 项目名：Android-AdvancedWebView<br>
 git地址：https://github.com/delight-im/Android-AdvancedWebView<br>
