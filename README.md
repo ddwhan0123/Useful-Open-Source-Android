@@ -1573,29 +1573,17 @@ git地址：https://github.com/TakeoffAndroid/URLLinkView<br>
 
 
 
-项目名：Calligraphy<br>
-git地址：https://github.com/chrisjenx/Calligraphy<br>
-预览:<br>
-<img src="https://github.com/chrisjenx/Calligraphy/raw/master/screenshot.png" width="30%"/><br><br>
-解释：Custom fonts in Android the easy way...<br>
 
 
 
 
 
-项目名：android-strings-search-plugin<br>
-git地址：https://github.com/konifar/android-strings-search-plugin<br>
-预览:<br>
-<img src="https://github.com/konifar/android-strings-search-plugin/raw/master/art/demo.gif" width="30%"/><br><br>
-解释：This plugin makes it easy to search text in strings resources<br>
 
 
 
-项目名：android-selector-chapek<br>
-git地址：https://github.com/inmite/android-selector-chapek<br>
-预览:<br>
-<img src="https://github.com/inmite/android-selector-chapek/raw/master/img/select_option.png" width="30%"/><br><br>
-解释：Android Studio plugin which automatically generates drawable selectors from appropriately named resources<br>
+
+
+
 
 项目名：AutoInstaller<br>
 git地址：https://github.com/a-voyager/AutoInstaller<br>
@@ -1691,17 +1679,10 @@ git地址：https://github.com/perwendel/spark<br>
 无<br>
 描述：A Sinatra inspired framework for java<br>
 
-项目名：Android-Material-Icon-Generator<br>
-git地址：https://github.com/Maddoc42/Android-Material-Icon-Generator<br>
-预览:<br>
-<img src="https://github.com/Maddoc42/Android-Material-Icon-Generator/raw/master/screenshots/01.small.png" width="30%"/><br>
-描述：Android icons with looooong material shadows! http://bitdroid.de/Android-Material-Icon-Generator<br>
 
-项目名：Icons<br>
-git地址：https://github.com/materialos/Icons<br>
-预览:<br>
-<img src="https://cloud.githubusercontent.com/assets/5341898/9100839/4076791e-3b94-11e5-8dc3-f7e7f9f40549.png" width="30%"/><br>
-描述：地图可视化工具库,canvas,map,visualization<br>
+
+
+
 
 项目名：pelias<br>
 git地址：https://github.com/pelias/pelias<br>
