@@ -53,6 +53,12 @@ git地址：https://github.com/saiwu-bigkoo/Android-PickerView<br>
 
 
 
+
+项目名：android-FingerprintDialog<br>
+git地址：https://github.com/googlesamples/android-FingerprintDialog<br>
+预览:<br>
+<img src="https://github.com/googlesamples/android-FingerprintDialog/raw/master/screenshots/2-fingerprint-dialog.png" width="30%" />
+
 项目名：PlaceSearchDialog<br>
 git地址：https://github.com/codemybrainsout/PlaceSearchDialog<br>
 预览:<br>
