@@ -101,7 +101,9 @@ git地址：https://github.com/promeG/XLog<br>
 
 
 
-
+项目名：RxLifecycle<br>
+git地址：https://github.com/trello/RxLifecycle<br>
+描述：Lifecycle handling APIs for Android apps using RxJava<br>
 
 项目名：RxDocs<br>
 git地址：https://github.com/mcxiaoke/RxDocs<br>
