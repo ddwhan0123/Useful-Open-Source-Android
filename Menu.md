@@ -139,6 +139,15 @@ git地址：https://github.com/kyze8439690/ResideLayout<br>
 
 
 
+项目名：StatusBarAdapt<br>
+git地址：https://github.com/CoolThink/StatusBarAdapt<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/39f75893f94c284c984aed71f5347e4f1b8d9362/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531313233313735303337323135" width="30%"/>
+
+项目名：FlycoSystemBar<br>
+git地址：https://github.com/H07000223/FlycoSystemBar<br>
+预览（A Helper for SystemBar include StatusBar and NavigationBar）:<br>
+<img src="https://github.com/H07000223/FlycoSystemBar/raw/master/art/5.0.gif" width="30%"/>
 
 项目名：LoopBar<br>
 git地址：https://github.com/Cleveroad/LoopBar<br>
