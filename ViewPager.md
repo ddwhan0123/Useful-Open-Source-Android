@@ -7,6 +7,12 @@
 
 
 
+
+项目名：android-page-transition<br>
+git地址：https://github.com/xmuSistone/android-page-transition<br>
+预览:<br>
+<img src="https://github.com/xmuSistone/android-page-transition/raw/master/gif3.gif" width="30%"/>
+
 项目名：material-intro-screen<br>
 git地址：https://github.com/TangoAgency/material-intro-screen<br>
 预览:<br>
