@@ -8,6 +8,12 @@
 
 
 
+
+项目名：SpinMenu<br>
+git地址：https://github.com/Hitomis/SpinMenu<br>
+预览:<br>
+<img src="https://github.com/Hitomis/SpinMenu/raw/master/preview/menu_cyclic.gif" width="30%" />
+
 项目名：android-snake-menu<br>
 git地址：https://github.com/xmuSistone/android-snake-menu<br>
 预览:<br>
