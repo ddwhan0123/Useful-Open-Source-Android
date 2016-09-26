@@ -161,12 +161,19 @@ git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 
 
 
-###知识累积/博客/电子书<br>
+###知识累积/博客/电子书/文档<br>
 
 
 
 
 
+
+
+
+项目名：Android-Session-Slides<br>
+git地址：https://github.com/MDCC2016/Android-Session-Slides<br>
+解释:<br>
+Here are the slides in MDCC 2016 Android Session.<br>
 
 项目名：hongyangWeixinArticles<br>
 git地址：https://github.com/hongyangAndroid/hongyangWeixinArticles<br>
