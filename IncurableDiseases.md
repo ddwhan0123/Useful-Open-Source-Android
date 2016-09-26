@@ -36,6 +36,8 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
+
+
 项目名：whorlwind<br>
 git地址:https://github.com/square/whorlwind<br>
 解释:<br>
@@ -58,7 +60,12 @@ git地址：https://github.com/fatangare/LogcatViewer<br>
 
 
 
-
+项目名：android-slidingactivity<br>
+git地址:https://github.com/klinker41/android-slidingactivity<br>
+解释:<br>
+Android library which allows you to swipe down from an activity to close it.<br>
+预览:<br>
+<img src="https://github.com/klinker41/android-slidingactivity/raw/master/preview.gif" width="30%"/><br>
 
 项目名：UpdateApp<br>
 git地址：https://github.com/yaming116/UpdateApp<br>
