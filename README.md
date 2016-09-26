@@ -116,6 +116,12 @@
 
 
 
+
+项目名：ScaleView<br>
+git地址：https://github.com/LichFaker/ScaleView<br>
+预览:<br>
+<img src="https://github.com/LichFaker/ScaleView/raw/master/images/scale.gif" width="30%"/>
+
 项目名：CouponView<br>
 git地址：https://github.com/dongjunkun/CouponView<br>
 预览:<br>
