@@ -6,6 +6,13 @@
 
 
 
+
+项目名：Novate<br>
+git地址：https://github.com/NeglectedByBoss/Novate<br>
+解释：<br>
+A safety client by Https for android, (Android线程安全http请求库)<br>
+
+
 项目名：glide-transformations<br>
 git地址：https://github.com/wasabeef/glide-transformations<br>
 解释：<br>
