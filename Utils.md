@@ -266,6 +266,12 @@ Allows to perform various simple operations on bitmaps via JNI , while also prov
 
 
 
+项目名：Android-Crack-Tool<br>
+git地址：https://github.com/Jermic/Android-Crack-Tool<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/Jermic/Android-Crack-Tool/master/1.png" width="30%"/><br><br>
+解释：Android crack tool Just For Mac<br>
+
 项目名：android-selector-chapek<br>
 git地址：https://github.com/inmite/android-selector-chapek<br>
 预览:<br>
@@ -309,7 +315,6 @@ git地址：https://github.com/takahirom/android-postfix-plugin<br>
 
 项目名：FindViewByMe<br>
 git地址：https://github.com/laobie/FindViewByMe<br>
-预览: <img src="http://ac-qygvx1cc.clouddn.com/fa8259e43ce35445.png" width="30%" /><br>
 描述：FindViewByMe是一个自动生成FindViewById代码的IDEA/Android Studio插件<br>
 
 项目名：ECTranslation<br>
