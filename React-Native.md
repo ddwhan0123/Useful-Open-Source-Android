@@ -20,4 +20,5 @@ https://github.com/react-native-community/React-Native-Elements
 
 ###RecyclerView
 
-https://github.com/droidwolf/react-native-RealRecyclerView
+https://github.com/droidwolf/react-native-RealRecyclerView<br>
+解释：react-native-RealRecyclerView on android
