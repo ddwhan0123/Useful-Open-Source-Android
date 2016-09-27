@@ -143,7 +143,10 @@ git地址：https://github.com/kyze8439690/ResideLayout<br>
 
 
 
-
+项目名：SlideshowToolbar<br>
+git地址：https://github.com/JuL1205/SlideshowToolbar<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/JuL1205/SlideshowToolbar/master/images/screen.gif" width="30%"/>
 
 项目名：StatusBarAdapt<br>
 git地址：https://github.com/CoolThink/StatusBarAdapt<br>
