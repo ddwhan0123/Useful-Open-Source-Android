@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo：[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-9-23<br>
+###更新时间:2016-9-27<br>
 
 
 
@@ -116,6 +116,11 @@
 
 
 
+
+项目名：AnimateVectorDrawableDEMO<br>
+git地址：https://github.com/ghuiii/AnimateVectorDrawableDEMO<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/b5973bb46cd2bc5d7d89133aa2878d6f49846c7c/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f676966322e676966" width="30%"/>
 
 项目名：SmartisanTime<br>
 git地址：https://github.com/SpiritMan/SmartisanTime<br>
