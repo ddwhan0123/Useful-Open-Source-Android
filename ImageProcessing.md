@@ -17,6 +17,11 @@
 
 
 
+项目名：TakePhoto<br>
+git地址：https://github.com/crazycodeboy/TakePhoto<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/crazycodeboy/TakePhoto/master/Screenshots/takephoto_preview.png" width="30%" /><br>
+
 项目名：TelegramGallery<br>
 git地址：https://github.com/TangXiaoLv/TelegramGallery<br>
 预览:<br>
