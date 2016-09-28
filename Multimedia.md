@@ -11,7 +11,10 @@
 
 
 
-
+项目名：SuperPlayer<br>
+git地址：https://github.com/supercwn/SuperPlayer<br>
+预览:<br>
+<img src="https://github.com/supercwn/SuperPlayer/raw/master/gif/super_player2.gif" width="30%"/><br>
 
 项目名：StylishMusicPlayer<br>
 git地址：https://github.com/ryanhoo/StylishMusicPlayer<br>
