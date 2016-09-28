@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo：[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-9-27<br>
+###更新时间:2016-9-28<br>
 
 
 
@@ -116,6 +116,11 @@
 
 
 
+
+项目名：AndroidScrollingImageView<br>
+git地址：https://github.com/Q42/AndroidScrollingImageView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/Q42/AndroidScrollingImageView/master/preview.gif" width="30%"/>
 
 项目名：AnimateVectorDrawableDEMO<br>
 git地址：https://github.com/ghuiii/AnimateVectorDrawableDEMO<br>
