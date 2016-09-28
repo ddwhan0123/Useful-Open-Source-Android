@@ -6,6 +6,12 @@
 
 
 
+
+项目名：bottomsheet<br>
+git地址：https://github.com/Flipboard/bottomsheet<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/d81602913dd3f1e40268cbe4dfffa9d9697f58a3/687474703a2f2f692e696d6775722e636f6d2f3265335a686f552e676966" width="30%" />
+
 项目名：BottomSheetBuilder<br>
 git地址：https://github.com/rubensousa/BottomSheetBuilder<br>
 预览:<br>
