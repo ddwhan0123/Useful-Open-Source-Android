@@ -17,6 +17,11 @@
 
 
 
+项目名：ImageSlideshow<br>
+git地址：https://github.com/zvonicek/ImageSlideshow<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/39ea99e6fe7f437ddd78a65552362fcc383eee11/687474703a2f2f636c2e6c792f696d6167652f32763139334930473068305a2f496d616765536c69646573686f77322e676966" width="30%" /><br>
+
 项目名：TakePhoto<br>
 git地址：https://github.com/crazycodeboy/TakePhoto<br>
 预览:<br>
