@@ -2,6 +2,11 @@
 <br>
 
 
+项目名：polygonsview<br>
+git地址:https://github.com/jiangzehui/polygonsview<br>
+预览:<br>
+<img src="https://github.com/jiangzehui/polygonsview/raw/master/png/p3.gif" width="30%"/><br>
+
 项目名：Jgraph<br>
 git地址:https://github.com/mychoices/Jgraph<br>
 预览:<br>
