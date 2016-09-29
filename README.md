@@ -251,10 +251,7 @@ git地址:https://github.com/JeasonWong/Particle<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/jeasonwong/Particle/master/screenshots/particle.gif" width="30%"/><br>
 
-项目名：codeview-android<br>
-git地址:https://github.com/Softwee/codeview-android<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/b4924dc4d61df4ae4716aa65bff1329bd170f4d5/68747470733a2f2f7331302e706f7374696d672e6f72672f636b7a7639786d6d312f436f64655f566965775f416e64726f69645f53637265656e73686f742e706e67" width="30%"/><br>
+
 
 项目名：loaderviewlibrary<br>
 git地址:https://github.com/elye/loaderviewlibrary<br>
