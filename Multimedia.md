@@ -11,6 +11,8 @@
 
 
 
+
+
 项目名：SuperPlayer<br>
 git地址：https://github.com/supercwn/SuperPlayer<br>
 预览:<br>
@@ -46,10 +48,22 @@ git地址：https://github.com/naman14/Timber<br>
 git地址：https://github.com/psaravan/JamsMusicPlayer<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/5a10d39909b2e64053adb49250802d31efe1d3a6/687474703a2f2f692e696d6775722e636f6d2f3268644d467a502e6a7067" width="30%" />
--------------
+
+
+
+
+
 
 ###视频相关：<br>
 
+
+
+
+
+项目名：k4l-video-trimmer<br>
+git地址：https://github.com/knowledge4life/k4l-video-trimmer<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/knowledge4life/k4l-video-trimmer/master/screenshot/screenshot.png" width="30%"/><br>
 
 项目名：VideoPlayerManager<br>
 git地址：https://github.com/danylovolokh/VideoPlayerManager<br>
