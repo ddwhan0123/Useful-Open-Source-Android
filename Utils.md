@@ -12,6 +12,10 @@
 
 
 
+项目名：AndroidUtilCode<br>
+git地址：https://github.com/Blankj/AndroidUtilCode<br>
+描述：Android developers should collect the following utils(updating) http://blankj.com/862.html<br>
+
 项目名：android-common<br>
 git地址：https://github.com/litesuits/android-common<br>
 描述：Android Common Utils or Helper<br>
