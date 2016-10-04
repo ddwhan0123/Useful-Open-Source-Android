@@ -8,6 +8,11 @@
 
 
 
+项目名： AutoLinkTextView<br>
+git地址：https://github.com/armcha/AutoLinkTextView<br>
+预览 ：<br>
+<img src="https://github.com/armcha/AutoLinkTextView/raw/master/screens/gif1.gif" width="30%"/><br>
+
 项目名： codeview-android<br>
 git地址：https://github.com/Softwee/codeview-android<br>
 预览 ：<br>
