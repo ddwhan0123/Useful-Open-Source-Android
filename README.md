@@ -116,6 +116,10 @@
 
 
 
+项目名：avatar-view<br>
+git地址：https://github.com/TangoAgency/avatar-view<br>
+预览:<br>
+<img src="https://github.com/TangoAgency/avatar-view/raw/master/images/example2.gif" width="30%"/>
 
 项目名：AndroidScrollingImageView<br>
 git地址：https://github.com/Q42/AndroidScrollingImageView<br>
