@@ -103,6 +103,16 @@ git地址：https://github.com/promeG/XLog<br>
 
 
 
+项目名：RxUnfurl<br>
+git地址：https://github.com/Schinizer/RxUnfurl<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/b4c6b1106a6d8905510f3333796d67fe8f396d13/68747470733a2f2f6769616e742e6766796361742e636f6d2f57656172794e65636573736172794661747461696c656464756e6e6172742e676966" width="30%"/><br><br>
+描述：A reactive extension to generate URL previews<br>
+
+项目名：RxJavaProGuardRules<br>
+git地址：https://github.com/artem-zinnatullin/RxJavaProGuardRules<br>
+描述：ProGuard rules for RxJava shipped as AAR<br>
+
 项目名：RxJava2Interop<br>
 git地址：https://github.com/akarnokd/RxJava2Interop<br>
 描述：Library to convert between RxJava 1.x and 2.x reactive types<br>
