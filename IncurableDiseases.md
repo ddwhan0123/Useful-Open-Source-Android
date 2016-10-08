@@ -36,7 +36,12 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
-
+项目名：IQKeyboardManager<br>
+git地址:https://github.com/hackiftekhar/IQKeyboardManager<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/hackiftekhar/IQKeyboardManager/v3.3.0/Screenshot/IQKeyboardManager.gif" width="30%"/><br>
+解释:<br>
+Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.<br>
 
 项目名：whorlwind<br>
 git地址:https://github.com/square/whorlwind<br>
