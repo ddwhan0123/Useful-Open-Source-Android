@@ -115,6 +115,16 @@
 
 
 
+项目名：Better-Link-Movement-Method<br>
+git地址：https://github.com/Saketme/Better-Link-Movement-Method<br>
+预览:<br>
+<img src="https://github.com/Saketme/Better-Link-Movement-Method/raw/master/EXAMPLE.gif" width="30%"/>
+
+项目名：Diagonalify<br>
+git地址：https://github.com/developer-shivam/Diagonalify<br>
+预览:<br>
+<img src="https://github.com/developer-shivam/Diagonalify/raw/master/art/screenshot_2.png" width="30%"/>
+
 项目名：FreshDownloadView<br>
 git地址：https://github.com/dudu90/FreshDownloadView<br>
 预览:<br>
