@@ -115,6 +115,11 @@
 
 
 
+项目名：FreshDownloadView<br>
+git地址：https://github.com/dudu90/FreshDownloadView<br>
+预览:<br>
+<img src="https://github.com/dudu90/FreshDownloadView/raw/master/screen/screen.gif" width="30%"/>
+
 项目名：avatar-view<br>
 git地址：https://github.com/TangoAgency/avatar-view<br>
 预览:<br>
