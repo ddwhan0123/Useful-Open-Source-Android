@@ -4,7 +4,7 @@
 ##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
 ##weibo：[王亟亟](http://weibo.com/u/5298245888) <br>
 
-###更新时间:2016-10-7<br>
+###更新时间:2016-10-8<br>
 
 
 
@@ -91,7 +91,6 @@
 
 ## Notification 相关:<br>
 ##[点击跳转 Notification.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Notification.md)
-
 
 
 ##数据库:<br>
