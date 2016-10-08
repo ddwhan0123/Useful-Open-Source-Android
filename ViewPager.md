@@ -7,6 +7,11 @@
 
 
 
+项目名：AndroidOnboarder<br>
+git地址：https://github.com/chyrta/AndroidOnboarder<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/GrenderG/AndroidOnboarder/master/art/demo2.gif" width="30%"/>
+
 项目名：NavigationTabStrip<br>
 git地址：https://github.com/DevLight-Mobile-Agency/NavigationTabStrip<br>
 预览:<br>
