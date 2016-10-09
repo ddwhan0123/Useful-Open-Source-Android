@@ -10,7 +10,17 @@ git地址：https://github.com/jdamcd/android-crop<br>
 预览:<br>
 <img src="https://github.com/jdamcd/android-crop/raw/master/screenshot.png" width="30%" /><br>
 
+项目名：AndroidHeadImageCliper<br>
+git地址：https://github.com/wsy858/AndroidHeadImageCliper<br>
+预览:<br>
+<img src="https://github.com/wsy858/AndroidHeadImageCliper/raw/master/pic/demo2.gif" width="30%"/><br>
+描述：头像上传图片裁剪，实现仿QQ、微信两种效果<br>
 
+项目名：cropper<br>
+git地址：https://github.com/edmodo/cropper<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/e4fde77bf41d4a60b234b4e268e5cfa8c17d9b6f/687474703a2f2f692e696d6775722e636f6d2f334668735467666c2e6a7067" width="30%"/><br>
+描述：Android widget for cropping and rotating an image<br>
 
 
 
@@ -117,17 +127,9 @@ git地址：https://github.com/zetbaitsu/Compressor<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/zetbaitsu/Compressor/master/ss.png" width="30%"/><br>
 
-项目名：AndroidHeadImageCliper<br>
-git地址：https://github.com/wsy858/AndroidHeadImageCliper<br>
-预览:<br>
-<img src="https://github.com/wsy858/AndroidHeadImageCliper/raw/master/pic/demo2.gif" width="30%"/><br>
-描述：头像上传图片裁剪，实现仿QQ、微信两种效果<br>
 
-项目名：cropper<br>
-git地址：https://github.com/edmodo/cropper<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/e4fde77bf41d4a60b234b4e268e5cfa8c17d9b6f/687474703a2f2f692e696d6775722e636f6d2f334668735467666c2e6a7067" width="30%"/><br>
-描述：Android widget for cropping and rotating an image<br>
+
+
 
 项目名：cookie-cutter<br>
 git地址：https://github.com/adamstyrc/cookie-cutter<br>
