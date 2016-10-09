@@ -414,7 +414,7 @@ git地址：https://github.com/bpncool/SectionedExpandableGridRecyclerView<br>
 项目名：Android-RecyclerViewWithFooter<br>
 git地址：https://github.com/android-cjj/Android-RecyclerViewWithFooter<br>
 预览:<br>
-![](https://github.com/android-cjj/Android-RecyclerViewWithFooter/raw/master/img/cjj2.jpg) <br>
+<img src="https://github.com/android-cjj/Android-RecyclerViewWithFooter/raw/master/img/cjj2.jpg" width="30%"/><br>
 
 
 
