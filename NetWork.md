@@ -2,6 +2,48 @@
 
 
 
+###网络图片加载 <br>
+
+
+
+项目名：GlideBitmapPool<br>
+git地址：https://github.com/amitshekhariitbhu/GlideBitmapPool<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/amitshekhariitbhu/GlideBitmapPool/master/assets/gcsamplelog.png" width="40%"/>
+
+项目名：glide<br>
+git地址：https://github.com/bumptech/glide<br>
+预览:<br>
+<img src="https://github.com/bumptech/glide/raw/master/static/glide_logo.png" width="30%" />
+
+项目名：picasso<br>
+git地址：https://github.com/square/picasso<br>
+预览:<br>
+<img src="https://github.com/square/picasso/raw/master/website/static/sample.png" width="30%" />
+
+项目名：picasso-transformations<br>
+git地址：https://github.com/wasabeef/picasso-transformations<br>
+解释：<br>
+An Android transformation library providing a variety of image transformations for Picasso<br>
+预览:<br>
+<img src="https://github.com/wasabeef/picasso-transformations/raw/master/art/demo.gif" width="30%" />
+
+项目名：glide-transformations<br>
+git地址：https://github.com/wasabeef/glide-transformations<br>
+解释：<br>
+An Android transformation library providing a variety of image transformations for Glide<br>
+预览:<br>
+<img src="https://github.com/wasabeef/glide-transformations/raw/master/art/demo.gif" width="30%" />
+
+
+
+
+
+
+
+
+
+###网路请求<br>
 
 
 
@@ -13,12 +55,7 @@ git地址：https://github.com/NeglectedByBoss/Novate<br>
 A safety client by Https for android, (Android线程安全http请求库)<br>
 
 
-项目名：glide-transformations<br>
-git地址：https://github.com/wasabeef/glide-transformations<br>
-解释：<br>
-An Android transformation library providing a variety of image transformations for Glide<br>
-预览:<br>
-<img src="https://github.com/wasabeef/glide-transformations/raw/master/art/demo.gif" width="30%" />
+
 
 项目名：FileDownloader<br>
 git地址：https://github.com/lingochamp/FileDownloader<br>
@@ -27,12 +64,7 @@ Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSin
 预览:<br>
 <img src="https://github.com/lingochamp/FileDownloader/raw/master/art/parallel_tasks_demo.gif" width="30%" />
 
-项目名：picasso-transformations<br>
-git地址：https://github.com/wasabeef/picasso-transformations<br>
-解释：<br>
-An Android transformation library providing a variety of image transformations for Picasso<br>
-预览:<br>
-<img src="https://github.com/wasabeef/picasso-transformations/raw/master/art/demo.gif" width="30%" />
+
 
 
 项目名：Thunder<br>
@@ -95,10 +127,7 @@ git地址：https://github.com/jeasonlzy0216/OkHttpUtils<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/131905708417d897e06474291aee049c95ae8ecb/687474703a2f2f3778737335332e636f6d322e7a302e676c622e636c6f7564646e2e636f6d2f6f6b687474707574696c732f64656d6f312e706e67) <br>
 
-项目名：picasso<br>
-git地址：https://github.com/square/picasso<br>
-预览:<br>
-![](https://github.com/square/picasso/raw/master/website/static/sample.png) <br>
+
 
 项目名：MultiThreadDownload<br>
 git地址：https://github.com/Aspsine/MultiThreadDownload<br>
@@ -110,12 +139,6 @@ git地址：https://github.com/cpoopc/RetrofitRxCache<br>
 解释:<br>
 trans normal Observable into Observable with cache,support retrofit<br>
 
-项目名：glide<br>
-git地址：https://github.com/bumptech/glide<br>
-预览:<br>
-![](https://github.com/bumptech/glide/raw/master/static/glide_logo.png) <br>
 
-项目名：GlideBitmapPool<br>
-git地址：https://github.com/amitshekhariitbhu/GlideBitmapPool<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/amitshekhariitbhu/GlideBitmapPool/master/assets/gcsamplelog.png" width="30%"/>
+
+
