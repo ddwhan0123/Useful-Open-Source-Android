@@ -6,7 +6,10 @@
 
 
 
-
+项目名： emojicon<br>
+git地址：https://github.com/rockerhieu/emojicon<br>
+预览 ：<br>
+<img src="https://github.com/rockerhieu/emojicon/raw/master/images/sample.jpg" width="30%"/><br>
 
 项目名： AutoLinkTextView<br>
 git地址：https://github.com/armcha/AutoLinkTextView<br>
