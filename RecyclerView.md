@@ -417,12 +417,6 @@ git地址：https://github.com/android-cjj/Android-RecyclerViewWithFooter<br>
 <img src="https://github.com/android-cjj/Android-RecyclerViewWithFooter/raw/master/img/cjj2.jpg" width="30%"/><br>
 
 
-
-项目名：InfiniteScroll<br>
-git地址：https://github.com/pwittchen/InfiniteScroll<br>
-预览:<br>
-![](https://raw.githubusercontent.com/pwittchen/InfiniteScroll/master/demo.gif) <br>
-
 项目名：overscroll-decor<br>
 git地址：https://github.com/EverythingMe/overscroll-decor<br>
 预览:<br>
