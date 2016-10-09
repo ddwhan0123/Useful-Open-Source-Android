@@ -11,7 +11,15 @@ git地址：https://github.com/jianghejie/XRecyclerView<br>
 预览:<br>
 <img src="https://github.com/jianghejie/XRecyclerView/raw/master/art/demo.gif" width="30%"/><br>
 
+项目名：RecyclerRefreshLayout<br>
+git地址：https://github.com/dinuscxj/RecyclerRefreshLayout<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/dinuscxj/RecyclerRefreshLayout/master/Preview/RecyclerRefreshLayoutNormal.gif" width="30%"/><br>
 
+项目名：android-Ultra-Pull-To-Refresh<br>
+git地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/d3fbe757c87fddc94e998ebdd08ac55956aed1cf/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f73746f72652d686f7573652d737472696e672e676966" width="30%"/><br>
 
 
 
@@ -110,10 +118,7 @@ git地址：https://github.com/FutureMind/recycler-fast-scroll<br>
 
 
 
-项目名：RecyclerRefreshLayout<br>
-git地址：https://github.com/dinuscxj/RecyclerRefreshLayout<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/dinuscxj/RecyclerRefreshLayout/master/Preview/RecyclerRefreshLayoutNormal.gif" width="30%"/><br>
+
 
 项目名：LollipopContactsRecyclerViewFastScroller<br>
 git地址：https://github.com/AndroidDeveloperLB/LollipopContactsRecyclerViewFastScroller<br>
@@ -135,10 +140,7 @@ git地址：https://github.com/Solartisan/WaveSideBar<br>
 预览:<br>
 <img src="https://github.com/Solartisan/WaveSideBar/raw/master/preview/simple.gif" width="30%"/><br>
 
-项目名：android-Ultra-Pull-To-Refresh<br>
-git地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/4dfccd5a50f7d59b512300fce341a1217950603a/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f6d6174657269616c2d7374796c652e676966" width="30%"/><br>
+
 
 项目名：ItemTouchHelperDemo<br>
 git地址：https://github.com/YoKeyword/ItemTouchHelperDemo<br>
@@ -155,10 +157,7 @@ git地址：https://github.com/Aspsine/SwipeToLoadLayout<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/037bf41bc4fa016a7320fe100734af0a4b4c8a70/687474703a2f2f696d672e796f75747562652e636f6d2f76692f5a56596b6f6938345672382f302e6a7067" width="30%"/><br>
 
-项目名：SuperSLiM<br>
-git地址：https://github.com/TonicArtos/SuperSLiM<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/3a55cfd0bbfd28e72aa875f4905cc23cc37a87f4/68747470733a2f2f342e62702e626c6f6773706f742e636f6d2f2d657034364a4b70476138342f564a685831706c575743492f4141414141414141585a592f394131417272563361336b2f73313630302f5375706572534c694d2d44656d6f2d736d616c6c2e676966" width="30%"/><br>
+
 
 项目名：SuperSLiM<br>
 git地址：https://github.com/TonicArtos/SuperSLiM<br>
