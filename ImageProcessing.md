@@ -7,6 +7,11 @@
 
 
 
+项目名：StickerCamera<br>
+git地址：https://github.com/Skykai521/StickerCamera<br>
+预览:<br>
+<img src="https://github.com/Skykai521/StickerCamera/raw/master/screenshot/Screenshot_01.gif" width="30%" /><br>
+
 项目名：uCrop<br>
 git地址：https://github.com/Yalantis/uCrop<br>
 预览:<br>
