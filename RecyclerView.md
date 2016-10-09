@@ -26,7 +26,7 @@ git地址：https://github.com/hougr/SmartisanPull<br>
 项目名：InfiniteScroll<br>
 git地址：https://github.com/pwittchen/InfiniteScroll<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/pwittchen/InfiniteScroll/master/demo.gif" width="30%"/><br>
+<img src="https://raw.githubusercontent.com/pwittchen/InfiniteScroll/master/demo.gif" width="20%"/><br>
 
 项目名：RecyclerViewManager<br>
 git地址：https://github.com/Syehunter/RecyclerViewManager<br>
