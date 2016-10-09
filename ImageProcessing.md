@@ -2,8 +2,13 @@
 ##图片选择器/编辑器/加载 相关:<br>
 
 
+###图片剪裁相关：<br>
 
 
+项目名：android-crop<br>
+git地址：https://github.com/jdamcd/android-crop<br>
+预览:<br>
+<img src="https://github.com/jdamcd/android-crop/raw/master/screenshot.png" width="30%" /><br>
 
 
 
