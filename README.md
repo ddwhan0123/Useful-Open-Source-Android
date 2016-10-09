@@ -1361,15 +1361,6 @@ git地址：https://github.com/xiprox/MarkView<br>
 <img src="https://camo.githubusercontent.com/fd7c14629d51fed962eff7f807e47ac3231c52f8/687474703a2f2f7075752e73682f684a6b57512f376632353938636236322e706e67" width="30%" /><br>
 
 
-项目名：emojicon<br>
-git地址：https://github.com/rockerhieu/emojicon<br>
-预览:<br>
-<img src="https://github.com/rockerhieu/emojicon/raw/master/images/sample.jpg" width="30%" /><br>
-
-
-
-
-
 
 项目名：BlurLockView<br>ƒ
 git地址：https://github.com/Nightonke/BlurLockView<br>
