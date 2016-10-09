@@ -2,6 +2,18 @@
 ##RecyclerView 相关:<br>
 
 
+###下拉刷新/上拉加载 相关：<br>
+
+
+
+项目名：XRecyclerView<br>
+git地址：https://github.com/jianghejie/XRecyclerView<br>
+预览:<br>
+<img src="https://github.com/jianghejie/XRecyclerView/raw/master/art/demo.gif" width="30%"/><br>
+
+
+
+
 
 
 
@@ -96,10 +108,7 @@ git地址：https://github.com/FutureMind/recycler-fast-scroll<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/26b1a68095f8cf1e68add244bdcea7fdc376a341/687474703a2f2f692e696d6775722e636f6d2f556771687a75642e676966" width="30%"/><br>
 
-项目名：XRecyclerView<br>
-git地址：https://github.com/jianghejie/XRecyclerView<br>
-预览:<br>
-<img src="https://github.com/jianghejie/XRecyclerView/raw/master/art/demo.gif" width="30%"/><br>
+
 
 项目名：RecyclerRefreshLayout<br>
 git地址：https://github.com/dinuscxj/RecyclerRefreshLayout<br>
