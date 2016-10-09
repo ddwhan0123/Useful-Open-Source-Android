@@ -5,6 +5,26 @@
 ###图片剪裁相关：<br>
 
 
+
+
+
+
+项目名：Android-Image-Cropper<br>
+git地址：https://github.com/ArthurHub/Android-Image-Cropper<br>
+预览:<br>
+<img src="https://github.com/ArthurHub/Android-Image-Cropper/raw/master/art/demo.gif?raw=true" width="30%" /><br>
+
+项目名：ImageCropView<br>
+git地址：https://github.com/KyoSherlock/ImageCropView<br>
+预览:<br>
+<img src="https://github.com/KyoSherlock/CropView/raw/master/screenshots/0.png" width="30%" /><br>
+
+项目名：PuzzleView<br>
+git地址:https://github.com/wuapnjie/PuzzleView<br>
+预览:<br>
+<img src="https://github.com/wuapnjie/PuzzleView/raw/master/screenshots/gif-demo1.gif" width="30%"/><br>
+
+
 项目名：android-crop<br>
 git地址：https://github.com/jdamcd/android-crop<br>
 预览:<br>
@@ -21,6 +41,15 @@ git地址：https://github.com/edmodo/cropper<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/e4fde77bf41d4a60b234b4e268e5cfa8c17d9b6f/687474703a2f2f692e696d6775722e636f6d2f334668735467666c2e6a7067" width="30%"/><br>
 描述：Android widget for cropping and rotating an image<br>
+
+项目名：cookie-cutter<br>
+git地址：https://github.com/adamstyrc/cookie-cutter<br>
+预览:<br>
+<img src="https://github.com/adamstyrc/cookie-cutter/raw/master/video.gif" width="30%"/><br>
+描述：GPU accelerated filters for Android based on OpenGL<br>
+
+
+
 
 
 
@@ -131,11 +160,7 @@ git地址：https://github.com/zetbaitsu/Compressor<br>
 
 
 
-项目名：cookie-cutter<br>
-git地址：https://github.com/adamstyrc/cookie-cutter<br>
-预览:<br>
-<img src="https://github.com/adamstyrc/cookie-cutter/raw/master/video.gif" width="30%"/><br>
-描述：GPU accelerated filters for Android based on OpenGL.<br>
+
 
 项目名：android-gpuimage-plus<br>
 git地址：https://github.com/wysaid/android-gpuimage-plus<br>
@@ -161,10 +186,7 @@ git地址：https://github.com/LuckyJayce/LargeImage<br>
 解释:<br>
 Android 加载大图 可以高清显示10000*10000像素的图片，轻松实现微博长图功能<br>
 
-项目名：PuzzleView<br>
-git地址:https://github.com/wuapnjie/PuzzleView<br>
-预览:<br>
-<img src="https://github.com/wuapnjie/PuzzleView/raw/master/screenshots/gif-demo1.gif" width="30%"/><br>
+
 
 项目名：StyleImageView<br>
 git地址:https://github.com/chengdazhi/StyleImageView<br>
@@ -186,10 +208,7 @@ git地址：https://github.com/freekite/Android-BitherCompress<br>
 预览:<br>
 <img src="https://github.com/freekite/Android-BitherCompress/raw/master/resources/compress_1471244287213.jpg" width="30%" /><br>
 
-项目名：ImageCropView<br>
-git地址：https://github.com/KyoSherlock/ImageCropView<br>
-预览:<br>
-<img src="https://github.com/KyoSherlock/CropView/raw/master/screenshots/0.png" width="30%" /><br>
+
 
 项目名：PloyFun<br>
 git地址：https://github.com/hugeterry/PloyFun<br>
@@ -231,10 +250,7 @@ git地址：https://github.com/jarlen/PhotoEditDemo<br>
 解释:<br>
 1，图片编辑(图片添加，文字添加)，实现图片编辑中的图片添加，旋转，缩放，删除；文字的添加，大小缩放，字体更换，颜色更换，删除； 2，基本滤镜实现与接口封装； 涂鸦(画笔的样式，粗细，颜色，橡皮擦，贴图)； 相框(简单相框，酷炫相框)； 马赛就克(基本马赛克，酷炫马赛克，橡皮擦)及其接口封装 3，接下来， 图像剪切，旋转等功能实现测试接口封装； GIF与MP4，图片互转实现测试与接口封装；<br>
 
-项目名：Android-Image-Cropper<br>
-git地址：https://github.com/ArthurHub/Android-Image-Cropper<br>
-预览:<br>
-<img src="https://github.com/ArthurHub/Android-Image-Cropper/raw/master/art/demo.gif?raw=true" width="30%" /><br>
+
 
 项目名：Pixelate<br>
 git地址：https://github.com/DanielMartinus/Pixelate<br>
