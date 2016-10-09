@@ -7,7 +7,10 @@
 
 
 
-
+项目名：uCrop<br>
+git地址：https://github.com/Yalantis/uCrop<br>
+预览:<br>
+<img src="https://github.com/Yalantis/uCrop/raw/master/preview.gif" width="30%" /><br>
 
 项目名：Android-Image-Cropper<br>
 git地址：https://github.com/ArthurHub/Android-Image-Cropper<br>
@@ -267,10 +270,7 @@ git地址：https://github.com/zedoul/ZDStickerView<br>
 预览:<br>
 <img src="https://github.com/zedoul/ZDStickerView/raw/develop/SCREENSHOT.png?raw=true" width="30%" /><br>
 
-项目名：uCrop<br>
-git地址：https://github.com/Yalantis/uCrop<br>
-预览:<br>
-<img src="https://github.com/Yalantis/uCrop/raw/master/preview.gif" width="30%" /><br>
+
 
 项目名：WatermarkCreator<br>
 git地址：https://github.com/ashishbhandari/WatermarkCreator<br>
