@@ -136,10 +136,10 @@ git地址：https://github.com/square/okhttp<br>
 预览:<br>
 无 <br>
 
-项目名：OkHttpUtils<br>
-git地址：https://github.com/jeasonlzy0216/OkHttpUtils<br>
+项目名：okhttp-OkGo<br>
+git地址：https://github.com/jeasonlzy/okhttp-OkGo<br>
 预览:<br>
-![](https://camo.githubusercontent.com/131905708417d897e06474291aee049c95ae8ecb/687474703a2f2f3778737335332e636f6d322e7a302e676c622e636c6f7564646e2e636f6d2f6f6b687474707574696c732f64656d6f312e706e67) <br>
+<img src="https://github.com/jeasonlzy/Screenshots/raw/master/okgo/demo8.gif" width="30%" />
 
 
 
