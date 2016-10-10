@@ -103,6 +103,15 @@ git地址：https://github.com/promeG/XLog<br>
 
 
 
+
+
+
+
+
+项目名：RxRelay<br>
+git地址：https://github.com/JakeWharton/RxRelay<br>
+描述：RxJava types that are both an Observable and an Action1<br>
+
 项目名：RxUnfurl<br>
 git地址：https://github.com/Schinizer/RxUnfurl<br>
 预览:<br>
