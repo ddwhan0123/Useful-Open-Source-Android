@@ -167,7 +167,10 @@ git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 
 
 
-
+项目名：DiffUtils<br>
+git地址：https://github.com/mcxtzhang/DiffUtils<br>
+解释:<br>
+DiffUtils是Google官方在support-v7-24.2.0新出的一个工具类，本工程为一个讲解它使用的Demo<br>
 
 项目名：AndroidStarArchive<br>
 git地址：https://github.com/kHRYSTAL/AndroidStarArchive<br>
