@@ -49,6 +49,13 @@ An Android transformation library providing a variety of image transformations f
 
 
 
+
+
+项目名：socket.io-client-java<br>
+git地址：https://github.com/socketio/socket.io-client-java<br>
+解释：<br>
+Full-featured Socket.IO Client Library for Java, which is compatible with Socket.IO v1.0 and later<br>
+
 项目名：Novate<br>
 git地址：https://github.com/NeglectedByBoss/Novate<br>
 解释：<br>
