@@ -34,7 +34,10 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
-
+项目名：ActivityRouter<br>
+git地址:https://github.com/joyrun/ActivityRouter<br>
+解释:<br>
+ActivityRouter路由框架：通过注解实现URL打开Activity https://joyrun.github.io/2016/08/01/ActivityRouter/<br>
 
 项目名：IQKeyboardManager<br>
 git地址:https://github.com/hackiftekhar/IQKeyboardManager<br>
@@ -60,6 +63,9 @@ git地址：https://github.com/fatangare/LogcatViewer<br>
 
 
 ###业务功能难点处理<br>
+
+
+
 
 
 
