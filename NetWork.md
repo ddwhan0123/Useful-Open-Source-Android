@@ -6,6 +6,9 @@
 
 
 
+
+
+
 项目名：GlideBitmapPool<br>
 git地址：https://github.com/amitshekhariitbhu/GlideBitmapPool<br>
 预览:<br>
@@ -50,6 +53,10 @@ An Android transformation library providing a variety of image transformations f
 
 
 
+项目名：android-async-http<br>
+git地址：https://github.com/loopj/android-async-http<br>
+解释：<br>
+An Asynchronous HTTP Library for Android http://loopj.com/android-async-http/<br>
 
 项目名：socket.io-client-java<br>
 git地址：https://github.com/socketio/socket.io-client-java<br>
