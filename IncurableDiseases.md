@@ -32,7 +32,10 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
-
+项目名：FingerprintAuthHelper<br>
+git地址:https://github.com/pro100svitlo/FingerprintAuthHelper<br>
+预览:<br>
+<img src="https://github.com/pro100svitlo/FingerprintAuthHelper/raw/master/screenshots/sc_0.png" width="30%"/><br>
 
 项目名：ActivityRouter<br>
 git地址:https://github.com/joyrun/ActivityRouter<br>
