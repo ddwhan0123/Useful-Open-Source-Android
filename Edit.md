@@ -5,6 +5,10 @@
 
 
 
+项目名： BouncyEditText<br>
+git地址：https://github.com/zzz40500/BouncyEditText<br>
+预览 ：<br>
+<img src="https://camo.githubusercontent.com/0e2db9c248bf4bd3b3444e2074d96feff4a77c51/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d333763396338356166383238633332392e676966" width="30%"/><br>
 
 项目名： emojicon<br>
 git地址：https://github.com/rockerhieu/emojicon<br>
