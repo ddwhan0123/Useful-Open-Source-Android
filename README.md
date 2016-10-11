@@ -122,6 +122,11 @@
 
 
 
+项目名：BreadcrumbsView<br>
+git地址：https://github.com/VictorAlbertos/BreadcrumbsView<br>
+预览:<br>
+<img src="https://github.com/VictorAlbertos/BreadcrumbsView/raw/master/breadcrumbs.gif" width="30%"/>
+
 项目名：shimmer-android<br>
 git地址：https://github.com/facebook/shimmer-android<br>
 预览:<br>
