@@ -5,6 +5,11 @@
 
 
 
+项目名：BottomSheetPickers<br>
+git地址：https://github.com/philliphsu/BottomSheetPickers<br>
+预览:<br>
+<img src="https://github.com/philliphsu/BottomSheetPickers/raw/master/screenshots/24h-grid-light.png" width="30%"/><br>
+
 项目名：MaterialDateTimePicker<br>
 git地址：https://github.com/wdullaer/MaterialDateTimePicker<br>
 预览:<br>
