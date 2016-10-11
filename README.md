@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-10-9<br>
+###更新时间:2016-10-11<br>
 
 
 
@@ -121,6 +121,11 @@
 
 
 
+
+项目名：shimmer-android<br>
+git地址：https://github.com/facebook/shimmer-android<br>
+预览:<br>
+<img src="https://github.com/facebook/shimmer-android/raw/master/shimmer.gif?raw=true" width="30%"/>
 
 项目名：MultiStateView<br>
 git地址：https://github.com/XuDaojie/MultiStateView<br>
