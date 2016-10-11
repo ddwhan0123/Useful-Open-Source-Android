@@ -49,7 +49,10 @@ git地址：https://github.com/Hitomis/SpinMenu<br>
 <img src="https://github.com/Hitomis/SpinMenu/raw/master/preview/menu_cyclic.gif" width="30%" />
 
 
-
+项目名：CircleMenu<br>
+git地址：https://github.com/Hitomis/CircleMenu<br>
+预览:<br>
+<img src="https://github.com/Hitomis/CircleMenu/raw/master/preview/circle_menu.gif" width="30%" />
 
 
 
