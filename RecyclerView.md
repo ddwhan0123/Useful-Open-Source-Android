@@ -8,6 +8,11 @@
 
 
 
+项目名：TwinklingRefreshLayout<br>
+git地址：https://github.com/lcodecorex/TwinklingRefreshLayout<br>
+预览:<br>
+<img src="https://github.com/lcodecorex/TwinklingRefreshLayout/raw/master/art/gif_recyclerview.gif" width="30%"/><br>
+
 项目名：XRefreshView<br>
 git地址：https://github.com/huxq17/XRefreshView<br>
 预览:<br>
