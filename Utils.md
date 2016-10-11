@@ -98,6 +98,9 @@ git地址：https://github.com/promeG/XLog<br>
 
 
 
+
+
+
 ###Rx相关<br>
 
 
@@ -105,7 +108,9 @@ git地址：https://github.com/promeG/XLog<br>
 
 
 
-
+项目名：RxCache<br>
+git地址：https://github.com/VictorAlbertos/RxCache<br>
+描述：Reactive caching library for Android and Java<br>
 
 
 项目名：RxRelay<br>
