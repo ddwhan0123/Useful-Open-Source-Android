@@ -12,6 +12,10 @@
 
 
 
+项目名：intentbuilder<br>
+git地址：https://github.com/Trikke/intentbuilder<br>
+描述：IntentBuilder is a type safe way of creating intents and populating them with extras. Use them with your Activities and Services.<br>
+
 项目名：AndroidUtilCode<br>
 git地址：https://github.com/Blankj/AndroidUtilCode<br>
 描述：Android developers should collect the following utils(updating) http://blankj.com/862.html<br>
