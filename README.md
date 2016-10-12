@@ -120,7 +120,10 @@
 
 
 
-
+项目名：ShareButton<br>
+git地址：https://github.com/kayan1990/ShareButton<br>
+预览:<br>
+<img src="https://github.com/kayan1990/ShareButton/raw/master/ShareButton/gif/sharebutton.gif" width="30%"/>
 
 项目名：NumberPicker<br>
 git地址：https://github.com/BorealisBiz/NumberPicker<br>
