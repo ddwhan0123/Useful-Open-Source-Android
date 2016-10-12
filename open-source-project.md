@@ -7,6 +7,12 @@
 
 
 
+项目名：glucosio-android<br>
+git地址：https://github.com/Glucosio/glucosio-android<br>
+解释：<br>
+Glucosio Android App<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/5623301/14087778/f02be08c-f52b-11e5-9ff3-15bc5670cddb.png" width="30%" />
 
 项目名：BookReader<br>
 git地址：https://github.com/JustWayward/BookReader<br>
