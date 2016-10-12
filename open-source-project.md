@@ -7,6 +7,13 @@
 
 
 
+项目名：Potier<br>
+git地址：https://github.com/florent37/Potier<br>
+解释：<br>
+Designed for Android Lollipop<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/florent37/Potier/master/screenshots/home1_small.png" width="30%" />
+
 项目名：glucosio-android<br>
 git地址：https://github.com/Glucosio/glucosio-android<br>
 解释：<br>
