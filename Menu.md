@@ -168,6 +168,11 @@ git地址：https://github.com/kyze8439690/ResideLayout<br>
 
 
 
+项目名：status-bar-compat<br>
+git地址：https://github.com/msdx/status-bar-compat<br>
+预览:<br>
+<img src="https://github.com/msdx/status-bar-compat/raw/master/images/Android6.0_5C_light.jpg" width="30%"/>
+
 项目名：SlideshowToolbar<br>
 git地址：https://github.com/JuL1205/SlideshowToolbar<br>
 预览:<br>
