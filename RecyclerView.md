@@ -6,7 +6,10 @@
 
 
 
-
+项目名：CutoLoadingView<br>
+git地址：https://github.com/andyxialm/CutoLoadingView<br>
+预览:<br>
+<img src="https://github.com/andyxialm/CutoLoadingView/raw/master/art/screenshot.gif?raw=true" width="30%"/><br>
 
 项目名：TwinklingRefreshLayout<br>
 git地址：https://github.com/lcodecorex/TwinklingRefreshLayout<br>
