@@ -7,6 +7,13 @@
 
 
 
+
+
+项目名：CropperNoCropper<br>
+git地址：https://github.com/jayrambhia/CropperNoCropper<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/jayrambhia/CropperNoCropper/master/art/demo1.gif" width="30%" /><br>
+
 项目名：StickerCamera<br>
 git地址：https://github.com/Skykai521/StickerCamera<br>
 预览:<br>
