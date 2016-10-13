@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-10-11<br>
+###更新时间:2016-10-13<br>
 
 
 
@@ -119,6 +119,13 @@
 
 
 
+
+
+
+项目名：BEMCheckBox<br>
+git地址：https://github.com/Boris-Em/BEMCheckBox<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/12238fb7daad2379149633dc9e6fd0d16274046d/687474703a2f2f7331322e706f7374696d672e6f72672f766e32697261686a782f42454d436865636b5f426f782e676966" width="30%"/>
 
 项目名：ShareButton<br>
 git地址：https://github.com/kayan1990/ShareButton<br>
