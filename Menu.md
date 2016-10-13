@@ -168,6 +168,11 @@ git地址：https://github.com/kyze8439690/ResideLayout<br>
 
 
 
+项目名：BubbleTab<br>
+git地址：https://github.com/florent37/BubbleTab<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/florent37/BubbleTab/master/media/withScreen_cropped.png" width="30%"/>
+
 项目名：status-bar-compat<br>
 git地址：https://github.com/msdx/status-bar-compat<br>
 预览:<br>
