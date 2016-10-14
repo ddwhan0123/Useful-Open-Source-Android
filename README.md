@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-10-13<br>
+###更新时间:2016-10-14<br>
 
 
 
@@ -120,7 +120,15 @@
 
 
 
+项目名：ExpandableTextView<br>
+git地址：https://github.com/Manabu-GT/ExpandableTextView<br>
+预览:<br>
+<img src="https://github.com/Manabu-GT/ExpandableTextView/raw/master/art/readme_demo.gif?raw=true" width="30%"/>
 
+项目名：SlideButton<br>
+git地址：https://github.com/masterlittle/SlideButton<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/eaa183b3451a59adb02f343538ae4797512afa8a/68747470733a2f2f692e696d6775722e636f6d2f6f4e5364384f4a2e706e67" width="30%"/>
 
 项目名：BEMCheckBox<br>
 git地址：https://github.com/Boris-Em/BEMCheckBox<br>
