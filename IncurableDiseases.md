@@ -72,7 +72,10 @@ git地址：https://github.com/fatangare/LogcatViewer<br>
 
 
 
-
+项目名：IntentManip<br>
+git地址:https://github.com/KingsMentor/IntentManip<br>
+预览:<br>
+<img src="https://github.com/KingsMentor/IntentManip/raw/master/sample.gif" width="30%"/><br>
 
 项目名：android-slidingactivity<br>
 git地址:https://github.com/klinker41/android-slidingactivity<br>
