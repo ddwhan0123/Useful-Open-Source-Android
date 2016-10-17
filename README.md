@@ -121,6 +121,12 @@
 
 
 
+
+项目名：ImageTransition<br>
+git地址：https://github.com/vikramkakkar/ImageTransition<br>
+预览:<br>
+<img src="https://github.com/vikramkakkar/ImageTransition/raw/master/img/image_transition.gif?raw=true" width="30%"/>
+
 项目名：DateTimeSeer<br>
 git地址：https://github.com/p-v/DateTimeSeer<br>
 预览:<br>
