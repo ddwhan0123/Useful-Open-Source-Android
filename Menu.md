@@ -41,7 +41,10 @@ git地址：https://github.com/wangjiegulu/RapidFloatingActionButton<br>
 
 
 
-
+项目名：InfinityMenu<br>
+git地址：https://github.com/desnyki/InfinityMenu<br>
+预览:<br>
+<img src="https://github.com/desnyki/InfinityMenu/raw/master/art/demo.gif" width="30%" />
 
 项目名：SpinMenu<br>
 git地址：https://github.com/Hitomis/SpinMenu<br>
