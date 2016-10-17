@@ -6,6 +6,9 @@
 
 
 
+
+
+
 项目名：CutoLoadingView<br>
 git地址：https://github.com/andyxialm/CutoLoadingView<br>
 预览:<br>
@@ -338,10 +341,13 @@ git地址：https://github.com/ShamylZakariya/StickyHeaders<br>
 预览:<br>
 <img src="https://github.com/ShamylZakariya/StickyHeaders/raw/master/readme-assets/video-addressbook.gif" width="320x"> <br>
 
-项目名：StickyHeaders<br>
-git地址：https://github.com/ShamylZakariya/StickyHeaders<br>
+
+
+
+项目名：Sectioned-RecyclerView<br>
+git地址：https://github.com/IntruderShanky/Sectioned-RecyclerView<br>
 预览:<br>
-<img src="https://github.com/ShamylZakariya/StickyHeaders/raw/master/readme-assets/video-addressbook.gif" width="320x"> <br>
+<img src="https://github.com/IntruderShanky/Sectioned-RecyclerView/raw/master/SectionRecyclerView.gif" width="320x"> <br>
 
 项目名：base-adapter-helper<br>
 git地址：https://github.com/JoanZapata/base-adapter-helper<br>
