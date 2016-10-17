@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-10-16<br>
+###更新时间:2016-10-17<br>
 
 
 
@@ -119,6 +119,12 @@
 
 
 
+
+
+项目名：DiagonalLayout<br>
+git地址：https://github.com/florent37/DiagonalLayout<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/florent37/DiagonalLayout/master/media/sample.gif" width="30%"/>
 
 项目名：ExpandableTextView<br>
 git地址：https://github.com/Manabu-GT/ExpandableTextView<br>
