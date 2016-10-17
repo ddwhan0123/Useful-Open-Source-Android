@@ -6,6 +6,11 @@
 
 
 
+项目名：MobileVisionBarcodeScanner<br>
+git地址：https://github.com/KingsMentor/MobileVisionBarcodeScanner<br>
+预览:<br>
+<img src="https://github.com/KingsMentor/MobileVisionBarcodeScanner/raw/master/lib_example.gif" width="30%" /><br>
+
 项目名：Qart<br>
 git地址：https://github.com/scola/Qart<br>
 预览:<br>
