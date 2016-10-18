@@ -5,7 +5,12 @@
 
 
 
-
+项目名：FastApp<br>
+git地址：https://github.com/closedevice/FastApp<br>
+解释：<br>
+FastApp是一个轻量级急速开发框架，基于Fragment+RxJava+Retrofit 2.0+Glide+Realm构建，采用Material Design设计风格，帮助开发者快速构建轻量级应用<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/closedevice/FastApp/master/screenshots/gan.png" width="30%" />
 
 项目名：Potier<br>
 git地址：https://github.com/florent37/Potier<br>
