@@ -4,6 +4,10 @@
 
 
 
+项目名： AutoFillEmailEditText<br>
+git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
+预览 ：<br>
+<img src="https://github.com/wangshaolei/AutoFillEmailEditText/raw/master/img/1.png" width="30%"/><br>
 
 项目名： BouncyEditText<br>
 git地址：https://github.com/zzz40500/BouncyEditText<br>
