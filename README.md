@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-10-17<br>
+###更新时间:2016-10-18<br>
 
 
 
@@ -121,6 +121,11 @@
 
 
 
+
+项目名：appbarlayout-spring-behavior<br>
+git地址：https://github.com/ToDou/appbarlayout-spring-behavior<br>
+预览:<br>
+<img src="https://github.com/ToDou/appbarlayout-spring-behavior/raw/master/screenshot/appbar_spring_blur_tab.gif" width="30%"/>
 
 项目名：ImageTransition<br>
 git地址：https://github.com/vikramkakkar/ImageTransition<br>
