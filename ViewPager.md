@@ -6,6 +6,10 @@
 
 
 
+项目名：PageIndicatorView<br>
+git地址：https://github.com/romandanylyk/PageIndicatorView<br>
+预览:<br>
+<img src="https://github.com/romandanylyk/PageIndicatorView/raw/master/assets/animation_worm.gif?raw=true" width="30%"/>
 
 项目名：AndroidOnboarder<br>
 git地址：https://github.com/chyrta/AndroidOnboarder<br>
