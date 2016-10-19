@@ -60,6 +60,12 @@ git地址：https://github.com/psaravan/JamsMusicPlayer<br>
 
 
 
+
+项目名：WxRecoderVideo<br>
+git地址：https://github.com/maimingliang/WxRecoderVideo<br>
+预览:<br>
+<img src="https://github.com/maimingliang/WxRecoderVideo/raw/master/recoder.gif" width="30%"/><br>
+
 项目名：k4l-video-trimmer<br>
 git地址：https://github.com/knowledge4life/k4l-video-trimmer<br>
 预览:<br>
