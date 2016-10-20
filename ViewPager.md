@@ -5,6 +5,10 @@
 
 
 
+项目名：SlidingIntoView<br>
+git地址：https://github.com/ihsanbal/SlidingIntoView<br>
+预览:<br>
+<img src="https://github.com/ihsanbal/SlidingIntoView/raw/master/device-2016-10-12-125715.gif" width="30%"/>
 
 项目名：PageIndicatorView<br>
 git地址：https://github.com/romandanylyk/PageIndicatorView<br>
