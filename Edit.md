@@ -4,6 +4,12 @@
 
 
 
+
+项目名： ColorPhrase<br>
+git地址：https://github.com/THEONE10211024/ColorPhrase<br>
+预览 ：<br>
+<img src="https://github.com/THEONE10211024/ColorPhrase/raw/master/screenshot/Screenshot_2015-05-16-18-12-23.jpeg" width="20%"/><br>
+
 项目名： ColorTextView<br>
 git地址：https://github.com/zhonghanwen/ColorTextView<br>
 预览 ：<br>
