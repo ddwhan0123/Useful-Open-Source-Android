@@ -8,7 +8,10 @@
 
 
 
-
+项目名：WeChatImageClipping<br>
+git地址：https://github.com/nicewarm/WeChatImageClipping<br>
+预览:<br>
+<img src="https://github.com/nicewarm/WeChatImageClipping/raw/master/image/clipping.png" width="30%" /><br>
 
 项目名：PhotoCropper<br>
 git地址：https://github.com/ryanhoo/PhotoCropper<br>
