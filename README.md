@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-10-20<br>
+###更新时间:2016-10-21<br>
 
 
 
@@ -121,7 +121,10 @@
 
 
 
-
+项目名：baso<br>
+git地址：https://github.com/gitsindonesia/baso<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/gitsindonesia/baso/master/image1.png" width="30%"/>
 
 项目名：FanLayoutManager<br>
 git地址：https://github.com/Cleveroad/FanLayoutManager<br>
