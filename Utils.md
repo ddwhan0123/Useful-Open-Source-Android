@@ -10,7 +10,9 @@
 
 
 
-
+项目名：Parceler<br>
+git地址：https://github.com/yjfnypeu/Parceler<br>
+描述：A library to inject data to class with bundle<br>
 
 项目名：intentbuilder<br>
 git地址：https://github.com/Trikke/intentbuilder<br>
