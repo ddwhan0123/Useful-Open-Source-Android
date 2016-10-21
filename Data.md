@@ -15,7 +15,7 @@
 项目名：about-page<br>
 git地址：https://github.com/drakeet/about-page<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/1cbe0cc301446c87776dad06b2cc7076c07ecfe7/687474703a2f2f7777332e73696e61696d672e636e2f6c617267652f3836653266663835677731663877726876363935386a32306b30307a6b6a74622e6a7067" width="40%"/><br>
+<img src="https://camo.githubusercontent.com/1cbe0cc301446c87776dad06b2cc7076c07ecfe7/687474703a2f2f7777332e73696e61696d672e636e2f6c617267652f3836653266663835677731663877726876363935386a32306b30307a6b6a74622e6a7067" width="30%"/><br>
 解释：<br>
 A nice about page based on MultiType, material design and easy to use<br>
 
