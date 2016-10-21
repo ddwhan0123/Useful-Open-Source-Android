@@ -9,6 +9,12 @@
 
 
 
+
+项目名：PhotoCropper<br>
+git地址：https://github.com/ryanhoo/PhotoCropper<br>
+预览:<br>
+<img src="https://github.com/ryanhoo/PhotoCropper/raw/master/images/photo-cropper-demonstration.gif" width="30%" /><br>
+
 项目名：CropperNoCropper<br>
 git地址：https://github.com/jayrambhia/CropperNoCropper<br>
 预览:<br>
