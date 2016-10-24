@@ -121,6 +121,12 @@
 
 
 
+
+项目名：SlideBottomPanel<br>
+git地址：https://github.com/kingideayou/SlideBottomPanel<br>
+预览:<br>
+<img src="https://github.com/kingideayou/SlideBottomPanel/raw/master/imgs/demo_zhihu.gif" width="30%"/>
+
 项目名：nougat-7.1-playground<br>
 git地址：https://github.com/klinker24/nougat-7.1-playground<br>
 预览:<br>
