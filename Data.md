@@ -11,6 +11,12 @@
 
 
 
+项目名：MaterialResume<br>
+git地址：https://github.com/StanKocken/MaterialResume<br>
+预览:<br>
+<img src="https://github.com/StanKocken/MaterialResume/raw/master/mockup.jpg" width="30%"/><br>
+解释：<br>
+A example of Material Resume<br>
 
 项目名：about-page<br>
 git地址：https://github.com/drakeet/about-page<br>
