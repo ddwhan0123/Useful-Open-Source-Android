@@ -41,6 +41,11 @@ git地址：https://github.com/wangjiegulu/RapidFloatingActionButton<br>
 
 
 
+项目名：MultiCardMenu<br>
+git地址：https://github.com/wujingchao/MultiCardMenu<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/wujingchao/MultiCardMenu/master/multi_card_menu_demo_static.png" width="30%" />
+
 项目名：InfinityMenu<br>
 git地址：https://github.com/desnyki/InfinityMenu<br>
 预览:<br>
