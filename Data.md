@@ -11,6 +11,9 @@
 
 
 
+
+
+
 项目名：MaterialResume<br>
 git地址：https://github.com/StanKocken/MaterialResume<br>
 预览:<br>
@@ -146,6 +149,10 @@ README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.c
 
 
 
+项目名：smooth-app-bar-layout<br>
+git地址：https://github.com/henrytao-me/smooth-app-bar-layout<br>
+解释：<br>
+Smooth version of Google Support Design AppBarLayout<br>
 
 项目名：android-training-course-in-chinese<br>
 git地址：https://github.com/kesenhoo/android-training-course-in-chinese<br>
