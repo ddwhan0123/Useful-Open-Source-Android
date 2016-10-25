@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-10-24<br>
+###更新时间:2016-10-25<br>
 
 
 
@@ -122,7 +122,10 @@
 
 
 
-
+项目名：LauncherView<br>
+git地址：https://github.com/diamondlin2016/LauncherView<br>
+预览:<br>
+<img src="https://github.com/diamondlin2016/LauncherView/raw/master/LauncherView.gif" width="30%"/>
 
 项目名：CoordinatorLayoutHelper<br>
 git地址：https://github.com/mugku/CoordinatorLayoutHelper<br>
