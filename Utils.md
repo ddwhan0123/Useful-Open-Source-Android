@@ -254,6 +254,11 @@ git地址:https://github.com/sirmordred/android-BluetoothChat<br>
 
 
 
+项目名：AndroidHttpCapture<br>
+git地址：https://github.com/JZ-Darkal/AndroidHttpCapture<br>
+预览:<br>
+<img src="https://github.com/drakeet/CrashWoodpecker/raw/master/art/s2.png" width="30%"/><br><br>
+解释：AndroidHttpCapture网络诊断工具 是一款针对于移动流量劫持而开发的手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享<br>
 
 项目名：CrashWoodpecker<br>
 git地址：https://github.com/drakeet/CrashWoodpecker<br>
