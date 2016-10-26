@@ -5,6 +5,12 @@
 
 
 
+
+项目名：Material-ViewPagerIndicator<br>
+git地址：https://github.com/ronaldsmartin/Material-ViewPagerIndicator<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/ronaldsmartin/Material-ViewPagerIndicator/assets/screenshots/1.0.0/capture-v1.0.0.gif" width="30%"/>
+
 项目名：SlidingIntoView<br>
 git地址：https://github.com/ihsanbal/SlidingIntoView<br>
 预览:<br>
