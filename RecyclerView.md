@@ -431,6 +431,11 @@ git地址：https://github.com/android-cjj/Android-RecyclerViewWithFooter<br>
 <img src="https://github.com/android-cjj/Android-RecyclerViewWithFooter/raw/master/img/cjj2.jpg" width="30%"/><br>
 
 
+项目名：realm-recyclerview<br>
+git地址：https://github.com/thorbenprimke/realm-recyclerview<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/thorbenprimke/realm-recyclerview/master/extra/screenshot-demo-app.gif" width="30%"/><br>
+
 项目名：overscroll-decor<br>
 git地址：https://github.com/EverythingMe/overscroll-decor<br>
 预览:<br>
