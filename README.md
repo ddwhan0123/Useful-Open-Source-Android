@@ -121,7 +121,10 @@
 
 
 
-
+项目名：MaterialRatingBar<br>
+git地址：https://github.com/DreaminginCodeZH/MaterialRatingBar<br>
+预览:<br>
+<img src="https://github.com/DreaminginCodeZH/MaterialRatingBar/raw/master/screenshot/sample_app.jpg" width="30%"/>
 
 项目名：JDAddressSelector<br>
 git地址：https://github.com/chihane/JDAddressSelector<br>
