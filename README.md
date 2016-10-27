@@ -122,6 +122,12 @@
 
 
 
+
+项目名：JDAddressSelector<br>
+git地址：https://github.com/chihane/JDAddressSelector<br>
+预览:<br>
+<img src="https://github.com/chihane/JDAddressSelector/raw/master/screenshots/screenshot1.jpg" width="30%"/>
+
 项目名：android-pathview<br>
 git地址：https://github.com/geftimov/android-pathview<br>
 预览:<br>
