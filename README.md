@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-10-25<br>
+###更新时间:2016-10-27<br>
 
 
 
@@ -121,6 +121,11 @@
 
 
 
+
+项目名：android-pathview<br>
+git地址：https://github.com/geftimov/android-pathview<br>
+预览:<br>
+<img src="https://github.com/geftimov/android-pathview/raw/master/art/settings.gif" width="30%"/>
 
 项目名：LauncherView<br>
 git地址：https://github.com/diamondlin2016/LauncherView<br>
