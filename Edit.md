@@ -3,6 +3,12 @@
 <br>
 
 
+
+项目名： SuperTextView<br>
+git地址：https://github.com/lygttpod/SuperTextView<br>
+预览 ：<br>
+<img src="https://github.com/lygttpod/SuperTextView/raw/master/screenshot.png" width="30%"/><br>
+
 项目名： medium-textview<br>
 git地址：https://github.com/angebagui/medium-textview<br>
 预览 ：<br>
