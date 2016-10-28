@@ -3,7 +3,10 @@
 <br>
 
 
-
+项目名： medium-textview<br>
+git地址：https://github.com/angebagui/medium-textview<br>
+预览 ：<br>
+<img src="https://github.com/angebagui/medium-textview/raw/master/screenshot/Screenshot_2016-08-14-19-59-48.png" width="30%"/><br>
 
 项目名： ColorPhrase<br>
 git地址：https://github.com/THEONE10211024/ColorPhrase<br>
