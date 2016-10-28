@@ -121,6 +121,14 @@
 
 
 
+
+
+
+项目名：PersistentSearch<br>
+git地址：https://github.com/Quinny898/PersistentSearch<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/Quinny898/PersistentSearch/master/resources/search.gif" width="30%"/>
+
 项目名：BubbleAnimationLayout<br>
 git地址：https://github.com/Cleveroad/BubbleAnimationLayout<br>
 预览:<br>
