@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-10-27<br>
+###更新时间:2016-10-28<br>
 
 
 
@@ -120,6 +120,11 @@
 
 
 
+
+项目名：BubbleAnimationLayout<br>
+git地址：https://github.com/Cleveroad/BubbleAnimationLayout<br>
+预览:<br>
+<img src="https://github.com/Cleveroad/BubbleAnimationLayout/raw/master/images/demo_.gif" width="30%"/>
 
 项目名：MaterialRatingBar<br>
 git地址：https://github.com/DreaminginCodeZH/MaterialRatingBar<br>
