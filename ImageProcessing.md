@@ -87,7 +87,10 @@ git地址：https://github.com/adamstyrc/cookie-cutter<br>
 
 
 
-
+项目名：album<br>
+git地址：https://github.com/yanzhenjie/album<br>
+预览:<br>
+<img src="https://github.com/yanzhenjie/album/raw/master/image/2.gif?raw=true" width="30%" /><br>
 
 项目名：ImageSlideshow<br>
 git地址：https://github.com/zvonicek/ImageSlideshow<br>
