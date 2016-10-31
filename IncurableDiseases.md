@@ -32,6 +32,11 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
+项目名：SimpleCustomTabs<br>
+git地址:https://github.com/eliseomartelli/SimpleCustomTabs<br>
+预览:<br>
+<img src="https://github.com/eliseomartelli/SimpleCustomTabs/raw/master/assets/Screenshot1.jpg" width="30%"/><br>
+
 项目名：FingerprintAuthHelper<br>
 git地址:https://github.com/pro100svitlo/FingerprintAuthHelper<br>
 预览:<br>
