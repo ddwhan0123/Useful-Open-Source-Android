@@ -2,6 +2,12 @@
 
 
 
+
+项目名：ChipsLayoutManager<br>
+git地址：https://github.com/BelooS/ChipsLayoutManager<br>
+预览:<br>
+<img src="https://github.com/BelooS/ChipsLayoutManager/raw/master/images/demo.gif" width="30%"/><br>
+
 项目名：BubbleView<br>
 git地址：https://github.com/lguipeng/BubbleView<br>
 预览:<br>
