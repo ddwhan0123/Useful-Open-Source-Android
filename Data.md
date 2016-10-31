@@ -12,12 +12,19 @@
 
 
 
+项目名：AndroidLife<br>
+git地址：https://github.com/CaMnter/AndroidLife<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/32445cff4b9dbc9bbfa3c5d78d27456325510fe5/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f3030366c504563396a773166333674746f366d6f6f6a33313430317a346b336b2e6a7067" width="30%"/><br>
+解释：<br>
+The Android's life is very interesting and rich<br>
+
 项目名：SlideBack<br>
 git地址：https://github.com/oubowu/SlideBack<br>
 预览:<br>
 <img src="https://github.com/oubowu/SlideBack/raw/master/pic/demo.gif" width="30%"/><br>
 解释：<br>
-A library to finish an activity with slide action.<br>
+A library to finish an activity with slide action<br>
 
 项目名：MaterialResume<br>
 git地址：https://github.com/StanKocken/MaterialResume<br>
