@@ -78,7 +78,11 @@ git地址：https://github.com/adamstyrc/cookie-cutter<br>
 
 
 
+
 ###图片选择器相关：<br>
+
+
+
 
 
 
@@ -165,6 +169,10 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+
+
+
+
 ###图像处理：<br>
 
 
@@ -172,6 +180,12 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+
+
+项目名：BlurImageQcl<br>
+git地址：https://github.com/qiushi123/BlurImageQcl<br>
+预览:<br>
+<img src="https://github.com/qiushi123/BlurImageQcl/raw/master/images/qcl1_meitu_1.jpg?raw=true" width="30%"/><br>
 
 项目名：LowPoly<br>
 git地址：https://github.com/CoXier/LowPoly<br>
