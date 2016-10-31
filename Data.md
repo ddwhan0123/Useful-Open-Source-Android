@@ -190,12 +190,19 @@ git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 
 
 
+
+
+项目名：git-tips<br>
+git地址：https://github.com/521xueweihan/git-tips<br>
+解释:<br>
+Git的奇技淫巧<br>
+
 项目名：rxjava-examples<br>
 git地址：https://github.com/leeowenowen/rxjava-examples<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/wiki/leeowenowen/rxjava-examples/res/rxjava-1.png" width="30%"/><br>
 解释:<br>
-全面，完整，图文并茂的RxJavaAPI使用示例。<br>
+全面，完整，图文并茂的RxJavaAPI使用示例<br>
 
 项目名：Android_Resources<br>
 git地址：https://github.com/wkxwkx101/Android_Resources<br>
