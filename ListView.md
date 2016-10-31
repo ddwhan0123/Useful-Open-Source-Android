@@ -7,7 +7,10 @@
 
 
 
-
+项目名：DoubleStickyHeadersList<br>
+git地址：https://github.com/Kenber/DoubleStickyHeadersList<br>
+预览:<br>
+<img src="https://github.com/Kenber/DoubleStickyHeadersList/raw/master/samplePicture/sample.gif" width="30%" /><br>
 
 项目名：WheelView<br>
 git地址：https://github.com/venshine/WheelView<br>
