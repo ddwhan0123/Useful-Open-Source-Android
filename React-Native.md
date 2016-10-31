@@ -22,3 +22,10 @@ https://github.com/react-native-community/React-Native-Elements
 
 https://github.com/droidwolf/react-native-RealRecyclerView<br>
 解释：react-native-RealRecyclerView on android
+<br>
+
+###教程<br>
+https://github.com/facebookincubator/create-react-app
+<br>
+解释：<br>
+Create React apps with no build configuration<br>
