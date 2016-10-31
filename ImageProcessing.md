@@ -2,7 +2,13 @@
 ##图片选择器/编辑器/加载 相关:<br>
 
 
+
+
+
+
 ###图片剪裁相关：<br>
+
+
 
 
 
@@ -79,7 +85,12 @@ git地址：https://github.com/adamstyrc/cookie-cutter<br>
 
 
 
+
+
 ###图片选择器相关：<br>
+
+
+
 
 
 
@@ -176,7 +187,12 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+
+
 ###图像处理：<br>
+
+
+
 
 
 
@@ -199,6 +215,13 @@ git地址：https://github.com/CoXier/LowPoly<br>
 git地址：https://github.com/zetbaitsu/Compressor<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/zetbaitsu/Compressor/master/ss.png" width="30%"/><br>
+
+项目名：AdvancedLuban<br>
+git地址：https://github.com/shaohui10086/AdvancedLuban<br>
+预览:<br>
+<img src="https://github.com/shaohui10086/AdvancedLuban/raw/master/image/sketch_map.png" width="30%"/><br>
+解释：<br>
+An Advanced Compress Image Library for Android / 高效、简洁的图片压缩工具库 http://shaohui.me<br>
 
 
 项目名：FunkyHeader<br>
