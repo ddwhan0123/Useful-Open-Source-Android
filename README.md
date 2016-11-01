@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-10-31<br>
+###更新时间:2016-1-1<br>
 
 
 
@@ -115,11 +115,25 @@
 
 
 
+
+
+
 ##自定义控件/动画:<br>
 
 
 
 
+
+
+项目名：Multi-Selection<br>
+git地址：https://github.com/Yalantis/Multi-Selection<br>
+预览:<br>
+<img src="https://github.com/Yalantis/Multi-Selection/raw/develop/imgs/dribble.gif" width="30%"/>
+
+项目名：SearchFilter<br>
+git地址：https://github.com/Yalantis/SearchFilter<br>
+预览:<br>
+<img src="https://github.com/Yalantis/SearchFilter/raw/master/gif/dribbble.gif" width="30%"/>
 
 项目名：RaiflatButton<br>
 git地址：https://github.com/rubensousa/RaiflatButton<br>
