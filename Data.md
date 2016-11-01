@@ -198,6 +198,12 @@ git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 
 
 
+
+项目名：awesome-programming-books<br>
+git地址：https://github.com/jobbole/awesome-programming-books<br>
+解释:<br>
+经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等<br>
+
 项目名：translations<br>
 git地址：https://github.com/oldratlee/translations<br>
 解释:<br>
