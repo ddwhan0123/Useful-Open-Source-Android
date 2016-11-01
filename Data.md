@@ -198,6 +198,15 @@ git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 
 
 
+项目名：translations<br>
+git地址：https://github.com/oldratlee/translations<br>
+解释:<br>
+Chinese translations for classic IT resources<br>
+
+项目名：DriodDeveloper<br>
+git地址：https://github.com/hejunlin2013/DriodDeveloper<br>
+解释:<br>
+个人android 技术干货，问题深度总结，FrameWork源码解析，插件化研究，最新开源项目推荐，TV开发<br>
 
 项目名：git-tips<br>
 git地址：https://github.com/521xueweihan/git-tips<br>
