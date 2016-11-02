@@ -133,10 +133,7 @@ git地址：https://github.com/Yalantis/Multi-Selection<br>
 预览:<br>
 <img src="https://github.com/Yalantis/Multi-Selection/raw/develop/imgs/dribble.gif" width="30%"/>
 
-项目名：SearchFilter<br>
-git地址：https://github.com/Yalantis/SearchFilter<br>
-预览:<br>
-<img src="https://github.com/Yalantis/SearchFilter/raw/master/gif/dribbble.gif" width="30%"/>
+
 
 项目名：RaiflatButton<br>
 git地址：https://github.com/rubensousa/RaiflatButton<br>
@@ -148,10 +145,7 @@ git地址：https://github.com/czy1121/roundbutton<br>
 预览:<br>
 <img src="https://github.com/czy1121/roundbutton/raw/master/screenshot.png" width="30%"/>
 
-项目名：PersistentSearch<br>
-git地址：https://github.com/Quinny898/PersistentSearch<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/Quinny898/PersistentSearch/master/resources/search.gif" width="30%"/>
+
 
 项目名：BubbleAnimationLayout<br>
 git地址：https://github.com/Cleveroad/BubbleAnimationLayout<br>
@@ -230,10 +224,7 @@ git地址：https://github.com/vikramkakkar/ImageTransition<br>
 预览:<br>
 <img src="https://github.com/vikramkakkar/ImageTransition/raw/master/img/image_transition.gif?raw=true" width="30%"/>
 
-项目名：DateTimeSeer<br>
-git地址：https://github.com/p-v/DateTimeSeer<br>
-预览:<br>
-<img src="https://github.com/p-v/DateTimeSeer/raw/master/demo/demo.gif" width="30%"/>
+
 
 项目名：DiagonalLayout<br>
 git地址：https://github.com/florent37/DiagonalLayout<br>
@@ -679,13 +670,6 @@ git地址:https://github.com/dynamitechetan/Flowing-Gradient<br>
 <img src="https://github.com/dynamitechetan/Flowing-Gradient/raw/master/screenshots/Screenshot_20160720-215934.png" width="30%"/><br>
 
 
-
-
-项目名：MaterialSearchBar<br>
-git地址:https://github.com/mancj/MaterialSearchBar<br>
-预览:<br>
-<img src="https://github.com/mancj/MaterialSearchBar/raw/master/art/preview.gif" width="30%"/><br>
-
 项目名：AndroidFillableLoaders<br>
 git地址:https://github.com/JorgeCastilloPrz/AndroidFillableLoaders<br>
 预览:<br>
@@ -912,10 +896,7 @@ git地址：https://github.com/AleBarreto/FirebaseAndroidChat<br>
 <img src="https://github.com/AleBarreto/FirebaseAndroidChat/raw/master/prints/1.png?raw=true" width="30%"/><br>
 
 
-项目名：SearchViewr<br>
-git地址：https://github.com/lapism/SearchViewr<br>
-预览:<br>
-<img src="https://github.com/lapism/SearchView/raw/master/images/image_2.png" width="30%"/><br>
+
 
 项目名：ExpandingPager<br>
 git地址：https://github.com/florent37/ExpandingPager<br>
@@ -1064,10 +1045,7 @@ git地址：https://github.com/hitherejoe/animate<br>
 预览:<br>
 <img src="https://github.com/hitherejoe/animate/raw/master/images/object_animator.gif" width="30%"/><br>
 
-项目名：MaterialSearchView<br>
-git地址：https://github.com/MiguelCatalan/MaterialSearchView<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/MiguelCatalan/MaterialSearchView/master/art/voice.gif" width="30%"/><br>
+
 
 项目名：PinLockView<br>
 git地址：https://github.com/aritraroy/PinLockView<br>
@@ -1310,7 +1288,4 @@ git地址：https://github.com/seedante/CardAnimation<br>
 
 
 
-项目名：NestedToolbarTutorial<br>
-git地址：https://github.com/AlexZhukovich/NestedToolbarTutorial<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/321b9d0d1ecb421b1b1411578e52aa10be099ee2/687474703a2f2f616c65787a6
+
