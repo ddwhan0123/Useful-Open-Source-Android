@@ -30,7 +30,7 @@ git地址：https://github.com/Nightonke/FaceOffToggleButton<br>
 
 
 
-###checkbox<br>
+###CheckBox<br>
 
 
 
