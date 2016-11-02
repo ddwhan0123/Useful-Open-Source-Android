@@ -247,10 +247,7 @@ git地址：https://github.com/masterlittle/SlideButton<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/eaa183b3451a59adb02f343538ae4797512afa8a/68747470733a2f2f692e696d6775722e636f6d2f6f4e5364384f4a2e706e67" width="30%"/>
 
-项目名：BEMCheckBox<br>
-git地址：https://github.com/Boris-Em/BEMCheckBox<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/12238fb7daad2379149633dc9e6fd0d16274046d/687474703a2f2f7331322e706f7374696d672e6f72672f766e32697261686a782f42454d436865636b5f426f782e676966" width="30%"/>
+
 
 项目名：ShareButton<br>
 git地址：https://github.com/kayan1990/ShareButton<br>
