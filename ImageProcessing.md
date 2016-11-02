@@ -196,7 +196,10 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
-
+项目名：PhotoDraweeView<br>
+git地址：https://github.com/ongakuer/PhotoDraweeView<br>
+预览:<br>
+<img src="https://github.com/ongakuer/PhotoDraweeView/raw/master/screenshot.gif" width="30%"/><br>
 
 项目名：neural-enhance<br>
 git地址：https://github.com/alexjc/neural-enhance<br>
