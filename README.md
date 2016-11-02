@@ -205,10 +205,7 @@ git地址：https://github.com/Jaouan/Sending-Animation-Example<br>
 预览:<br>
 <img src="https://github.com/Jaouan/Sending-Animation-Example/raw/master/art/demo.gif" width="30%"/>
 
-项目名：BigBang<br>
-git地址：https://github.com/baoyongzhang/BigBang<br>
-预览:<br>
-<img src="https://github.com/baoyongzhang/BigBang/raw/master/design/bigbang_demo.gif" width="30%"/>
+
 
 项目名：baso<br>
 git地址：https://github.com/gitsindonesia/baso<br>
