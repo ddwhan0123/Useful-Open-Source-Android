@@ -4,7 +4,10 @@
 
 
 
-
+项目名：InfiniteViewPager<br>
+git地址：https://github.com/waylife/InfiniteViewPager<br>
+预览:<br>
+<img src="https://github.com/waylife/InfiniteViewPager/raw/master/ScreenCapture/preview_s2.gif" width="30%"/>
 
 项目名：Material-ViewPagerIndicator<br>
 git地址：https://github.com/ronaldsmartin/Material-ViewPagerIndicator<br>
