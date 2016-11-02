@@ -364,7 +364,7 @@ git地址：https://github.com/andremion/Android-Animated-Icons<br>
 项目名：TapTargetView<br>
 git地址：https://github.com/KeepSafe/TapTargetView<br>
 预览:<br>
-<img src="https://github.com/KeepSafe/TapTargetView/raw/master/art/screenshot2.png" width="30%"/>
+<img src="https://github.com/KeepSafe/TapTargetView/raw/master/.github/video.gif" width="30%"/>
 
 项目名：ShoppingCartAnimation<br>
 git地址：https://github.com/captain-miao/ShoppingCartAnimation<br>
