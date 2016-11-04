@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-11-3<br>
+###更新时间:2016-11-4<br>
 
 
 
@@ -126,7 +126,10 @@
 
 
 
-
+项目名：Android-ScaleLayout<br>
+git地址：https://github.com/gavinliu/Android-ScaleLayout<br>
+预览:<br>
+<img src="https://github.com/gavinliu/Android-ScaleLayout/raw/master/screenhot.png" width="30%"/>
 
 项目名：Multi-Selection<br>
 git地址：https://github.com/Yalantis/Multi-Selection<br>
