@@ -4,6 +4,11 @@
 
 
 
+项目名： SlickForm<br>
+git地址：https://github.com/AlburIvan/SlickForm<br>
+预览 ：<br>
+<img src="https://raw.githubusercontent.com/AlburIvan/SlickForm/master/slick_form_demo.gif" width="30%"/><br>
+
 项目名： SuperTextView<br>
 git地址：https://github.com/lygttpod/SuperTextView<br>
 预览 ：<br>
