@@ -30,7 +30,10 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
-
+项目名：NotificationBox<br>
+git地址:https://github.com/gavinliu/NotificationBox<br>
+预览:<br>
+<img src="https://github.com/gavinliu/NotificationBox/raw/master/screenshots.png" width="30%"/><br>
 
 项目名：SimpleCustomTabs<br>
 git地址:https://github.com/eliseomartelli/SimpleCustomTabs<br>
