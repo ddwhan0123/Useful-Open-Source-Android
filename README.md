@@ -127,6 +127,12 @@
 
 
 
+
+项目名：FloatingView<br>
+git地址：https://github.com/UFreedom/FloatingView<br>
+预览:<br>
+<img src="https://github.com/UFreedom/FloatingView/raw/master/images/floating_anim.gif" width="30%"/>
+
 项目名：RippleLayout<br>
 git地址：https://github.com/liuguangqiang/RippleLayout<br>
 预览:<br>
