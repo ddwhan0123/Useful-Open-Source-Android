@@ -126,7 +126,10 @@
 
 
 
-
+项目名：ByeBurgerNavigationView<br>
+git地址：https://github.com/githubwing/ByeBurgerNavigationView<br>
+预览:<br>
+<img src="https://github.com/githubwing/ByeBurgerNavigationView/raw/master/preview.gif" width="30%"/>
 
 项目名：FloatingView<br>
 git地址：https://github.com/UFreedom/FloatingView<br>
