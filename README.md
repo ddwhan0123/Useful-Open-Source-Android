@@ -126,6 +126,16 @@
 
 
 
+
+
+
+
+
+项目名：TransitionHelper<br>
+git地址：https://github.com/ImmortalZ/TransitionHelper<br>
+预览:<br>
+<img src="https://github.com/ImmortalZ/TransitionHelper/raw/master/screenshots/image.gif" width="30%"/>
+
 项目名：Android-ScaleLayout<br>
 git地址：https://github.com/gavinliu/Android-ScaleLayout<br>
 预览:<br>
