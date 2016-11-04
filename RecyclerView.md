@@ -7,7 +7,10 @@
 
 
 
-
+项目名：PullToRefreshAndLoadMore<br>
+git地址：https://github.com/woxingxiao/PullToRefreshAndLoadMore<br>
+预览:<br>
+<img src="https://github.com/woxingxiao/PullToRefreshAndLoadMore/raw/master/screenshots/demo3.gif" width="30%"/><br>
 
 项目名：CutoLoadingView<br>
 git地址：https://github.com/andyxialm/CutoLoadingView<br>
