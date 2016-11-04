@@ -129,7 +129,10 @@
 
 
 
-
+项目名：android-TNRAnimationHelper<br>
+git地址：https://github.com/thunderrise/android-TNRAnimationHelper<br>
+预览:<br>
+<img src="https://github.com/thunderrise/android-TNRAnimationHelper/raw/master/images/rotation.gif" width="30%"/>
 
 项目名：TransitionHelper<br>
 git地址：https://github.com/ImmortalZ/TransitionHelper<br>
