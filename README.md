@@ -127,7 +127,10 @@
 
 
 
-
+项目名：RippleLayout<br>
+git地址：https://github.com/liuguangqiang/RippleLayout<br>
+预览:<br>
+<img src="https://github.com/liuguangqiang/RippleLayout/raw/master/arts/ripple2.gif" width="30%"/>
 
 项目名：android-TNRAnimationHelper<br>
 git地址：https://github.com/thunderrise/android-TNRAnimationHelper<br>
