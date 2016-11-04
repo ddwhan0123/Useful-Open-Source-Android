@@ -1,6 +1,16 @@
 ###SearchView<br>
 
 
+
+
+
+
+
+项目名：floatingsearchview<br>
+git地址：https://github.com/tommyyi/floatingsearchview<br>
+预览:<br>
+<img src="https://github.com/tommyyi/floatingsearchview/raw/master/images/vf353.gif" width="30%"/>
+
 项目名：SearchFilter<br>
 git地址：https://github.com/Yalantis/SearchFilter<br>
 预览:<br>
