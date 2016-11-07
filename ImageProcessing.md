@@ -194,7 +194,10 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
-
+项目名：FrescoBigImageViewer<br>
+git地址：https://github.com/Piasy/FrescoBigImageViewer<br>
+预览:<br>
+<img src="https://github.com/Piasy/FrescoBigImageViewer/raw/master/art/fresco_big_image_viewer_demo.gif" width="30%"/><br>
 
 项目名：PhotoDraweeView<br>
 git地址：https://github.com/ongakuer/PhotoDraweeView<br>
