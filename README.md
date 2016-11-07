@@ -127,7 +127,10 @@
 
 
 
-
+项目名：PathAnimView<br>
+git地址：https://github.com/mcxtzhang/PathAnimView<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/ffbf209cd278c01aaac6b74ba80c116cb6afe2dc/687474703a2f2f61632d6d686b65306b75762e636c6f7564646e2e636f6d2f34303431366234376664616361656264323162652e676966" width="30%"/>
 
 项目名：BounceLoadingView<br>
 git地址：https://github.com/niniloveyou/BounceLoadingView<br>
