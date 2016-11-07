@@ -547,7 +547,7 @@ git地址:https://github.com/poldz123/ShapeRipple<br>
 项目名：ShapedImageView<br>
 git地址:https://github.com/gavinliu/ShapedImageView<br>
 预览:<br>
-<img src="https://github.com/gavinliu/ShapedImageView/raw/master/screenhots.png" width="30%"/><br>
+<img src="https://github.com/gavinliu/ShapedImageView/raw/master/screenshots1.png" width="30%"/><br>
 
 项目名：WeChatPswKeyboard<br>
 git地址:https://github.com/zuiwuyuan/WeChatPswKeyboard<br>
@@ -557,7 +557,7 @@ git地址:https://github.com/zuiwuyuan/WeChatPswKeyboard<br>
 项目名：AndroidSlidingUpPanel<br>
 git地址:https://github.com/umano/AndroidSlidingUpPanel<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/834cfd81ce764457db69dc023e1bd0adf0a8d00d/68747470733a2f2f7261772e6769746875622e636f6d2f756d616e6f2f416e64726f6964536c6964696e67557050616e656c44656d6f2f6d61737465722f736c6964696e67757070616e656c2e706e67" width="30%"/><br>
+<img src="https://camo.githubusercontent.com/834cfd81ce764457db69dc023e1bd0adf0a8d00d/68747470733a2f2f7261772e6769746875622e636f6d2f756d616e6f2f416e64726f6964536c6964696e67557050616e656c44656d6f2f6d61737465722f736c6964696e67757070616e656c2e706e67" width="40%"/><br>
 
 项目名：Steppers<br>
 git地址:https://github.com/drozdzynski/Steppers<br>
@@ -605,7 +605,7 @@ git地址:https://github.com/hujiaweibujidao/IconFontApp<br>
 项目名：AndroidAudioRecorder<br>
 git地址:https://github.com/adrielcafe/AndroidAudioRecorder<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/adrielcafe/AndroidAudioRecorder/master/screenshots.png" width="30%"/><br>
+<img src="https://raw.githubusercontent.com/adrielcafe/AndroidAudioRecorder/master/screenshots.png" width="40%"/><br>
 
 项目名：nougat-boot-animation<br>
 git地址:https://github.com/ybq/nougat-boot-animation<br>
@@ -673,7 +673,7 @@ Generates a Java Object for your xml layout to reduce inflate time to zero<br>
 项目名：JIkeGallery<br>
 git地址:https://github.com/JeasonWong/JIkeGallery<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/1706924e07392c8d2c326ff1eb479cd5311bd238/687474703a2f2f69342e7069696d672e636f6d2f313037302f613433343434313832663637376231642e676966" width="30%"/><br>
+<img src="https://camo.githubusercontent.com/1706924e07392c8d2c326ff1eb479cd5311bd238/687474703a2f2f69342e7069696d672e636f6d2f313037302f613433343434313832663637376231642e676966" width="40%"/><br>
 
 
 
@@ -721,7 +721,7 @@ git地址:https://github.com/qifengdeqingchen/SeatTable<br>
 项目名：500px-android-blur<br>
 git地址:https://github.com/500px/500px-android-blur<br>
 预览:<br>
-<img src="https://github.com/500px/500px-android-blur/raw/master/blurdemo.gif" width="30%"/><br>
+<img src="https://github.com/500px/500px-android-blur/raw/master/blurdemo.gif" width="40%"/><br>
 
 项目名：BooheeScrollView<br>
 git地址:https://github.com/zhaozhentao/BooheeScrollView<br>
@@ -844,7 +844,7 @@ git地址：https://github.com/binIoter/GuideView<br>
 项目名：highlightjs-android<br>
 git地址：https://github.com/PDDStudio/highlightjs-android<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/PDDStudio/highlightjs-android/master/gfx/demo.png" width="30%"/><br>
+<img src="https://raw.githubusercontent.com/PDDStudio/highlightjs-android/master/gfx/demo.png" width="40%"/><br>
 
 项目名：MetaballLoading<br>
 git地址：https://github.com/dodola/MetaballLoading<br>
