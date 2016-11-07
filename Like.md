@@ -1,6 +1,13 @@
 ##like/点赞
 
 
+
+
+项目名：FloatingView<br>
+git地址：https://github.com/UFreedom/FloatingView<br>
+预览:<br>
+<img src="https://github.com/UFreedom/FloatingView/raw/master/images/floating_anim.gif" width="30%"/>
+
 项目名：QQBubbleView<br>
 git地址：https://github.com/Yasic/QQBubbleView<br>
 预览:<br>
