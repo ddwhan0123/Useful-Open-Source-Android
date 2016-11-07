@@ -4,7 +4,10 @@
 
 
 
-
+项目名：SmoothCheckBox<br>
+git地址:https://github.com/andyxialm/SmoothCheckBox<br>
+预览:<br>
+<img src="https://github.com/andyxialm/SmoothCheckBox/raw/master/art/smoothcb.gif?raw=true" width="30%"/><br>
 
 项目名：SwitchButton<br>
 git地址：https://github.com/BaymaxTong/SwitchButton<br>
