@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-11-4<br>
+###更新时间:2016-11-7<br>
 
 
 
@@ -127,7 +127,10 @@
 
 
 
-
+项目名：BounceLoadingView<br>
+git地址：https://github.com/niniloveyou/BounceLoadingView<br>
+预览:<br>
+<img src="https://github.com/niniloveyou/BounceLoadingView/raw/master/bounceLoadingView.gif" width="30%"/>
 
 项目名：ThreeDLayout<br>
 git地址：https://github.com/githubwing/ThreeDLayout<br>
