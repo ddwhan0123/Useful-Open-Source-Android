@@ -197,7 +197,10 @@ git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
 
 
 
-
+项目名：mostly-adequate-guide-chinese<br>
+git地址：https://github.com/llh911001/mostly-adequate-guide-chinese<br>
+解释:<br>
+JS函数式编程指南中文版 http://llh911001.gitbooks.io/mostly-adequate-guide-chinese<br>
 
 项目名：awesome-programming-books<br>
 git地址：https://github.com/jobbole/awesome-programming-books<br>
