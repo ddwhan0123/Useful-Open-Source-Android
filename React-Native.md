@@ -17,6 +17,8 @@ https://github.com/brillout/awesome-react-components(主件相关，只是收集
 https://github.com/react-native-community/React-Native-Elements
 <br>
 
+###ViewPager<br>
+https://github.com/FuYaoDe/react-native-app-intro<br>
 
 ###RecyclerView
 
