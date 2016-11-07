@@ -145,7 +145,7 @@ git地址：https://github.com/githubwing/ThreeDLayout<br>
 项目名：ByeBurgerNavigationView<br>
 git地址：https://github.com/githubwing/ByeBurgerNavigationView<br>
 预览:<br>
-<img src="https://github.com/githubwing/ByeBurgerNavigationView/raw/master/preview.gif" width="30%"/>
+<img src="https://github.com/githubwing/ByeBurgerNavigationView/raw/master/img/title.gif" width="30%"/>
 
 
 
@@ -167,7 +167,7 @@ git地址：https://github.com/ImmortalZ/TransitionHelper<br>
 项目名：Android-ScaleLayout<br>
 git地址：https://github.com/gavinliu/Android-ScaleLayout<br>
 预览:<br>
-<img src="https://github.com/gavinliu/Android-ScaleLayout/raw/master/screenhot.png" width="30%"/>
+<img src="https://github.com/gavinliu/Android-ScaleLayout/raw/master/screenhot.png" width="50%"/>
 
 项目名：Multi-Selection<br>
 git地址：https://github.com/Yalantis/Multi-Selection<br>
@@ -357,7 +357,7 @@ git地址：https://github.com/LichFaker/ScaleView<br>
 项目名：CouponView<br>
 git地址：https://github.com/dongjunkun/CouponView<br>
 预览:<br>
-<img src="https://github.com/dongjunkun/CouponView/raw/master/art/couponView.png" width="30%"/>
+<img src="https://github.com/dongjunkun/CouponView/raw/master/art/couponView.png" width="40%"/>
 
 项目名：Leonids<br>
 git地址：https://github.com/plattysoft/Leonids<br>
@@ -434,7 +434,7 @@ git地址：https://github.com/loopeer/ScrollTableView<br>
 项目名：ATableView<br>
 git地址：https://github.com/dmacosta/ATableView<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/5cbc47c9ac3db34cc41451bbf4a430c59e4c83b4/687474703a2f2f6f6934352e74696e797069632e636f6d2f7673686e32782e6a7067" width="30%"/><br>
+<img src="https://camo.githubusercontent.com/5cbc47c9ac3db34cc41451bbf4a430c59e4c83b4/687474703a2f2f6f6934352e74696e797069632e636f6d2f7673686e32782e6a7067" width="40%"/><br>
 
 项目名：CreditSesameRingView<br>
 git地址：https://github.com/HotBitmapGG/CreditSesameRingView<br>
