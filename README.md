@@ -127,6 +127,9 @@
 
 
 
+
+
+
 项目名：PathAnimView<br>
 git地址：https://github.com/mcxtzhang/PathAnimView<br>
 预览:<br>
@@ -517,10 +520,7 @@ git地址:https://github.com/Jaouan/CompoundLayout<br>
 预览:<br>
 <img src="https://github.com/Jaouan/CompoundLayout/raw/master/art/demo.gif" width="30%"/><br>
 
-项目名：SmileyLoadingView<br>
-git地址:https://github.com/andyxialm/SmileyLoadingView<br>
-预览:<br>
-<img src="https://github.com/andyxialm/SmileyLoadingView/raw/master/art/screenshot.gif?raw=true" width="30%"/><br>
+
 
 项目名：HighLightGuideView<br>
 git地址:https://github.com/jaydenxiao2016/HighLightGuideView<br>
