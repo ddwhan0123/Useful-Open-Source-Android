@@ -62,7 +62,10 @@ git地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/d3fbe757c87fddc94e998ebdd08ac55956aed1cf/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f73746f72652d686f7573652d737472696e672e676966" width="30%"/><br>
 
-
+项目名：SmileyLoadingView<br>
+git地址:https://github.com/andyxialm/SmileyLoadingView<br>
+预览:<br>
+<img src="https://github.com/andyxialm/SmileyLoadingView/raw/master/art/screenshot.gif?raw=true" width="30%"/><br>
 
 
 
