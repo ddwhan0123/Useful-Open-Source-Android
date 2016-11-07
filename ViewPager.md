@@ -4,6 +4,11 @@
 
 
 
+项目名：CircleIndicator<br>
+git地址：https://github.com/ongakuer/CircleIndicator<br>
+预览:<br>
+<img src="https://github.com/ongakuer/CircleIndicator/raw/master/screenshot.gif" width="30%"/>
+
 项目名：InfiniteViewPager<br>
 git地址：https://github.com/waylife/InfiniteViewPager<br>
 预览:<br>
