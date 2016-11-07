@@ -128,7 +128,10 @@
 
 
 
-
+项目名：ReadMoreTextView<br>
+git地址：https://github.com/borjabravo10/ReadMoreTextView<br>
+预览:<br>
+<img src="https://github.com/borjabravo10/ReadMoreTextView/raw/master/screenshots/expanded.png" width="30%"/>
 
 项目名：PathAnimView<br>
 git地址：https://github.com/mcxtzhang/PathAnimView<br>
