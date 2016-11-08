@@ -9,6 +9,19 @@
 
 
 
+
+
+
+项目名：TagsEditText<br>
+git地址：https://github.com/mabbas007/TagsEditText<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/3a26ca3308d07d4040d9b6bea3dd65b0cc605516/687474703a2f2f692e696d6775722e636f6d2f5a4a596c734e4c2e706e673f33" width="30%" /><br>
+
+项目名： android-phone-field<br>
+git地址：https://github.com/lamudi-gmbh/android-phone-field<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/lamudi-gmbh/android-phone-field/master/raw/phone-field.gif" width="30%"/><br>
+
 项目名：EasyForm<br>
 git地址：https://github.com/emmasuzuki/EasyForm<br>
 预览:<br>
@@ -193,15 +206,9 @@ git地址：https://github.com/1gravity/Android-RTEditor<br>
 
 
 
-项目名： android-phone-field<br>
-git地址：https://github.com/lamudi-gmbh/android-phone-field<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/lamudi-gmbh/android-phone-field/master/raw/phone-field.gif" width="30%"/><br>
 
-项目名：TagsEditText<br>
-git地址：https://github.com/mabbas007/TagsEditText<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/3a26ca3308d07d4040d9b6bea3dd65b0cc605516/687474703a2f2f692e696d6775722e636f6d2f5a4a596c734e4c2e706e673f33" width="30%" /><br>
+
+
 
 项目名：MoveKeyboard<br>
 git地址：https://github.com/09xuanjian/MoveKeyboard<br>
