@@ -218,7 +218,7 @@ git地址：https://github.com/klinker24/Android-SlidingEmojiKeyboard<br>
 项目名： MarkedView-for-Android<br>
 git地址：https://github.com/mittsuu/MarkedView-for-Android<br>
 预览:<br>
-<img src="https://github.com/mittsuu/MarkedView-for-Android/raw/master/sample_sc.png" width="30%"/><br>
+<img src="https://github.com/mittsuu/MarkedView-for-Android/raw/master/sample-sc.gif" width="30%"/><br>
 
 
 
