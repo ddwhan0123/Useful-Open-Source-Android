@@ -6,10 +6,21 @@
 
 ###EditText<br>
 
+
+项目名： BouncyEditText<br>
+git地址：https://github.com/zzz40500/BouncyEditText<br>
+预览 ：<br>
+<img src="https://camo.githubusercontent.com/0e2db9c248bf4bd3b3444e2074d96feff4a77c51/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d333763396338356166383238633332392e676966" width="30%"/><br>
+
 项目名： AutoFillEmailEditText<br>
 git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 预览 ：<br>
 <img src="https://github.com/wangshaolei/AutoFillEmailEditText/raw/master/img/1.png" width="30%"/><br>
+
+项目名： Android-RTEditor<br>
+git地址：https://github.com/1gravity/Android-RTEditor<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/8dd52f83a752bf322a4f622dbd9c0599b7888f67/687474703a2f2f7777772e31677261766974792e636f6d2f696d616765732f7269636874657874656469746f722e706e67" width="30%"/><br>
 
 
 ###TextView<br>
@@ -48,10 +59,7 @@ git地址：https://github.com/zhonghanwen/ColorTextView<br>
 
 
 
-项目名： BouncyEditText<br>
-git地址：https://github.com/zzz40500/BouncyEditText<br>
-预览 ：<br>
-<img src="https://camo.githubusercontent.com/0e2db9c248bf4bd3b3444e2074d96feff4a77c51/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d333763396338356166383238633332392e676966" width="30%"/><br>
+
 
 项目名： emojicon<br>
 git地址：https://github.com/rockerhieu/emojicon<br>
@@ -63,10 +71,6 @@ git地址：https://github.com/armcha/AutoLinkTextView<br>
 预览 ：<br>
 <img src="https://github.com/armcha/AutoLinkTextView/raw/master/screens/gif1.gif" width="30%"/><br>
 
-项目名： AutoLinkTextView<br>
-git地址：https://github.com/armcha/AutoLinkTextView<br>
-预览 ：<br>
-<img src="https://github.com/armcha/AutoLinkTextView/raw/master/screens/gif1.gif" width="30%"/><br>
 
 项目名： codeview-android<br>
 git地址：https://github.com/Softwee/codeview-android<br>
@@ -163,10 +167,7 @@ git地址：https://github.com/mittsuu/MarkedView-for-Android<br>
 预览:<br>
 <img src="https://github.com/mittsuu/MarkedView-for-Android/raw/master/sample_sc.png" width="30%"/><br>
 
-项目名： Android-RTEditor<br>
-git地址：https://github.com/1gravity/Android-RTEditor<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/8dd52f83a752bf322a4f622dbd9c0599b7888f67/687474703a2f2f7777772e31677261766974792e636f6d2f696d616765732f7269636874657874656469746f722e706e67" width="30%"/><br>
+
 
 项目名： passwordview<br>
 git地址：https://github.com/lisawray/passwordview<br>
