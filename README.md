@@ -94,8 +94,8 @@
 ##[点击跳转 GridView.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/GridView.md)
 
 
-##输入内容 相关：<br>
-##[点击跳转 Edit.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Edit.md)
+##Edit&TextView相关：<br>
+##[点击跳转 Edit&TextView.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Edit&TextView.md)
 
 
 ## Notification 相关:<br>
