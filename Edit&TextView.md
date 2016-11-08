@@ -9,8 +9,30 @@
 
 
 
+项目名： SkyFloatingLabelTextField<br>
+git地址：https://github.com/Skyscanner/SkyFloatingLabelTextField<br>
+预览:<br>
+<img src="https://github.com/Skyscanner/SkyFloatingLabelTextField/raw/master/SkyFloatingLabelTextField/images/example-1.gif" width="30%"/><br>
 
+项目名： RxMarkdown<br>
+git地址：https://github.com/yydcdut/RxMarkdown<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/yydcdut/RxMarkdown/master/art/rxmarkdown.gif" width="30%"/><br>
 
+项目名： ChipLayout<br>
+git地址：https://github.com/OfficialAmal/ChipLayout<br>
+预览:<br>
+<img src="https://github.com/OfficialAmal/ChipLayout/raw/master/img/img2.png" width="30%"/><br>
+
+项目名： emojicon<br>
+git地址：https://github.com/rockerhieu/emojicon<br>
+预览 ：<br>
+<img src="https://github.com/rockerhieu/emojicon/raw/master/images/sample.jpg" width="30%"/><br>
+
+项目名： Android-RTEditor<br>
+git地址：https://github.com/1gravity/Android-RTEditor<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/8dd52f83a752bf322a4f622dbd9c0599b7888f67/687474703a2f2f7777772e31677261766974792e636f6d2f696d616765732f7269636874657874656469746f722e706e67" width="30%"/><br>
 
 项目名：TagsEditText<br>
 git地址：https://github.com/mabbas007/TagsEditText<br>
@@ -42,10 +64,7 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 预览 ：<br>
 <img src="https://github.com/wangshaolei/AutoFillEmailEditText/raw/master/img/1.png" width="30%"/><br>
 
-项目名： Android-RTEditor<br>
-git地址：https://github.com/1gravity/Android-RTEditor<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/8dd52f83a752bf322a4f622dbd9c0599b7888f67/687474703a2f2f7777772e31677261766974792e636f6d2f696d616765732f7269636874657874656469746f722e706e67" width="30%"/><br>
+
 
 
 ###TextView<br>
@@ -86,10 +105,7 @@ git地址：https://github.com/zhonghanwen/ColorTextView<br>
 
 
 
-项目名： emojicon<br>
-git地址：https://github.com/rockerhieu/emojicon<br>
-预览 ：<br>
-<img src="https://github.com/rockerhieu/emojicon/raw/master/images/sample.jpg" width="30%"/><br>
+
 
 项目名： AutoLinkTextView<br>
 git地址：https://github.com/armcha/AutoLinkTextView<br>
@@ -128,10 +144,7 @@ git地址：https://github.com/cctanfujun/HintAnim-EditText<br>
 预览:<br>
 <img src="https://github.com/cctanfujun/HintAnim-EditText/raw/master/img/Hint-Anim.gif" width="30%"/><br>
 
-项目名： ChipLayout<br>
-git地址：https://github.com/OfficialAmal/ChipLayout<br>
-预览:<br>
-<img src="https://github.com/OfficialAmal/ChipLayout/raw/master/img/img2.png" width="30%"/><br>
+
 
 项目名： Emojix<br>
 git地址：https://github.com/nekocode/Emojix<br>
@@ -139,10 +152,7 @@ git地址：https://github.com/nekocode/Emojix<br>
 <img src="https://github.com/nekocode/Emojix/raw/master/art/preview.png" width="30%"/><br>
 
 
-项目名： RxMarkdown<br>
-git地址：https://github.com/yydcdut/RxMarkdown<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/yydcdut/RxMarkdown/master/art/rxmarkdown.gif" width="30%"/><br>
+
 
 
 项目名： SortRichEditor<br>
@@ -150,10 +160,7 @@ git地址：https://github.com/Hitomis/SortRichEditor<br>
 预览:<br>
 <img src="https://github.com/Hitomis/SortRichEditor/raw/master/preview/SortRichEditor.gif" width="30%"/><br>
 
-项目名： SkyFloatingLabelTextField<br>
-git地址：https://github.com/Skyscanner/SkyFloatingLabelTextField<br>
-预览:<br>
-<img src="https://github.com/Skyscanner/SkyFloatingLabelTextField/raw/master/SkyFloatingLabelTextField/images/example-1.gif" width="30%"/><br>
+
 
 
 项目名： android-animate-RichEditor<br>
