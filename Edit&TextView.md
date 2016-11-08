@@ -9,6 +9,18 @@
 
 
 
+
+
+项目名： android-animate-RichEditor<br>
+git地址：https://github.com/xmuSistone/android-animate-RichEditor<br>
+预览:<br>
+<img src="https://github.com/xmuSistone/android-animate-RichEditor/raw/master/capture02.gif" width="30%"/><br>
+
+项目名： AndroidEdit<br>
+git地址：https://github.com/qinci/AndroidEdit<br>
+预览:<br>
+<img src="https://github.com/qinci/AndroidEdit/raw/master/image/image.gif" width="30%"/><br>
+
 项目名： SkyFloatingLabelTextField<br>
 git地址：https://github.com/Skyscanner/SkyFloatingLabelTextField<br>
 预览:<br>
@@ -163,15 +175,7 @@ git地址：https://github.com/Hitomis/SortRichEditor<br>
 
 
 
-项目名： android-animate-RichEditor<br>
-git地址：https://github.com/xmuSistone/android-animate-RichEditor<br>
-预览:<br>
-<img src="https://github.com/xmuSistone/android-animate-RichEditor/raw/master/capture02.gif" width="30%"/><br>
 
-项目名： AndroidEdit<br>
-git地址：https://github.com/qinci/AndroidEdit<br>
-预览:<br>
-<img src="https://github.com/qinci/AndroidEdit/raw/master/image/image.gif" width="30%"/><br>
 
 项目名：TextViewOverflowing<br>
 git地址：https://github.com/JustinAngel/TextViewOverflowing<br>
