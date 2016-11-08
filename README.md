@@ -133,9 +133,15 @@
 
 
 
+项目名：BadgeView<br>
+git地址：https://github.com/AlexLiuSheng/BadgeView<br>
+预览:<br>
+<img src="https://github.com/AlexLiuSheng/BadgeView/raw/master/library/gif.png" width="30%"/>
 
-
-
+项目名：BadgeView<br>
+git地址：https://github.com/elevenetc/BadgeView<br>
+预览:<br>
+<img src="https://github.com/elevenetc/BadgeView/raw/master/docs/badgeview-spongebob.gif" width="30%"/>
 
 项目名：ParallaxEverywhere<br>
 git地址：https://github.com/Narfss/ParallaxEverywhere<br>
