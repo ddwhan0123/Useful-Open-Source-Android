@@ -129,6 +129,13 @@
 
 
 
+
+
+项目名：ParallaxEverywhere<br>
+git地址：https://github.com/Narfss/ParallaxEverywhere<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/Narfss/ParallaxEverywhere/master/parallax-everywhere-animation-optimize.gif" width="30%"/>
+
 项目名：qianghongbao<br>
 git地址：https://github.com/lendylongli/qianghongbao<br>
 预览:<br>
