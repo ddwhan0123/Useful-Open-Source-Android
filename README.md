@@ -1037,10 +1037,7 @@ git地址：https://github.com/amulyakhare/TextDrawable<br>
 预览:<br>
 <img src="https://github.com/amulyakhare/TextDrawable/raw/master/screens/screen2-material.png" width="30%"/><br>
 
-项目名：ExpandableLayout<br>
-git地址：https://github.com/SilenceDut/ExpandableLayout<br>
-预览:<br>
-<img src="https://github.com/SilenceDut/ExpandableLayout/raw/master/media/simple_use.gif" width="30%"/><br>
+
 
 
 项目名：fontbinding<br>
@@ -1215,10 +1212,7 @@ git地址：https://github.com/BCGDV-ASIA/android-widget-ticktock<br>
 <img src="https://camo.githubusercontent.com/a99213ab9cbd3056b71b34d551d984ed422a438c/687474703a2f2f692e67697068792e636f6d2f50647835314a426635663930412e676966" width="30%"/><br>
 
 
-项目名：Lettrine<br>
-git地址：https://github.com/rpradal/Lettrine<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/c61a3e23a92b9f9b5ead21d0a1a9193843864a81/687474703a2f2f692e696d6775722e636f6d2f567561573670412e6a7067" width="30%"/><br>
+
 
 
 
