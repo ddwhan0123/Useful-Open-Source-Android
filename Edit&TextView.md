@@ -8,6 +8,31 @@
 
 
 
+
+
+
+
+项目名： Android-RTEditor<br>
+git地址：https://github.com/1gravity/Android-RTEditor<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/8dd52f83a752bf322a4f622dbd9c0599b7888f67/687474703a2f2f7777772e31677261766974792e636f6d2f696d616765732f7269636874657874656469746f722e706e67" width="30%"/><br>
+
+
+项目名： passwordview<br>
+git地址：https://github.com/lisawray/passwordview<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/lisawray/passwordview/master/2016-3-15.png" width="30%"/><br>
+
+项目名： WhatsappFormatter<br>
+git地址：https://github.com/cooltechworks/WhatsappFormatter<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/cooltechworks/WhatsappFormatter/master/screenshot/whatsappformattingdemo.gif" width="30%"/><br>
+
+项目名： SlickForm<br>
+git地址：https://github.com/AlburIvan/SlickForm<br>
+预览 ：<br>
+<img src="https://raw.githubusercontent.com/AlburIvan/SlickForm/master/slick_form_demo.gif" width="30%"/><br>
+
 项目名： HintAnim-EditText<br>
 git地址：https://github.com/cctanfujun/HintAnim-EditText<br>
 预览:<br>
@@ -60,10 +85,10 @@ git地址：https://github.com/rockerhieu/emojicon<br>
 预览 ：<br>
 <img src="https://github.com/rockerhieu/emojicon/raw/master/images/sample.jpg" width="30%"/><br>
 
-项目名： Android-RTEditor<br>
-git地址：https://github.com/1gravity/Android-RTEditor<br>
+项目名：RichEditText<br>
+git地址：https://github.com/KDF5000/RichEditText<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/8dd52f83a752bf322a4f622dbd9c0599b7888f67/687474703a2f2f7777772e31677261766974792e636f6d2f696d616765732f7269636874657874656469746f722e706e67" width="30%"/><br>
+<img src="https://raw.githubusercontent.com/KDF5000/RichEditText/master/screenshot/3.jpg" width="30%" /><br>
 
 项目名：TagsEditText<br>
 git地址：https://github.com/mabbas007/TagsEditText<br>
@@ -107,10 +132,7 @@ git地址：https://github.com/rpradal/Lettrine<br>
 <img src="https://camo.githubusercontent.com/c61a3e23a92b9f9b5ead21d0a1a9193843864a81/687474703a2f2f692e696d6775722e636f6d2f567561573670412e6a7067" width="30%"/><br>
 
 
-项目名： SlickForm<br>
-git地址：https://github.com/AlburIvan/SlickForm<br>
-预览 ：<br>
-<img src="https://raw.githubusercontent.com/AlburIvan/SlickForm/master/slick_form_demo.gif" width="30%"/><br>
+
 
 项目名： SuperTextView<br>
 git地址：https://github.com/lygttpod/SuperTextView<br>
@@ -189,10 +211,7 @@ git地址：https://github.com/Mauker1/MaterialSearchView<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/6676f599bcaac6b35b57a4c9729c52725b32d4c5/687474703a2f2f692e737461636b2e696d6775722e636f6d2f43354c41342e676966" width="30%"/><br>
 
-项目名： WhatsappFormatter<br>
-git地址：https://github.com/cooltechworks/WhatsappFormatter<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/cooltechworks/WhatsappFormatter/master/screenshot/whatsappformattingdemo.gif" width="30%"/><br>
+
 
 项目名： Android-SlidingEmojiKeyboard<br>
 git地址：https://github.com/klinker24/Android-SlidingEmojiKeyboard<br>
@@ -206,10 +225,7 @@ git地址：https://github.com/mittsuu/MarkedView-for-Android<br>
 
 
 
-项目名： passwordview<br>
-git地址：https://github.com/lisawray/passwordview<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/lisawray/passwordview/master/2016-3-15.png" width="30%"/><br>
+
 
 项目名： Android-RTEditor<br>
 git地址：https://github.com/1gravity/Android-RTEditor<br>
@@ -227,10 +243,7 @@ git地址：https://github.com/09xuanjian/MoveKeyboard<br>
 解释:<br>
 android 自定义键盘，在页面嵌入的<br>
 
-项目名：RichEditText<br>
-git地址：https://github.com/KDF5000/RichEditText<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/KDF5000/RichEditText/master/screenshot/3.jpg" width="30%" /><br>
+
 
 项目名：EasyCountDownTextureView<br>
 git地址：https://github.com/CaMnter/EasyCountDownTextureView<br>
