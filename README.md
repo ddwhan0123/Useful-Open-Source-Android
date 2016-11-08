@@ -141,10 +141,7 @@ git地址：https://github.com/lendylongli/qianghongbao<br>
 预览:<br>
 <img src="https://github.com/lendylongli/qianghongbao/raw/master/show_min.gif" width="30%"/>
 
-项目名：ReadMoreTextView<br>
-git地址：https://github.com/borjabravo10/ReadMoreTextView<br>
-预览:<br>
-<img src="https://github.com/borjabravo10/ReadMoreTextView/raw/master/screenshots/expanded.png" width="30%"/>
+
 
 项目名：PathAnimView<br>
 git地址：https://github.com/mcxtzhang/PathAnimView<br>
@@ -291,10 +288,7 @@ git地址：https://github.com/florent37/DiagonalLayout<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/florent37/DiagonalLayout/master/media/sample.gif" width="30%"/>
 
-项目名：ExpandableTextView<br>
-git地址：https://github.com/Manabu-GT/ExpandableTextView<br>
-预览:<br>
-<img src="https://github.com/Manabu-GT/ExpandableTextView/raw/master/art/readme_demo.gif?raw=true" width="30%"/>
+
 
 项目名：SlideButton<br>
 git地址：https://github.com/masterlittle/SlideButton<br>
@@ -600,10 +594,7 @@ git地址:https://github.com/hitherejoe/animate<br>
 <img src="https://github.com/hitherejoe/animate/raw/master/images/touch_feedback.gif" width="30%"/><br>
 
 
-项目名：HashGirl<br>
-git地址:https://github.com/skyfe79/HashGirl<br>
-预览:<br>
-<img src="https://github.com/skyfe79/HashGirl/raw/master/art/hashgirl.gif" width="30%"/><br>
+
 
 
 
@@ -812,10 +803,7 @@ git地址：https://github.com/daimajia/AnimationEasingFunctions<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/b22b160910884cdd5984b67864b5786e4d34a793/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f36313064633033346a77316568757a6f756c346838673230623030676d6839732e676966" width="30%"/><br>
 
-项目名：AboutIt<br>
-git地址：https://github.com/victorhaggqvist/AboutIt<br>
-预览:<br>
-<img src="https://github.com/victorhaggqvist/AboutIt/raw/master/img/img4.png" width="30%"/><br>
+
 
 
 项目名：Pulsator4Droid<br>
@@ -896,10 +884,7 @@ git地址：https://github.com/dynamitechetan/FogView_Library<br>
 
 
 
-项目名：TextViewOverflowing<br>
-git地址：https://github.com/JustinAngel/TextViewOverflowing<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/5648a66f14dee4e2523be6ea16f364e9b575d0e0/687474703a2f2f692e696d6775722e636f6d2f3977717075696c2e6a7067" width="30%"/><br>
+
 
 项目名：vector-compat<br>
 git地址：https://github.com/wnafee/vector-compat<br>
