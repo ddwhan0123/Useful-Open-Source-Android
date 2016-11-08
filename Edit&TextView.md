@@ -120,6 +120,11 @@ git地址：https://github.com/qinci/AndroidEdit<br>
 预览:<br>
 <img src="https://github.com/qinci/AndroidEdit/raw/master/image/image.gif" width="30%"/><br>
 
+项目名：TextViewOverflowing<br>
+git地址：https://github.com/JustinAngel/TextViewOverflowing<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/5648a66f14dee4e2523be6ea16f364e9b575d0e0/687474703a2f2f692e696d6775722e636f6d2f3977717075696c2e6a7067" width="30%"/><br>
+
 项目名： MaterialSearchView<br>
 git地址：https://github.com/Mauker1/MaterialSearchView<br>
 预览:<br>
@@ -189,3 +194,29 @@ git地址：https://github.com/CaMnter/EasyCountDownTextureView<br>
 git地址：https://github.com/mr5/icarus-android<br>
 预览:<br>
 <img src="https://github.com/mr5/icarus-android/raw/master/demo.gif"/><br>
+
+
+
+项目名：AboutIt<br>
+git地址：https://github.com/victorhaggqvist/AboutIt<br>
+预览:<br>
+<img src="https://github.com/victorhaggqvist/AboutIt/raw/master/img/img4.png" width="30%"/><br>
+
+项目名：HashGirl<br>
+git地址:https://github.com/skyfe79/HashGirl<br>
+预览:<br>
+<img src="https://github.com/skyfe79/HashGirl/raw/master/art/hashgirl.gif" width="30%"/><br>
+
+##收缩TextView<br>
+
+
+
+项目名：ReadMoreTextView<br>
+git地址：https://github.com/borjabravo10/ReadMoreTextView<br>
+预览:<br>
+<img src="https://github.com/borjabravo10/ReadMoreTextView/raw/master/screenshots/expanded.png" width="30%"/>
+
+项目名：ExpandableTextView<br>
+git地址：https://github.com/Manabu-GT/ExpandableTextView<br>
+预览:<br>
+<img src="https://github.com/Manabu-GT/ExpandableTextView/raw/master/art/readme_demo.gif?raw=true" width="30%"/>
