@@ -8,8 +8,27 @@
 
 
 
+项目名： HintAnim-EditText<br>
+git地址：https://github.com/cctanfujun/HintAnim-EditText<br>
+预览:<br>
+<img src="https://github.com/cctanfujun/HintAnim-EditText/raw/master/img/Hint-Anim.gif" width="30%"/><br>
 
 
+
+项目名： Emojix<br>
+git地址：https://github.com/nekocode/Emojix<br>
+预览:<br>
+<img src="https://github.com/nekocode/Emojix/raw/master/art/preview.png" width="30%"/><br>
+
+项目名： Android-WYSIWYG-Editor<br>
+git地址：https://github.com/irshuLx/Android-WYSIWYG-Editor<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/irshuLx/laser-native-editor/master/screens/gif-2.gif" width="30%"/><br>
+
+项目名： RichText<br>
+git地址：https://github.com/zzhoujay/RichText<br>
+预览 ：<br>
+<img src="https://github.com/zzhoujay/RichText/raw/master/image/image.jpg" width="30%"/><br>
 
 项目名： android-animate-RichEditor<br>
 git地址：https://github.com/xmuSistone/android-animate-RichEditor<br>
@@ -130,10 +149,7 @@ git地址：https://github.com/Softwee/codeview-android<br>
 预览 ：<br>
 <img src="https://camo.githubusercontent.com/747aca62fa52466ff48b8dab4fe8a9c7bf507464/68747470733a2f2f7331302e706f7374696d672e6f72672f767833753671306c352f53637265656e5f53686f745f323031365f30385f33315f61745f31385f34315f33312e706e67" width="30%"/><br>
 
-项目名： RichText<br>
-git地址：https://github.com/zzhoujay/RichText<br>
-预览 ：<br>
-<img src="https://github.com/zzhoujay/RichText/raw/master/image/image.jpg" width="30%"/><br>
+
 
 
 项目名： android-autofittextview<br>
@@ -141,27 +157,12 @@ git地址：https://github.com/grantland/android-autofittextview<br>
 解释：<br>
 TextView to display simple HTML content<br>
 
-项目名： Android-WYSIWYG-Editor<br>
-git地址：https://github.com/irshuLx/Android-WYSIWYG-Editor<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/irshuLx/laser-native-editor/master/screens/gif-2.gif" width="30%"/><br>
+
 
 项目名： SimplifySpan<br>
 git地址：https://github.com/iwgang/SimplifySpan<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/iwgang/SimplifySpan/master/screenshot/s1.png" width="30%"/><br>
-
-项目名： HintAnim-EditText<br>
-git地址：https://github.com/cctanfujun/HintAnim-EditText<br>
-预览:<br>
-<img src="https://github.com/cctanfujun/HintAnim-EditText/raw/master/img/Hint-Anim.gif" width="30%"/><br>
-
-
-
-项目名： Emojix<br>
-git地址：https://github.com/nekocode/Emojix<br>
-预览:<br>
-<img src="https://github.com/nekocode/Emojix/raw/master/art/preview.png" width="30%"/><br>
 
 
 
