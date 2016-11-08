@@ -4,6 +4,12 @@
 
 
 
+
+项目名：Lettrine<br>
+git地址：https://github.com/rpradal/Lettrine<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/c61a3e23a92b9f9b5ead21d0a1a9193843864a81/687474703a2f2f692e696d6775722e636f6d2f567561573670412e6a7067" width="30%"/><br>
+
 项目名： SlickForm<br>
 git地址：https://github.com/AlburIvan/SlickForm<br>
 预览 ：<br>
@@ -209,7 +215,10 @@ git地址:https://github.com/skyfe79/HashGirl<br>
 
 ##收缩TextView<br>
 
-
+项目名：ExpandableLayout<br>
+git地址：https://github.com/SilenceDut/ExpandableLayout<br>
+预览:<br>
+<img src="https://github.com/SilenceDut/ExpandableLayout/raw/master/media/simple_use.gif" width="30%"/><br>
 
 项目名：ReadMoreTextView<br>
 git地址：https://github.com/borjabravo10/ReadMoreTextView<br>
