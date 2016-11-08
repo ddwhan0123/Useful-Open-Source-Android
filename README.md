@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-11-7<br>
+###更新时间:2016-11-8<br>
 
 
 
@@ -127,6 +127,12 @@
 
 
 
+
+
+项目名：qianghongbao<br>
+git地址：https://github.com/lendylongli/qianghongbao<br>
+预览:<br>
+<img src="https://github.com/lendylongli/qianghongbao/raw/master/show_min.gif" width="30%"/>
 
 项目名：ReadMoreTextView<br>
 git地址：https://github.com/borjabravo10/ReadMoreTextView<br>
