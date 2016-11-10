@@ -175,6 +175,8 @@ git地址：https://github.com/alexvasilkov/GestureViews<br>
 git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/ecf23b537e735aa1165ca942cb183327df08e9e3/687474703a2f2f3773627934372e636f6d352e7a302e676c622e636c6f7564646e2e636f6d2f73637265656e73686f74312e6a70672d7868647069" width="30%" /><br>
+
+
 ----------
 
 
@@ -193,6 +195,13 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+
+
+
+项目名：DexMovingImageView<br>
+git地址：https://github.com/dexlex/DexMovingImageView<br>
+预览:<br>
+<img src="https://github.com/dexlex/DexMovingImageView/raw/master/assets/images/dmiv_screenshot.gif" width="30%"/><br>
 
 项目名：FrescoBigImageViewer<br>
 git地址：https://github.com/Piasy/FrescoBigImageViewer<br>
