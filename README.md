@@ -137,6 +137,12 @@
 
 
 
+
+项目名：PreLollipopTransition<br>
+git地址：https://github.com/takahirom/PreLollipopTransition<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/1386930/7614211/53ca12d8-f9d0-11e4-8b98-b6d98272f67d.gif" width="30%"/>
+
 项目名：dynamic-load-view<br>
 git地址：https://github.com/kot32go/dynamic-load-view<br>
 预览:<br>
