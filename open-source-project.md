@@ -5,6 +5,17 @@
 
 
 
+
+
+
+
+项目名：jianshi<br>
+git地址：https://github.com/wingjay/jianshi<br>
+解释：<br>
+A Full-Stack mobile app, including Android & Server, Simple-Poem 简诗. You can write poem in graceful & traditional Chinese style. http://www.jianshu.com/p/cf496fc408b2<br>
+预览:<br>
+<img src="https://github.com/wingjay/jianshi/raw/master/material/screenshots/with_phone/3.PNG" width="30%" />
+
 项目名：FastApp<br>
 git地址：https://github.com/closedevice/FastApp<br>
 解释：<br>
