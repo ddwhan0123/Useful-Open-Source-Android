@@ -77,6 +77,13 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
+
+
+项目名：expandable-recycler-view<br>
+git地址：https://github.com/thoughtbot/expandable-recycler-view<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/5386934/17074123/b9d1efca-502c-11e6-9c9f-fb6180ee337f.gif" width="30%"/><br>
+
 项目名：ItemDecorationIndexBar<br>
 git地址：https://github.com/mcxtzhang/ItemDecorationIndexBar<br>
 预览:<br>
