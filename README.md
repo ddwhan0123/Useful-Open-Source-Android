@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-11-11<br>
+###更新时间:2016-11-14<br>
 
 
 
@@ -132,6 +132,13 @@
 
 
 
+
+
+
+项目名：DrawView<br>
+git地址：https://github.com/ByoxCode/DrawView<br>
+预览:<br>
+<img src="https://github.com/ByoxCode/DrawView/raw/master/2016.11.10_17.57.50.gif" width="30%"/>
 
 项目名：BadgeView<br>
 git地址：https://github.com/AlexLiuSheng/BadgeView<br>
