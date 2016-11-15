@@ -135,6 +135,10 @@ git地址：https://github.com/vczero/toilet<br>
 预览:<br>
 <img src="https://github.com/vczero/toilet/raw/master/map.png" width="30%" />
 
+项目名：fangDouYu<br>
+git地址：https://github.com/cokuscz/fangDouYu<br>
+解释：<br>
+仿斗鱼app 采用mvp dagger2+retrofit2+rx＋glide<br>
 
 
 
