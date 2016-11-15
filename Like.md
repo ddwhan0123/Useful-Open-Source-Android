@@ -6,6 +6,12 @@
 
 
 
+
+项目名：SmallBang<br>
+git地址：https://github.com/hanks-zyh/SmallBang<br>
+预览:<br>
+<img src="https://github.com/hanks-zyh/SmallBang/raw/master/screenshots/demo.gif" width="30%"/>
+
 项目名：Like<br>
 git地址：https://github.com/android-cjj/Like<br>
 预览:<br>
