@@ -7,6 +7,12 @@
 
 
 
+
+项目名：card-printer<br>
+git地址：https://github.com/vaigunth/card-printer<br>
+预览:<br>
+<img src="https://github.com/vaigunth/card-printer/raw/master/demo.gif?raw=true" width="30%"/><br>
+
 项目名：PullToRefreshAndLoadMore<br>
 git地址：https://github.com/woxingxiao/PullToRefreshAndLoadMore<br>
 预览:<br>
