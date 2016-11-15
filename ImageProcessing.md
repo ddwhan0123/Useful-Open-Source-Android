@@ -98,7 +98,10 @@ git地址：https://github.com/adamstyrc/cookie-cutter<br>
 
 
 
-
+项目名：RapidInterpolator<br>
+git地址：https://github.com/MartinRGB/RapidInterpolator<br>
+预览:<br>
+<img src="https://github.com/MartinRGB/RapidInterpolator/raw/master/example.gif?raw=true" width="30%" /><br>
 
 项目名：album<br>
 git地址：https://github.com/yanzhenjie/album<br>
