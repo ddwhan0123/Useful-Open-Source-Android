@@ -156,7 +156,7 @@ README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.c
 
 
 
-###官方规范<br>
+###各种规范<br>
 
 
 
@@ -165,6 +165,10 @@ README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.c
 
 
 
+项目名：chinese-copywriting-guidelines<br>
+git地址：https://github.com/sparanoid/chinese-copywriting-guidelines<br>
+解释：<br>
+Chinese Copywriting Guidelines／中文文案排版指北／統一中文文案、排版的相關用法，降低團隊成員之間的溝通成本，增強網站氣質。<br>
 
 项目名：smooth-app-bar-layout<br>
 git地址：https://github.com/henrytao-me/smooth-app-bar-layout<br>
