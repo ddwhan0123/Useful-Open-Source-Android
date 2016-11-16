@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-11-15<br>
+###更新时间:2016-11-16<br>
 
 
 
@@ -136,7 +136,10 @@
 
 
 
-
+项目名：android-timetable-core<br>
+git地址：https://github.com/GreaseMonk/android-timetable-core<br>
+预览:<br>
+<img src="https://github.com/GreaseMonk/android-timetable-core/raw/master/images/4805234321055974780-account_id=1.png" width="30%"/>
 
 项目名：PreLollipopTransition<br>
 git地址：https://github.com/takahirom/PreLollipopTransition<br>
