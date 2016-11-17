@@ -135,12 +135,6 @@
 
 
 
-
-项目名：HGCircularSlider<br>
-git地址：https://github.com/HamzaGhazouani/HGCircularSlider<br>
-预览:<br>
-<img src="https://github.com/HamzaGhazouani/HGCircularSlider/raw/master/Screenshots/OClock.gif" width="30%"/>
-
 项目名：StateButton<br>
 git地址：https://github.com/niniloveyou/StateButton<br>
 预览:<br>
