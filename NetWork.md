@@ -2,7 +2,14 @@
 
 
 
+
+
+
+
 ###网络图片加载 <br>
+
+
+
 
 
 
@@ -52,6 +59,15 @@ An Android transformation library providing a variety of image transformations f
 
 
 
+
+
+
+项目名：Android-Download-Manager-Pro<br>
+git地址：https://github.com/majidgolshadi/Android-Download-Manager-Pro<br>
+预览:<br>
+<img src="https://github.com/majidgolshadi/Android-Download-Manager-Pro/raw/master/docs/images/states.jpg" width="30%" />
+解释：<br>
+Android/Java download manager library help you to download files in parallel mechanism in some chunks<br>
 
 项目名：android-async-http<br>
 git地址：https://github.com/loopj/android-async-http<br>
