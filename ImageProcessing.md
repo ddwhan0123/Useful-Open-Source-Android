@@ -201,6 +201,14 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+
+
+项目名：GaussianBlur<br>
+git地址：https://github.com/jrvansuita/GaussianBlur<br>
+预览:<br>
+<img src="https://github.com/jrvansuita/GaussianBlur/raw/master/screenshot/screenshot.jpg?" width="30%"/><br>
+
+
 项目名：DexMovingImageView<br>
 git地址：https://github.com/dexlex/DexMovingImageView<br>
 预览:<br>
