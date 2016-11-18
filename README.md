@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-11-17<br>
+###更新时间:2016-11-18<br>
 
 
 
@@ -136,6 +136,12 @@
 
 
 
+
+
+项目名：AlgorithmVisualizer-Android<br>
+git地址：https://github.com/naman14/AlgorithmVisualizer-Android<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/naman14/AlgorithmVisualizer-Android/master/screenshots/screen1.png" width="30%"/>
 
 项目名：CircleTimerView<br>
 git地址：https://github.com/jiahuanyu/CircleTimerView<br>
