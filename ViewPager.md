@@ -6,6 +6,13 @@
 
 
 
+
+
+项目名：Vertical-Intro<br>
+git地址：https://github.com/armcha/Vertical-Intro<br>
+预览:<br>
+<img src="https://github.com/armcha/Vertical-Intro/raw/master/screens/gif1.gif" width="30%"/>
+
 项目名：QingtingBannerView<br>
 git地址：https://github.com/JeasonWong/QingtingBannerView<br>
 预览:<br>
