@@ -136,6 +136,12 @@
 
 
 
+
+项目名：SlidingUpPanel<br>
+git地址：https://github.com/Cheesebaron/SlidingUpPanel<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/Cheesebaron/SlidingUpPanel/master/component/screenshots/animation.gif" width="30%"/>
+
 项目名：NumberPicker<br>
 git地址：https://github.com/ShawnLin013/NumberPicker<br>
 预览:<br>
