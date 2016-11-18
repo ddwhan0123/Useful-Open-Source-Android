@@ -136,7 +136,10 @@
 
 
 
-
+项目名：NumberPicker<br>
+git地址：https://github.com/ShawnLin013/NumberPicker<br>
+预览:<br>
+<img src="https://github.com/ShawnLin013/NumberPicker/raw/master/screenshot/number-picker-theme.png" width="30%"/>
 
 项目名：AlgorithmVisualizer-Android<br>
 git地址：https://github.com/naman14/AlgorithmVisualizer-Android<br>
