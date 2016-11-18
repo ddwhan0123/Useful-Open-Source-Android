@@ -2,7 +2,13 @@
 ##RecyclerView 相关:<br>
 
 
+
+
+
 ###下拉刷新/上拉加载 相关：<br>
+
+
+
 
 
 
@@ -77,6 +83,9 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
+
+
+
 ###各类强实现 ：<br>
 
 
@@ -84,6 +93,13 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
+
+
+
+项目名：PullZoomRecyclerView<br>
+git地址：https://github.com/dinuscxj/PullZoomRecyclerView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/dinuscxj/PullZoomRecyclerView/master/Preview/PullZoomHeader.gif" width="30%"/><br>
 
 项目名：expandable-recycler-view<br>
 git地址：https://github.com/thoughtbot/expandable-recycler-view<br>
