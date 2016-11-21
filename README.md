@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-11-18<br>
+###更新时间:2016-11-21<br>
 
 
 
@@ -135,7 +135,10 @@
 
 
 
-
+项目名：MaterialBadgeTextView<br>
+git地址：https://github.com/matrixxun/MaterialBadgeTextView<br>
+预览:<br>
+<img src="https://github.com/matrixxun/MaterialBadgeTextView/raw/master/MaterialBadgeTextView/art/qq_pic.png" width="30%"/>
 
 项目名：SlidingUpPanel<br>
 git地址：https://github.com/Cheesebaron/SlidingUpPanel<br>
