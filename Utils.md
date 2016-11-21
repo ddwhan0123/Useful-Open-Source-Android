@@ -121,6 +121,16 @@ git地址：https://github.com/promeG/XLog<br>
 
 
 
+
+
+
+项目名：RxAndroidBle<br>
+git地址：https://github.com/Polidea/RxAndroidBle<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/Polidea/RxAndroidBle/master/site/viking-large.jpeg" width="30%"/><br><br>
+描述：http://polidea.github.io/RxAndroidBle/<br>
+
+
 项目名：RxCache<br>
 git地址：https://github.com/VictorAlbertos/RxCache<br>
 描述：Reactive caching library for Android and Java<br>
