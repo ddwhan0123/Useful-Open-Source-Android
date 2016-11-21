@@ -127,6 +127,10 @@
 
 
 
+
+
+
+
 ##自定义控件/动画:<br>
 
 
@@ -134,6 +138,13 @@
 
 
 
+
+
+
+项目名：ENViews<br>
+git地址：https://github.com/codeestX/ENViews<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/8fcd12d2d3c52a9041b86244c095f7d2f686770f/687474703a2f2f6f64636b3136616b652e626b742e636c6f7564646e2e636f6d2f4769746875622f6f5f6c6f6164696e672e676966" width="30%"/>
 
 项目名：MaterialBadgeTextView<br>
 git地址：https://github.com/matrixxun/MaterialBadgeTextView<br>
