@@ -96,7 +96,10 @@ git地址：https://github.com/adamstyrc/cookie-cutter<br>
 
 
 
-
+项目名：ImageEditor-android<br>
+git地址：https://github.com/zhaozeyx/ImageEditor-android<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/jhondge/Everimaging-android-res/master/fotorsdk/images/FotorSDK_Android.jpg" width="30%" /><br>
 
 项目名：RapidInterpolator<br>
 git地址：https://github.com/MartinRGB/RapidInterpolator<br>
@@ -201,12 +204,15 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
-
+项目名：ImageBlurring<br>
+git地址：https://github.com/qiujuer/ImageBlurring<br>
+预览:<br>
+<img src="https://github.com/qiujuer/ImageBlurring/raw/master/images/anim.gif" width="30%"/><br>
 
 项目名：GaussianBlur<br>
 git地址：https://github.com/jrvansuita/GaussianBlur<br>
 预览:<br>
-<img src="https://github.com/jrvansuita/GaussianBlur/raw/master/screenshot/screenshot.jpg?" width="30%"/><br>
+<img src="https://github.com/jrvansuita/GaussianBlur/raw/master/screenshot/screenshot.jpg" width="30%"/><br>
 
 
 项目名：DexMovingImageView<br>
