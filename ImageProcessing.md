@@ -96,6 +96,12 @@ git地址：https://github.com/adamstyrc/cookie-cutter<br>
 
 
 
+
+项目名：IPicker<br>
+git地址：https://github.com/liuguangqiang/IPicker<br>
+预览:<br>
+<img src="https://github.com/liuguangqiang/IPicker/raw/master/arts/1.png" width="30%" /><br>
+
 项目名：ImageEditor-android<br>
 git地址：https://github.com/zhaozeyx/ImageEditor-android<br>
 预览:<br>
