@@ -97,6 +97,9 @@ Android testing with Dagger 2, Espresso 2 and Mockito<br>
 
 
 
+
+
+
 项目名：AndroidSdkSourceAnalysis<br>
 git地址：https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis<br>
 预览:<br>
@@ -162,6 +165,12 @@ README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.c
 
 
 
+
+项目名：hexo-theme-material<br>
+git地址：https://github.com/viosey/hexo-theme-material<br>
+解释：<br>
+Material Design Theme for Hexo. https://blog.viosey.com<br>
+预览: <img src="https://camo.githubusercontent.com/4aa6a891d217ba4ef576aea1e39aa475713d17e2/68747470733a2f2f71696e69752e76696f7365792e636f6d2f696d672f4d6174657269612d7468656d656c2d6f766572766965772d74696e792e706e67" width="40%" /><br>
 
 
 
