@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-11-24<br>
+###更新时间:2016-11-25<br>
 
 
 
@@ -138,6 +138,13 @@
 
 
 
+
+
+
+项目名：SpannableBar<br>
+git地址：https://github.com/GreaseMonk/SpannableBar<br>
+预览:<br>
+<img src="https://github.com/GreaseMonk/android-timetable-core/raw/master/images/device-2016-11-23-162112.png" width="30%"/>
 
 项目名：LiveLayout<br>
 git地址：https://github.com/Qiang3570/LiveLayout<br>
