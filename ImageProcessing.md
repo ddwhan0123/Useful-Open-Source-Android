@@ -212,7 +212,10 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
-
+项目名：CircleImageView<br>
+git地址：https://github.com/zuoweitan/CircleImageView<br>
+预览:<br>
+<img src="https://github.com/zuoweitan/CircleImageView/raw/master/screen_shot.png" width="30%"/><br>
 
 项目名：ImageBlurring<br>
 git地址：https://github.com/qiujuer/ImageBlurring<br>
