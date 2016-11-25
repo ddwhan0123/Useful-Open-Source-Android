@@ -13,6 +13,10 @@
 
 
 
+项目名：scissors<br>
+git地址：https://github.com/lyft/scissors<br>
+预览:<br>
+<img src="https://github.com/lyft/scissors/raw/master/art/demo.gif" width="30%" /><br>
 
 项目名：WeChatImageClipping<br>
 git地址：https://github.com/nicewarm/WeChatImageClipping<br>
