@@ -222,6 +222,17 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+
+
+
+
+
+
+项目名：blurkit-android<br>
+git地址：https://github.com/wonderkiln/blurkit-android<br>
+预览:<br>
+<img src="https://github.com/wonderkiln/blurkit-android/raw/master/.repo/demo.gif" width="30%"/><br>
+
 项目名：CircleImageView<br>
 git地址：https://github.com/zuoweitan/CircleImageView<br>
 预览:<br>
