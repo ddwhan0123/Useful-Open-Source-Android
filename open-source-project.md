@@ -7,7 +7,12 @@
 
 
 
-
+项目名：murmur<br>
+git地址：https://github.com/nekocode/murmur<br>
+解释：<br>
+Murmur 是一个带 白噪声 效果的豆瓣电台第三方客户端<br>
+预览:<br>
+<img src="https://github.com/nekocode/murmur/raw/master/art/screenshot2.png" width="30%" />
 
 项目名：jianshi<br>
 git地址：https://github.com/wingjay/jianshi<br>
