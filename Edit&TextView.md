@@ -9,6 +9,13 @@
 
 
 
+
+
+项目名： EditTag<br>
+git地址：https://github.com/qiugang/EditTag<br>
+预览:<br>
+<img src="https://github.com/qiugang/EditTag/raw/master/screenshots/s01.jpg" width="30%"/><br>
+
 项目名： Android-RTEditor<br>
 git地址：https://github.com/1gravity/Android-RTEditor<br>
 预览:<br>
