@@ -34,7 +34,18 @@ git地址：https://github.com/h4de5ing/AndroidCommon<br>
 
 
 
+
+
+
+
+
+
+
 ###编码/字体<br>
+
+
+
+
 
 
 
@@ -60,7 +71,17 @@ git地址：https://github.com/romainguy/elegant-underline<br>
 
 
 
+
+
+
+
+
 ###Fragment<br>
+
+
+
+
+
 
 
 
@@ -77,7 +98,17 @@ A powerful library that manage Fragment for Android!<br>
 
 
 
+
+
+
+
+
 ###Log<br>
+
+
+
+
+
 
 
 
@@ -114,7 +145,13 @@ git地址：https://github.com/promeG/XLog<br>
 
 
 
+
+
+
 ###Rx相关<br>
+
+
+
 
 
 
@@ -192,7 +229,14 @@ Reactive Bindings for BroadcastReceivers<br>
 
 
 
+
+
+
 ###Json/XMl<br>
+
+
+
+
 
 
 
@@ -213,7 +257,11 @@ git地址：https://github.com/alibaba/fastjson<br>
 <img src="https://github.com/alibaba/fastjson/raw/master/logo.jpg" width="30%"/><br><br>
 解释： A fast JSON parser/generator for Java https://github.com/alibaba/fastjson/wiki<br>
 
-
+项目名：LoganSquare<br>
+git地址：https://github.com/bluelinelabs/LoganSquare<br>
+预览:<br>
+<img src="https://github.com/bluelinelabs/LoganSquare/raw/development/docs/benchmarks.jpg" width="30%"/><br><br>
+解释： Screaming fast JSON parsing and serialization library for Android<br>
 
 
 
