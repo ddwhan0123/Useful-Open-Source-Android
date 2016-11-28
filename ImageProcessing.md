@@ -101,6 +101,16 @@ git地址：https://github.com/adamstyrc/cookie-cutter<br>
 
 
 
+
+
+
+
+项目名：MediaPickerInstagram<br>
+git地址：https://github.com/NodensN/MediaPickerInstagram<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/10350755/20560333/186499fe-b179-11e6-9653-8723606e1754.png" width="30%" /><br>
+
+
 项目名：IPicker<br>
 git地址：https://github.com/liuguangqiang/IPicker<br>
 预览:<br>
