@@ -58,10 +58,7 @@ git地址：https://github.com/dalong982242260/FlowLayout<br>
 预览:<br>
 <img src="https://github.com/dalong982242260/FlowLayout/raw/master/gif/flowlayout.gif?raw=true" width="30%"/><br>
 
-项目名：EditTag<br>
-git地址：https://github.com/qiugang/EditTag<br>
-预览:<br>
-<img src="https://github.com/qiugang/EditTag/raw/master/screenshots/s01.jpg" width="30%"/><br>
+
 
 项目名：BGAFlowLayout-Android<br>
 git地址：https://github.com/bingoogolapple/BGAFlowLayout-Android<br>
