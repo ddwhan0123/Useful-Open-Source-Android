@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-11-25<br>
+###更新时间:2016-11-28<br>
 
 
 
@@ -139,6 +139,13 @@
 
 
 
+
+
+
+项目名：AssembleEssay<br>
+git地址：https://github.com/rantianhua/AssembleEssay<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/rantianhua/AssembleEssay/master/app/images/Flow_Drag_Essay_View.gif" width="30%"/>
 
 项目名：Thermometer<br>
 git地址：https://github.com/kofigyan/Thermometer<br>
