@@ -4,6 +4,23 @@
 
 
 
+###特殊业务场景图片处理：<br>
+
+
+
+
+项目名：CircleImageView<br>
+git地址：https://github.com/zuoweitan/CircleImageView<br>
+预览:<br>
+<img src="https://github.com/zuoweitan/CircleImageView/raw/master/screen_shot.png" width="30%"/><br>
+
+项目名：WeChatImageClipping<br>
+git地址：https://github.com/nicewarm/WeChatImageClipping<br>
+预览:<br>
+<img src="https://github.com/nicewarm/WeChatImageClipping/raw/master/image/clipping.png" width="30%" /><br>
+
+
+
 
 
 ###图片剪裁相关：<br>
@@ -15,10 +32,7 @@
 
 
 
-项目名：WeChatImageClipping<br>
-git地址：https://github.com/nicewarm/WeChatImageClipping<br>
-预览:<br>
-<img src="https://github.com/nicewarm/WeChatImageClipping/raw/master/image/clipping.png" width="30%" /><br>
+
 
 项目名：PhotoCropper<br>
 git地址：https://github.com/ryanhoo/PhotoCropper<br>
@@ -230,10 +244,7 @@ git地址：https://github.com/wonderkiln/blurkit-android<br>
 预览:<br>
 <img src="https://github.com/wonderkiln/blurkit-android/raw/master/.repo/demo.gif" width="30%"/><br>
 
-项目名：CircleImageView<br>
-git地址：https://github.com/zuoweitan/CircleImageView<br>
-预览:<br>
-<img src="https://github.com/zuoweitan/CircleImageView/raw/master/screen_shot.png" width="30%"/><br>
+
 
 项目名：ImageBlurring<br>
 git地址：https://github.com/qiujuer/ImageBlurring<br>
