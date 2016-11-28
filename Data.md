@@ -159,49 +159,6 @@ README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.c
 
 
 
-###各种规范<br>
-
-
-
-
-
-
-项目名：hexo-theme-material<br>
-git地址：https://github.com/viosey/hexo-theme-material<br>
-解释：<br>
-Material Design Theme for Hexo. https://blog.viosey.com<br>
-预览: <img src="https://camo.githubusercontent.com/4aa6a891d217ba4ef576aea1e39aa475713d17e2/68747470733a2f2f71696e69752e76696f7365792e636f6d2f696d672f4d6174657269612d7468656d656c2d6f766572766965772d74696e792e706e67" width="40%" /><br>
-
-
-
-项目名：chinese-copywriting-guidelines<br>
-git地址：https://github.com/sparanoid/chinese-copywriting-guidelines<br>
-解释：<br>
-Chinese Copywriting Guidelines／中文文案排版指北／統一中文文案、排版的相關用法，降低團隊成員之間的溝通成本，增強網站氣質。<br>
-
-项目名：smooth-app-bar-layout<br>
-git地址：https://github.com/henrytao-me/smooth-app-bar-layout<br>
-解释：<br>
-Smooth version of Google Support Design AppBarLayout<br>
-
-项目名：android-training-course-in-chinese<br>
-git地址：https://github.com/kesenhoo/android-training-course-in-chinese<br>
-解释：<br>
-Android官方培训课程中文版<br>
-
-项目名：material-design-dimens<br>
-git地址：https://github.com/DmitryMalkovich/material-design-dimens<br>
-解释：<br>
-Default colors and dimens per Material Design guidelines and Android Design guidelines inside one library<br>
-
-项目名：MaterialDesignColor<br>
-git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
-预览: <img src="https://camo.githubusercontent.com/2826fe84e44434a841a2b917f64ef1efb8ce1156/687474703a2f2f6769742e6f736368696e612e6e65742f75706c6f6164732f696d616765732f323031352f303631322f3135303433395f35646539653331375f3134313030392e706e67" width="40%" /><br>
-描述：谷歌官方的Material Design颜色值<br>
-
-
-
-
 
 
 
@@ -599,3 +556,49 @@ git地址：https://github.com/GeekLiB/Lee-VR-Source<br>
 <img src="https://github.com/GeekLiB/Lee-VR-Source/raw/master/images/lee.jpg" width="30%"/><br><br>
 解释:<br>
 VR 开发者必备资源汇总<br>
+
+
+###各种规范<br>
+
+
+
+
+
+
+项目名：hexo-theme-material<br>
+git地址：https://github.com/viosey/hexo-theme-material<br>
+解释：<br>
+Material Design Theme for Hexo. https://blog.viosey.com<br>
+预览: <img src="https://camo.githubusercontent.com/4aa6a891d217ba4ef576aea1e39aa475713d17e2/68747470733a2f2f71696e69752e76696f7365792e636f6d2f696d672f4d6174657269612d7468656d656c2d6f766572766965772d74696e792e706e67" width="40%" /><br>
+
+
+
+项目名：chinese-copywriting-guidelines<br>
+git地址：https://github.com/sparanoid/chinese-copywriting-guidelines<br>
+解释：<br>
+Chinese Copywriting Guidelines／中文文案排版指北／統一中文文案、排版的相關用法，降低團隊成員之間的溝通成本，增強網站氣質。<br>
+
+项目名：smooth-app-bar-layout<br>
+git地址：https://github.com/henrytao-me/smooth-app-bar-layout<br>
+解释：<br>
+Smooth version of Google Support Design AppBarLayout<br>
+
+项目名：android-training-course-in-chinese<br>
+git地址：https://github.com/kesenhoo/android-training-course-in-chinese<br>
+解释：<br>
+Android官方培训课程中文版<br>
+
+项目名：material-design-dimens<br>
+git地址：https://github.com/DmitryMalkovich/material-design-dimens<br>
+解释：<br>
+Default colors and dimens per Material Design guidelines and Android Design guidelines inside one library<br>
+
+项目名：MaterialDesignColor<br>
+git地址：https://github.com/zzhoujay/MaterialDesignColor<br>
+预览: <img src="https://camo.githubusercontent.com/2826fe84e44434a841a2b917f64ef1efb8ce1156/687474703a2f2f6769742e6f736368696e612e6e65742f75706c6f6164732f696d616765732f323031352f303631322f3135303433395f35646539653331375f3134313030392e706e67" width="40%" /><br>
+描述：谷歌官方的Material Design颜色值<br>
+
+
+
+
+
