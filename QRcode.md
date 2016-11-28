@@ -6,6 +6,15 @@
 
 
 
+
+
+
+
+项目名：zxing<br>
+git地址：https://github.com/zxing/zxing<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/cd92fcc87ebc531c60edc667da4a77b90c004ff0/68747470733a2f2f7261772e6769746875622e636f6d2f77696b692f7a78696e672f7a78696e672f7a78696e672d6c6f676f2e706e67" width="30%" /><br>
+
 项目名：MobileVisionBarcodeScanner<br>
 git地址：https://github.com/KingsMentor/MobileVisionBarcodeScanner<br>
 预览:<br>
