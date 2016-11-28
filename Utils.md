@@ -122,7 +122,9 @@ git地址：https://github.com/promeG/XLog<br>
 
 
 
-
+项目名：RxPaparazzo<br>
+git地址：https://github.com/miguelbcr/RxPaparazzo<br>
+描述：RxJava extension for Android to take images using camera and gallery<br>
 
 项目名：RxAndroidBle<br>
 git地址：https://github.com/Polidea/RxAndroidBle<br>
