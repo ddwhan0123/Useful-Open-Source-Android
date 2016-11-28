@@ -53,7 +53,7 @@ git地址：https://github.com/soarcn/BottomSheet<br>
 项目名：BottomBar<br>
 git地址：https://github.com/roughike/BottomBar<br>
 预览:<br>
-![](https://raw.githubusercontent.com/roughike/BottomBar/master/demo_shifting.gif) <br>
+<img src="https://raw.githubusercontent.com/roughike/BottomBar/master/graphics/shifting-demo.gif" width="30%" />
 
 项目名：FloatingToolbar<br>
 git地址：https://github.com/rubensousa/FloatingToolbar<br>
