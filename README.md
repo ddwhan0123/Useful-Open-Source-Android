@@ -251,7 +251,7 @@ git地址：https://github.com/ByoxCode/DrawView<br>
 项目名：BadgeView<br>
 git地址：https://github.com/AlexLiuSheng/BadgeView<br>
 预览:<br>
-<img src="https://github.com/AlexLiuSheng/BadgeView/raw/master/library/gif.png" width="30%"/>
+<img src="https://github.com/AlexLiuSheng/BadgeView/raw/master/library/version1.0.5.png" width="30%"/>
 
 项目名：BadgeView<br>
 git地址：https://github.com/elevenetc/BadgeView<br>
