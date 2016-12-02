@@ -12,7 +12,10 @@
 
 
 
-
+项目名：NRecyclerView<br>
+git地址：https://github.com/Nipuream/NRecyclerView<br>
+预览:<br>
+<img src="https://github.com/Nipuream/NRecyclerView/raw/master/art/refresh_style.gif" width="30%"/><br>
 
 项目名：card-printer<br>
 git地址：https://github.com/vaigunth/card-printer<br>
