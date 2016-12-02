@@ -9,6 +9,14 @@
 
 
 
+
+
+
+项目名：ScrollParallaxImageView<br>
+git地址：https://github.com/gjiazhe/ScrollParallaxImageView<br>
+预览:<br>
+<img src="https://github.com/gjiazhe/ScrollParallaxImageView/raw/master/screenshot/ss1.gif" width="30%"/><br>
+
 项目名：CircleImageView<br>
 git地址：https://github.com/zuoweitan/CircleImageView<br>
 预览:<br>
