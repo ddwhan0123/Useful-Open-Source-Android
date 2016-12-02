@@ -11,6 +11,12 @@
 
 
 
+
+项目名： HideKeyboard<br>
+git地址：https://github.com/yingLanNull/HideKeyboard<br>
+预览:<br>
+<img src="https://github.com/yingLanNull/HideKeyboard/raw/master/show/show.gif" width="30%"/><br>
+
 项目名： EditTag<br>
 git地址：https://github.com/qiugang/EditTag<br>
 预览:<br>
