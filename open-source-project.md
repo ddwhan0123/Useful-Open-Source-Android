@@ -7,6 +7,15 @@
 
 
 
+
+
+项目名：likequanmintv<br>
+git地址：https://github.com/a371166028/likequanmintv<br>
+解释：<br>
+基于MVP的Retrofit2(okhttp3)+rxjava+dagger2+greendao+glide+rtmp直播。该项目系仿全民TV,属于独立开发者作品,仅供参考学习<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/aafb4558f73227e6f896edb55d2f9431932b3ac6/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313631323031303934383231393736" width="30%" />
+
 项目名：murmur<br>
 git地址：https://github.com/nekocode/murmur<br>
 解释：<br>
