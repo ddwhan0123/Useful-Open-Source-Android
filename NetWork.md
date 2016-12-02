@@ -60,7 +60,12 @@ An Android transformation library providing a variety of image transformations f
 
 
 
-
+项目名：OkLog<br>
+git地址：https://github.com/simonpercic/OkLog<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/simonpercic/OkLog/develop/art/oklog.gif" width="30%" />
+解释：<br>
+Response logging interceptor for OkHttp. Logs a url link with url-encoded response for every OkHttp call. https://medium.com/@simonpercic/effortless-network-response-logging-on-android-cedf0ebbdae1<br>
 
 项目名：Android-Download-Manager-Pro<br>
 git地址：https://github.com/majidgolshadi/Android-Download-Manager-Pro<br>
