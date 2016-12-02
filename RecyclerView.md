@@ -12,6 +12,13 @@
 
 
 
+
+
+项目名：HaoKanRefresh<br>
+git地址：https://github.com/android-cjj/HaoKanRefresh<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/76a636f88f939dd114115b5971f638657d20f8bf/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f376566303166636167773166616267326b32656c696732306275306a64676e692e676966" width="30%"/><br>
+
 项目名：NRecyclerView<br>
 git地址：https://github.com/Nipuream/NRecyclerView<br>
 预览:<br>
