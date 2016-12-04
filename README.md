@@ -155,7 +155,10 @@
 
 
 
-
+项目名：android-PageFlip<br>
+git地址：https://github.com/eschao/android-PageFlip<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/20178358/20646731/20f6ebc6-b4bc-11e6-9857-efd8367db80c.png" width="30%"/>
 
 项目名：Cadar<br>
 git地址：https://github.com/memfis19/Cadar<br>
