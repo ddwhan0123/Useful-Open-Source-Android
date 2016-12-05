@@ -637,10 +637,7 @@ git地址:https://github.com/7heaven/UILibrary<br>
 预览:<br>
 <img src="https://github.com/7heaven/UILibrary/raw/master/arts/rendering_1.gif" width="30%"/><br>
 
-项目名：ExpandTextView<br>
-git地址:https://github.com/Hymanme/ExpandTextView<br>
-预览:<br>
-<img src="https://github.com/Hymanme/ExpandTextView/raw/master/screenshots/show.gif" width="30%"/><br>
+
 
 项目名：TileView<br>
 git地址:https://github.com/moagrius/TileView<br>
@@ -686,11 +683,6 @@ git地址:https://github.com/poldz123/ShapeRipple<br>
 <img src="https://camo.githubusercontent.com/e9ee670a477ec2d0444664cf1d505b0521593fb2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31346a6865724449314b325977772f67697068792e676966" width="30%"/><br>
 
 
-
-项目名：ShapedImageView<br>
-git地址:https://github.com/gavinliu/ShapedImageView<br>
-预览:<br>
-<img src="https://github.com/gavinliu/ShapedImageView/raw/master/screenshots1.png" width="30%"/><br>
 
 项目名：WeChatPswKeyboard<br>
 git地址:https://github.com/zuiwuyuan/WeChatPswKeyboard<br>
