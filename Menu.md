@@ -10,6 +10,14 @@
 
 
 
+
+
+
+项目名：FAB-Loading<br>
+git地址：https://github.com/SaeedMasoumi/FAB-Loading<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/smasoumi/FAB-Loading/master/images/marvel_loader.gif" width="50%"/>
+
 项目名：FabOptions<br>
 git地址：https://github.com/JoaquimLey/FabOptions<br>
 预览:<br>
@@ -71,10 +79,7 @@ git地址：https://github.com/Hitomis/CircleMenu<br>
 
 
 
-项目名：FAB-Loading<br>
-git地址：https://github.com/SaeedMasoumi/FAB-Loading<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/smasoumi/FAB-Loading/master/images/marvel_loader.gif" width="50%"/>
+
 
 项目名：FantasySlide<br>
 git地址：https://github.com/mzule/FantasySlide<br>
