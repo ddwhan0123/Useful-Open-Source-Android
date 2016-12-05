@@ -10,6 +10,14 @@
 
 
 
+
+
+
+项目名：ShapedImageView<br>
+git地址：https://github.com/gavinliu/ShapedImageView<br>
+预览:<br>
+<img src="https://github.com/gavinliu/ShapedImageView/raw/master/screenshots1.png" width="30%"/><br>
+
 项目名：NineGridImageView<br>
 git地址：https://github.com/laobie/NineGridImageView<br>
 预览:<br>
