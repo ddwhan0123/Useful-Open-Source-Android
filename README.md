@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-12-4<br>
+###更新时间:2016-12-5<br>
 
 
 
@@ -153,7 +153,10 @@
 
 
 
-
+项目名：WaveInApp<br>
+git地址：https://github.com/Cleveroad/WaveInApp<br>
+预览:<br>
+<img src="https://github.com/Cleveroad/WaveInApp/raw/master/images/demo_.gif" width="30%"/>
 
 项目名：android-PageFlip<br>
 git地址：https://github.com/eschao/android-PageFlip<br>
