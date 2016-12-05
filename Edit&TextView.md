@@ -140,6 +140,13 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 
 
 
+
+
+项目名：ExpandTextView<br>
+git地址：https://github.com/Hymanme/ExpandTextView<br>
+预览:<br>
+<img src="https://github.com/Hymanme/ExpandTextView/raw/master/screenshots/show.gif" width="30%"/><br>
+
 项目名：SimpleText<br>
 git地址：https://github.com/jaychang0917/SimpleText<br>
 预览:<br>
