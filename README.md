@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-12-5<br>
+###更新时间:2016-12-6<br>
 
 
 
@@ -151,7 +151,10 @@
 
 
 
-
+项目名：ScrollablePanel<br>
+git地址：https://github.com/Kelin-Hong/ScrollablePanel<br>
+预览:<br>
+<img src="https://github.com/Kelin-Hong/ScrollablePanel/raw/master/art/ScrollablePanelDemo.gif" width="30%"/>
 
 项目名：WaveInApp<br>
 git地址：https://github.com/Cleveroad/WaveInApp<br>
