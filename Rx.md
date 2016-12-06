@@ -7,13 +7,16 @@
 
 
 
-
+项目名：RxComboDetector<br>
+git地址：https://github.com/Piasy/RxComboDetector<br>
+预览:<br>
+<img src="Android view click combo detector with Rx. http://blog.piasy.com/2016/01/18/Andr…" width="30%"/><br><br>
 
 项目名：RxScreenshotDetector<br>
 git地址：https://github.com/Piasy/RxScreenshotDetector<br>
 预览:<br>
 <img src="https://github.com/Piasy/RxScreenshotDetector/raw/master/art/screenshot-detector-demo.gif" width="30%"/><br><br>
-描述：When QrCode meets RxJava...<br>
+
 
 项目名：RxQrCode<br>
 git地址：https://github.com/Piasy/RxQrCode<br>
