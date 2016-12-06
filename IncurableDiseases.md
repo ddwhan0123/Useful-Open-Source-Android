@@ -33,6 +33,18 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
+
+
+项目名：SlideBack<br>
+git地址:https://github.com/oubowu/SlideBack<br>
+预览:<br>
+<img src="https://github.com/oubowu/SlideBack/raw/master/pic/demo.gif" width="30%"/><br>
+解释:<br>
+A library to close an activity with swipe gestures<br>
+
+
+
+
 项目名：ReView<br>
 git地址:https://github.com/maoruibin/ReView<br>
 预览:<br>
