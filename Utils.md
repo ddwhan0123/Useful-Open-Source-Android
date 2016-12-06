@@ -113,7 +113,11 @@ A powerful library that manage Fragment for Android!<br>
 
 
 
-
+项目名：timber<br>
+git地址：https://github.com/JakeWharton/timber<br>
+预览:<br>
+<img src="https://github.com/JakeWharton/timber/raw/master/logo.png" width="30%"/><br><br>
+解释：A logger with a small, extensible API which provides utility on top of Android's normal Log class. http://jakewharton.github.io/timber/<br>
 
 项目名：xLog<br>
 git地址：https://github.com/elvishew/xLog<br>
