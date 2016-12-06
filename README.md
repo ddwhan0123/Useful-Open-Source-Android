@@ -151,6 +151,19 @@
 
 
 
+
+
+
+
+
+
+
+
+项目名：adp-delightful-details<br>
+git地址：https://github.com/alexjlockwood/adp-delightful-details<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/790adaadcd5323c1e70425a847e3eda5196a1e81/687474703a2f2f692e696d6775722e636f6d2f796270564536352e676966" width="30%"/>
+
 项目名：ScrollablePanel<br>
 git地址：https://github.com/Kelin-Hong/ScrollablePanel<br>
 预览:<br>
