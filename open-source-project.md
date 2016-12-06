@@ -7,7 +7,12 @@
 
 
 
-
+项目名：MyDiary<br>
+git地址：https://github.com/erttyy8821/MyDiary<br>
+解释：<br>
+In the Movie "-your name.-" (君の名は。, 你的名字) , "My Diary" of android version is.<br>
+预览:<br>
+<img src="https://github.com/erttyy8821/MyDiary/raw/master/screenshot/s_0.png" width="30%" />
 
 项目名：likequanmintv<br>
 git地址：https://github.com/a371166028/likequanmintv<br>
