@@ -9,6 +9,14 @@
 
 
 
+
+
+项目名：RxQrCode<br>
+git地址：https://github.com/Piasy/RxQrCode<br>
+预览:<br>
+<img src="https://github.com/Piasy/RxQrCode/raw/master/art/screenshot.jpg" width="30%"/><br><br>
+描述：When QrCode meets RxJava...<br>
+
 项目名：RxPaparazzo<br>
 git地址：https://github.com/miguelbcr/RxPaparazzo<br>
 描述：RxJava extension for Android to take images using camera and gallery<br>
