@@ -7,6 +7,14 @@
 
 
 
+
+项目名：AisenWeiBo<br>
+git地址：https://github.com/wangdan/AisenWeiBo<br>
+解释：<br>
+新浪微博第三方Android客户端<br>
+预览:<br>
+<img src="https://github.com/wangdan/AisenWeibo/raw/master/resource/444.gif" width="30%" />
+
 项目名：MyDiary<br>
 git地址：https://github.com/erttyy8821/MyDiary<br>
 解释：<br>
