@@ -10,6 +10,12 @@
 
 
 
+
+
+项目名：ShareUtil<br>
+git地址：https://github.com/shaohui10086/ShareUtil<br>
+描述：社会化分享工具库<br>
+
 项目名：Parceler<br>
 git地址：https://github.com/yjfnypeu/Parceler<br>
 描述：A library to inject data to class with bundle<br>
