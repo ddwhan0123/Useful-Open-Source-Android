@@ -6,7 +6,10 @@
 
 
 
-
+项目名：ZoomHeader<br>
+git地址：https://github.com/githubwing/ZoomHeader<br>
+预览:<br>
+<img src="https://github.com/githubwing/ZoomHeader/raw/master/img.gif" width="30%"/>
 
 项目名：Vertical-Intro<br>
 git地址：https://github.com/armcha/Vertical-Intro<br>
