@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-12-6<br>
+###更新时间:2016-12-7<br>
 
 
 
@@ -157,7 +157,10 @@
 
 
 
-
+项目名：SingleDateAndTimePicker<br>
+git地址：https://github.com/florent37/SingleDateAndTimePicker<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/florent37/SingleDateAndTimePicker/master/media/simple_small.png" width="30%"/>
 
 项目名：adp-delightful-details<br>
 git地址：https://github.com/alexjlockwood/adp-delightful-details<br>
