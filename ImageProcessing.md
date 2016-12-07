@@ -51,7 +51,10 @@ git地址：https://github.com/nicewarm/WeChatImageClipping<br>
 
 
 
-
+项目名：ImageSelector<br>
+git地址：https://github.com/ioneday/ImageSelector<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/ioneday/ImageSelector/master/screenshot/Screenshot5.jpg" width="30%" /><br>
 
 项目名：PhotoCropper<br>
 git地址：https://github.com/ryanhoo/PhotoCropper<br>
