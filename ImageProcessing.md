@@ -13,6 +13,12 @@
 
 
 
+
+项目名：CaptchaImageView<br>
+git地址：https://github.com/jineshfrancs/CaptchaImageView<br>
+预览:<br>
+<img src="https://github.com/jineshfrancs/CaptchaImageView/raw/master/screens/captcha_screen.gif" width="30%"/><br>
+
 项目名：ShapedImageView<br>
 git地址：https://github.com/gavinliu/ShapedImageView<br>
 预览:<br>
