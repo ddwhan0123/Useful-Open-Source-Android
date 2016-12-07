@@ -7,10 +7,17 @@
 
 
 
+
+项目名：RxGalleryFinal<br>
+git地址：https://github.com/FinalTeam/RxGalleryFinal<br>
+解释:<br>
+Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制<br>
+
+
 项目名：RxComboDetector<br>
 git地址：https://github.com/Piasy/RxComboDetector<br>
 预览:<br>
-<img src="Android view click combo detector with Rx. http://blog.piasy.com/2016/01/18/Andr…" width="30%"/><br><br>
+<img src="https://github.com/Piasy/RxComboDetector/raw/master/art/combo-demo.gif" width="30%"/><br><br>
 
 项目名：RxScreenshotDetector<br>
 git地址：https://github.com/Piasy/RxScreenshotDetector<br>
