@@ -47,7 +47,7 @@ git地址：https://github.com/h4de5ing/AndroidCommon<br>
 
 
 
-###编码/字体<br>
+###编码/字体/中文<br>
 
 
 
@@ -57,7 +57,9 @@ git地址：https://github.com/h4de5ing/AndroidCommon<br>
 
 
 
-
+项目名：jpinyin<br>
+git地址：https://github.com/stuxuhai/jpinyin<br>
+解释：JPinyin是一个汉字转拼音的Java开源类库<br>
 
 项目名：Calligraphy<br>
 git地址：https://github.com/chrisjenx/Calligraphy<br>
