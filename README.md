@@ -156,6 +156,15 @@
 
 
 
+
+
+
+
+项目名：MagicLine<br>
+git地址：https://github.com/zhangyuChen1991/MagicLine<br>
+预览:<br>
+<img src="https://github.com/zhangyuChen1991/some_sources/raw/master/magicline/draw1-1.gif" width="30%"/>
+
 项目名：WaveView<br>
 git地址：https://github.com/1139618418/WaveView<br>
 预览:<br>
