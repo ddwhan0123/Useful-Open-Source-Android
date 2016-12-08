@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-12-7<br>
+###更新时间:2016-12-8<br>
 
 
 
@@ -151,6 +151,15 @@
 
 
 
+
+
+
+
+
+项目名：WaveView<br>
+git地址：https://github.com/1139618418/WaveView<br>
+预览:<br>
+<img src="https://github.com/1139618418/WaveView/raw/master/art/wave_view.gif" width="30%"/>
 
 项目名：ViewSupport<br>
 git地址：https://github.com/GcsSloop/ViewSupport<br>
