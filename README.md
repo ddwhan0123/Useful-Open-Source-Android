@@ -156,7 +156,10 @@
 
 
 
-
+项目名：audioWaveCanvas<br>
+git地址：https://github.com/cokuscz/audioWaveCanvas<br>
+预览:<br>
+<img src="https://github.com/cokuscz/audioWaveCanvas/raw/master/ScreenShot/pre.png" width="30%"/>
 
 项目名：WaveLoading<br>
 git地址：https://github.com/race604/WaveLoading<br>
