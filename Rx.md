@@ -8,6 +8,13 @@
 
 
 
+
+
+项目名：RxDownload<br>
+git地址：https://github.com/ssseasonnn/RxDownload<br>
+预览:<br>
+<img src="https://github.com/ssseasonnn/RxDownload/raw/master/gif/service_download.gif?raw=true" width="30%"/><br><br>
+
 项目名：RxGalleryFinal<br>
 git地址：https://github.com/FinalTeam/RxGalleryFinal<br>
 解释:<br>
