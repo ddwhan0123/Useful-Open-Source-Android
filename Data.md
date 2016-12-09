@@ -175,6 +175,12 @@ README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.c
 
 
 
+项目名：gradle-config<br>
+git地址：https://github.com/hacket/gradle-config<br>
+解释:<br>
+实用的gradle技巧<br>
+
+
 项目名：jstraining<br>
 git地址：https://github.com/ruanyf/jstraining<br>
 解释:<br>
