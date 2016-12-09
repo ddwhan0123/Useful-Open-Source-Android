@@ -7,6 +7,22 @@
 
 
 
+
+
+
+项目名：android-widget-ticktock<br>
+git地址：https://github.com/BCGDV-ASIA/android-widget-ticktock<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/a99213ab9cbd3056b71b34d551d984ed422a438c/687474703a2f2f692e67697068792e636f6d2f50647835314a426635663930412e676966" width="30%"/><br>
+
+
+
+项目名：CreditSesameRingView<br>
+git地址：https://github.com/HotBitmapGG/CreditSesameRingView<br>
+预览:<br>
+<img src="https://github.com/HotBitmapGG/CreditSesameRingView/raw/master/art/02.gif" width="30%"/><br>
+
+
 项目名：LoadingButtonAndroid<br>
 git地址：https://github.com/leandroBorgesFerreira/LoadingButtonAndroid<br>
 预览:<br>
