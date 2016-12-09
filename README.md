@@ -634,10 +634,7 @@ git地址：https://github.com/dmacosta/ATableView<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/5cbc47c9ac3db34cc41451bbf4a430c59e4c83b4/687474703a2f2f6f6934352e74696e797069632e636f6d2f7673686e32782e6a7067" width="40%"/><br>
 
-项目名：CreditSesameRingView<br>
-git地址：https://github.com/HotBitmapGG/CreditSesameRingView<br>
-预览:<br>
-<img src="https://github.com/HotBitmapGG/CreditSesameRingView/raw/master/art/02.gif" width="30%"/><br>
+
 
 项目名：CountDownAnimation<br>
 git地址：https://github.com/IvanRF/CountDownAnimation<br>
@@ -746,10 +743,7 @@ git地址:https://github.com/umano/AndroidSlidingUpPanel<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/834cfd81ce764457db69dc023e1bd0adf0a8d00d/68747470733a2f2f7261772e6769746875622e636f6d2f756d616e6f2f416e64726f6964536c6964696e67557050616e656c44656d6f2f6d61737465722f736c6964696e67757070616e656c2e706e67" width="40%"/><br>
 
-项目名：Steppers<br>
-git地址:https://github.com/drozdzynski/Steppers<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/cf686b810bc9398187f42a30579e4ebab3dea863/68747470733a2f2f64726f7a647a796e736b692e6d652f7265706f2f73746570706572732f73637265656e2e676966" width="30%"/><br>
+
 
 项目名：FlexLayout<br>
 git地址:https://github.com/mmin18/FlexLayout<br>
@@ -1383,10 +1377,7 @@ git地址：https://github.com/JakeWharton/DrawerBehavior<br>
 预览:<br>
 太牛逼了没有图<br>
 
-项目名：android-widget-ticktock<br>
-git地址：https://github.com/BCGDV-ASIA/android-widget-ticktock<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/a99213ab9cbd3056b71b34d551d984ed422a438c/687474703a2f2f692e67697068792e636f6d2f50647835314a426635663930412e676966" width="30%"/><br>
+
 
 
 
