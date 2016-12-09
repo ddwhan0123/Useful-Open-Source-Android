@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-12-8<br>
+###更新时间:2016-12-9<br>
 
 
 
@@ -154,7 +154,10 @@
 
 
 
-
+项目名：collageview<br>
+git地址：https://github.com/lopei/collageview<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/cedb07108cc866e9f9641e39f144e8135b861637/68747470733a2f2f70702e766b2e6d652f633632363832332f763632363832333337312f32393437632f5a4f354e307644696154342e6a7067" width="30%"/>
 
 项目名：audioWaveCanvas<br>
 git地址：https://github.com/cokuscz/audioWaveCanvas<br>
