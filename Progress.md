@@ -65,7 +65,7 @@ git地址：https://github.com/katsuki-nakatani/FabProgress<br>
 项目名：LoadingView<br>
 git地址：https://github.com/ldoublem/LoadingView<br>
 预览:<br>
-<img src="https://github.com/ldoublem/LoadingView/raw/master/screen/%E6%95%88%E6%9E%9C.gif" width="30%" />
+<img src="https://github.com/ldoublem/LoadingView/raw/master/screen/screen.gif" width="30%" />
 
 项目名：CircleProgressBar<br>
 git地址：https://github.com/dinuscxj/CircleProgressBar<br>
