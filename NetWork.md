@@ -63,7 +63,7 @@ An Android transformation library providing a variety of image transformations f
 项目名：OkLog<br>
 git地址：https://github.com/simonpercic/OkLog<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/simonpercic/OkLog/develop/art/oklog.gif" width="30%" />
+<img src="https://raw.githubusercontent.com/simonpercic/OkLog/develop/art/oklog.gif" width="30%" /><br>
 解释：<br>
 Response logging interceptor for OkHttp. Logs a url link with url-encoded response for every OkHttp call. https://medium.com/@simonpercic/effortless-network-response-logging-on-android-cedf0ebbdae1<br>
 
@@ -113,7 +113,7 @@ git地址：https://github.com/drakeet/MultiType<br>
 解释:<br>
 A great Android library to retrofit multiple item view types<br>
 预览:<br>
-<img src="https://github.com/drakeet/MultiType/raw/master/art/screenshot-bilibili.png" width="30%" />
+<img src="https://github.com/drakeet/MultiType/raw/master/art/screenshot-bilibili.png" width="30%" /><br>
 
 项目名：Fast-Android-Networking<br>
 git地址：https://github.com/amitshekhariitbhu/Fast-Android-Networking<br>
@@ -125,7 +125,7 @@ A Complete Fast Android Networking Library that also support HTTP/2 <br>
 项目名：okhttp-idling-resource<br>
 git地址：https://github.com/JakeWharton/okhttp-idling-resource<br>
 解释:<br>
-An Espresso IdlingResource for OkHttp. <br>
+An Espresso IdlingResource for OkHttp <br>
 
 项目名：KakaCache-RxJava<br>
 git地址：https://github.com/LittleFriendsGroup/KakaCache-RxJava<br>
