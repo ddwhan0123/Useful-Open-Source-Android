@@ -175,6 +175,15 @@ README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.c
 
 
 
+
+项目名：repractise<br>
+git地址：https://github.com/phodal/repractise<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/phodal/github-roam/gh-pages/img/qrcode.jpg" width="30%"/><br>
+解释:<br>
+RePractise http://repractise.phodal.com<br>
+
+
 项目名：gradle-config<br>
 git地址：https://github.com/hacket/gradle-config<br>
 解释:<br>
