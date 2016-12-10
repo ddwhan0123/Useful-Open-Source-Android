@@ -154,6 +154,14 @@
 
 
 
+
+
+项目名：FolioReader-Android<br>
+git地址：https://github.com/FolioReader/FolioReader-Android<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/smartbetter/Android-GooView/master/ScreenShot/screenshot.gif" width="30%"/>
+
+
 项目名：Android-GooView<br>
 git地址：https://github.com/smartbetter/Android-GooView<br>
 预览:<br>
