@@ -2,6 +2,17 @@
 
 
 
+
+
+
+
+
+
+项目名：tab-digit<br>
+git地址:https://github.com/xenione/tab-digit<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/4138527/20869273/258ed640-ba6f-11e6-892c-a5986896134c.gif" width="30%"/><br>
+
 项目名：GoogleClock<br>
 git地址:https://github.com/lypeer/GoogleClock<br>
 预览:<br>
