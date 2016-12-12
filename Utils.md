@@ -213,6 +213,16 @@ git地址：https://github.com/bluelinelabs/LoganSquare<br>
 
 
 
+
+
+项目名：secure-preferences<br>
+git地址：https://github.com/scottyab/secure-preferences<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/29a9bb9967b7584cce1341c726817284cae1cd7a/68747470733a2f2f7261772e6769746875622e636f6d2f73636f74747961622f7365637572652d707265666572656e6365732f6d61737465722f646f63732f696d616765732f73735f6672616d655f7365637572655f707265662e706e67" width="30%"/><br><br>
+解释： Android Shared preference wrapper than encrypts the values of Shared Preferences. It's not bullet proof security but rather a quick win for incrementally making your android app more secure<br>
+
+
+
 项目名：Treasure<br>
 git地址：https://github.com/baoyongzhang/Treasure<br>
 解释： Very easy to use wrapper library for Android SharePreferences<br>
