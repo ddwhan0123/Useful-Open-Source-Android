@@ -6,6 +6,12 @@
 
 
 
+
+项目名：ExpandableViewpager<br>
+git地址：https://github.com/githubwing/ExpandableViewpager<br>
+预览:<br>
+<img src="https://github.com/githubwing/ExpandableViewpager/raw/master/img.gif" width="30%"/>
+
 项目名：ZoomHeader<br>
 git地址：https://github.com/githubwing/ZoomHeader<br>
 预览:<br>
