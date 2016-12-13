@@ -10,6 +10,23 @@
 
 
 
+
+
+项目名：WoWoViewPager<br>
+git地址：https://github.com/Nightonke/WoWoViewPager<br>
+预览:<br>
+<img src="https://github.com/Nightonke/WoWoViewPager/raw/master/Pictures/AppIntroExample.gif"/><br>
+
+项目名：SCViewPager<br>
+git地址：https://github.com/sacot41/SCViewPager<br>
+预览:<br>
+<img src="https://github.com/sacot41/SCViewPager/raw/master/example_2.gif?raw=true"/><br>
+
+项目名：AppIntro<br>
+git地址：https://github.com/PaoloRotolo/AppIntro<br>
+预览:<br>
+<img src="https://github.com/PaoloRotolo/AppIntro/raw/master/art/intro.png" width="30%" /><br>
+
 项目名：MaterialIntroTutorial<br>
 git地址：https://github.com/riggaroo/MaterialIntroTutorial<br>
 预览:<br>
@@ -52,7 +69,34 @@ git地址：https://github.com/ronaldsmartin/Material-ViewPagerIndicator<br>
 <img src="https://raw.githubusercontent.com/ronaldsmartin/Material-ViewPagerIndicator/assets/screenshots/1.0.0/capture-v1.0.0.gif" width="30%"/>
 <br>
 
+
+
+
+
 ###Banner<br>
+
+
+
+
+
+项目名：BGABanner-Android<br>
+git地址：https://github.com/bingoogolapple/BGABanner-Android<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/bingoogolapple/BGABanner-Android/server/screenshots/banner2.gif" width="30%" /><br>
+
+项目名：AutoPlayViewPager<br>
+git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
+预览:<br>
+<img src="https://github.com/xyzlf/AutoPlayViewPager/raw/master/autoplay_view.gif" width="30%"/><br>
+
+项目名：QingtingBannerView<br>
+git地址：https://github.com/JeasonWong/QingtingBannerView<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/4f8407f247989bf6d4a5f13d02f6e94f97bd23ba/687474703a2f2f69312e6275696d672e636f6d2f343963626264646632396364343838322e676966" width="30%"/>
+
+
+
+
 
 项目名：ExpandableViewpager<br>
 git地址：https://github.com/githubwing/ExpandableViewpager<br>
@@ -66,10 +110,7 @@ git地址：https://github.com/githubwing/ZoomHeader<br>
 
 
 
-项目名：QingtingBannerView<br>
-git地址：https://github.com/JeasonWong/QingtingBannerView<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/4f8407f247989bf6d4a5f13d02f6e94f97bd23ba/687474703a2f2f69312e6275696d672e636f6d2f343963626264646632396364343838322e676966" width="30%"/>
+
 
 项目名：CircleIndicator<br>
 git地址：https://github.com/ongakuer/CircleIndicator<br>
@@ -153,10 +194,7 @@ git地址：https://github.com/mrhyh/StartPageAd<br>
 预览:<br>
 <img src="https://github.com/HaoRuizhi/WelecomePageAD/raw/master/%E5%90%AF%E5%8A%A8%E9%A1%B5%E5%B9%BF%E5%91%8A%E6%8C%89%E9%92%AE%E5%8A%A8%E7%94%BB.gif" width="30%"/><br>
 
-项目名：AutoPlayViewPager<br>
-git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
-预览:<br>
-<img src="https://github.com/xyzlf/AutoPlayViewPager/raw/master/autoplay_view.gif" width="30%"/><br>
+
 
 项目名：android-sticky-viewpager<br>
 git地址：https://github.com/xmuSistone/android-sticky-viewpager<br>
@@ -226,16 +264,10 @@ git地址：https://github.com/Ramotion/paper-onboarding-android<br>
 预览:<br>
 <img src="https://github.com/Ramotion/paper-onboarding-android/raw/master/onboarding_preview.gif" width="30%" /><br>
 
-项目名：WoWoViewPager<br>
-git地址：https://github.com/Nightonke/WoWoViewPager<br>
-预览:<br>
-<img src="https://github.com/Nightonke/WoWoViewPager/raw/master/Pictures/AppIntroExample.gif"/><br>
 
 
-项目名：SCViewPager<br>
-git地址：https://github.com/sacot41/SCViewPager<br>
-预览:<br>
-<img src="https://github.com/sacot41/SCViewPager/raw/master/example_2.gif?raw=true"/><br>
+
+
 
 项目名：ViewPagerTransforms<br>
 git地址：https://github.com/ToxicBakery/ViewPagerTransforms<br>
@@ -247,16 +279,10 @@ git地址：https://github.com/florent37/HollyViewPager<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/42b77379300d39233842379c64a8d3bd6f432e38/687474703a2f2f6a2e676966732e636f6d2f765a344439472e676966" width="30%" /><br>
 
-项目名：AppIntro<br>
-git地址：https://github.com/PaoloRotolo/AppIntro<br>
-预览:<br>
-<img src="https://github.com/PaoloRotolo/AppIntro/raw/master/art/intro.png" width="30%" /><br>
 
 
-项目名：BGABanner-Android<br>
-git地址：https://github.com/bingoogolapple/BGABanner-Android<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/bingoogolapple/BGABanner-Android/server/screenshots/banner2.gif" width="30%" /><br>
+
+
 
 项目名：MagicViewPager<br>
 git地址：https://github.com/hongyangAndroid/MagicViewPager<br>
