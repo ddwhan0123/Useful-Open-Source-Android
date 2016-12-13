@@ -94,7 +94,10 @@ git地址：https://github.com/ronaldsmartin/Material-ViewPagerIndicator<br>
 
 
 
-
+项目名：Android-ConvenientBanner<br>
+git地址：https://github.com/saiwu-bigkoo/Android-ConvenientBanner<br>
+预览:<br>
+<img src="https://github.com/saiwu-bigkoo/Android-ConvenientBanner/raw/master/preview/convenientbannerdemo.gif" width="30%" /><br>
 
 
 项目名：CircleIndicator<br>
@@ -121,10 +124,43 @@ git地址：https://github.com/JeasonWong/QingtingBannerView<br>
 
 
 
-项目名：ExpandableViewpager<br>
-git地址：https://github.com/githubwing/ExpandableViewpager<br>
+
+
+
+###卡片翻页效果<br>
+
+
+
+项目名：MagicViewPager<br>
+git地址：https://github.com/hongyangAndroid/MagicViewPager<br>
 预览:<br>
-<img src="https://github.com/githubwing/ExpandableViewpager/raw/master/img.gif" width="30%"/>
+<img src="https://github.com/hongyangAndroid/MagicViewPager/raw/master/screenshot/rotate_y.gif" width="30%" /><br>
+
+项目名：SlidingBall<br>
+git地址：https://github.com/dalong982242260/SlidingBall<br>
+预览:<br>
+<img src="https://github.com/dalong982242260/SlidingBall/raw/master/img/dalong.gif?raw=true" width="30%"/><br>
+
+项目名：android-swipecards-view<br>
+git地址：https://github.com/Arjun-sna/android-swipecards-view<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/173222c3edc0a125dfa0bd2d10262011e6f1eacb/68747470733a2f2f7261776769742e636f6d2f41726a756e2d736e612f41726a756e2d736e612e6769746875622e696f2f6d61737465722f7261772f73776970656361726464656d6f2e676966" width="30%"/><br>
+
+项目名：SwipeCardView<br>
+git地址：https://github.com/xiepeijie/SwipeCardView<br>
+预览:<br>
+<img src="https://github.com/xiepeijie/SwipeCardView/raw/master/ezgif.com.gif" width="30%"/><br>
+
+项目名：android-page-transition<br>
+git地址：https://github.com/xmuSistone/android-page-transition<br>
+预览:<br>
+<img src="https://github.com/xmuSistone/android-page-transition/raw/master/gif3.gif" width="30%"/>
+
+
+
+
+
+
 
 项目名：ZoomHeader<br>
 git地址：https://github.com/githubwing/ZoomHeader<br>
@@ -158,10 +194,7 @@ git地址：https://github.com/DevLight-Mobile-Agency/NavigationTabStrip<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/7ead597346be3b6ae76d307ae7891d12b766f2ab/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d304278504f5f55655337775363523346554e5452765331424a654545" width="30%"/>
 
-项目名：android-page-transition<br>
-git地址：https://github.com/xmuSistone/android-page-transition<br>
-预览:<br>
-<img src="https://github.com/xmuSistone/android-page-transition/raw/master/gif3.gif" width="30%"/>
+
 
 
 
@@ -194,15 +227,9 @@ git地址：https://github.com/rubensousa/ViewPagerCards<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/8c3253122abfc3a84c9b7c2eeb83902c029ea550/68747470733a2f2f727562656e736f7573612e6769746875622e696f2f696d672f7669657770616765725f726573756c742e676966" width="30%"/><br>
 
-项目名：SwipeCardView<br>
-git地址：https://github.com/xiepeijie/SwipeCardView<br>
-预览:<br>
-<img src="https://github.com/xiepeijie/SwipeCardView/raw/master/ezgif.com.gif" width="30%"/><br>
 
-项目名：android-swipecards-view<br>
-git地址：https://github.com/Arjun-sna/android-swipecards-view<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/173222c3edc0a125dfa0bd2d10262011e6f1eacb/68747470733a2f2f7261776769742e636f6d2f41726a756e2d736e612f41726a756e2d736e612e6769746875622e696f2f6d61737465722f7261772f73776970656361726464656d6f2e676966" width="30%"/><br>
+
+
 
 项目名：pagerbullet<br>
 git地址：https://github.com/robohorse/pagerbullet<br>
@@ -244,10 +271,7 @@ git地址：https://github.com/iffa/wrapping-viewpager<br>
 
 
 
-项目名：SlidingBall<br>
-git地址：https://github.com/dalong982242260/SlidingBall<br>
-预览:<br>
-<img src="https://github.com/dalong982242260/SlidingBall/raw/master/img/dalong.gif?raw=true" width="30%"/><br>
+
 
 项目名：ExpandingPager<br>
 git地址：https://github.com/qs-lll/ExpandingPager<br>
@@ -295,16 +319,15 @@ git地址：https://github.com/florent37/HollyViewPager<br>
 
 
 
-项目名：MagicViewPager<br>
-git地址：https://github.com/hongyangAndroid/MagicViewPager<br>
-预览:<br>
-<img src="https://github.com/hongyangAndroid/MagicViewPager/raw/master/screenshot/rotate_y.gif" width="30%" /><br>
 
-项目名：Android-ConvenientBanner<br>
-git地址：https://github.com/saiwu-bigkoo/Android-ConvenientBanner<br>
-预览:<br>
-<img src="https://github.com/saiwu-bigkoo/Android-ConvenientBanner/raw/master/preview/convenientbannerdemo.gif" width="30%" /><br>
 
+
+
+<br>
+项目名：ExpandableViewpager<br>
+git地址：https://github.com/githubwing/ExpandableViewpager<br>
+预览:<br>
+<img src="https://github.com/githubwing/ExpandableViewpager/raw/master/img.gif" width="30%"/>
 
 
 项目名：CardSlide<br>
