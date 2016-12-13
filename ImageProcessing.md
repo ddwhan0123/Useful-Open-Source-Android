@@ -12,7 +12,10 @@
 
 
 
-
+项目名：before_after_slider<br>
+git地址：https://github.com/developer--/before_after_slider<br>
+预览:<br>
+<img src="https://github.com/developer--/before_after_slider/raw/master/before-after-slider.gif" width="30%"/><br>
 
 项目名：CaptchaImageView<br>
 git地址：https://github.com/jineshfrancs/CaptchaImageView<br>
