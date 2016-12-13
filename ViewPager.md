@@ -8,9 +8,25 @@
 
 
 
+项目名：Onboarding<br>
+git地址:https://github.com/eoinfogarty/Onboarding<br>
+预览:<br>
+<img src="https://github.com/eoinfogarty/Onboarding/raw/master/graphics/example.gif" width="30%"/><br>
 
+项目名：paper-onboarding-android<br>
+git地址：https://github.com/Ramotion/paper-onboarding-android<br>
+预览:<br>
+<img src="https://github.com/Ramotion/paper-onboarding-android/raw/master/onboarding_preview.gif" width="30%" /><br>
 
+项目名：welcome-android<br>
+git地址：https://github.com/stephentuso/welcome-android<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/stephentuso/welcome-android/master/media/sample-video.gif" width="30%" /><br>
 
+项目名：TransitionPlayer<br>
+git地址：https://github.com/linfaxin/TransitionPlayer<br>
+预览:<br>
+<img src="https://github.com/linfaxin/TransitionPlayer/raw/master/demo/demo_xiaoma_intro.gif" width="30%"/><br>
 
 项目名：WoWoViewPager<br>
 git地址：https://github.com/Nightonke/WoWoViewPager<br>
@@ -79,6 +95,13 @@ git地址：https://github.com/ronaldsmartin/Material-ViewPagerIndicator<br>
 
 
 
+
+
+项目名：CircleIndicator<br>
+git地址：https://github.com/ongakuer/CircleIndicator<br>
+预览:<br>
+<img src="https://github.com/ongakuer/CircleIndicator/raw/master/screenshot.gif" width="30%"/>
+
 项目名：BGABanner-Android<br>
 git地址：https://github.com/bingoogolapple/BGABanner-Android<br>
 预览:<br>
@@ -112,10 +135,7 @@ git地址：https://github.com/githubwing/ZoomHeader<br>
 
 
 
-项目名：CircleIndicator<br>
-git地址：https://github.com/ongakuer/CircleIndicator<br>
-预览:<br>
-<img src="https://github.com/ongakuer/CircleIndicator/raw/master/screenshot.gif" width="30%"/>
+
 
 项目名：InfiniteViewPager<br>
 git地址：https://github.com/waylife/InfiniteViewPager<br>
@@ -239,15 +259,9 @@ git地址：https://github.com/vitovalov/TabbedCoordinatorLayout<br>
 预览:<br>
 <img src="https://github.com/vitovalov/TabbedCoordinatorLayout/raw/master/art/demo.gif" width="30%"/><br>
 
-项目名：TransitionPlayer<br>
-git地址：https://github.com/linfaxin/TransitionPlayer<br>
-预览:<br>
-<img src="https://github.com/linfaxin/TransitionPlayer/raw/master/demo/demo_xiaoma_intro.gif" width="30%"/><br>
 
-项目名：welcome-android<br>
-git地址：https://github.com/stephentuso/welcome-android<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/stephentuso/welcome-android/master/media/sample-video.gif" width="30%" /><br>
+
+
 
 项目名：FlycoBanner_Master<br>
 git地址：https://github.com/H07000223/FlycoBanner_Master<br>
@@ -257,12 +271,9 @@ git地址：https://github.com/H07000223/FlycoBanner_Master<br>
 项目名：DevLight-Mobile-Agency/NavigationTabStrip<br>
 git地址：https://github.com/DevLight-Mobile-Agency/NavigationTabStrip<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/c22e87f0a7ea79e33497daba67d68d8bf178846d/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d7770476e786531566566632f567a6969796761533957492f41414141414141414364342f633466555f45472d44486b6f62793153496249354244747149547047695a5a6877434c30422f773332362d683535312d6e6f2f6e74732e676966" width="30%" /><br>
+<img src="https://camo.githubusercontent.com/c22e87f0a7ea79e33497daba67d68d8bf178846d/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d7770476e786531566566632f567a6969796761533957492f41414141414141414364342f633466555f45472d44486b6f62793153496249354244747149547047695a5a6877434c30422f773332362d683535312d6e6f2f6e74732e676966" width="24%" /><br>
 
-项目名：paper-onboarding-android<br>
-git地址：https://github.com/Ramotion/paper-onboarding-android<br>
-预览:<br>
-<img src="https://github.com/Ramotion/paper-onboarding-android/raw/master/onboarding_preview.gif" width="30%" /><br>
+
 
 
 
@@ -294,10 +305,7 @@ git地址：https://github.com/saiwu-bigkoo/Android-ConvenientBanner<br>
 预览:<br>
 <img src="https://github.com/saiwu-bigkoo/Android-ConvenientBanner/raw/master/preview/convenientbannerdemo.gif" width="30%" /><br>
 
-项目名：Onboarding<br>
-git地址:https://github.com/eoinfogarty/Onboarding<br>
-预览:<br>
-<img src="https://github.com/eoinfogarty/Onboarding/raw/master/graphics/example.gif" width="30%"/><br>
+
 
 项目名：CardSlide<br>
 git地址：https://github.com/DavidWangTM/CardSlide<br>
