@@ -2,8 +2,29 @@
 ##ViewPager
 <br>
 
+###欢迎页<br>
 
 
+项目名：AndroidOnboarder<br>
+git地址：https://github.com/chyrta/AndroidOnboarder<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/GrenderG/AndroidOnboarder/master/art/demo2.gif" width="30%"/>
+
+项目名：SlidingIntoView<br>
+git地址：https://github.com/ihsanbal/SlidingIntoView<br>
+预览:<br>
+<img src="https://github.com/ihsanbal/SlidingIntoView/raw/master/device-2016-10-12-125715.gif" width="30%"/>
+
+项目名：Vertical-Intro<br>
+git地址：https://github.com/armcha/Vertical-Intro<br>
+预览:<br>
+<img src="https://github.com/armcha/Vertical-Intro/raw/master/screens/gif1.gif" width="30%"/>
+
+项目名：Material-ViewPagerIndicator<br>
+git地址：https://github.com/ronaldsmartin/Material-ViewPagerIndicator<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/ronaldsmartin/Material-ViewPagerIndicator/assets/screenshots/1.0.0/capture-v1.0.0.gif" width="30%"/>
+<br>
 
 
 
@@ -17,10 +38,7 @@ git地址：https://github.com/githubwing/ZoomHeader<br>
 预览:<br>
 <img src="https://github.com/githubwing/ZoomHeader/raw/master/img.gif" width="30%"/>
 
-项目名：Vertical-Intro<br>
-git地址：https://github.com/armcha/Vertical-Intro<br>
-预览:<br>
-<img src="https://github.com/armcha/Vertical-Intro/raw/master/screens/gif1.gif" width="30%"/>
+
 
 项目名：QingtingBannerView<br>
 git地址：https://github.com/JeasonWong/QingtingBannerView<br>
@@ -37,25 +55,16 @@ git地址：https://github.com/waylife/InfiniteViewPager<br>
 预览:<br>
 <img src="https://github.com/waylife/InfiniteViewPager/raw/master/ScreenCapture/preview_s2.gif" width="30%"/>
 
-项目名：Material-ViewPagerIndicator<br>
-git地址：https://github.com/ronaldsmartin/Material-ViewPagerIndicator<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/ronaldsmartin/Material-ViewPagerIndicator/assets/screenshots/1.0.0/capture-v1.0.0.gif" width="30%"/>
 
-项目名：SlidingIntoView<br>
-git地址：https://github.com/ihsanbal/SlidingIntoView<br>
-预览:<br>
-<img src="https://github.com/ihsanbal/SlidingIntoView/raw/master/device-2016-10-12-125715.gif" width="30%"/>
+
+
 
 项目名：PageIndicatorView<br>
 git地址：https://github.com/romandanylyk/PageIndicatorView<br>
 预览:<br>
 <img src="https://github.com/romandanylyk/PageIndicatorView/raw/master/assets/animation_worm.gif?raw=true" width="30%"/>
 
-项目名：AndroidOnboarder<br>
-git地址：https://github.com/chyrta/AndroidOnboarder<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/GrenderG/AndroidOnboarder/master/art/demo2.gif" width="30%"/>
+
 
 项目名：NavigationTabStrip<br>
 git地址：https://github.com/DevLight-Mobile-Agency/NavigationTabStrip<br>
