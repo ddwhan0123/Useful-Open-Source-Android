@@ -5,6 +5,32 @@
 ###欢迎页<br>
 
 
+
+
+
+
+
+项目名：MaterialIntroTutorial<br>
+git地址：https://github.com/riggaroo/MaterialIntroTutorial<br>
+预览:<br>
+<img src="https://github.com/riggaroo/MaterialIntroTutorial/raw/master/example-usage.gif" width="30%"/><br>
+
+
+项目名：LiulishuoPreview<br>
+git地址：https://github.com/JeasonWong/LiulishuoPreview<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/jeasonwong/LiulishuoPreview/master/screenshots/liulishuo.gif" width="30%"/>
+
+项目名：ahoy-onboarding<br>
+git地址：https://github.com/codemybrainsout/ahoy-onboarding<br>
+预览:<br>
+<img src="https://github.com/codemybrainsout/ahoy-onboarding/raw/master/preview/preview.gif" width="30%"/>
+
+项目名：material-intro-screen<br>
+git地址：https://github.com/TangoAgency/material-intro-screen<br>
+预览:<br>
+<img src="https://github.com/TangoAgency/material-intro-screen/raw/master/images/simple_slide.gif" width="30%"/>
+
 项目名：AndroidOnboarder<br>
 git地址：https://github.com/chyrta/AndroidOnboarder<br>
 预览:<br>
@@ -26,7 +52,7 @@ git地址：https://github.com/ronaldsmartin/Material-ViewPagerIndicator<br>
 <img src="https://raw.githubusercontent.com/ronaldsmartin/Material-ViewPagerIndicator/assets/screenshots/1.0.0/capture-v1.0.0.gif" width="30%"/>
 <br>
 
-
+###Banner<br>
 
 项目名：ExpandableViewpager<br>
 git地址：https://github.com/githubwing/ExpandableViewpager<br>
@@ -76,20 +102,11 @@ git地址：https://github.com/xmuSistone/android-page-transition<br>
 预览:<br>
 <img src="https://github.com/xmuSistone/android-page-transition/raw/master/gif3.gif" width="30%"/>
 
-项目名：material-intro-screen<br>
-git地址：https://github.com/TangoAgency/material-intro-screen<br>
-预览:<br>
-<img src="https://github.com/TangoAgency/material-intro-screen/raw/master/images/simple_slide.gif" width="30%"/>
 
-项目名：ahoy-onboarding<br>
-git地址：https://github.com/codemybrainsout/ahoy-onboarding<br>
-预览:<br>
-<img src="https://github.com/codemybrainsout/ahoy-onboarding/raw/master/preview/preview.gif" width="30%"/>
 
-项目名：LiulishuoPreview<br>
-git地址：https://github.com/JeasonWong/LiulishuoPreview<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/jeasonwong/LiulishuoPreview/master/screenshots/liulishuo.gif" width="30%"/>
+
+
+
 
 项目名：Orientation-ViewPager<br>
 git地址：https://github.com/mcshengInworking/Orientation-ViewPager<br>
@@ -167,10 +184,7 @@ git地址：https://github.com/iffa/wrapping-viewpager<br>
 <img src="https://camo.githubusercontent.com/c4e619027d5de20a29ded67de75e63a4b392db7d/68747470733a2f2f7468756d62732e6766796361742e636f6d2f5265616c6973746963426c69737366756c4164616d7373746167686f726e6564626565746c652d73697a655f726573747269637465642e676966" width="30%"/><br>
 
 
-项目名：MaterialIntroTutorial<br>
-git地址：https://github.com/riggaroo/MaterialIntroTutorial<br>
-预览:<br>
-<img src="https://github.com/riggaroo/MaterialIntroTutorial/raw/master/example-usage.gif" width="30%"/><br>
+
 
 项目名：SlidingBall<br>
 git地址：https://github.com/dalong982242260/SlidingBall<br>
