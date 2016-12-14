@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-12-13<br>
+###更新时间:2016-12-14<br>
 
 
 
@@ -154,7 +154,10 @@
 
 
 
-
+项目名：DragVideo<br>
+git地址：https://github.com/hejunlin2013/DragVideo<br>
+预览:<br>
+<img src="https://github.com/hejunlin2013/DragVideo/raw/master/image/dragvideo.gif" width="30%"/>
 
 项目名：FolioReader-Android<br>
 git地址：https://github.com/FolioReader/FolioReader-Android<br>
