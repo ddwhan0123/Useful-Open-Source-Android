@@ -12,7 +12,10 @@
 
 
 
-
+项目名：TwinklingRefreshLayout<br>
+git地址：https://github.com/lcodecorex/TwinklingRefreshLayout<br>
+预览:<br>
+<img src="https://github.com/lcodecorex/TwinklingRefreshLayout/raw/master/art/gif_gridview.gif" width="30%"/><br>
 
 项目名：HaoKanRefresh<br>
 git地址：https://github.com/android-cjj/HaoKanRefresh<br>
@@ -96,7 +99,7 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
-###各类强实现 ：<br>
+###各类牛x实现 ：<br>
 
 
 
@@ -104,6 +107,10 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
+项目名：ZuiMeiTAG<br>
+git地址：https://github.com/huage2580/ZuiMeiTAG<br>
+预览:<br>
+<img src="https://github.com/huage2580/ZuiMeiTAG/raw/master/hello.gif" width="30%"/><br>
 
 
 项目名：PullZoomRecyclerView<br>
