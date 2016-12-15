@@ -43,6 +43,17 @@ git地址:https://github.com/oubowu/SlideBack<br>
 A library to close an activity with swipe gestures<br>
 
 
+项目名：ParallaxSwipeBack<br>
+git地址:https://github.com/bushijie/ParallaxSwipeBack<br>
+预览:<br>
+<img src="https://github.com/oubowu/SlideBack/raw/master/pic/demo.gif" width="30%"/><br>
+解释:<br>
+带视觉差的侧滑返回，类似于新版微信和lofter的侧滑返回效果。核心代码小于50行<br>
+
+
+
+
+
 
 
 项目名：ReView<br>
