@@ -8,7 +8,10 @@
 
 
 
-
+项目名：RxBlur<br>
+git地址：https://github.com/SmartDengg/RxBlur<br>
+预览:<br>
+<img src="https://github.com/SmartDengg/RxBlur/raw/master/images/icon.png" width="30%"/><br><br>
 
 项目名：RxDownload<br>
 git地址：https://github.com/ssseasonnn/RxDownload<br>
