@@ -153,6 +153,12 @@
 
 
 
+
+项目名：WowSplash<br>
+git地址：https://github.com/githubwing/WowSplash<br>
+预览:<br>
+<img src="https://github.com/githubwing/WowSplash/raw/master/img/img.gif" width="30%"/>
+
 项目名：GAHonorClock<br>
 git地址：https://github.com/Ajian-studio/GAHonorClock<br>
 预览:<br>
