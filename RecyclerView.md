@@ -107,6 +107,12 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
+
+项目名：SwipeCardsRecyclerView<br>
+git地址：https://github.com/yuyuyu123/SwipeCardsRecyclerView<br>
+预览:<br>
+<img src="https://github.com/yuyuyu123/SwipeCardsRecyclerView/raw/master/screenshot.gif" width="30%"/><br>
+
 项目名：ZuiMeiTAG<br>
 git地址：https://github.com/huage2580/ZuiMeiTAG<br>
 预览:<br>
