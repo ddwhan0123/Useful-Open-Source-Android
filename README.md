@@ -152,6 +152,12 @@
 
 
 
+
+项目名：GAHonorClock<br>
+git地址：https://github.com/Ajian-studio/GAHonorClock<br>
+预览:<br>
+<img src="https://github.com/Ajian-studio/GAHonorClock/raw/master/raw/honor_clock_by_image.gif" width="30%"/>
+
 项目名：stencil<br>
 git地址：https://github.com/thoughtbot/stencil<br>
 预览:<br>
