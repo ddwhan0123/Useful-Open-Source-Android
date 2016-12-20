@@ -13,6 +13,9 @@
 
 
 
+
+
+
 项目名： BufferTextInputLayout<br>
 git地址：https://github.com/bufferapp/BufferTextInputLayout<br>
 预览:<br>
@@ -144,6 +147,13 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 
 
 
+
+
+
+项目名： XRichText<br>
+git地址：https://github.com/limedroid/XRichText<br>
+预览:<br>
+<img src="https://github.com/limedroid/XRichText/raw/master/art/xrichtext.gif" width="30%"/><br>
 
 
 项目名：PinchZoomTextView<br>
