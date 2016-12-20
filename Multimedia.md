@@ -13,6 +13,13 @@
 
 
 
+
+
+项目名：JcPlayer<br>
+git地址：https://github.com/jeancsanchez/JcPlayer<br>
+预览:<br>
+<img src="https://github.com/jeancsanchez/JcPlayer/raw/master/sample/jcplayer-gif-definitive.gif" width="30%"/><br>
+
 项目名：SuperPlayer<br>
 git地址：https://github.com/supercwn/SuperPlayer<br>
 预览:<br>
