@@ -8,6 +8,12 @@
 
 
 
+
+项目名：KuaiChuan<br>
+git地址：https://github.com/mayubao/KuaiChuan<br>
+预览:<br>
+<img src="https://github.com/mayubao/KuaiChuan/raw/master/ScreenShot/fs_1.gif" width="30%" />
+
 项目名：AisenWeiBo<br>
 git地址：https://github.com/wangdan/AisenWeiBo<br>
 解释：<br>
