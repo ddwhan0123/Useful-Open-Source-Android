@@ -12,6 +12,15 @@
 
 
 
+
+
+项目名：ZLayoutManager<br>
+git地址：https://github.com/mcxtzhang/ZLayoutManager<br>
+预览:<br>
+<img src="https://github.com/mcxtzhang/FlowLayoutManager/raw/master/gifs/gif1" width="30%"/><br>
+解释：<br>
+Some custom LayoutManager .Such as SwipeCard、FLowLayout。一些自定义的LayoutManager，仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等<br>
+
 项目名：AndroidLife<br>
 git地址：https://github.com/CaMnter/AndroidLife<br>
 预览:<br>
