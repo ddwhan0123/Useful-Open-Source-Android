@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-12-21<br>
+###更新时间:2016-12-22<br>
 
 
 
@@ -153,6 +153,12 @@
 
 
 
+
+
+项目名：AnimatorDurationTile<br>
+git地址：https://github.com/nickbutcher/AnimatorDurationTile<br>
+预览:<br>
+<img src="https://github.com/nickbutcher/AnimatorDurationTile/raw/master/screenshots/duration_scale_toggle_demo.gif" width="30%"/>
 
 项目名：WowSplash<br>
 git地址：https://github.com/githubwing/WowSplash<br>
