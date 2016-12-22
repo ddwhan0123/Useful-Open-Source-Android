@@ -152,7 +152,10 @@
 
 
 
-
+项目名：StarWars.Android<br>
+git地址：https://github.com/Yalantis/StarWars.Android<br>
+预览:<br>
+<img src="https://github.com/Yalantis/StarWars.Android/raw/master/star_wars-concept.gif" width="30%"/>
 
 
 项目名：AnimatorDurationTile<br>
