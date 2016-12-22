@@ -7,7 +7,10 @@
 
 
 
-
+项目名：Puff-Android<br>
+git地址：https://github.com/PuffOpenSource/Puff-Android<br>
+预览:<br>
+<img src="https://github.com/PuffOpenSource/Puff-Android/raw/master/img/screenshots/SC_08_KeyboardDialog.png" width="30%" />
 
 项目名：KuaiChuan<br>
 git地址：https://github.com/mayubao/KuaiChuan<br>
