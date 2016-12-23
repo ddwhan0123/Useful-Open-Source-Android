@@ -240,7 +240,10 @@ Chinese Copywriting Guidelines / 中文文案排版指北<br>
 
 
 
-
+项目名：gradle-packer-plugin<br>
+git地址：https://github.com/mcxiaoke/gradle-packer-plugin<br>
+解释:<br>
+Android渠道打包工具<br>
 
 项目名：Amigo<br>
 git地址：https://github.com/eleme/Amigo<br>
