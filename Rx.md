@@ -6,6 +6,13 @@
 
 
 
+
+
+项目名：RxActivityResult<br>
+git地址：https://github.com/VictorAlbertos/RxActivityResult<br>
+解释:<br>
+A reactive-tiny-badass-vindictive library to break with the OnActivityResult implementation as it breaks the observable chain<br>
+
 项目名：RxWeather<br>
 git地址：https://github.com/SmartDengg/RxWeather<br>
 预览:<br>
