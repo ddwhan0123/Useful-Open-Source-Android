@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-12-23<br>
+###更新时间:2016-12-26<br>
 
 
 
@@ -150,7 +150,10 @@
 
 
 
-
+项目名：GearMachine<br>
+git地址：https://github.com/andyxialm/GearMachine<br>
+预览:<br>
+<img src="https://github.com/andyxialm/GearMachine/raw/master/art/gear.gif?raw=true" width="30%"/>
 
 项目名：StarWars.Android<br>
 git地址：https://github.com/Yalantis/StarWars.Android<br>
