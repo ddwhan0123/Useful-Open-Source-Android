@@ -111,6 +111,12 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
+
+项目名：HeaderAndFooterRecyclerView<br>
+git地址：https://github.com/cundong/HeaderAndFooterRecyclerView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/cundong/HeaderAndFooterRecyclerView/master/art/art1.png" width="30%"/><br>
+
 项目名：ChatDemo<br>
 git地址：https://github.com/Maxi-Mao/ChatDemo<br>
 预览:<br>
