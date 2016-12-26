@@ -150,6 +150,13 @@
 
 
 
+
+
+项目名：MarqueeViewLibrary<br>
+git地址：https://github.com/gongwen/MarqueeViewLibrary<br>
+预览:<br>
+<img src="https://github.com/gongwen/MarqueeViewLibrary/raw/master/screenshot/screen_shot.gif" width="30%"/>
+
 项目名：GearMachine<br>
 git地址：https://github.com/andyxialm/GearMachine<br>
 预览:<br>
