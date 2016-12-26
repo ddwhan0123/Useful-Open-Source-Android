@@ -7,6 +7,12 @@
 
 
 
+
+项目名：EZScreenshot<br>
+git地址：https://github.com/zty5678/EZScreenshot<br>
+预览:<br>
+<img src="https://github.com/zty5678/EZScreenshot/raw/master/art/screenshots/3.png" width="30%" />
+
 项目名：Puff-Android<br>
 git地址：https://github.com/PuffOpenSource/Puff-Android<br>
 预览:<br>
