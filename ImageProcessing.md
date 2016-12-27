@@ -13,6 +13,13 @@
 
 
 
+
+项目名：PanoramaImageView<br>
+git地址：https://github.com/gjiazhe/PanoramaImageView<br>
+预览:<br>
+<img src="https://github.com/gjiazhe/PanoramaImageView/raw/master/screenshots/recyclerview_sample.gif" width="30%"/>
+
+
 项目名：JigsawDemo<br>
 git地址：https://github.com/newtonker/JigsawDemo<br>
 预览:<br>
