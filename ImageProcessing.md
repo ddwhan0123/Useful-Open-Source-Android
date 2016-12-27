@@ -12,6 +12,13 @@
 
 
 
+
+项目名：JigsawDemo<br>
+git地址：https://github.com/newtonker/JigsawDemo<br>
+预览:<br>
+<img src="https://github.com/newtonker/JigsawDemo/raw/master/screenshots/1.gif" width="30%"/>
+
+
 项目名：before_after_slider<br>
 git地址：https://github.com/developer--/before_after_slider<br>
 预览:<br>
