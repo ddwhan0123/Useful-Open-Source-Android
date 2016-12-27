@@ -112,7 +112,7 @@ git地址：https://github.com/KyoSherlock/ImageCropView<br>
 项目名：PuzzleView<br>
 git地址:https://github.com/wuapnjie/PuzzleView<br>
 预览:<br>
-<img src="https://github.com/wuapnjie/PuzzleView/raw/master/screenshots/gif-demo1.gif" width="30%"/><br>
+<img src="https://github.com/wuapnjie/PuzzleView/raw/master/screenshots/screenshot3.png" width="20%"/><br>
 
 
 项目名：android-crop<br>
