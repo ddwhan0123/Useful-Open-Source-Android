@@ -8,7 +8,10 @@
 
 
 
-
+项目名：GALeafLoading<br>
+git地址：https://github.com/Ajian-studio/GALeafLoading<br>
+预览:<br>
+<img src="https://github.com/Ajian-studio/GALeafLoading/raw/master/raw/leaf_loading_readme.gif" width="30%"/><br>
 
 项目名：android-widget-ticktock<br>
 git地址：https://github.com/BCGDV-ASIA/android-widget-ticktock<br>
