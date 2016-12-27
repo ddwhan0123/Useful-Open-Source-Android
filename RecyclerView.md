@@ -12,6 +12,11 @@
 
 
 
+项目名：VRefreshLayout<br>
+git地址：https://github.com/ileelay/VRefreshLayout<br>
+预览:<br>
+<img src="https://github.com/ileelay/VRefreshLayout/raw/master/pics/gif1.gif" width="30%"/><br>
+
 项目名：TwinklingRefreshLayout<br>
 git地址：https://github.com/lcodecorex/TwinklingRefreshLayout<br>
 预览:<br>
