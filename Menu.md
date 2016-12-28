@@ -55,6 +55,12 @@ git地址：https://github.com/wangjiegulu/RapidFloatingActionButton<br>
 
 
 
+
+项目名：SwipeMenuDemo<br>
+git地址：https://github.com/Brioal/SwipeMenuDemo<br>
+预览:<br>
+<img src="https://github.com/Brioal/SwipeMenuDemo/raw/master/art/1.gif" width="30%" />
+
 项目名：MultiCardMenu<br>
 git地址：https://github.com/wujingchao/MultiCardMenu<br>
 预览:<br>
