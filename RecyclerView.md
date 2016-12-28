@@ -12,6 +12,11 @@
 
 
 
+
+
+
+
+
 项目名：VRefreshLayout<br>
 git地址：https://github.com/ileelay/VRefreshLayout<br>
 预览:<br>
@@ -115,7 +120,10 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
-
+项目名：Hexagon-Recyclerview<br>
+git地址：https://github.com/xresco/Hexagon-Recyclerview<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/bb311e1a4174b5c4dab2685d86875c280124da0a/687474703a2f2f7333332e706f7374696d672e6f72672f6866767577733061372f6465766963655f323031365f30365f30375f3135343932372e706e67" width="30%"/><br>
 
 项目名：HeaderAndFooterRecyclerView<br>
 git地址：https://github.com/cundong/HeaderAndFooterRecyclerView<br>
