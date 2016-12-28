@@ -152,7 +152,10 @@
 
 
 
-
+项目名：MagicCircle<br>
+git地址：https://github.com/DevinShine/MagicCircle<br>
+预览:<br>
+<img src="https://github.com/DevinShine/MagicCircle/raw/master/art/pic01.gif" width="20%"/>
 
 项目名：Colorful<br>
 git地址：https://github.com/garretyoder/Colorful<br>
