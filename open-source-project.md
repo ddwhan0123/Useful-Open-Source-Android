@@ -1,12 +1,15 @@
 
-##开源项目<br>
+##开源app<br>
 
 
 
 
 
 
-
+项目名：MusicBobber<br>
+git地址：https://github.com/Cleveroad/MusicBobber<br>
+预览:<br>
+<img src="https://github.com/Cleveroad/MusicBobber/raw/master/images/demo.gif" width="30%" />
 
 项目名：EZScreenshot<br>
 git地址：https://github.com/zty5678/EZScreenshot<br>
