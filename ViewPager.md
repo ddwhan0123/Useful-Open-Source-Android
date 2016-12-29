@@ -12,6 +12,12 @@
 
 
 
+
+项目名：Bitutorial<br>
+git地址:https://github.com/Cleveroad/Bitutorial<br>
+预览:<br>
+<img src="https://github.com/Cleveroad/Bitutorial/raw/master/images/demo.gif" width="30%"/><br>
+
 项目名：ViewPagerIndicator<br>
 git地址:https://github.com/LuckyJayce/ViewPagerIndicator<br>
 预览:<br>
