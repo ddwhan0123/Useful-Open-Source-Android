@@ -14,6 +14,13 @@
 
 
 
+
+
+项目名：WeDemo<br>
+git地址：https://github.com/Tencent/WeDemo<br>
+解释：<br>
+WeDemo为微信团队开源项目，用于帮助微信开发者完成微信登录、微信分享等功能的接入和开发。开发者可参考源代码完成开发，也可以直接将代码应用到自己的App开发中，安全、便捷地在App中实现微信分享、微信登录功能<br>
+
 项目名：ZLayoutManager<br>
 git地址：https://github.com/mcxtzhang/ZLayoutManager<br>
 预览:<br>
