@@ -150,6 +150,13 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 
 
 
+
+
+项目名： html-builder<br>
+git地址：https://github.com/jrummyapps/html-builder<br>
+预览:<br>
+<img src="https://github.com/jrummyapps/html-builder/raw/master/art/screenshot.png" width="30%"/><br>
+
 项目名： XRichText<br>
 git地址：https://github.com/limedroid/XRichText<br>
 预览:<br>
