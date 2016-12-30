@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-12-29<br>
+###更新时间:2016-12-30<br>
 
 
 
@@ -152,6 +152,12 @@
 
 
 
+
+
+项目名：android-snowfall<br>
+git地址：https://github.com/JetradarMobile/android-snowfall<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/JetradarMobile/android-snowfall/master/art/hotellook-demo.gif" width="20%"/>
 
 项目名：SpaceTabLayout<br>
 git地址：https://github.com/thelong1EU/SpaceTabLayout<br>
