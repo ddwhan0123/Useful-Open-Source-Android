@@ -65,7 +65,14 @@ git地址：https://github.com/nicewarm/WeChatImageClipping<br>
 
 
 
+
+
+
 ###图片剪裁相关：<br>
+
+
+
+
 
 
 
@@ -491,6 +498,13 @@ git地址：https://github.com/siwangqishiq/ImageEditor-Android<br>
 
 
 
+
+
+
+项目名：sandriosCamera<br>
+git地址：https://github.com/sandrios/sandriosCamera<br>
+预览:<br>
+<img src="https://github.com/sandrios/sandriosCamera/raw/master/static/with_picker.png" width="30%" /><br>
 
 项目名：SnapAndMatch<br>
 git地址：https://github.com/Jaouan/SnapAndMatch<br>
