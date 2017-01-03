@@ -10,6 +10,21 @@
 
 
 
+项目名：EasyArcLoading<br>
+git地址：https://github.com/CaMnter/EasyArcLoading<br>
+预览:<br>
+![](https://github.com/CaMnter/EasyArcLoading/raw/master/screenshot/EasyArcLoading.gif) <br>
+
+项目名：MaterialLoadingProgressBar<br>
+git地址：https://github.com/lsjwzh/MaterialLoadingProgressBar<br>
+预览:<br>
+<img src="https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif" width="30%" />
+
+项目名：DownloadProgressBar<br>
+git地址：https://github.com/panwrona/DownloadProgressBar<br>
+预览:<br>
+![](https://github.com/panwrona/DownloadProgressBar/raw/master/success.gif) <br>
+
 项目名：SuperCircleSample<br>
 git地址：https://github.com/HayDar-Android/SuperCircleSample<br>
 预览:<br>
@@ -56,6 +71,11 @@ git地址：https://github.com/jakob-grabner/Circle-Progress-View<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/jakob-grabner/Circle-Progress-View/master/media/big.png" width="30%" />
 
+
+项目名：CatLoadingView<br>
+git地址：https://github.com/Rogero0o/CatLoadingView<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/762015246e027b7d46df51faa51fd669e44f974b/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f61363935616364656a7731663268626d66787a6b3567323038753061326173732e676966" width="30%" />
 
 
 
@@ -160,10 +180,7 @@ git地址：https://github.com/Tibolte/ElasticDownload<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/fail.gif" width="30%" />
 
-项目名：CatLoadingView<br>
-git地址：https://github.com/Rogero0o/CatLoadingView<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/762015246e027b7d46df51faa51fd669e44f974b/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f61363935616364656a7731663268626d66787a6b3567323038753061326173732e676966" width="30%" />
+
 
 
 项目名：NumberProgressBar<br>
@@ -181,20 +198,9 @@ git地址：https://github.com/JorgeCastilloPrz/FABProgressCircle<br>
 预览:<br>
 ![](https://github.com/JorgeCastilloPrz/FABProgressCircle/raw/master/art/fabprogresscircle2.gif) <br>
 
-项目名：DownloadProgressBar<br>
-git地址：https://github.com/panwrona/DownloadProgressBar<br>
-预览:<br>
-![](https://github.com/panwrona/DownloadProgressBar/raw/master/success.gif) <br>
 
-项目名：EasyArcLoading<br>
-git地址：https://github.com/CaMnter/EasyArcLoading<br>
-预览:<br>
-![](https://github.com/CaMnter/EasyArcLoading/raw/master/screenshot/EasyArcLoading.gif) <br>
 
-项目名：MaterialLoadingProgressBar<br>
-git地址：https://github.com/lsjwzh/MaterialLoadingProgressBar<br>
-预览:<br>
-<img src="https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif" width="30%" />
+
 
 
 
