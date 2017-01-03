@@ -6,6 +6,15 @@
 ###圆形进度条<br>
 
 
+
+
+
+
+项目名：SuperCircleSample<br>
+git地址：https://github.com/HayDar-Android/SuperCircleSample<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/HayDar-Android/SuperCircleSample/master/a.gif" width="30%"/><br>
+
 项目名：GAHonorClock<br>
 git地址：https://github.com/Ajian-studio/GAHonorClock<br>
 预览:<br>
@@ -42,8 +51,22 @@ git地址：https://github.com/ldoublem/RingProgress<br>
 预览:<br>
 <img src="https://github.com/ldoublem/RingProgress/raw/master/shot/shot1.jpeg" width="30%" />
 
+项目名：Circle-Progress-View<br>
+git地址：https://github.com/jakob-grabner/Circle-Progress-View<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/jakob-grabner/Circle-Progress-View/master/media/big.png" width="30%" />
+
+
+
+
+
+
 
 ###条状进度条<br>
+
+
+
+
 
 
 
@@ -83,10 +106,7 @@ git地址：https://github.com/leandroBorgesFerreira/LoadingButtonAndroid<br>
 
 
 
-项目名：SuperCircleSample<br>
-git地址：https://github.com/HayDar-Android/SuperCircleSample<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/HayDar-Android/SuperCircleSample/master/a.gif" width="30%"/><br>
+
 
 项目名：LikeSinaSportProgress<br>
 git地址：https://github.com/YangShaoXiong/LikeSinaSportProgress<br>
@@ -98,10 +118,7 @@ git地址：https://github.com/syedowaisali/crystal-range-seekbar<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/a91a36fcd741020ed5fa45e4f6eb3860c4b3ddcf/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3042396244454e794941425436636e68334d5859335457737451574d" width="30%" />
 
-项目名：Circle-Progress-View<br>
-git地址：https://github.com/jakob-grabner/Circle-Progress-View<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/jakob-grabner/Circle-Progress-View/master/media/big.png" width="30%" />
+
 
 项目名：circular-music-progressbar<br>
 git地址：https://github.com/aliab/circular-music-progressbar<br>
