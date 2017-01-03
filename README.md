@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2016-12-30<br>
+###更新时间:2017-1-3<br>
 
 
 
@@ -144,6 +144,8 @@
 
 
 
+
+
 ##自定义控件/动画:<br>
 
 
@@ -153,6 +155,13 @@
 
 
 
+
+
+
+项目名：FlowLayout<br>
+git地址：https://github.com/blazsolar/FlowLayout<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/blazsolar/FlowLayout/develop/images/framed_example_screenshot.png" width="20%"/>
 
 项目名：android-snowfall<br>
 git地址：https://github.com/JetradarMobile/android-snowfall<br>
