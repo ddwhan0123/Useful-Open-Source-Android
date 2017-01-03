@@ -10,6 +10,17 @@
 
 
 
+
+项目名：CircleProgressBar<br>
+git地址：https://github.com/dinuscxj/CircleProgressBar<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/dinuscxj/CircleProgressBar/master/Preview/CircleProgressBar.gif?width=300" width="30%" />
+
+项目名：materialish-progress<br>
+git地址：https://github.com/pnikosis/materialish-progress<br>
+预览:<br>
+<img src="https://github.com/pnikosis/materialish-progress/raw/master/spinningwheel.gif" />
+
 项目名：EasyArcLoading<br>
 git地址：https://github.com/CaMnter/EasyArcLoading<br>
 预览:<br>
@@ -155,31 +166,14 @@ git地址：https://github.com/katsuki-nakatani/FabProgress<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/aa6c8f9aa0553ce412c83003d54de5edc94bd519/687474703a2f2f6d6972756b6572617070732e636f6d2f77702f77702d636f6e74656e742f75706c6f6164732f323031342f31322f4749465f32303134313232385f3230343734332e676966" width="30%" />
 
-项目名：LoadingView<br>
-git地址：https://github.com/ldoublem/LoadingView<br>
-预览:<br>
-<img src="https://github.com/ldoublem/LoadingView/raw/master/screen/screen.gif" width="30%" />
 
-项目名：CircleProgressBar<br>
-git地址：https://github.com/dinuscxj/CircleProgressBar<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/dinuscxj/CircleProgressBar/master/Preview/CircleProgressBar.gif?width=300" width="30%" />
+
+
 
 项目名：uberprogressview<br>
 git地址：https://github.com/ishan1604/uberprogressview<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/ishan1604/uberprogressview/master/branding/UberProgressViewDemo.gif" width="28%" />
-
-项目名：materialish-progress<br>
-git地址：https://github.com/pnikosis/materialish-progress<br>
-预览:<br>
-<img src="https://github.com/pnikosis/materialish-progress/raw/master/spinningwheel.gif" />
-
-项目名：ElasticDownload<br>
-git地址：https://github.com/Tibolte/ElasticDownload<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/fail.gif" width="30%" />
-
 
 
 
@@ -200,10 +194,17 @@ git地址：https://github.com/JorgeCastilloPrz/FABProgressCircle<br>
 
 
 
+### 一些神奇的长相的view<br>
 
 
 
 
+项目名：ElasticDownload<br>
+git地址：https://github.com/Tibolte/ElasticDownload<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/fail.gif" width="30%" />
 
-
-
+项目名：LoadingView<br>
+git地址：https://github.com/ldoublem/LoadingView<br>
+预览:<br>
+<img src="https://github.com/ldoublem/LoadingView/raw/master/screen/screen.gif" width="30%" />
