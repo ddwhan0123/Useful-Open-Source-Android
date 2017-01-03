@@ -158,6 +158,17 @@
 
 
 
+
+项目名：FreeDrawView<br>
+git地址：https://github.com/RiccardoMoro/FreeDrawView<br>
+预览:<br>
+<img src="https://github.com/RiccardoMoro/FreeDrawView/raw/master/sample.gif" width="20%"/>
+
+项目名：MagicFloatView<br>
+git地址：https://github.com/yanbober/MagicFloatView<br>
+预览:<br>
+<img src="https://github.com/yanbober/MagicFloatView/raw/master/.picture/view.gif" width="20%"/>
+
 项目名：LinearTimer<br>
 git地址：https://github.com/krtkush/LinearTimer<br>
 预览:<br>
