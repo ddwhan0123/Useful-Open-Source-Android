@@ -132,9 +132,6 @@ git地址：https://github.com/race604/WaveLoading<br>
 
 
 
-
-
-
 项目名：GALeafLoading<br>
 git地址：https://github.com/Ajian-studio/GALeafLoading<br>
 预览:<br>
@@ -143,14 +140,6 @@ git地址：https://github.com/Ajian-studio/GALeafLoading<br>
 
 
 
-
-
-
-
-项目名：LoadingButtonAndroid<br>
-git地址：https://github.com/leandroBorgesFerreira/LoadingButtonAndroid<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/4e794b29694b4c143e893bea43b23a0df4273f3c/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f5354675f646b572d364267714334684469663041524f6834303747746c7778777236345f4d4669655032575262503761794141504b4b71326543593833372d7541326d5341316a6f3d7330" width="30%" />
 
 
 
@@ -195,6 +184,11 @@ git地址：https://github.com/daimajia/NumberProgressBar<br>
 
 
 
+
+项目名：LoadingButtonAndroid<br>
+git地址：https://github.com/leandroBorgesFerreira/LoadingButtonAndroid<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/4e794b29694b4c143e893bea43b23a0df4273f3c/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f5354675f646b572d364267714334684469663041524f6834303747746c7778777236345f4d4669655032575262503761794141504b4b71326543593833372d7541326d5341316a6f3d7330" width="30%" />
 
 项目名：ElasticDownload<br>
 git地址：https://github.com/Tibolte/ElasticDownload<br>
