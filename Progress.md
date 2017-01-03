@@ -6,13 +6,6 @@
 ###圆形进度条<br>
 
 
-
-
-项目名：WaveLoading<br>
-git地址：https://github.com/race604/WaveLoading<br>
-预览:<br>
-<img src="https://github.com/race604/WaveLoading/raw/master/screenshots/screenshot.gif" width="30%"/>
-
 项目名：GAHonorClock<br>
 git地址：https://github.com/Ajian-studio/GAHonorClock<br>
 预览:<br>
@@ -23,30 +16,16 @@ git地址：https://github.com/krtkush/LinearTimer<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/krtkush/LinearTimerProject/master/Screenshots/ssOne.png" width="30%"/>
 
-
-
-项目名：GALeafLoading<br>
-git地址：https://github.com/Ajian-studio/GALeafLoading<br>
-预览:<br>
-<img src="https://github.com/Ajian-studio/GALeafLoading/raw/master/raw/leaf_loading_readme.gif" width="30%"/><br>
-
 项目名：android-widget-ticktock<br>
 git地址：https://github.com/BCGDV-ASIA/android-widget-ticktock<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/a99213ab9cbd3056b71b34d551d984ed422a438c/687474703a2f2f692e67697068792e636f6d2f50647835314a426635663930412e676966" width="30%"/><br>
 
 
-
 项目名：CreditSesameRingView<br>
 git地址：https://github.com/HotBitmapGG/CreditSesameRingView<br>
 预览:<br>
 <img src="https://github.com/HotBitmapGG/CreditSesameRingView/raw/master/art/02.gif" width="30%"/><br>
-
-
-项目名：LoadingButtonAndroid<br>
-git地址：https://github.com/leandroBorgesFerreira/LoadingButtonAndroid<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/4e794b29694b4c143e893bea43b23a0df4273f3c/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f5354675f646b572d364267714334684469663041524f6834303747746c7778777236345f4d4669655032575262503761794141504b4b71326543593833372d7541326d5341316a6f3d7330" width="30%" />
 
 项目名：fit-chart<br>
 git地址：https://github.com/txusballesteros/fit-chart<br>
@@ -62,6 +41,47 @@ git地址：https://github.com/Fichardu/CircleProgress<br>
 git地址：https://github.com/ldoublem/RingProgress<br>
 预览:<br>
 <img src="https://github.com/ldoublem/RingProgress/raw/master/shot/shot1.jpeg" width="30%" />
+
+
+###条状进度条<br>
+
+
+
+
+
+项目名：WaveLoading<br>
+git地址：https://github.com/race604/WaveLoading<br>
+预览:<br>
+<img src="https://github.com/race604/WaveLoading/raw/master/screenshots/screenshot.gif" width="30%"/>
+
+
+
+
+
+
+
+项目名：GALeafLoading<br>
+git地址：https://github.com/Ajian-studio/GALeafLoading<br>
+预览:<br>
+<img src="https://github.com/Ajian-studio/GALeafLoading/raw/master/raw/leaf_loading_readme.gif" width="30%"/><br>
+
+
+
+
+
+
+
+
+项目名：LoadingButtonAndroid<br>
+git地址：https://github.com/leandroBorgesFerreira/LoadingButtonAndroid<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/4e794b29694b4c143e893bea43b23a0df4273f3c/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f5354675f646b572d364267714334684469663041524f6834303747746c7778777236345f4d4669655032575262503761794141504b4b71326543593833372d7541326d5341316a6f3d7330" width="30%" />
+
+
+
+
+
+
 
 项目名：SuperCircleSample<br>
 git地址：https://github.com/HayDar-Android/SuperCircleSample<br>
