@@ -10,6 +10,12 @@
 
 
 
+
+项目名：FABProgressCircle<br>
+git地址：https://github.com/JorgeCastilloPrz/FABProgressCircle<br>
+预览:<br>
+![](https://github.com/JorgeCastilloPrz/FABProgressCircle/raw/master/art/fabprogresscircle2.gif) <br>
+
 项目名：uberprogressview<br>
 git地址：https://github.com/ishan1604/uberprogressview<br>
 预览:<br>
@@ -180,15 +186,8 @@ git地址：https://github.com/daimajia/NumberProgressBar<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/0c92568af7ec4e04e2e1503acdd2ca99854ab0b5/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a77316566797264386e376937673230637a30326d7135662e676966) <br>
 
-项目名：uberprogressview<br>
-git地址：https://github.com/lazysource/uberprogressview<br>
-预览:<br>
-![](https://raw.githubusercontent.com/lazysource/uberprogressview/master/UberProgressViewDemo.gif) <br>
 
-项目名：FABProgressCircle<br>
-git地址：https://github.com/JorgeCastilloPrz/FABProgressCircle<br>
-预览:<br>
-![](https://github.com/JorgeCastilloPrz/FABProgressCircle/raw/master/art/fabprogresscircle2.gif) <br>
+
 
 
 
