@@ -158,6 +158,11 @@
 
 
 
+项目名：LinearTimer<br>
+git地址：https://github.com/krtkush/LinearTimer<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/krtkush/LinearTimerProject/master/Screenshots/ssOne.png" width="20%"/>
+
 项目名：FlowLayout<br>
 git地址：https://github.com/blazsolar/FlowLayout<br>
 预览:<br>
