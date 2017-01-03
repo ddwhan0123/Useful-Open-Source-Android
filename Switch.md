@@ -4,13 +4,10 @@
 
 
 
-###CheckBox<br>
+###Switch<br>
 
 
-项目名：SmoothCheckBox<br>
-git地址:https://github.com/andyxialm/SmoothCheckBox<br>
-预览:<br>
-<img src="https://github.com/andyxialm/SmoothCheckBox/raw/master/art/smoothcb.gif?raw=true" width="30%"/><br>
+
 
 项目名：SwitchButton<br>
 git地址：https://github.com/BaymaxTong/SwitchButton<br>
@@ -27,16 +24,26 @@ git地址：https://github.com/Nightonke/JellyToggleButton<br>
 预览:<br>
 <img src="https://github.com/Nightonke/JellyToggleButton/raw/master/img/JellyToggleButton4.gif?raw=true" width="30%"/><br>
 
-项目名：FaceOffToggleButton<br>
-git地址：https://github.com/Nightonke/FaceOffToggleButton<br>
-预览:<br>
-<img src="https://github.com/Nightonke/FaceOffToggleButton/raw/master/img/Animation.gif?raw=true" width="30%"/><br>
+
 
 
 
 
 
 ###CheckBox<br>
+
+
+
+
+项目名：SmoothCheckBox<br>
+git地址:https://github.com/andyxialm/SmoothCheckBox<br>
+预览:<br>
+<img src="https://github.com/andyxialm/SmoothCheckBox/raw/master/art/smoothcb.gif?raw=true" width="30%"/><br>
+
+项目名：FaceOffToggleButton<br>
+git地址：https://github.com/Nightonke/FaceOffToggleButton<br>
+预览:<br>
+<img src="https://github.com/Nightonke/FaceOffToggleButton/raw/master/img/Animation.gif?raw=true" width="30%"/><br>
 
 
 
