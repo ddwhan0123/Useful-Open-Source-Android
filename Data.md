@@ -16,6 +16,13 @@
 
 
 
+项目名：TimeAgo<br>
+git地址：https://github.com/ChathuraHettiarachchi/TimeAgo<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/13764097/15270846/684460f0-1a4b-11e6-801d-62cda0b44752.png" width="30%"/><br>
+解释：<br>
+This will help to get how much time have passed. Useful in showing messages, notifications time and etc<br>
+
 项目名：WeDemo<br>
 git地址：https://github.com/Tencent/WeDemo<br>
 解释：<br>
