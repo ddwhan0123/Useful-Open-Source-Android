@@ -5,6 +5,20 @@
 
 
 
+项目名：WaveLoading<br>
+git地址：https://github.com/race604/WaveLoading<br>
+预览:<br>
+<img src="https://github.com/race604/WaveLoading/raw/master/screenshots/screenshot.gif" width="30%"/>
+
+项目名：GAHonorClock<br>
+git地址：https://github.com/Ajian-studio/GAHonorClock<br>
+预览:<br>
+<img src="https://github.com/Ajian-studio/GAHonorClock/raw/master/raw/honor_clock_by_image.gif" width="30%"/>
+
+项目名：LinearTimer<br>
+git地址：https://github.com/krtkush/LinearTimer<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/krtkush/LinearTimerProject/master/Screenshots/ssOne.png" width="30%"/>
 
 
 
