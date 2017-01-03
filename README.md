@@ -169,15 +169,12 @@ git地址：https://github.com/yanbober/MagicFloatView<br>
 预览:<br>
 <img src="https://github.com/yanbober/MagicFloatView/raw/master/.picture/view.gif" width="20%"/>
 
-项目名：LinearTimer<br>
-git地址：https://github.com/krtkush/LinearTimer<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/krtkush/LinearTimerProject/master/Screenshots/ssOne.png" width="20%"/>
+
 
 项目名：FlowLayout<br>
 git地址：https://github.com/blazsolar/FlowLayout<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/blazsolar/FlowLayout/develop/images/framed_example_screenshot.png" width="20%"/>
+<img src="https://raw.githubusercontent.com/blazsolar/FlowLayout/develop/images/framed_example_screenshot.png" width="30%"/>
 
 项目名：android-snowfall<br>
 git地址：https://github.com/JetradarMobile/android-snowfall<br>
@@ -231,10 +228,7 @@ git地址：https://github.com/githubwing/WowSplash<br>
 预览:<br>
 <img src="https://github.com/githubwing/WowSplash/raw/master/img/img.gif" width="30%"/>
 
-项目名：GAHonorClock<br>
-git地址：https://github.com/Ajian-studio/GAHonorClock<br>
-预览:<br>
-<img src="https://github.com/Ajian-studio/GAHonorClock/raw/master/raw/honor_clock_by_image.gif" width="30%"/>
+
 
 项目名：stencil<br>
 git地址：https://github.com/thoughtbot/stencil<br>
@@ -272,10 +266,7 @@ git地址：https://github.com/cokuscz/audioWaveCanvas<br>
 预览:<br>
 <img src="https://github.com/cokuscz/audioWaveCanvas/raw/master/ScreenShot/pre.png" width="30%"/>
 
-项目名：WaveLoading<br>
-git地址：https://github.com/race604/WaveLoading<br>
-预览:<br>
-<img src="https://github.com/race604/WaveLoading/raw/master/screenshots/screenshot.gif" width="30%"/>
+
 
 项目名：MagicLine<br>
 git地址：https://github.com/zhangyuChen1991/MagicLine<br>
