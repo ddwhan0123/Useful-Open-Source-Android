@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-1-3<br>
+###更新时间:2017-1-4<br>
 
 
 
@@ -157,7 +157,10 @@
 
 
 
-
+项目名：Android-ExpandIcon<br>
+git地址：https://github.com/zagum/Android-ExpandIcon<br>
+预览:<br>
+<img src="https://github.com/zagum/Android-ExpandIcon/raw/master/art/expand_icon_demo.gif" width="30%"/>
 
 项目名：FreeDrawView<br>
 git地址：https://github.com/RiccardoMoro/FreeDrawView<br>
