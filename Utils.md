@@ -12,6 +12,11 @@
 
 
 
+
+项目名：AyoLang<br>
+git地址：https://github.com/cowthan/AyoLang<br>
+描述：常用工具类，java函数糖，安卓函数糖<br>
+
 项目名：ShareUtil<br>
 git地址：https://github.com/shaohui10086/ShareUtil<br>
 描述：社会化分享工具库<br>
