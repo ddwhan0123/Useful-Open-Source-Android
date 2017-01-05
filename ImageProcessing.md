@@ -12,6 +12,12 @@
 
 
 
+
+项目名：DashboardView<br>
+git地址：https://github.com/SuperKung/DashboardView<br>
+预览:<br>
+<img src="https://github.com/SuperKung/DashboardView/raw/master/Dashboard.gif" width="30%"/><br>
+
 项目名：AndroidScrollingImageView<br>
 git地址：https://github.com/Q42/AndroidScrollingImageView<br>
 预览:<br>
