@@ -7,6 +7,13 @@
 
 
 
+
+
+项目名：remusic<br>
+git地址：https://github.com/aa112901/remusic<br>
+预览:<br>
+<img src="https://github.com/aa112901/remusic/raw/master/screenshot/device-2016-08-18-213206.png" width="30%" />
+
 项目名：HatkeMessenger<br>
 git地址：https://github.com/webianks/HatkeMessenger<br>
 预览:<br>
