@@ -195,7 +195,12 @@ README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.c
 
 
 
-
+项目名：repo<br>
+git地址：https://github.com/suzeyu1992/repo<br>
+预览:<br>
+<img src="https://github.com/xinghongfei/awesome-view/raw/master/screenshots/pie.png" width="30%"/><br>
+解释:<br>
+📒 记录一个自己的知识库<br>
 
 项目名：awesome-view<br>
 git地址：https://github.com/xinghongfei/awesome-view<br>
