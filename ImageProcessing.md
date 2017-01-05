@@ -12,7 +12,10 @@
 
 
 
-
+项目名：AndroidScrollingImageView<br>
+git地址：https://github.com/Q42/AndroidScrollingImageView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/Q42/AndroidScrollingImageView/master/preview.gif" width="30%"/>
 
 项目名：PanoramaImageView<br>
 git地址：https://github.com/gjiazhe/PanoramaImageView<br>
