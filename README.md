@@ -263,10 +263,8 @@ git地址：https://github.com/smartbetter/Android-GooView<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/smartbetter/Android-GooView/master/ScreenShot/screenshot.gif" width="30%"/>
 
-项目名：ItemTouchHelperDemo<br>
-git地址：https://github.com/YoKeyword/ItemTouchHelperDemo<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/ffdf764e108d0e9dcd9d24da20f71d8ff0957b75/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3933373835312d326466353066663938333364643338362e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="30%"/>
+
+
 
 项目名：collageview<br>
 git地址：https://github.com/lopei/collageview<br>
@@ -643,10 +641,7 @@ git地址：https://github.com/TangoAgency/avatar-view<br>
 预览:<br>
 <img src="https://github.com/TangoAgency/avatar-view/raw/master/images/example2.gif" width="30%"/>
 
-项目名：AndroidScrollingImageView<br>
-git地址：https://github.com/Q42/AndroidScrollingImageView<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/Q42/AndroidScrollingImageView/master/preview.gif" width="30%"/>
+
 
 项目名：AnimateVectorDrawableDEMO<br>
 git地址：https://github.com/ghuiii/AnimateVectorDrawableDEMO<br>
@@ -1250,10 +1245,7 @@ git地址：https://github.com/oubowu/MarqueeLayoutLibrary<br>
 预览:<br>
 <img src="https://github.com/oubowu/MarqueeLayoutLibrary/raw/master/pic/demo.gif" width="30%"/><br>
 
-项目名：DashboardView<br>
-git地址：https://github.com/SuperKung/DashboardView<br>
-预览:<br>
-<img src="https://github.com/SuperKung/DashboardView/raw/master/dashboard-view.gif" width="30%"/><br>
+
 
 项目名：android-otpview-pinview<br>
 git地址：https://github.com/mukeshsolanki/android-otpview-pinview<br>
