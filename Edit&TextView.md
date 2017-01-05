@@ -150,7 +150,10 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 
 
 
-
+项目名： text-decorator<br>
+git地址：https://github.com/nntuyen/text-decorator<br>
+预览:<br>
+<img src="https://github.com/nntuyen/text-decorator/raw/master/screenshot/screenshot2.gif" width="30%"/><br>
 
 项目名： html-builder<br>
 git地址：https://github.com/jrummyapps/html-builder<br>
