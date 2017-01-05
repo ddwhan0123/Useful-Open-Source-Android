@@ -154,12 +154,12 @@
 
 
 
-
-
-项目名：FabricView<br>
-git地址：https://github.com/antwankakki/FabricView<br>
+项目名：SwipeDelMenuLayout<br>
+git地址：https://github.com/mcxtzhang/SwipeDelMenuLayout<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/1c8d0d5f194f993d806460ea9e092780b6230d78/687474703a2f2f692e696d6775722e636f6d2f396e4d453959742e676966" width="30%"/>
+<img src="https://github.com/mcxtzhang/SwipeDelMenuLayout/raw/master/gif/FlowSwipe.gif" width="30%"/>
+
+
 
 项目名：Vorolay<br>
 git地址：https://github.com/Quatja/Vorolay<br>
