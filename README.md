@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-1-5<br>
+###更新时间:2017-1-6<br>
 
 
 
@@ -153,6 +153,11 @@
 
 
 
+
+项目名：GABottleLoading<br>
+git地址：https://github.com/Ajian-studio/GABottleLoading<br>
+预览:<br>
+<img src="https://github.com/Ajian-studio/GABottleLoading/raw/master/raw/totalAnimation.gif" width="30%"/>
 
 项目名：SwipeDelMenuLayout<br>
 git地址：https://github.com/mcxtzhang/SwipeDelMenuLayout<br>
