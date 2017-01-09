@@ -13,6 +13,11 @@
 
 
 
+项目名：ImageZoom<br>
+git地址：https://github.com/okaybroda/ImageZoom<br>
+预览:<br>
+<img src="https://github.com/okaybroda/ImageZoom/raw/master/preview.gif?raw=true" width="30%"/><br>
+
 项目名：DashboardView<br>
 git地址：https://github.com/SuperKung/DashboardView<br>
 预览:<br>
