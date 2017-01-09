@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-1-6<br>
+###更新时间:2017-1-9<br>
 
 
 
@@ -153,6 +153,13 @@
 
 
 
+
+
+
+项目名：YinyuetaiPlayer<br>
+git地址：https://github.com/oubowu/YinyuetaiPlayer<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/618adc488b5a8701a71fb95d9541753f70db4720/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313938323436372d656661366463646535613337333030622e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="30%"/>
 
 项目名：GABottleLoading<br>
 git地址：https://github.com/Ajian-studio/GABottleLoading<br>
