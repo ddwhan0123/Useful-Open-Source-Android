@@ -35,6 +35,14 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
+
+项目名：AndroidCustomKeyboard<br>
+git地址:https://github.com/blackcj/AndroidCustomKeyboard<br>
+预览:<br>
+<img src="https://github.com/blackcj/AndroidCustomKeyboard/raw/master/keyboard.gif" width="30%"/><br>
+解释:<br>
+Android custom keyboard with predictive text<br>
+
 项目名：SlideBack<br>
 git地址:https://github.com/oubowu/SlideBack<br>
 预览:<br>
