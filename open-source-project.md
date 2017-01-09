@@ -10,6 +10,12 @@
 
 
 
+
+项目名：Translator<br>
+git地址：https://github.com/marktony/Translator<br>
+预览:<br>
+<img src="https://github.com/marktony/Translator/raw/master/screenshots/0.png" width="30%" />
+
 项目名：UGank<br>
 git地址：https://github.com/Bakumon/UGank<br>
 预览:<br>
