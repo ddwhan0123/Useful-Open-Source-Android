@@ -9,7 +9,10 @@
 
 
 
-
+项目名：PonyMusic<br>
+git地址：https://github.com/wangchenyan/PonyMusic<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/wangchenyan/PonyMusic/master/app/src/main/res/drawable-xxhdpi/ic_launcher.png" width="30%" />
 
 项目名：Translator<br>
 git地址：https://github.com/marktony/Translator<br>
