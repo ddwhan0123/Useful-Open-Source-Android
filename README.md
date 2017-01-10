@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-1-9<br>
+###更新时间:2017-1-10<br>
 
 
 
@@ -155,6 +155,12 @@
 
 
 
+
+
+项目名：EasyFlipView<br>
+git地址：https://github.com/wajahatkarim3/EasyFlipView<br>
+预览:<br>
+<img src="https://github.com/wajahatkarim3/EasyFlipView/raw/master/Art/demo.gif" width="30%"/>
 
 项目名：YinyuetaiPlayer<br>
 git地址：https://github.com/oubowu/YinyuetaiPlayer<br>
