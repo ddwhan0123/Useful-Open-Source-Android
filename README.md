@@ -155,7 +155,10 @@
 
 
 
-
+项目名：AnimShopButton<br>
+git地址：https://github.com/mcxtzhang/AnimShopButton<br>
+预览:<br>
+<img src="https://github.com/mcxtzhang/AnimShopButton/raw/master/gif/new.gif" width="30%"/>
 
 项目名：EasyFlipView<br>
 git地址：https://github.com/wajahatkarim3/EasyFlipView<br>
