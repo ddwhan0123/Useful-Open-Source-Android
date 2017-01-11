@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-1-10<br>
+###更新时间:2017-1-11<br>
 
 
 
@@ -154,6 +154,12 @@
 
 
 
+
+
+项目名：InstagramLikeColorTransitionAndroid<br>
+git地址：https://github.com/Taishi-Y/InstagramLikeColorTransitionAndroid<br>
+预览:<br>
+<img src="https://github.com/Taishi-Y/InstagramLikeColorTransitionAndroid/raw/master/images/screenshot.gif?raw=true" width="30%"/>
 
 项目名：AnimShopButton<br>
 git地址：https://github.com/mcxtzhang/AnimShopButton<br>
