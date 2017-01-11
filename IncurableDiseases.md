@@ -23,6 +23,23 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
+###路由跳转<br>
+
+
+
+项目名：ARouter<br>
+git地址:https://github.com/alibaba/ARouter<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/alibaba/ARouter/master/demo/arouter-demo.gif" width="30%"/><br>
+解释:<br>
+A middleware that help app navigating from external environment into internal activity on Android<br>
+
+项目名：Router<br>
+git地址:https://github.com/chenenyu/Router<br>
+预览:<br>
+<img src="https://github.com/chenenyu/Router/raw/master/static/screenshot.gif" width="30%"/><br>
+解释:<br>
+Simple and flexible router library for Android platform<br>
 
 
 ###高端功能<br>
@@ -38,12 +55,7 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
-项目名：Router<br>
-git地址:https://github.com/chenenyu/Router<br>
-预览:<br>
-<img src="https://github.com/chenenyu/Router/raw/master/static/screenshot.gif" width="30%"/><br>
-解释:<br>
-Simple and flexible router library for Android platform<br>
+
 
 项目名：AndroidCustomKeyboard<br>
 git地址:https://github.com/blackcj/AndroidCustomKeyboard<br>
