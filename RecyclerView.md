@@ -118,7 +118,10 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
-
+项目名：ShimmerRecyclerView<br>
+git地址：https://github.com/sharish/ShimmerRecyclerView<br>
+预览:<br>
+<img src="https://github.com/sharish/ShimmerRecyclerView/raw/master/screenshots/grid_demo.gif" width="30%"/><br>
 
 项目名：Hexagon-Recyclerview<br>
 git地址：https://github.com/xresco/Hexagon-Recyclerview<br>
