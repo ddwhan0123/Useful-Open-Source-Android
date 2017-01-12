@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-1-11<br>
+###更新时间:2017-1-12<br>
 
 
 
@@ -153,6 +153,11 @@
 
 
 
+
+项目名：MaryPopup<br>
+git地址：https://github.com/Meetic/MaryPopup<br>
+预览:<br>
+<img src="https://github.com/Meetic/MaryPopup/raw/master/media/photo.gif" width="30%"/>
 
 项目名：TimelineView<br>
 git地址：https://github.com/qapqap/TimelineView<br>
