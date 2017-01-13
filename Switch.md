@@ -9,6 +9,14 @@
 
 
 
+
+
+
+项目名：Android-SwitchIcon<br>
+git地址：https://github.com/zagum/Android-SwitchIcon<br>
+预览:<br>
+<img src="https://github.com/zagum/Android-SwitchIcon/raw/master/art/sample.gif" width="30%"/><br>
+
 项目名：SwitchButton<br>
 git地址：https://github.com/BaymaxTong/SwitchButton<br>
 预览:<br>
