@@ -14,7 +14,10 @@
 
 
 
-
+项目名： AnimatedEditText<br>
+git地址：https://github.com/alphamu/AnimatedEditText<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/004e3593da1a874dab3c0e9ea95c01217b7dad06/687474703a2f2f692e67697068792e636f6d2f783141735a4a79705436726d772e676966" width="30%"/><br>
 
 项目名： BufferTextInputLayout<br>
 git地址：https://github.com/bufferapp/BufferTextInputLayout<br>
