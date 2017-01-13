@@ -81,7 +81,10 @@ git地址：https://github.com/romainguy/elegant-underline<br>
 预览:<br>
 <img src="https://github.com/romainguy/elegant-underline/raw/master/art/elegant-underline.png" width="30%"/><br><br>
 
-
+项目名：PinyinSearchLibrary<br>
+git地址：https://github.com/handsomezhou/PinyinSearchLibrary<br>
+预览:<br>
+<img src="https://github.com/handsomezhou/PinyinSearchLibrary/raw/master/external_res/image/AppSearch.gif" width="30%"/><br><br>
 
 
 
