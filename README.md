@@ -936,10 +936,7 @@ git地址:https://github.com/ybq/nougat-boot-animation<br>
 
 
 
-项目名：selectSeat<br>
-git地址:https://github.com/mrhyh/selectSeat<br>
-预览:<br>
-<img src="https://github.com/mrhyh/selectSeat/raw/master/movieSeatSelect.gif" width="30%"/><br>
+
 
 项目名：FlipCards<br>
 git地址:https://github.com/zhangke3016/FlipCards<br>
