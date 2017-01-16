@@ -7,6 +7,13 @@
 
 
 
+
+
+项目名：FlowLayout<br>
+git地址：https://github.com/nex3z/FlowLayout<br>
+预览:<br>
+<img src="https://github.com/nex3z/FlowLayout/raw/master/images/sample.png" width="30%"/>
+
 项目名：TagViewGroup<br>
 git地址：https://github.com/shellljx/TagViewGroup<br>
 预览:<br>
