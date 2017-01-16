@@ -5,6 +5,12 @@
 
 
 
+
+项目名：JDAddressSelector<br>
+git地址：https://github.com/chihane/JDAddressSelector<br>
+预览:<br>
+<img src="https://github.com/chihane/JDAddressSelector/raw/master/screenshots/screenshot1.jpg" width="30%"/><br>
+
 项目名：MaryPopup<br>
 git地址：https://github.com/Meetic/MaryPopup<br>
 预览:<br>
