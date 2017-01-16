@@ -57,7 +57,10 @@ git地址：https://github.com/wangjiegulu/RapidFloatingActionButton<br>
 
 
 
-
+项目名：hover<br>
+git地址：https://github.com/google/hover<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/matthew-carroll/hover/gh-pages/images/screenrecords/hover-demo-screenrecord.gif" width="30%" />
 
 项目名：SwipeMenuDemo<br>
 git地址：https://github.com/Brioal/SwipeMenuDemo<br>
