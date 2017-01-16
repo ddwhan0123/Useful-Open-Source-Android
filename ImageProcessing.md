@@ -13,6 +13,12 @@
 
 
 
+
+项目名：CircularImageView<br>
+git地址：https://github.com/subinkrishna/CircularImageView<br>
+预览:<br>
+<img src="https://github.com/subinkrishna/CircularImageView/raw/master/art/cat.png" width="30%"/><br>
+
 项目名：ImageZoom<br>
 git地址：https://github.com/okaybroda/ImageZoom<br>
 预览:<br>
