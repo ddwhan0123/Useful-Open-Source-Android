@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-1-16<br>
+###更新时间:2017-1-17<br>
 
 
 
@@ -155,6 +155,12 @@
 
 
 
+
+
+项目名：GoogleMapsAnimations<br>
+git地址：https://github.com/aarsy/GoogleMapsAnimations<br>
+预览:<br>
+<img src="https://github.com/aarsy/GoogleMapsAnimations/raw/master/gifs/Sample1.gif" width="30%"/>
 
 项目名：DragScrollDetailsLayout<br>
 git地址：https://github.com/happylishang/DragScrollDetailsLayout<br>
