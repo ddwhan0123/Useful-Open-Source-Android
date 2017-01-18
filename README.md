@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-1-17<br>
+###更新时间:2017-1-18<br>
 
 
 
@@ -155,6 +155,14 @@
 
 
 
+
+
+
+
+项目名：ArcNavigationView<br>
+git地址：https://github.com/rom4ek/ArcNavigationView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/rom4ek/ArcNavigationView/master/media/crop_inside.png" width="30%"/>
 
 
 项目名：GoogleMapsAnimations<br>
