@@ -118,6 +118,11 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
+项目名：LayoutSwitch<br>
+git地址：https://github.com/gjiazhe/LayoutSwitch<br>
+预览:<br>
+<img src="https://github.com/gjiazhe/LayoutSwitch/raw/master/screenshot/screenshot.gif" width="30%"/><br>
+
 项目名：ShimmerRecyclerView<br>
 git地址：https://github.com/sharish/ShimmerRecyclerView<br>
 预览:<br>
