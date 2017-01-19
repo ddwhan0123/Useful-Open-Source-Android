@@ -155,6 +155,17 @@
 
 
 
+
+
+
+
+
+
+项目名：GoogleMapsAnimations<br>
+git地址：https://github.com/aarsy/GoogleMapsAnimations<br>
+预览:<br>
+<img src="https://github.com/aarsy/GoogleMapsAnimations/raw/master/gifs/Sample1.gif" width="30%"/>
+
 项目名：excelPanel<br>
 git地址：https://github.com/zhouchaoyuan/excelPanel<br>
 预览:<br>
