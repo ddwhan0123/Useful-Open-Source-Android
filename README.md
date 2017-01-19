@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-1-18<br>
+###更新时间:2017-1-19<br>
 
 
 
@@ -155,7 +155,10 @@
 
 
 
-
+项目名：excelPanel<br>
+git地址：https://github.com/zhouchaoyuan/excelPanel<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/zhouchaoyuan/excelPanel/master/app/src/main/assets/roomFormDemo.gif" width="30%"/>
 
 项目名：CodeView<br>
 git地址：https://github.com/tiagohm/CodeView<br>
