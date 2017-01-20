@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-1-19<br>
+###更新时间:2017-1-20<br>
 
 
 
@@ -159,7 +159,10 @@
 
 
 
-
+项目名：desertplaceholder<br>
+git地址：https://github.com/JetradarMobile/desertplaceholder<br>
+预览:<br>
+<img src="https://github.com/JetradarMobile/DesertPlaceholder/raw/master/art/desertplaceholder.gif" width="30%"/>
 
 项目名：GoogleMapsAnimations<br>
 git地址：https://github.com/aarsy/GoogleMapsAnimations<br>
