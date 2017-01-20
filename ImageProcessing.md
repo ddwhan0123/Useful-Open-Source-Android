@@ -193,10 +193,15 @@ git地址：https://github.com/adamstyrc/cookie-cutter<br>
 
 
 
+项目名：PickPhotoSample<br>
+git地址：https://github.com/Werb/PickPhotoSample<br>
+预览:<br>
+<img src="https://github.com/Werb/PickPhotoSample/raw/master/screenshots/select.png" width="30%" /><br>
+
 项目名：PictureSelector<br>
 git地址：https://github.com/LuckSiege/PictureSelector<br>
 预览:<br>
-<img src="hhttps://github.com/LuckSiege/PictureSelector/raw/master/image/A574F86A9A9F42A77D03B0ACC9E761C9.jpg" width="30%" /><br>
+<img src="https://github.com/LuckSiege/PictureSelector/raw/master/image/A574F86A9A9F42A77D03B0ACC9E761C9.jpg" width="30%" /><br>
 
 项目名：MediaPickerInstagram<br>
 git地址：https://github.com/NodensN/MediaPickerInstagram<br>
