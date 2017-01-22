@@ -3,6 +3,12 @@
 
 
 
+
+项目名：SuperToasts<br>
+git地址:https://github.com/JohnPersano/SuperToasts<br>
+预览:<br>
+<img src="https://github.com/JohnPersano/SuperToasts/raw/master/art/SuperToasts_Banner.png" width="30%"/><br>
+
 项目名：Toasty<br>
 git地址:https://github.com/GrenderG/Toasty<br>
 预览:<br>
