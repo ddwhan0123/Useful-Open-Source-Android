@@ -122,7 +122,10 @@ git地址：https://github.com/Rogero0o/CatLoadingView<br>
 
 
 
-
+项目名：ZYDownloading<br>
+git地址：https://github.com/zhangyuChen1991/ZYDownloading<br>
+预览:<br>
+<img src="https://github.com/zhangyuChen1991/some_sources/raw/master/ZYDownloading/ZYDownloading.gif" width="30%"/>
 
 项目名：WaveLoading<br>
 git地址：https://github.com/race604/WaveLoading<br>
