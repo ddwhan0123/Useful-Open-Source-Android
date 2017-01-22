@@ -12,7 +12,10 @@
 
 
 
-
+项目名：Roll3DImageView<br>
+git地址：https://github.com/zhangyuChen1991/Roll3DImageView<br>
+预览:<br>
+<img src="https://github.com/zhangyuChen1991/some_sources/raw/master/3DView/spe.gif" width="30%"/><br>
 
 项目名：CircularImageView<br>
 git地址：https://github.com/subinkrishna/CircularImageView<br>
