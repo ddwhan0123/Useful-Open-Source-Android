@@ -5,7 +5,10 @@
 
 
 
-
+项目名：UPMiss<br>
+git地址：https://github.com/qiujuer/UPMiss<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/qiujuer/UPMiss/master/arts/shot.png" width="34%" />
 
 项目名：boxing<br>
 git地址：https://github.com/Bilibili/boxing<br>
