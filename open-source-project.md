@@ -7,6 +7,11 @@
 
 
 
+项目名：boxing<br>
+git地址：https://github.com/Bilibili/boxing<br>
+预览:<br>
+<img src="https://github.com/Bilibili/boxing/raw/master/screenshot/multi_image.webp" width="24%" />
+
 项目名：plaid<br>
 git地址：https://github.com/nickbutcher/plaid<br>
 预览:<br>
