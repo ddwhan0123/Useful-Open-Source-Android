@@ -255,6 +255,13 @@ git地址：https://github.com/baoyongzhang/Treasure<br>
 
 
 
+
+项目名：BlueDroid<br>
+git地址：https://github.com/tiagohm/BlueDroid<br>
+描述： Android Bluetooth Library
+<br>
+
+
 项目名：BluetoothHelper<br>
 git地址：https://github.com/a-voyager/BluetoothHelper<br>
 描述： Bluetooth Helper Library.—-蓝牙操作库
