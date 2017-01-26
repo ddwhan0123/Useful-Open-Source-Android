@@ -6,6 +6,13 @@
 
 
 
+
+
+项目名：PickView<br>
+git地址：https://github.com/brucetoo/PickView<br>
+预览:<br>
+<img src="https://github.com/brucetoo/PickView/raw/master/datepick.gif" width="30%"/><br>
+
 项目名：JDAddressSelector<br>
 git地址：https://github.com/chihane/JDAddressSelector<br>
 预览:<br>
