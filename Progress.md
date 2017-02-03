@@ -122,6 +122,11 @@ git地址：https://github.com/Rogero0o/CatLoadingView<br>
 
 
 
+项目名：PreviewSeekBar<br>
+git地址：https://github.com/rubensousa/PreviewSeekBar<br>
+预览:<br>
+<img src="https://github.com/rubensousa/PreviewSeekBar/raw/master/screenshots/playmovies.gif" width="30%"/>
+
 项目名：ZYDownloading<br>
 git地址：https://github.com/zhangyuChen1991/ZYDownloading<br>
 预览:<br>
