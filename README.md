@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-2-2<br>
+###更新时间:2017-2-3<br>
 
 
 
@@ -156,6 +156,12 @@
 
 
 
+
+
+项目名：StatusView<br>
+git地址：https://github.com/iammert/StatusView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/iammert/StatusView/master/art/art.gif" width="30%"/>
 
 项目名：rainbow<br>
 git地址：https://github.com/juankysoriano/rainbow<br>
