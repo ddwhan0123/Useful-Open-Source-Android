@@ -154,7 +154,10 @@
 
 
 
-
+项目名：aLibGlitch<br>
+git地址：https://github.com/BoD/aLibGlitch<br>
+预览:<br>
+<img src="https://github.com/BoD/aLibGlitch/raw/master/preview.gif?raw=true" width="30%"/>
 
 项目名：EdgeTranslucent<br>
 git地址：https://github.com/qinci/EdgeTranslucent<br>
