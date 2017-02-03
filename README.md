@@ -156,7 +156,10 @@
 
 
 
-
+项目名：EdgeTranslucent<br>
+git地址：https://github.com/qinci/EdgeTranslucent<br>
+预览:<br>
+<img src="https://github.com/qinci/EdgeTranslucent/raw/master/image/image.gif" width="30%"/>
 
 项目名：StatusView<br>
 git地址：https://github.com/iammert/StatusView<br>
