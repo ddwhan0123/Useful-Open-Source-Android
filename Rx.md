@@ -4,7 +4,9 @@
 
 
 
-
+项目名：RxSocialAuth<br>
+git地址：https://github.com/pchmn/RxSocialAuth<br>
+描述：Android RxJava library for Social auth (Google, Facebook) and Smart Lock For Passwords<br>
 
 项目名：rxlifecycle<br>
 git地址：https://github.com/nekocode/rxlifecycle<br>
