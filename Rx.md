@@ -6,7 +6,11 @@
 
 
 
-
+项目名：rxlifecycle<br>
+git地址：https://github.com/nekocode/rxlifecycle<br>
+预览:<br>
+<img src="https://github.com/nekocode/rxlifecycle/raw/master/art/preview.png" width="30%"/><br><br>
+描述：Bind observables to the lifecycle of Activity or Fragment in a non-invasive way<br>
 
 项目名：RxActivityResult<br>
 git地址：https://github.com/VictorAlbertos/RxActivityResult<br>
