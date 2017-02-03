@@ -6,6 +6,12 @@
 
 
 
+
+项目名：achartengine<br>
+git地址:https://github.com/ddanny/achartengine<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/d3a4fa07ace8e6aca2f1e4c5131009de2e897a3e/687474703a2f2f7777772e616368617274656e67696e652e6f72672f64696d616765732f617665726167655f74656d70657261747572652e706e67" width="30%"/><br>
+
 项目名：SpiderWebScoreView<br>
 git地址:https://github.com/xiaopansky/SpiderWebScoreView<br>
 预览:<br>
