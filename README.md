@@ -152,6 +152,15 @@
 
 
 
+
+
+
+
+项目名：ViewSpreadTranslationController<br>
+git地址：https://github.com/zhangke3016/ViewSpreadTranslationController<br>
+预览:<br>
+<img src="https://github.com/zhangke3016/ViewSpreadTranslationController/raw/master/gif/screen1.gif" width="30%"/>
+
 项目名：about-page<br>
 git地址：https://github.com/drakeet/about-page<br>
 预览:<br>
