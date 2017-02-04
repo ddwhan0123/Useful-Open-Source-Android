@@ -14,7 +14,10 @@
 
 
 
-
+项目名：PullZoomView<br>
+git地址：https://github.com/jeasonlzy/PullZoomView<br>
+预览:<br>
+<img src="https://github.com/jeasonlzy0216/PullZoomView/raw/master/screenshots/demo6.gif" width="30%"/><br>
 
 项目名：ZRefreshLayout<br>
 git地址：https://github.com/luhaoaimama1/ZRefreshLayout<br>
