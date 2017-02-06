@@ -123,6 +123,13 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
+
+
+项目名：SimpleRecyclerView<br>
+git地址：https://github.com/jaychang0917/SimpleRecyclerView<br>
+预览:<br>
+<img src="https://github.com/jaychang0917/SimpleRecyclerView/raw/master/art/divider.gif" width="30%"/><br>
+
 项目名：RecyclerBanner<br>
 git地址：https://github.com/13456961183/RecyclerBanner<br>
 预览:<br>
