@@ -5,7 +5,10 @@
 
 
 
-
+项目名：EpisodeListView<br>
+git地址：https://github.com/hejunlin2013/EpisodeListView<br>
+预览:<br>
+<img src="https://github.com/hejunlin2013/EpisodeListView/raw/master/images/EpisodeListView.gif" width="30%" /><br>
 
 项目名：DoubleStickyHeadersList<br>
 git地址：https://github.com/Kenber/DoubleStickyHeadersList<br>
