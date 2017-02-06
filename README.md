@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-2-5<br>
+###更新时间:2017-2-6<br>
 
 
 
@@ -158,7 +158,10 @@
 
 
 
-
+项目名：FlipperView<br>
+git地址：https://github.com/JuniperPhoton/FlipperView<br>
+预览:<br>
+<img src="https://github.com/JuniperPhoton/FlipperControl/raw/master/demo.gif" width="30%"/>
 
 项目名：Lemniscate<br>
 git地址：https://github.com/vlad1m1r990/Lemniscate<br>
