@@ -8,6 +8,11 @@
 
 
 
+项目名：android-styled-dialogs<br>
+git地址：https://github.com/avast/android-styled-dialogs<br>
+预览:<br>
+<img src="https://github.com/avast/android-styled-dialogs/raw/master/graphics/screenshot-small.png" width="30%"/><br>
+
 项目名：PickView<br>
 git地址：https://github.com/brucetoo/PickView<br>
 预览:<br>
