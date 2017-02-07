@@ -330,7 +330,10 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
-
+项目名：Dali<br>
+git地址：https://github.com/patrickfav/Dali<br>
+预览:<br>
+<img src="https://github.com/patrickfav/Dali/raw/master/misc/gallery1.png?raw=true" width="30%"/><br>
 
 项目名：RealtimeBlurView<br>
 git地址：https://github.com/mmin18/RealtimeBlurView<br>
