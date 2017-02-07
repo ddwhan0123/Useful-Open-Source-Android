@@ -195,6 +195,10 @@ git地址：https://github.com/adamstyrc/cookie-cutter<br>
 
 
 
+项目名：MoeGallery<br>
+git地址：https://github.com/kurumi-moe/MoeGallery<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/kurumi-moe/MoeGallery/master/screenshots/Screenshot_2015-06-28-14-50-44.jpg" width="30%" /><br>
 
 项目名：PickPhotoSample<br>
 git地址：https://github.com/Werb/PickPhotoSample<br>
