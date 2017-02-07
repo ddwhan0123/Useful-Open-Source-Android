@@ -11,7 +11,10 @@
 
 
 
-
+项目名：android-material-stepper<br>
+git地址:https://github.com/stepstone-tech/android-material-stepper<br>
+预览:<br>
+<img src="https://github.com/stepstone-tech/android-material-stepper/raw/master/gifs/dotted-progress-bar-styled.gif" width="30%"/><br>
 
 项目名：Bitutorial<br>
 git地址:https://github.com/Cleveroad/Bitutorial<br>
