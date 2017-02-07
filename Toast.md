@@ -4,6 +4,12 @@
 
 
 
+
+项目名：StyleableToast<br>
+git地址:https://github.com/Muddz/StyleableToast<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/a7edeb11d67c6192d90506df396258597ca84951/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f686f7136366e614a516b4543492f67697068792e676966" width="30%"/><br>
+
 项目名：SuperToasts<br>
 git地址:https://github.com/JohnPersano/SuperToasts<br>
 预览:<br>
