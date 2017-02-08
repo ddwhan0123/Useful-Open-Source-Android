@@ -42,12 +42,6 @@ git地址：https://github.com/CaMnter/AndroidLife<br>
 解释：<br>
 The Android's life is very interesting and rich<br>
 
-项目名：SlideBack<br>
-git地址：https://github.com/oubowu/SlideBack<br>
-预览:<br>
-<img src="https://github.com/oubowu/SlideBack/raw/master/pic/demo.gif" width="30%"/><br>
-解释：<br>
-A library to finish an activity with slide action<br>
 
 项目名：MaterialResume<br>
 git地址：https://github.com/StanKocken/MaterialResume<br>
