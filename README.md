@@ -465,10 +465,6 @@ git地址：https://github.com/kofigyan/Thermometer<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/kofigyan/Thermometer/master/screenshots/therm_anim.gif" width="30%"/>
 
-项目名：TinderStack<br>
-git地址：https://github.com/lawloretienne/TinderStack<br>
-预览:<br>
-<img src="https://github.com/lawloretienne/TinderStack/raw/master/images/TinderStack_Screencast3.gif" width="30%"/>
 
 项目名：SpannableBar<br>
 git地址：https://github.com/GreaseMonk/SpannableBar<br>
