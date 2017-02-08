@@ -9,6 +9,12 @@
 
 
 
+
+项目名：TinderStack<br>
+git地址:https://github.com/lawloretienne/TinderStack<br>
+预览:<br>
+<img src="https://github.com/lawloretienne/TinderStack/raw/master/images/TinderStack_Screencast3.gif" width="30%"/><br>
+
 项目名：InfiniteCycleViewPager<br>
 git地址:https://github.com/Devlight/InfiniteCycleViewPager<br>
 预览:<br>
