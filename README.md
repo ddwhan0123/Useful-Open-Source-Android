@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-2-7<br>
+###更新时间:2017-2-8<br>
 
 
 
@@ -154,7 +154,10 @@
 
 
 
-
+项目名：SlideUp-Android<br>
+git地址：https://github.com/mancj/SlideUp-Android<br>
+预览:<br>
+<img src="https://github.com/mancj/SlideUp-Android/raw/master/art/art2.gif" width="30%"/>
 
 项目名：Badger<br>
 git地址：https://github.com/volders/Badger<br>
