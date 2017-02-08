@@ -11,6 +11,13 @@
 
 
 
+
+
+项目名：CircleTimerView<br>
+git地址：https://github.com/jiahuanyu/CircleTimerView<br>
+预览:<br>
+<img src="https://github.com/jiahuanyu/CircleTimerView/raw/master/images/sample.gif" width="28%" />
+
 项目名：FABProgressCircle<br>
 git地址：https://github.com/JorgeCastilloPrz/FABProgressCircle<br>
 预览:<br>
