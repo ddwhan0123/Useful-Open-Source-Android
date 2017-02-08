@@ -213,7 +213,7 @@ git地址：https://github.com/LuckSiege/PictureSelector<br>
 项目名：MediaPickerInstagram<br>
 git地址：https://github.com/NodensN/MediaPickerInstagram<br>
 预览:<br>
-<img src="https://cloud.githubusercontent.com/assets/10350755/20560333/186499fe-b179-11e6-9653-8723606e1754.png" width="30%" /><br>
+<img src="https://cloud.githubusercontent.com/assets/10350755/20828570/783bade4-b878-11e6-9c4a-daba7c20dc94.png" width="30%" /><br>
 
 
 项目名：IPicker<br>
@@ -328,7 +328,10 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
-
+项目名：XLowPoly<br>
+git地址：https://github.com/xyzxqs/XLowPoly<br>
+预览:<br>
+<img src="https://github.com/xyzxqs/XLowPoly/raw/master/screenshots/lowpoly2.png" width="30%"/><br>
 
 项目名：Dali<br>
 git地址：https://github.com/patrickfav/Dali<br>
