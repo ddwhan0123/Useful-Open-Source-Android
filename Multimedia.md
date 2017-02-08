@@ -127,7 +127,7 @@ git地址：https://github.com/imshyam/mintube<br>
 项目名：easy-video-player<br>
 git地址：https://github.com/afollestad/easy-video-player<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/afollestad/easy-video-player/master/art/showcase1.png" width="30%" />
+<img src="https://raw.githubusercontent.com/afollestad/easy-video-player/master/art/showcase2.png" width="30%" />
 
 项目名：SuperVideoPlayer<br>
 git地址：https://github.com/curtis2/SuperVideoPlayer<br>
