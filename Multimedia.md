@@ -106,12 +106,6 @@ git地址：https://github.com/DyncLang/Teameeting-Android<br>
 
 
 
-项目名：AndroidFFmpeg<br>
-git地址：https://github.com/appunite/AndroidFFmpeg<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/bba08b296f042da8e8597cacb6c980d22d5ffe7b/687474703a2f2f7331322e706f7374696d6167652e6f72672f6f35323877386a73742f53637265656e73686f74312e706e67" width="30%" />
-
-
 
 
 
