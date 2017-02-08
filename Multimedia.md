@@ -54,7 +54,7 @@ git地址：https://github.com/naman14/Timber<br>
 项目名：JamsMusicPlayer<br>
 git地址：https://github.com/psaravan/JamsMusicPlayer<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/5a10d39909b2e64053adb49250802d31efe1d3a6/687474703a2f2f692e696d6775722e636f6d2f3268644d467a502e6a7067" width="30%" />
+<img src="https://camo.githubusercontent.com/5a10d39909b2e64053adb49250802d31efe1d3a6/687474703a2f2f692e696d6775722e636f6d2f3268644d467a502e6a7067" width="60%" />
 
 
 
