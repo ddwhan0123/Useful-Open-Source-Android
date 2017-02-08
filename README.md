@@ -501,10 +501,6 @@ git地址：https://github.com/naman14/AlgorithmVisualizer-Android<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/naman14/AlgorithmVisualizer-Android/master/screenshots/screen1.png" width="30%"/>
 
-项目名：CircleTimerView<br>
-git地址：https://github.com/jiahuanyu/CircleTimerView<br>
-预览:<br>
-<img src="https://github.com/jiahuanyu/CircleTimerView/raw/master/images/sample.gif" width="30%"/>
 
 项目名：StateButton<br>
 git地址：https://github.com/niniloveyou/StateButton<br>
