@@ -182,10 +182,6 @@ git地址：https://github.com/zhangke3016/ViewSpreadTranslationController<br>
 预览:<br>
 <img src="https://github.com/zhangke3016/ViewSpreadTranslationController/raw/master/gif/screen1.gif" width="30%"/>
 
-项目名：about-page<br>
-git地址：https://github.com/drakeet/about-page<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/03d8b4c8274b50121304316539afa4719e11aadc/687474703a2f2f7777332e73696e61696d672e636e2f6c617267652f38366532666638356777316638777268683167726c6a32306b30307a6b3431692e6a7067" width="30%"/>
 
 项目名：aLibGlitch<br>
 git地址：https://github.com/BoD/aLibGlitch<br>
