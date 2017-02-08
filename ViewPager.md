@@ -2,14 +2,17 @@
 ##ViewPager
 <br>
 
-###欢迎页<br>
+###欢迎页/浏览页<br>
 
 
 
 
 
 
-
+项目名：InfiniteCycleViewPager<br>
+git地址:https://github.com/Devlight/InfiniteCycleViewPager<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/46a0c2773275d5a5acedc76a2b38ac1ec105d47a/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d304278504f5f556553377753634e6d526d5758417a526d52774e484d" width="30%"/><br>
 
 项目名：android-material-stepper<br>
 git地址:https://github.com/stepstone-tech/android-material-stepper<br>
