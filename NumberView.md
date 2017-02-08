@@ -8,6 +8,12 @@
 
 
 
+
+项目名：NumberPicker<br>
+git地址:https://github.com/BorealisAgency/NumberPicker<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/bf9f39e91ac28a4852207b5b7568154048a57e0b/687474703a2f2f692e696d6775722e636f6d2f3675506c7a6e792e676966" width="30%"/><br>
+
 项目名：tab-digit<br>
 git地址:https://github.com/xenione/tab-digit<br>
 预览:<br>
