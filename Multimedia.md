@@ -28,7 +28,7 @@ git地址：https://github.com/supercwn/SuperPlayer<br>
 项目名：StylishMusicPlayer<br>
 git地址：https://github.com/ryanhoo/StylishMusicPlayer<br>
 预览:<br>
-<img src="https://github.com/ryanhoo/StylishMusicPlayer/raw/develop/materials/Artboard.png" width="50%"/><br>
+<img src="https://github.com/ryanhoo/StylishMusicPlayer/raw/develop/materials/Artboard.png" width="70%"/><br>
 
 项目名：Music-Player<br>
 git地址：https://github.com/andremivon/Music-Player<br>
