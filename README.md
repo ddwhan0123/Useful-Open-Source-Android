@@ -152,7 +152,10 @@
 
 
 
-
+项目名：Wiggle<br>
+git地址：https://github.com/kubode/Wiggle<br>
+预览:<br>
+<img src="https://github.com/kubode/Wiggle/raw/master/img/image.gif" width="30%"/>
 
 项目名：SlideUp-Android<br>
 git地址：https://github.com/mancj/SlideUp-Android<br>
