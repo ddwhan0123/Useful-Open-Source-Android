@@ -707,11 +707,6 @@ git地址：https://github.com/kayan1990/ShareButton<br>
 
 
 
-项目名：XLowPoly<br>
-git地址：https://github.com/xyzxqs/XLowPoly<br>
-预览:<br>
-<img src="https://github.com/xyzxqs/XLowPoly/raw/master/screenshots/lowpoly3.png" width="30%"/>
-
 项目名：BreadcrumbsView<br>
 git地址：https://github.com/VictorAlbertos/BreadcrumbsView<br>
 预览:<br>
