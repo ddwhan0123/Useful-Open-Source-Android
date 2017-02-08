@@ -30,6 +30,9 @@
 ## 网络相关-下载/图片加载
 ##[点击跳转 NetWork.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/NetWork.md)
 
+## Android 6.0授权
+##[点击跳转 Permission.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Permission.md)
+
 
 ##Menu/Bar/Fab:<br>
 ##[点击跳转 Menu.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Menu.md)
