@@ -705,10 +705,7 @@ git地址：https://github.com/kayan1990/ShareButton<br>
 预览:<br>
 <img src="https://github.com/kayan1990/ShareButton/raw/master/ShareButton/gif/sharebutton.gif" width="30%"/>
 
-项目名：NumberPicker<br>
-git地址：https://github.com/BorealisBiz/NumberPicker<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/bf9f39e91ac28a4852207b5b7568154048a57e0b/687474703a2f2f692e696d6775722e636f6d2f3675506c7a6e792e676966" width="30%"/>
+
 
 项目名：XLowPoly<br>
 git地址：https://github.com/xyzxqs/XLowPoly<br>
