@@ -145,10 +145,15 @@ git地址：https://github.com/motianhuo/VCameraDemo<br>
 
 项目名：AndroidAudioConverter<br>
 git地址：https://github.com/adrielcafe/AndroidAudioConverter<br>
+预览:<br>
+<img src="https://github.com/LaiFeng-Android/SopCastComponent/raw/master/sopcast.jpg" width="30%" />
+解释:<br>
+来疯直播安卓控件，支持flv，支持rtmp，支持添加视频特效等等<br>
+
+项目名：SopCastComponent<br>
+git地址：https://github.com/LaiFeng-Android/SopCastComponent<br>
 解释:<br>
 Convert audio files inside your Android app easily. Supported formats: AAC, MP3, M4A, WMA, WAV and FLAC<br>
-
-
 
 ###多媒体处理<br>
 
