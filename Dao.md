@@ -7,7 +7,7 @@
 项目名：realm-java<br>
 git地址：https://github.com/realm/realm-java<br>
 预览:<br>
-<img src="https://github.com/realm/realm-java/raw/master/logo.png" width="50%"/><br>
+<img src="https://github.com/realm/realm-java/raw/master/logo.png" width="30%"/><br>
 描述：Realm is a mobile database: a replacement for SQLite & ORMs http://realm.io<br>
 
 项目名：inquiry<br>
