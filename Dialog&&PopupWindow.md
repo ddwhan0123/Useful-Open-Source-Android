@@ -8,6 +8,12 @@
 
 
 
+
+项目名：JDSelector<br>
+git地址：https://github.com/dunwen/JDSelector<br>
+预览:<br>
+<img src="https://github.com/dunwen/JDSelector/raw/master/capture.gif" width="30%"/><br>
+
 项目名：android-styled-dialogs<br>
 git地址：https://github.com/avast/android-styled-dialogs<br>
 预览:<br>
