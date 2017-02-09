@@ -6,7 +6,9 @@
 
 
 
-
+项目名：inquiry<br>
+git地址：https://github.com/afollestad/inquiry<br>
+描述：Inquiry is a simple library for Android that makes construction and use of SQLite databases super easy<br>
 
 项目名：Paper<br>
 git地址：https://github.com/pilgr/Paper<br>
