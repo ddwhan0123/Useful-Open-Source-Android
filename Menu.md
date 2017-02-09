@@ -205,6 +205,12 @@ git地址：https://github.com/kyze8439690/ResideLayout<br>
 
 
 
+
+项目名：material-cab<br>
+git地址：https://github.com/afollestad/material-cab<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/afollestad/material-cab/master/art/showcase.png" width="30%"/>
+
 项目名：BubbleTab<br>
 git地址：https://github.com/florent37/BubbleTab<br>
 预览:<br>
