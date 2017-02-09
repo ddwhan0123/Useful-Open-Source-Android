@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-2-8<br>
+###更新时间:2017-2-9<br>
 
 
 
@@ -153,6 +153,19 @@
 
 
 
+
+
+
+
+
+
+
+
+
+项目名：shared-element-transition-samples<br>
+git地址：https://github.com/afollestad/shared-element-transition-samples<br>
+预览:<br>
+<img src="https://github.com/afollestad/shared-element-transition-samples/raw/master/showcase1.gif" width="30%"/>
 
 
 项目名：Wiggle<br>
