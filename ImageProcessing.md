@@ -328,6 +328,10 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
+
+
+
+
 项目名：XLowPoly<br>
 git地址：https://github.com/xyzxqs/XLowPoly<br>
 预览:<br>
@@ -551,7 +555,10 @@ git地址：https://github.com/siwangqishiq/ImageEditor-Android<br>
 
 
 
-
+项目名：material-camera<br>
+git地址：https://github.com/afollestad/material-camera<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/afollestad/material-camera/master/art/showcase1.png" width="30%" /><br>
 
 项目名：sandriosCamera<br>
 git地址：https://github.com/sandrios/sandriosCamera<br>
