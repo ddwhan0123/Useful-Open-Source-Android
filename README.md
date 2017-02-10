@@ -158,7 +158,10 @@
 
 
 
-
+项目名：BadgeView<br>
+git地址：https://github.com/qstumn/BadgeView<br>
+预览:<br>
+<img src="https://github.com/qstumn/BadgeView/raw/master/demo_gif.gif?raw=true" width="30%"/>
 
 项目名：CoordinatorTabLayout<br>
 git地址：https://github.com/hugeterry/CoordinatorTabLayout<br>
