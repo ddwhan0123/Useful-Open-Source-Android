@@ -27,6 +27,15 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
+
+
+
+
+项目名：RapidRouter<br>
+git地址:https://github.com/wangjiegulu/RapidRouter<br>
+解释:<br>
+Router For Android<br>
+
 项目名：ARouter<br>
 git地址:https://github.com/alibaba/ARouter<br>
 预览:<br>
