@@ -14,6 +14,11 @@
 
 
 
+项目名：chuck<br>
+git地址：https://github.com/jgilfelt/chuck<br>
+预览:<br>
+<img src="https://github.com/jgilfelt/chuck/raw/master/assets/chuck.gif" width="30%"/>
+
 项目名：AndroidHttpCapture<br>
 git地址：https://github.com/JZ-Darkal/AndroidHttpCapture<br>
 预览:<br>
