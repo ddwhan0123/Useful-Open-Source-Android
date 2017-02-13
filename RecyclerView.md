@@ -123,7 +123,10 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
-
+项目名：RecyclerTreeView<br>
+git地址：https://github.com/TellH/RecyclerTreeView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/TellH/RecyclerTreeView/master/raw/effect.gif" width="30%"/><br>
 
 项目名：SimpleRecyclerView<br>
 git地址：https://github.com/jaychang0917/SimpleRecyclerView<br>
