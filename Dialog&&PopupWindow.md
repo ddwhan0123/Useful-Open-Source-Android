@@ -71,12 +71,24 @@ git地址：https://github.com/saiwu-bigkoo/Android-PickerView<br>
 
 
 
+
+
+
+
 ###Dialog<br>
 
 
 
 
 
+
+
+
+
+项目名：Android-RateThisApp<br>
+git地址：https://github.com/kobakei/Android-RateThisApp<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/1b88b84acd12320ec15a06898165178f64a6e28b/68747470733a2f2f7261772e6769746875622e636f6d2f6b6f62616b65692f416e64726f69642d52617465546869734170702f6d61737465722f73637265656e73686f745f726573697a65642e706e67" width="30%" />
 
 项目名：android-FingerprintDialog<br>
 git地址：https://github.com/googlesamples/android-FingerprintDialog<br>
