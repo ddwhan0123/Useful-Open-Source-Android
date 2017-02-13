@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-2-12<br>
+###更新时间:2017-2-13<br>
 
 
 
@@ -157,6 +157,14 @@
 
 
 
+
+
+
+
+项目名：android-sumbit-credit-card-flow<br>
+git地址：https://github.com/adonixis/android-sumbit-credit-card-flow<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/1766863/22521376/afb55130-e8d9-11e6-92e2-e6bcbf2ba6aa.gif" width="30%"/>
 
 项目名：BadgeView<br>
 git地址：https://github.com/qstumn/BadgeView<br>
