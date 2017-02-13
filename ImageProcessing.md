@@ -192,7 +192,10 @@ git地址：https://github.com/adamstyrc/cookie-cutter<br>
 
 
 
-
+项目名：FishBun<br>
+git地址：https://github.com/sangcomz/FishBun<br>
+预览:<br>
+<img src="https://github.com/sangcomz/FishBun/raw/master/pic/fishbuns.png" width="30%" /><br>
 
 
 项目名：MoeGallery<br>
