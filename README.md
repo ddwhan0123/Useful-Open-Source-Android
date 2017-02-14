@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-2-13<br>
+###更新时间:2017-2-14<br>
 
 
 
@@ -159,7 +159,10 @@
 
 
 
-
+项目名：MaterialAbout<br>
+git地址：https://github.com/jrvansuita/MaterialAbout<br>
+预览:<br>
+<img src="https://github.com/jrvansuita/MaterialAbout/raw/master/images/screenshots/light.png" width="30%"/>
 
 项目名：android-sumbit-credit-card-flow<br>
 git地址：https://github.com/adonixis/android-sumbit-credit-card-flow<br>
