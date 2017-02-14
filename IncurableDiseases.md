@@ -31,6 +31,13 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
+
+
+项目名：ActivityRouter<br>
+git地址:https://github.com/joyrun/ActivityRouter<br>
+解释:<br>
+ActivityRouter路由框架：通过注解实现URL打开Activity https://joyrun.github.io/2016/08/01/ActivityRouter/<br>
+
 项目名：RapidRouter<br>
 git地址:https://github.com/wangjiegulu/RapidRouter<br>
 解释:<br>
@@ -119,10 +126,7 @@ git地址:https://github.com/pro100svitlo/FingerprintAuthHelper<br>
 预览:<br>
 <img src="https://github.com/pro100svitlo/FingerprintAuthHelper/raw/master/screenshots/sc_0.png" width="30%"/><br>
 
-项目名：ActivityRouter<br>
-git地址:https://github.com/joyrun/ActivityRouter<br>
-解释:<br>
-ActivityRouter路由框架：通过注解实现URL打开Activity https://joyrun.github.io/2016/08/01/ActivityRouter/<br>
+
 
 项目名：IQKeyboardManager<br>
 git地址:https://github.com/hackiftekhar/IQKeyboardManager<br>
