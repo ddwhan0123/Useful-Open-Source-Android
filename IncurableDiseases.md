@@ -224,10 +224,7 @@ git地址：https://github.com/nisrulz/easydeviceinfo<br>
 git地址：https://github.com/yanzhenjie/AndServer<br>
 解释:Android端搭建简单的Http服务器的框架<br>
 
-项目名：NewsTemplate<br>
-git地址：https://github.com/JeasonWong/NewsTemplate<br>
-预览:（新闻客户端必备功能）<br>
-<img src="https://camo.githubusercontent.com/fde230ae89d2bef2067077dec05d782dfc65c233/687474703a2f2f69342e7069696d672e636f6d2f313037302f643261323336306663613963396566382e676966" width="30%"/><br>
+
 
 项目名：ObservableScheduler<br>
 git地址：https://github.com/jiang111/ObservableScheduler<br>
