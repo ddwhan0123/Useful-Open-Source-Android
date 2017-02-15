@@ -12,7 +12,7 @@
 项目名：ListenerMusicPlayer<br>
 git地址：https://github.com/hefuyicoder/ListenerMusicPlayer<br>
 预览:<br>
-<img src="https://github.com/hefuyicoder/ListenerMusicPlayer/raw/master/materials/screenshot.png" width="33%" />
+<img src="https://github.com/hefuyicoder/ListenerMusicPlayer/raw/master/materials/screenshot.png" width="39%" />
 
 
 项目名：typecho-theme-material<br>
