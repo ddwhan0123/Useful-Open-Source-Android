@@ -8,10 +8,17 @@
 
 
 
+
+项目名：ListenerMusicPlayer<br>
+git地址：https://github.com/hefuyicoder/ListenerMusicPlayer<br>
+预览:<br>
+<img src="https://github.com/hefuyicoder/ListenerMusicPlayer/raw/master/materials/screenshot.png" width="24%" />
+
+
 项目名：typecho-theme-material<br>
 git地址：https://github.com/viosey/typecho-theme-material<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/e73ac90ed66cf931e69c629d33bfa407d179fadf/68747470733a2f2f71696e69752e76696f7365792e636f6d2f696d672f7479706563686f2d7468656d652d6d6174657269616c2d73637265656e73686f742e6a7067" width="24%" />
+<img src="https://camo.githubusercontent.com/e73ac90ed66cf931e69c629d33bfa407d179fadf/68747470733a2f2f71696e69752e76696f7365792e636f6d2f696d672f7479706563686f2d7468656d652d6d6174657269616c2d73637265656e73686f742e6a7067" width="44%" />
 
 项目名：UPMiss<br>
 git地址：https://github.com/qiujuer/UPMiss<br>
