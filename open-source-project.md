@@ -5,10 +5,18 @@
 
 
 
+
+
+
+项目名：typecho-theme-material<br>
+git地址：https://github.com/viosey/typecho-theme-material<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/e73ac90ed66cf931e69c629d33bfa407d179fadf/68747470733a2f2f71696e69752e76696f7365792e636f6d2f696d672f7479706563686f2d7468656d652d6d6174657269616c2d73637265656e73686f742e6a7067" width="24%" />
+
 项目名：UPMiss<br>
 git地址：https://github.com/qiujuer/UPMiss<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/qiujuer/UPMiss/master/arts/shot.png" width="34%" />
+<img src="https://raw.githubusercontent.com/qiujuer/UPMiss/master/arts/shot.png" width="54%" />
 
 项目名：boxing<br>
 git地址：https://github.com/Bilibili/boxing<br>
