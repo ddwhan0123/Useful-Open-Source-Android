@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-2-14<br>
+###更新时间:2017-2-15<br>
 
 
 
@@ -158,6 +158,13 @@
 
 
 
+
+
+
+项目名：ForegroundViews<br>
+git地址：https://github.com/Commit451/ForegroundViews<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/Commit451/ForegroundViews/master/art/image_ripple.gif" width="30%"/>
 
 项目名：MaterialAbout<br>
 git地址：https://github.com/jrvansuita/MaterialAbout<br>
