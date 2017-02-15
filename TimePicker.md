@@ -5,7 +5,10 @@
 
 
 
-
+项目名：android-betterpickers<br>
+git地址：https://github.com/code-troopers/android-betterpickers<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_recurrence.png" width="30%"/><br>
 
 项目名：CalendarExaple<br>
 git地址：https://github.com/codbking/CalendarExaple<br>
