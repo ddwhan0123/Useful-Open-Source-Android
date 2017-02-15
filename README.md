@@ -159,7 +159,10 @@
 
 
 
-
+项目名：ElasticDragDismissLayout<br>
+git地址：https://github.com/Commit451/ElasticDragDismissLayout<br>
+预览:<br>
+<img src="https://github.com/Commit451/ElasticDragDismissLayout/raw/master/art/sample.gif?raw=true" width="30%"/>
 
 项目名：ForegroundViews<br>
 git地址：https://github.com/Commit451/ForegroundViews<br>
