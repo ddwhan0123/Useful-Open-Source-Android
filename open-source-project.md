@@ -7,7 +7,10 @@
 
 
 
-
+项目名：rebase-android<br>
+git地址：https://github.com/drakeet/rebase-android<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/e94868f1f6f224e3478a7a1a26eafac258e3330f/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f38366532666638356779316663726a3332366e67796a32313869307830313032" width="39%" />
 
 项目名：ListenerMusicPlayer<br>
 git地址：https://github.com/hefuyicoder/ListenerMusicPlayer<br>
