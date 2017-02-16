@@ -286,7 +286,7 @@ git地址:https://github.com/xiaohaibin/OpenEyes<br>
 项目名：MoeQuest<br>
 git地址:https://github.com/HotBitmapGG/MoeQuest<br>
 预览:<br>
-<img src="https://github.com/HotBitmapGG/MoeQuest/raw/master/meizi_pic/03.png?raw=true" width="30%"/><br>
+<img src="https://github.com/HotBitmapGG/MoeQuest/raw/master/art/bg.jpg?raw=true" width="30%"/><br>
 
 项目名：Constraints<br>
 git地址:https://github.com/hitherejoe/Constraints<br>
