@@ -164,6 +164,9 @@ git地址：https://github.com/JeasonWong/QingtingBannerView<br>
 
 
 
+
+
+
 项目名：MagicViewPager<br>
 git地址：https://github.com/hongyangAndroid/MagicViewPager<br>
 预览:<br>
@@ -261,7 +264,17 @@ git地址：https://github.com/rubensousa/ViewPagerCards<br>
 <img src="https://camo.githubusercontent.com/8c3253122abfc3a84c9b7c2eeb83902c029ea550/68747470733a2f2f727562656e736f7573612e6769746875622e696f2f696d672f7669657770616765725f726573756c742e676966" width="30%"/><br>
 
 
+
+
+
+
+
 ###其他<br>
+
+
+
+
+
 
 项目名：pagerbullet<br>
 git地址：https://github.com/robohorse/pagerbullet<br>
