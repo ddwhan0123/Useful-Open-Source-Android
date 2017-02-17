@@ -5,7 +5,10 @@
 
 
 
-
+项目名：LuseenBottomNavigation<br>
+git地址：https://github.com/armcha/LuseenBottomNavigation<br>
+预览:<br>
+<img src="https://github.com/armcha/LuseenBottomNavigation/raw/master/ScreenShots/gifView2.gif" width="30%" />
 
 项目名：bottomsheet<br>
 git地址：https://github.com/Flipboard/bottomsheet<br>
