@@ -122,6 +122,14 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
+
+
+项目名：RecyclerView-FlexibleDivider<br>
+git地址：https://github.com/yqritc/RecyclerView-FlexibleDivider<br>
+预览:<br>
+<img src="https://github.com/yqritc/RecyclerView-FlexibleDivider/raw/master/sample/sample2.gif" width="30%"/><br>
+
+
 项目名：DragSelectRecyclerView<br>
 git地址：https://github.com/MFlisar/DragSelectRecyclerView<br>
 预览:<br>
