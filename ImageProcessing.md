@@ -9,7 +9,10 @@
 
 
 
-
+项目名：TransferImage<br>
+git地址：https://github.com/Hitomis/TransferImage<br>
+预览:<br>
+<img src="https://github.com/Hitomis/TransferImage/raw/master/preview/transfer_2.gif" width="30%"/><br>
 
 
 项目名：Roll3DImageView<br>
