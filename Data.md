@@ -189,6 +189,13 @@ README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.c
 
 
 
+项目名：awesome-android-tips<br>
+git地址：https://github.com/jiang111/awesome-android-tips<br>
+预览:<br>
+<img src="https://github.com/xinghongfei/awesome-view/raw/master/screenshots/pie.png" width="30%"/><br>
+解释:<br>
+some code tips in android 💯<br>
+
 项目名：repo<br>
 git地址：https://github.com/suzeyu1992/repo<br>
 预览:<br>
