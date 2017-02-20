@@ -157,6 +157,14 @@
 
 
 
+
+
+项目名：ChanelView<br>
+git地址：https://github.com/developer-shivam/ChanelView<br>
+预览:<br>
+<img src="https://github.com/developer-shivam/ChanelView/raw/master/art/sample.gif" width="30%"/>
+
+
 项目名：mkloader<br>
 git地址：https://github.com/nntuyen/mkloader<br>
 预览:<br>
