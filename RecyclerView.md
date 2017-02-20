@@ -122,7 +122,10 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
-
+项目名：DragSelectRecyclerView<br>
+git地址：https://github.com/MFlisar/DragSelectRecyclerView<br>
+预览:<br>
+<img src="https://github.com/MFlisar/DragSelectRecyclerView/raw/master/files/demo.gif?raw=true" width="30%"/><br>
 
 项目名：HorizontalCalendar<br>
 git地址：https://github.com/Mulham-Raee/HorizontalCalendar<br>
