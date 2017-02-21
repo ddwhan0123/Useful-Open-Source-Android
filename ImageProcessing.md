@@ -9,6 +9,14 @@
 
 
 
+
+
+
+项目名：Zoomy<br>
+git地址：https://github.com/imablanco/Zoomy<br>
+预览:<br>
+<img src="https://github.com/imablanco/Zoomy/raw/master/art/zoomy.gif" width="30%"/><br>
+
 项目名：TransferImage<br>
 git地址：https://github.com/Hitomis/TransferImage<br>
 预览:<br>
