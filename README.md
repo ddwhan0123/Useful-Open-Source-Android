@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-2-20<br>
+###更新时间:2017-2-21<br>
 
 
 
@@ -158,6 +158,12 @@
 
 
 
+
+
+项目名：slideview<br>
+git地址：https://github.com/MAXDeliveryNG/slideview<br>
+预览:<br>
+<img src="https://github.com/MAXDeliveryNG/slideview/raw/master/art/screenshot_2.png" width="30%"/>
 
 项目名：ChanelView<br>
 git地址：https://github.com/developer-shivam/ChanelView<br>
