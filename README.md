@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-2-21<br>
+###更新时间:2017-2-22<br>
 
 
 
@@ -157,12 +157,15 @@
 
 
 
-
+项目名：ExpectAnim<br>
+git地址：https://github.com/florent37/ExpectAnim<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/florent37/ExpectAnim/master/media/sample.gif" width="20%"/>
 
 项目名：color-picker<br>
 git地址：https://github.com/dmfs/color-picker<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/ae50a309c1186c591e82f03ae9702b0f9026bc87/68747470733a2f2f7261772e6769746875622e636f6d2f646d66732f636f6c6f722d7069636b65722f6d61737465722f73637265656e73686f74732f616374696f6e73686f742e706e67" width="20%"/>
+<img src="https://camo.githubusercontent.com/ae50a309c1186c591e82f03ae9702b0f9026bc87/68747470733a2f2f7261772e6769746875622e636f6d2f646d66732f636f6c6f722d7069636b65722f6d61737465722f73637265656e73686f74732f616374696f6e73686f742e706e67" width="25%"/>
 
 项目名：slideview<br>
 git地址：https://github.com/MAXDeliveryNG/slideview<br>
