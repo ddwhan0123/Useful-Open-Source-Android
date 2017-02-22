@@ -157,6 +157,14 @@
 
 
 
+
+
+项目名：Snacky<br>
+git地址：https://github.com/matecode/Snacky<br>
+预览:<br>
+<img src="https://github.com/matecode/Snacky/raw/master/screenshots/success.png" width="30%"/>
+
+
 项目名：ExpectAnim<br>
 git地址：https://github.com/florent37/ExpectAnim<br>
 预览:<br>
