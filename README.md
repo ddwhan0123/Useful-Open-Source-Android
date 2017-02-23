@@ -512,10 +512,6 @@ git地址：https://github.com/Kelin-Hong/ScrollablePanel<br>
 预览:<br>
 <img src="https://github.com/Kelin-Hong/ScrollablePanel/raw/master/art/ScrollablePanelDemo.gif" width="30%"/>
 
-项目名：WaveInApp<br>
-git地址：https://github.com/Cleveroad/WaveInApp<br>
-预览:<br>
-<img src="https://github.com/Cleveroad/WaveInApp/raw/master/images/demo_.gif" width="30%"/>
 
 项目名：android-PageFlip<br>
 git地址：https://github.com/eschao/android-PageFlip<br>
