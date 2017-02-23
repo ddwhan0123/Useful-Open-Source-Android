@@ -315,7 +315,7 @@ git地址：https://github.com/aarsy/GoogleMapsAnimations<br>
 项目名：DragScrollDetailsLayout<br>
 git地址：https://github.com/happylishang/DragScrollDetailsLayout<br>
 预览:<br>
-<img src="https://github.com/happylishang/DragScrollDetailsLayout/raw/master/video/scrollview%2Bviewpager.gif" width="30%"/>
+<img src="https://github.com/happylishang/DragScrollDetailsLayout/raw/master/video/scrollview%2Blistview.gif" width="30%"/>
 
 项目名：MaryPopup<br>
 git地址：https://github.com/Meetic/MaryPopup<br>
