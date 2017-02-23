@@ -206,10 +206,7 @@ git地址：https://github.com/Commit451/ForegroundViews<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/Commit451/ForegroundViews/master/art/image_ripple.gif" width="30%"/>
 
-项目名：MaterialAbout<br>
-git地址：https://github.com/jrvansuita/MaterialAbout<br>
-预览:<br>
-<img src="https://github.com/jrvansuita/MaterialAbout/raw/master/images/screenshots/light.png" width="30%"/>
+
 
 项目名：android-sumbit-credit-card-flow<br>
 git地址：https://github.com/adonixis/android-sumbit-credit-card-flow<br>
