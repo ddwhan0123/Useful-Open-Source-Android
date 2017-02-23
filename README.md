@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-2-22<br>
+###更新时间:2017-2-23<br>
 
 
 
@@ -158,6 +158,11 @@
 
 
 
+
+项目名：WeekCalendar<br>
+git地址：https://github.com/nomanr/WeekCalendar<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/nomanr/WeekCalendar/master/images/gif.gif" width="30%"/>
 
 项目名：Snacky<br>
 git地址：https://github.com/matecode/Snacky<br>
