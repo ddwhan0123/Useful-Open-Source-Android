@@ -122,7 +122,10 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
-
+项目名：SpringView<br>
+git地址：https://github.com/liaoinstan/SpringView<br>
+预览:<br>
+<img src="https://github.com/liaoinstan/SpringView/raw/master/screenshot/1459212462800_s.gif" width="30%"/><br>
 
 项目名：RecyclerView-FlexibleDivider<br>
 git地址：https://github.com/yqritc/RecyclerView-FlexibleDivider<br>
