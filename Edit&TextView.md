@@ -146,10 +146,21 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 
 
 
+
+
+
+
 ###TextView<br>
 
 
 
+
+
+
+项目名： FlexibleRichTextView<br>
+git地址：https://github.com/daquexian/FlexibleRichTextView<br>
+预览:<br>
+<img src="https://github.com/daquexian/FlexibleRichTextView/raw/master/screencap.png" width="20%"/><br>
 
 
 项目名： FadingTextView<br>
