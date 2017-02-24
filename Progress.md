@@ -195,10 +195,16 @@ git地址：https://github.com/daimajia/NumberProgressBar<br>
 
 
 
-### 一些神奇的长相的view<br>
+### 不长，不远的那些进度条<br>
 
 
 
+
+
+项目名：MaterialProgressBar<br>
+git地址：https://github.com/DreaminginCodeZH/MaterialProgressBar<br>
+预览:<br>
+<img src="https://github.com/DreaminginCodeZH/MaterialProgressBar/raw/master/screenshot/android_4_4_4.png" width="30%" />
 
 项目名：LoadingButtonAndroid<br>
 git地址：https://github.com/leandroBorgesFerreira/LoadingButtonAndroid<br>
