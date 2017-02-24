@@ -4,6 +4,13 @@
 
 
 
+
+项目名：RxMagneto<br>
+git地址：https://github.com/aritraroy/RxMagneto<br>
+预览:<br>
+<img src="https://github.com/aritraroy/RxMagneto/raw/master/raw/github_screenshot.png" width="30%"/><br><br>
+描述：A fast, simple and powerful Play Store information fetcher for Android<br>
+
 项目名：RxSocialAuth<br>
 git地址：https://github.com/pchmn/RxSocialAuth<br>
 描述：Android RxJava library for Social auth (Google, Facebook) and Smart Lock For Passwords<br>
