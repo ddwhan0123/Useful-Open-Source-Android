@@ -157,6 +157,12 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 
 
 
+
+项目名： ScrollTextView<br>
+git地址：https://github.com/AnyLifeZLB/ScrollTextView<br>
+预览:<br>
+<img src="https://github.com/AnyLifeZLB/ScrollTextView/raw/master/GIF.gif" width="30%"/><br>
+
 项目名： FlexibleRichTextView<br>
 git地址：https://github.com/daquexian/FlexibleRichTextView<br>
 预览:<br>
