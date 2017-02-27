@@ -36,10 +36,7 @@ git地址:https://github.com/youngkaaa/YViewPagerDemo<br>
 
 
 
-项目名：TinderStack<br>
-git地址:https://github.com/lawloretienne/TinderStack<br>
-预览:<br>
-<img src="https://github.com/lawloretienne/TinderStack/raw/master/images/TinderStack_Screencast3.gif" width="30%"/><br>
+
 
 项目名：InfiniteCycleViewPager<br>
 git地址:https://github.com/Devlight/InfiniteCycleViewPager<br>
@@ -150,6 +147,9 @@ git地址：https://github.com/ronaldsmartin/Material-ViewPagerIndicator<br>
 
 
 
+
+
+
 项目名：banner<br>
 git地址:https://github.com/youth5201314/banner<br>
 预览:<br>
@@ -188,6 +188,13 @@ git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
 
 
 
+
+
+
+项目名：TinderStack<br>
+git地址:https://github.com/lawloretienne/TinderStack<br>
+预览:<br>
+<img src="https://github.com/lawloretienne/TinderStack/raw/master/images/TinderStack_Screencast3.gif" width="30%"/><br>
 
 项目名：MagicViewPager<br>
 git地址：https://github.com/hongyangAndroid/MagicViewPager<br>
