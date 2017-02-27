@@ -176,12 +176,6 @@ git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
 预览:<br>
 <img src="https://github.com/xyzlf/AutoPlayViewPager/raw/master/autoplay_view.gif" width="30%"/><br>
 
-项目名：QingtingBannerView<br>
-git地址：https://github.com/JeasonWong/QingtingBannerView<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/4f8407f247989bf6d4a5f13d02f6e94f97bd23ba/687474703a2f2f69312e6275696d672e636f6d2f343963626264646632396364343838322e676966" width="30%"/>
-
-
 
 
 
@@ -376,9 +370,6 @@ git地址：https://github.com/ToxicBakery/ViewPagerTransforms<br>
 git地址：https://github.com/florent37/HollyViewPager<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/42b77379300d39233842379c64a8d3bd6f432e38/687474703a2f2f6a2e676966732e636f6d2f765a344439472e676966" width="30%" /><br>
-
-
-
 
 
 
