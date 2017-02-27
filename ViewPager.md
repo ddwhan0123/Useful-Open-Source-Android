@@ -38,10 +38,7 @@ git地址:https://github.com/youngkaaa/YViewPagerDemo<br>
 
 
 
-项目名：InfiniteCycleViewPager<br>
-git地址:https://github.com/Devlight/InfiniteCycleViewPager<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/46a0c2773275d5a5acedc76a2b38ac1ec105d47a/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d304278504f5f556553377753634e6d526d5758417a526d52774e484d" width="30%"/><br>
+
 
 项目名：android-material-stepper<br>
 git地址:https://github.com/stepstone-tech/android-material-stepper<br>
@@ -189,7 +186,10 @@ git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
 
 
 
-
+项目名：InfiniteCycleViewPager<br>
+git地址:https://github.com/Devlight/InfiniteCycleViewPager<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/46a0c2773275d5a5acedc76a2b38ac1ec105d47a/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d304278504f5f556553377753634e6d526d5758417a526d52774e484d" width="30%"/><br>
 
 项目名：TinderStack<br>
 git地址:https://github.com/lawloretienne/TinderStack<br>
@@ -279,10 +279,7 @@ git地址：https://github.com/stfalcon-studio/FrescoImageViewer<br>
 预览:<br>
 <img src="https://github.com/stfalcon-studio/FrescoImageViewer/raw/master/images/fresco_image_viewer_demo.gif" width="30%"/><br>
 
-项目名：InfiniteCycleViewPager<br>
-git地址：https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/cfec8d9c33d2c4495b8088253673bff9b9da9e73/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d656f6a53635f6c314f4c732f5637734452764a594b57492f414141414141414144454d2f5a72576e6c757565466a734b7739764c7272634c61595331502d444d67636f4551434c30422f773234312d683338322d6e6f2f76696376702e676966" width="30%"/><br>
+
 
 项目名：ViewPagerCards<br>
 git地址：https://github.com/rubensousa/ViewPagerCards<br>
