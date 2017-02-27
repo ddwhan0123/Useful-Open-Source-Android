@@ -362,13 +362,6 @@ git地址：https://github.com/H07000223/FlycoBanner_Master<br>
 预览:<br>
 <img src="https://github.com/H07000223/FlycoBanner_Master/raw/master/preview_FlycoBanner.gif" width="30%" /><br>
 
-项目名：DevLight-Mobile-Agency/NavigationTabStrip<br>
-git地址：https://github.com/DevLight-Mobile-Agency/NavigationTabStrip<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/c22e87f0a7ea79e33497daba67d68d8bf178846d/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d7770476e786531566566632f567a6969796761533957492f41414141414141414364342f633466555f45472d44486b6f62793153496249354244747149547047695a5a6877434c30422f773332362d683535312d6e6f2f6e74732e676966" width="24%" /><br>
-
-
-
 
 
 
