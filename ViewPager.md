@@ -6,7 +6,10 @@
 ###Tab<br>
 
 
-
+项目名：TabView<br>
+git地址：https://github.com/Hentaii/TabView<br>
+预览:<br>
+<img src="https://github.com/Hentaii/TabView/raw/master/app/src/main/res/drawable/show.gif?raw=true" width="30%"/>
 
 项目名：NavigationTabStrip<br>
 git地址：https://github.com/DevLight-Mobile-Agency/NavigationTabStrip<br>
@@ -249,10 +252,7 @@ git地址：https://github.com/githubwing/ZoomHeader<br>
 
 
 
-项目名：TabView<br>
-git地址：https://github.com/Hentaii/TabView<br>
-预览:<br>
-<img src="https://github.com/Hentaii/TabView/raw/master/app/src/main/res/drawable/show.gif?raw=true" width="30%"/>
+
 
 
 
