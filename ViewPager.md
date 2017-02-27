@@ -6,6 +6,25 @@
 ###Tab<br>
 
 
+
+
+
+
+项目名：TabbedCoordinatorLayout<br>
+git地址：https://github.com/vitovalov/TabbedCoordinatorLayout<br>
+预览:<br>
+<img src="https://github.com/vitovalov/TabbedCoordinatorLayout/raw/master/art/demo.gif" width="30%"/><br>
+
+项目名：MagicIndicator<br>
+git地址：https://github.com/hackware1993/MagicIndicator<br>
+预览:<br>
+<img src="https://github.com/hackware1993/MagicIndicator/raw/master/magicindicator.gif" width="30%"/><br>
+
+项目名：StickyHeaderViewPager<br>
+git地址：https://github.com/w446108264/StickyHeaderViewPager<br>
+预览:<br>
+<img src="https://github.com/w446108264/StickyHeaderViewPager/raw/master/output/big.gif" width="30%"/><br>
+
 项目名：TabView<br>
 git地址：https://github.com/Hentaii/TabView<br>
 预览:<br>
@@ -44,7 +63,10 @@ git地址:https://github.com/youngkaaa/YViewPagerDemo<br>
 
 
 
-
+项目名：pagerbullet<br>
+git地址：https://github.com/robohorse/pagerbullet<br>
+预览:<br>
+<img src="https://github.com/robohorse/pagerbullet/raw/master/images/sample.png" width="30%"/><br>
 
 项目名：android-material-stepper<br>
 git地址:https://github.com/stepstone-tech/android-material-stepper<br>
@@ -203,7 +225,10 @@ git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
 
 
 
-
+项目名：ExpandingPager<br>
+git地址：https://github.com/qs-lll/ExpandingPager<br>
+预览:<br>
+<img src="https://github.com/qs-lll/ExpandingPager/raw/master/img/ExpandingPager.gif" width="30%"/><br>
 
 项目名：InfiniteCycleViewPager<br>
 git地址:https://github.com/Devlight/InfiniteCycleViewPager<br>
@@ -276,10 +301,7 @@ git地址：https://github.com/rubensousa/ViewPagerCards<br>
 
 
 
-项目名：pagerbullet<br>
-git地址：https://github.com/robohorse/pagerbullet<br>
-预览:<br>
-<img src="https://github.com/robohorse/pagerbullet/raw/master/images/sample.png" width="30%"/><br>
+
 
 项目名：StartPageAd<br>
 git地址：https://github.com/mrhyh/StartPageAd<br>
@@ -293,15 +315,9 @@ git地址：https://github.com/xmuSistone/android-sticky-viewpager<br>
 预览:<br>
 <img src="https://github.com/xmuSistone/android-sticky-viewpager/raw/master/gif01.gif" width="30%"/><br>
 
-项目名：StickyHeaderViewPager<br>
-git地址：https://github.com/w446108264/StickyHeaderViewPager<br>
-预览:<br>
-<img src="https://github.com/w446108264/StickyHeaderViewPager/raw/master/output/big.gif" width="30%"/><br>
 
-项目名：MagicIndicator<br>
-git地址：https://github.com/hackware1993/MagicIndicator<br>
-预览:<br>
-<img src="https://github.com/hackware1993/MagicIndicator/raw/master/magicindicator.gif" width="30%"/><br>
+
+
 
 项目名：Android-ParallaxHeaderViewPager<br>
 git地址：https://github.com/kmshack/Android-ParallaxHeaderViewPager<br>
@@ -316,28 +332,10 @@ git地址：https://github.com/iffa/wrapping-viewpager<br>
 
 
 
-
-
-项目名：ExpandingPager<br>
-git地址：https://github.com/qs-lll/ExpandingPager<br>
-预览:<br>
-<img src="https://github.com/qs-lll/ExpandingPager/raw/master/img/ExpandingPager.gif" width="30%"/><br>
-
-项目名：TabbedCoordinatorLayout<br>
-git地址：https://github.com/vitovalov/TabbedCoordinatorLayout<br>
-预览:<br>
-<img src="https://github.com/vitovalov/TabbedCoordinatorLayout/raw/master/art/demo.gif" width="30%"/><br>
-
-
-
-
-
 项目名：FlycoBanner_Master<br>
 git地址：https://github.com/H07000223/FlycoBanner_Master<br>
 预览:<br>
 <img src="https://github.com/H07000223/FlycoBanner_Master/raw/master/preview_FlycoBanner.gif" width="30%" /><br>
-
-
 
 
 
