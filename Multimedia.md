@@ -13,7 +13,10 @@
 
 
 
-
+项目名：ParsingPlayer<br>
+git地址:https://github.com/TedaLIEz/ParsingPlayer<br>
+预览:<br>
+<img src="https://github.com/TedaLIEz/ParsingPlayer/raw/master/screenshots/2.png" width="30%"/><br>
 
 项目名：JcPlayer<br>
 git地址：https://github.com/jeancsanchez/JcPlayer<br>
