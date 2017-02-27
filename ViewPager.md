@@ -9,6 +9,12 @@
 
 
 
+
+项目名：YViewPagerDemo<br>
+git地址:https://github.com/youngkaaa/YViewPagerDemo<br>
+预览:<br>
+<img src="https://github.com/youngkaaa/YViewPagerDemo/raw/master/screens/record.gif" width="30%"/><br>
+
 项目名：Dachshund-Tab-Layout<br>
 git地址:https://github.com/Andy671/Dachshund-Tab-Layout<br>
 预览:<br>
@@ -121,6 +127,8 @@ git地址：https://github.com/ronaldsmartin/Material-ViewPagerIndicator<br>
 
 
 ###Banner<br>
+
+
 
 
 
