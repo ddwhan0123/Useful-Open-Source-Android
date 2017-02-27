@@ -8,7 +8,10 @@
 
 
 
-
+项目名：NavigationTabStrip<br>
+git地址：https://github.com/DevLight-Mobile-Agency/NavigationTabStrip<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/7ead597346be3b6ae76d307ae7891d12b766f2ab/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d304278504f5f55655337775363523346554e5452765331424a654545" width="30%"/>
 
 项目名：Dachshund-Tab-Layout<br>
 git地址:https://github.com/Andy671/Dachshund-Tab-Layout<br>
@@ -250,10 +253,7 @@ git地址：https://github.com/romandanylyk/PageIndicatorView<br>
 
 
 
-项目名：NavigationTabStrip<br>
-git地址：https://github.com/DevLight-Mobile-Agency/NavigationTabStrip<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/7ead597346be3b6ae76d307ae7891d12b766f2ab/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d304278504f5f55655337775363523346554e5452765331424a654545" width="30%"/>
+
 
 
 
