@@ -10,7 +10,10 @@
 
 
 
-
+项目名：FrescoImageViewer<br>
+git地址：https://github.com/stfalcon-studio/FrescoImageViewer<br>
+预览:<br>
+<img src="https://github.com/stfalcon-studio/FrescoImageViewer/raw/master/images/fresco_image_viewer_demo.gif" width="30%"/><br>
 
 项目名：Zoomy<br>
 git地址：https://github.com/imablanco/Zoomy<br>
