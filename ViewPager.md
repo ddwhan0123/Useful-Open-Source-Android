@@ -142,6 +142,13 @@ git地址：https://github.com/ronaldsmartin/Material-ViewPagerIndicator<br>
 
 
 
+
+
+项目名：PageIndicatorView<br>
+git地址：https://github.com/romandanylyk/PageIndicatorView<br>
+预览:<br>
+<img src="https://github.com/romandanylyk/PageIndicatorView/raw/master/assets/animation_worm.gif?raw=true" width="30%"/>
+
 项目名：MagicViewPager<br>
 git地址：https://github.com/hongyangAndroid/MagicViewPager<br>
 预览:<br>
@@ -234,33 +241,6 @@ git地址：https://github.com/xmuSistone/android-page-transition<br>
 git地址：https://github.com/githubwing/ZoomHeader<br>
 预览:<br>
 <img src="https://github.com/githubwing/ZoomHeader/raw/master/img.gif" width="30%"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-项目名：PageIndicatorView<br>
-git地址：https://github.com/romandanylyk/PageIndicatorView<br>
-预览:<br>
-<img src="https://github.com/romandanylyk/PageIndicatorView/raw/master/assets/animation_worm.gif?raw=true" width="30%"/>
-
-
-
-
-
-
-
-
-
-
 
 
 
