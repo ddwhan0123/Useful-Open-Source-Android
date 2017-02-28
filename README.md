@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-2-27<br>
+###更新时间:2017-2-28<br>
 
 
 
@@ -158,7 +158,10 @@
 
 
 
-
+项目名：StatefulLayout<br>
+git地址：https://github.com/gturedi/StatefulLayout<br>
+预览:<br>
+<img src="https://github.com/gturedi/StatefulLayout/raw/master/sample.gif" width="30%"/>
 
 项目名：WeekCalendar<br>
 git地址：https://github.com/nomanr/WeekCalendar<br>
