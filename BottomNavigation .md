@@ -5,6 +5,12 @@
 
 
 
+
+项目名：BottomNavigation<br>
+git地址：https://github.com/cachapa/BottomNavigation<br>
+预览:<br>
+<img src="https://github.com/cachapa/BottomNavigation/raw/master/images/bottomnav.gif" width="30%" />
+
 项目名：LuseenBottomNavigation<br>
 git地址：https://github.com/armcha/LuseenBottomNavigation<br>
 预览:<br>
