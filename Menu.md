@@ -66,7 +66,10 @@ git地址：https://github.com/wangjiegulu/RapidFloatingActionButton<br>
 
 
 
-
+项目名：CircleMenu<br>
+git地址：https://github.com/ImangazalievM/CircleMenu<br>
+预览:<br>
+<img src="https://github.com/ImangazalievM/CircleMenu/raw/master/art/preview.gif" width="30%" />
 
 项目名：hover<br>
 git地址：https://github.com/google/hover<br>
