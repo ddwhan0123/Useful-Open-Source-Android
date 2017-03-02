@@ -3,7 +3,10 @@
 
 
 
-
+项目名：RxRetroJsoup<br>
+git地址：https://github.com/florent37/RxRetroJsoup<br>
+描述：A simple API-like from html website (scrapper) for Android
+<br>
 
 项目名：RxMagneto<br>
 git地址：https://github.com/aritraroy/RxMagneto<br>
