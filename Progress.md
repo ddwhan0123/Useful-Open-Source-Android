@@ -195,11 +195,17 @@ git地址：https://github.com/daimajia/NumberProgressBar<br>
 
 
 
-### 不长，不远的那些进度条<br>
+### 不长，不圆的那些进度条<br>
 
 
 
 
+
+
+项目名：geometric-progress-view<br>
+git地址：https://github.com/vbohush/geometric-progress-view<br>
+预览:<br>
+<img src="https://github.com/vbohush/geometric-progress-view/raw/master/screenshot/screenshot.gif" width="30%" />
 
 项目名：MaterialProgressBar<br>
 git地址：https://github.com/DreaminginCodeZH/MaterialProgressBar<br>
