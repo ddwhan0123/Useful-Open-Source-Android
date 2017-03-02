@@ -38,7 +38,12 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
-
+项目名：AppIconNameChanger<br>
+git地址:https://github.com/myinnos/AppIconNameChanger<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/738ccebf0acc8795765a9e1944a8b800df76f845/68747470733a2f2f7331392e706f7374696d672e6f72672f686d74616e716d75622f4170705f49636f6e5f4e616d655f4368616e6765725f6578616d706c655f30322e706e67" width="30%"/><br>
+解释:<br>
+Change Android launcher App Icon and App Name programmatically !<br>
 
 项目名：Cockroach<br>
 git地址:https://github.com/android-notes/Cockroach<br>
