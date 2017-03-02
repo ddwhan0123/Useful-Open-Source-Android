@@ -37,6 +37,12 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
+项目名：XhsEmoticonsKeyboard<br>
+git地址:https://github.com/w446108264/XhsEmoticonsKeyboard<br>
+预览:<br>
+<img src="https://github.com/w446108264/XhsEmoticonsKeyboard/raw/master/output/show.gif" width="30%"/><br>
+解释:<br>
+android emoticonsKeyboard support emoji and user-defined emoticon. easy to integrated into your project<br>
 
 项目名：AppIconNameChanger<br>
 git地址:https://github.com/myinnos/AppIconNameChanger<br>
