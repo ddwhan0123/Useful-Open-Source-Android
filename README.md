@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-2-28<br>
+###更新时间:2017-3-2<br>
 
 
 
@@ -155,7 +155,10 @@
 
 
 
-
+项目名：DreamDrawable<br>
+git地址：https://github.com/yanbober/DreamDrawable<br>
+预览:<br>
+<img src="https://github.com/yanbober/DreamDrawable/raw/master/.art/demo.gif" width="30%"/>
 
 
 项目名：StatefulLayout<br>
