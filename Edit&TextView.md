@@ -158,6 +158,13 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 
 
 
+
+
+项目名： XRichText<br>
+git地址：https://github.com/sendtion/XRichText<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/da392134bcd7b521699d78de5974d5cb7230589a/687474703a2f2f7777332e73696e61696d672e636e2f6c617267652f36633663643536646a7731666178327770336e67626a323075303168636172302e6a7067" width="30%"/><br>
+
 项目名： ScrollTextView<br>
 git地址：https://github.com/AnyLifeZLB/ScrollTextView<br>
 预览:<br>
