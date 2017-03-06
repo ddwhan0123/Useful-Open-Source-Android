@@ -158,7 +158,10 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 
 
 
-
+项目名： PinchZoomTextView<br>
+git地址：https://github.com/androidessence/PinchZoomTextView<br>
+预览:<br>
+<img src="https://github.com/androidessence/PinchZoomTextView/raw/master/sample.gif" width="30%"/><br>
 
 项目名： XRichText<br>
 git地址：https://github.com/sendtion/XRichText<br>
