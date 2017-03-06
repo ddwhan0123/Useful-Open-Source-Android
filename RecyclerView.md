@@ -123,7 +123,10 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
-
+项目名：ClassifyView<br>
+git地址：https://github.com/AlphaBoom/ClassifyView<br>
+预览:<br>
+<img src="https://github.com/AlphaBoom/ClassifyView/raw/master/screenshot/ireader.gif" width="30%"/><br>
 
 项目名：vlayout<br>
 git地址：https://github.com/alibaba/vlayout<br>
