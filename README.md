@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-3-6<br>
+###更新时间:2017-3-7<br>
 
 
 
@@ -154,6 +154,12 @@
 
 
 
+
+
+项目名：CookieBar<br>
+git地址：https://github.com/liuguangqiang/CookieBar<br>
+预览:<br>
+<img src="https://github.com/liuguangqiang/CookieBar/raw/master/arts/default.gif" width="30%"/>
 
 项目名：DreamDrawable<br>
 git地址：https://github.com/yanbober/DreamDrawable<br>
