@@ -157,6 +157,12 @@
 
 
 
+
+项目名：SimpleRatingBar<br>
+git地址：https://github.com/borjabravo10/SimpleRatingBar<br>
+预览:<br>
+<img src="https://github.com/borjabravo10/SimpleRatingBar/raw/master/SimpleRatingBar.png" width="30%"/>
+
 项目名：HorizontalPicker<br>
 git地址：https://github.com/GoodieBag/HorizontalPicker<br>
 预览:<br>
