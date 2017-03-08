@@ -3,6 +3,13 @@
 
 
 
+
+
+项目名：RxFireDroid<br>
+git地址：https://github.com/Goddchen/RxFireDroid<br>
+描述：Rx (Version 2!) wrapper for the Firebase Android library
+<br>
+
 项目名：RxRetroJsoup<br>
 git地址：https://github.com/florent37/RxRetroJsoup<br>
 描述：A simple API-like from html website (scrapper) for Android
