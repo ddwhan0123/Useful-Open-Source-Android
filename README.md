@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-3-7<br>
+###更新时间:2017-3-8<br>
 
 
 
@@ -153,6 +153,14 @@
 ##自定义控件/动画:<br>
 
 
+
+
+
+
+项目名：HorizontalPicker<br>
+git地址：https://github.com/GoodieBag/HorizontalPicker<br>
+预览:<br>
+<img src="https://github.com/GoodieBag/HorizontalPicker/raw/master/gif/HPtap.gif?raw=true" width="30%"/>
 
 项目名：MarkdownView<br>
 git地址：https://github.com/tiagohm/MarkdownView<br>
