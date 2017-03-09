@@ -122,7 +122,7 @@ git地址：https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis<br>
 预览:<br>
 <img src="https://github.com/yuxingxin/AndroidWidgetClassGraph/raw/master/img/android.jpg" width="40%"/><br><br>
 解释:<br>
-android sdk 源码解析——旨在帮助Android开发者更好的学习Android！<br>
+android sdk 源码解析——旨在帮助Android开发者更好的学习Android<br>
 
 
 项目名：github-help<br>
@@ -188,6 +188,12 @@ README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.c
 
 
 
+
+
+项目名：AndroidStandardDevelop<br>
+git地址：https://github.com/Blankj/AndroidStandardDevelop<br>
+解释:<br>
+Android standard develop<br>
 
 项目名：material-design-data<br>
 git地址：https://github.com/Luosunce/material-design-data<br>
