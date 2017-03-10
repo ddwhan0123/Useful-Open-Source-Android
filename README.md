@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-3-9<br>
+###更新时间:2017-3-10<br>
 
 
 
@@ -157,7 +157,10 @@
 
 
 
-
+项目名：Bubble-Picker<br>
+git地址：https://github.com/igalata/Bubble-Picker<br>
+预览:<br>
+<img src="https://github.com/igalata/Bubble-Picker/raw/develop/shot.gif" width="30%"/>
 
 项目名：SimpleRatingBar<br>
 git地址：https://github.com/borjabravo10/SimpleRatingBar<br>
