@@ -5,6 +5,12 @@
 
 
 
+
+项目名：RxAnimator<br>
+git地址：https://github.com/florent37/RxAnimator<br>
+描述：An RxJAva2 binding for android Animator
+<br>
+
 项目名：RxFireDroid<br>
 git地址：https://github.com/Goddchen/RxFireDroid<br>
 描述：Rx (Version 2!) wrapper for the Firebase Android library
