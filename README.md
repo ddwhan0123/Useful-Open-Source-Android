@@ -7,7 +7,7 @@
 
 
 
-###更新时间:2017-3-12<br>
+###更新时间:2017-3-13<br>
 
 
 
@@ -156,6 +156,12 @@
 
 
 
+
+
+项目名：DiscreteScrollView<br>
+git地址：https://github.com/yarolegovich/DiscreteScrollView<br>
+预览:<br>
+<img src="https://github.com/yarolegovich/DiscreteScrollView/raw/master/images/cards_weather.gif" width="30%"/>
 
 项目名：Bubble-Picker<br>
 git地址：https://github.com/igalata/Bubble-Picker<br>
