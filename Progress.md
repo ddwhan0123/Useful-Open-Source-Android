@@ -10,7 +10,10 @@
 
 
 
-
+项目名：LinearTimer<br>
+git地址：https://github.com/krtkush/LinearTimer<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/krtkush/LinearTimer/master/Screenshots/demo.gif" width="28%" />
 
 
 项目名：CircleTimerView<br>
