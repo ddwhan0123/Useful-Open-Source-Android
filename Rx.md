@@ -5,6 +5,10 @@
 
 
 
+项目名：RxKotlin<br>
+git地址：https://github.com/ReactiveX/RxKotlin<br>
+描述：RxJava bindings for Kotlin
+<br>
 
 项目名：RxAnimator<br>
 git地址：https://github.com/florent37/RxAnimator<br>
