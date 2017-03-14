@@ -188,7 +188,10 @@ README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.c
 
 
 
-
+项目名：android-tips-tricks-cn<br>
+git地址：https://github.com/cctanfujun/android-tips-tricks-cn<br>
+解释:<br>
+震惊！这么多的安卓开发Tips<br>
 
 项目名：AndroidStandardDevelop<br>
 git地址：https://github.com/Blankj/AndroidStandardDevelop<br>
