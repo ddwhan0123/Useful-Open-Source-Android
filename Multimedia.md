@@ -1,5 +1,5 @@
 
-##多媒体 相关：<br>
+## 多媒体 相关：<br>
 
 
 
@@ -7,7 +7,7 @@
 
 
 
-###播放器相关：<br>
+### 播放器相关：<br>
 
 
 
@@ -23,10 +23,6 @@ git地址：https://github.com/jeancsanchez/JcPlayer<br>
 预览:<br>
 <img src="https://github.com/jeancsanchez/JcPlayer/raw/master/sample/jcplayer-gif-definitive.gif" width="30%"/><br>
 
-项目名：SuperPlayer<br>
-git地址：https://github.com/supercwn/SuperPlayer<br>
-预览:<br>
-<img src="https://github.com/supercwn/SuperPlayer/raw/master/gif/super_player2.gif" width="30%"/><br>
 
 项目名：StylishMusicPlayer<br>
 git地址：https://github.com/ryanhoo/StylishMusicPlayer<br>
@@ -52,7 +48,7 @@ git地址：https://github.com/iammert/MusicPlayerView<br>
 项目名：Timber<br>
 git地址：https://github.com/naman14/Timber<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-09-18-12-33-27.png" width="30%" />
+<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/screen3.png" width="30%" />
 
 项目名：JamsMusicPlayer<br>
 git地址：https://github.com/psaravan/JamsMusicPlayer<br>
@@ -64,7 +60,7 @@ git地址：https://github.com/psaravan/JamsMusicPlayer<br>
 
 
 
-###视频相关：<br>
+### 视频相关：<br>
 
 
 
@@ -137,7 +133,8 @@ git地址：https://github.com/motianhuo/VCameraDemo<br>
 ![](https://camo.githubusercontent.com/68b7a1d35aa64ecd13594d5ae5d0c584b3982f1f/687474703a2f2f61312e656f65616e64726f69642e636f6d2f6174746163686d656e742f666f72756d2f3230313530372f31352f3136303934316a397a74627878676478717778626e742e676966) <br>
 
 
-###多媒体加载<br>
+
+### 多媒体加载<br>
 
 
 项目名：AndroidAudioConverter<br>
@@ -156,7 +153,7 @@ Convert audio files inside your Android app easily. Supported formats: AAC, MP3,
 
 
 
-###多媒体处理<br>
+### 多媒体处理<br>
 
 
 
