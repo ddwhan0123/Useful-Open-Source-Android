@@ -1,9 +1,9 @@
-##Progress 相关
+## Progress 相关
 <br>
 
 
 
-###圆形进度条<br>
+### 圆形进度条<br>
 
 
 
@@ -124,7 +124,7 @@ git地址：https://github.com/Rogero0o/CatLoadingView<br>
 
 
 
-###条状进度条<br>
+### 条状进度条<br>
 
 
 
@@ -159,14 +159,6 @@ git地址：https://github.com/Ajian-studio/GALeafLoading<br>
 
 
 
-
-
-
-
-
-
-
-
 项目名：LikeSinaSportProgress<br>
 git地址：https://github.com/YangShaoXiong/LikeSinaSportProgress<br>
 预览:<br>
@@ -176,9 +168,6 @@ git地址：https://github.com/YangShaoXiong/LikeSinaSportProgress<br>
 git地址：https://github.com/syedowaisali/crystal-range-seekbar<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/a91a36fcd741020ed5fa45e4f6eb3860c4b3ddcf/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3042396244454e794941425436636e68334d5859335457737451574d" width="30%" />
-
-
-
 
 
 项目名：discreteSeekBar<br>
@@ -192,8 +181,6 @@ git地址：https://github.com/AnderWeb/discreteSeekBar<br>
 git地址：https://github.com/daimajia/NumberProgressBar<br>
 预览:<br>
 ![](https://camo.githubusercontent.com/0c92568af7ec4e04e2e1503acdd2ca99854ab0b5/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a77316566797264386e376937673230637a30326d7135662e676966) <br>
-
-
 
 
 
