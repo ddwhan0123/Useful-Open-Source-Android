@@ -1,4 +1,4 @@
-##Utils<br>
+## Utils<br>
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-###工具封装<br>
+### 工具封装<br>
 
 
 
@@ -60,7 +60,7 @@ git地址：https://github.com/h4de5ing/AndroidCommon<br>
 
 
 
-###编码/字体/中文<br>
+### 编码/字体/中文<br>
 
 
 
@@ -100,7 +100,7 @@ git地址：https://github.com/handsomezhou/PinyinSearchLibrary<br>
 
 
 
-###Fragment<br>
+### Fragment<br>
 
 
 
@@ -127,7 +127,7 @@ A powerful library that manage Fragment for Android!<br>
 
 
 
-###Log<br>
+### Log<br>
 
 
 
@@ -187,7 +187,7 @@ git地址：https://github.com/promeG/XLog<br>
 
 
 
-###Json/XMl<br>
+### Json/XMl<br>
 
 
 
@@ -223,7 +223,7 @@ git地址：https://github.com/bluelinelabs/LoganSquare<br>
 
 
 
-###SharePreferences<br>
+### SharePreferences<br>
 
 
 
@@ -251,7 +251,7 @@ git地址：https://github.com/baoyongzhang/Treasure<br>
 
 
 
-###BLE/NFC/VA/VR<br>
+### BLE/NFC/VA/VR<br>
 
 
 
@@ -292,7 +292,7 @@ git地址:https://github.com/sirmordred/android-BluetoothChat<br>
 
 
 
-###性能/优化/分析/线上回馈<br>
+### 性能/优化/分析/线上回馈<br>
 
 
 
@@ -347,7 +347,7 @@ Allows to perform various simple operations on bitmaps via JNI , while also prov
 
 
 
-###开发提速<br>
+### 开发提速<br>
 
 
 
@@ -436,7 +436,7 @@ A cryptography library and a SharedPreferences wrapper for Android that encrypts
 
 
 
-###素材/Icon<br>
+### 素材/Icon<br>
 
 
 
