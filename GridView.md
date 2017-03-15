@@ -1,4 +1,4 @@
-##GridView
+## GridView
 项目名：android-GridViewWithHeaderAndFooter<br>
 git地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter<br>
 预览:<br>
