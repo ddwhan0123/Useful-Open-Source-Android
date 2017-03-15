@@ -1,10 +1,10 @@
 
-##EditText/TextView
+## EditText/TextView
 <br>
 
 
 
-###EditText<br>
+### EditText<br>
 
 
 
@@ -150,7 +150,7 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 
 
 
-###TextView<br>
+### TextView<br>
 
 
 
