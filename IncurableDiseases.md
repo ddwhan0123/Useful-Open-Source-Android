@@ -1,7 +1,7 @@
-##疑难杂症<br>
+## 疑难杂症<br>
 
 
-###高级语言特性<br>
+### 高级语言特性<br>
 
 
 
@@ -27,7 +27,7 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
-###高端功能<br>
+### 高端功能<br>
 
 
 
@@ -138,7 +138,7 @@ git地址：https://github.com/fatangare/LogcatViewer<br>
 
 
 
-###业务功能难点处理<br>
+### 业务功能难点处理<br>
 
 
 
@@ -253,7 +253,7 @@ Chinese Copywriting Guidelines / 中文文案排版指北<br>
 
 
 
-###发布/打包/统计/插件化<br>
+### 发布/打包/统计/插件化<br>
 
 
 
@@ -348,7 +348,7 @@ AndFix is a library that offer hot-fix for Android App.<br>
 
 
 
-###代码封装<br>
+### 代码封装<br>
 
 
 
