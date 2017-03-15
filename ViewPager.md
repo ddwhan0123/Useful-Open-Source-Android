@@ -1,9 +1,9 @@
 
-##ViewPager
+## ViewPager
 <br>
 
 
-###Tab<br>
+### Tab<br>
 
 
 
@@ -43,7 +43,7 @@ git地址:https://github.com/Andy671/Dachshund-Tab-Layout<br>
 
 
 
-###欢迎页/浏览页<br>
+### 欢迎页/浏览页<br>
 
 
 
@@ -169,7 +169,7 @@ git地址：https://github.com/ronaldsmartin/Material-ViewPagerIndicator<br>
 
 
 
-###Banner<br>
+### Banner<br>
 
 
 
@@ -225,7 +225,7 @@ git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
 
 
 
-###卡片翻页效果<br>
+### 卡片翻页效果<br>
 
 
 
@@ -299,7 +299,7 @@ git地址：https://github.com/rubensousa/ViewPagerCards<br>
 
 
 
-###其他<br>
+### 其他<br>
 
 
 
@@ -354,9 +354,6 @@ git地址：https://github.com/ToxicBakery/ViewPagerTransforms<br>
 git地址：https://github.com/florent37/HollyViewPager<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/42b77379300d39233842379c64a8d3bd6f432e38/687474703a2f2f6a2e676966732e636f6d2f765a344439472e676966" width="30%" /><br>
-
-
-
 
 
 
