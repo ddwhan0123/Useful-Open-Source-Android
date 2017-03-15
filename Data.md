@@ -1,11 +1,11 @@
-##翻译/资料/学习教程<br>
+## 翻译/资料/学习教程<br>
 
 
 
 
 
 
-###Demo/案例<br>
+### Demo/案例<br>
 
 
 
@@ -106,7 +106,7 @@ Android testing with Dagger 2, Espresso 2 and Mockito<br>
 
 
 
-###代码/语法分析<br>
+### 代码/语法分析<br>
 
 
 
@@ -183,7 +183,7 @@ README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.c
 
 
 
-###知识累积/博客/电子书/文档<br>
+### 知识累积/博客/电子书/文档<br>
 
 
 
@@ -583,7 +583,7 @@ git地址：https://github.com/GeekLiB/Lee-VR-Source<br>
 VR 开发者必备资源汇总<br>
 
 
-###各种规范<br>
+### 各种规范<br>
 
 
 
