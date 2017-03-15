@@ -1,13 +1,13 @@
 # Useful-Open-Source-Android
 
-##power by：王亟亟<br>
-##blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
-##weibo：[王亟亟](http://weibo.com/u/5298245888) <br>
+## power by：王亟亟<br>
+## blog：[王亟亟的大牛之路](http://blog.csdn.net/ddwhan0123) <br>
+## weibo：[王亟亟](http://weibo.com/u/5298245888) <br>
 
 
 
 
-###更新时间:2017-3-14<br>
+### 更新时间:2017-3-15<br>
 
 
 
@@ -156,7 +156,10 @@
 
 
 
-
+项目名：bubble-scroll<br>
+git地址：https://github.com/cdflynn/bubble-scroll<br>
+预览:<br>
+<img src="https://github.com/cdflynn/bubble-scroll/raw/master/sample/img/scroll_sample_gif.gif?raw=true" width="30%"/>
 
 项目名：DiscreteScrollView<br>
 git地址：https://github.com/yarolegovich/DiscreteScrollView<br>
