@@ -25,3 +25,10 @@ git地址：https://github.com/pilgr/Paper<br>
 git地址：https://github.com/yahoo/squidb<br>
 预览:<br>
 描述：SquiDB is a SQLite database library for Android and iOS https://github.com/yahoo/squidb/wiki<br>
+
+
+项目名：LitePal<br>
+git地址：https://github.com/LitePalFramework/LitePal<br>
+预览:<br>
+<img src="https://github.com/LitePalFramework/LitePal/raw/master/sample/src/main/logo/mini_logo.png" width="50%"/><br>
+描述：An Android library that makes developers use SQLite database extremely easy<br>
