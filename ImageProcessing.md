@@ -10,6 +10,12 @@
 
 
 
+
+项目名：PhotoView<br>
+git地址：https://github.com/bm-x/PhotoView<br>
+预览:<br>
+<img src="https://github.com/bm-x/PhotoView/raw/master/demo1.gif" width="30%"/><br>
+
 项目名：FrescoImageViewer<br>
 git地址：https://github.com/stfalcon-studio/FrescoImageViewer<br>
 预览:<br>
@@ -200,6 +206,9 @@ git地址：https://github.com/adamstyrc/cookie-cutter<br>
 
 
 ###图片选择器相关：<br>
+
+
+
 
 
 
