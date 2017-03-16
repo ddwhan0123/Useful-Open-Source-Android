@@ -1,11 +1,11 @@
 
-##RecyclerView 相关:<br>
+## RecyclerView 相关:<br>
 
 
 
 
 
-###下拉刷新/上拉加载 相关：<br>
+### 下拉刷新/上拉加载 相关：<br>
 
 
 
@@ -116,12 +116,15 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
-###各类牛x实现 ：<br>
+### 各类牛x实现 ：<br>
 
 
 
 
-
+项目名：RecyclerViewPager<br>
+git地址：https://github.com/lsjwzh/RecyclerViewPager<br>
+预览:<br>
+<img src="https://github.com/lsjwzh/RecyclerViewPager/raw/master/vertical.gif" width="30%"/><br>
 
 项目名：ClassifyView<br>
 git地址：https://github.com/AlphaBoom/ClassifyView<br>
