@@ -64,7 +64,10 @@ git地址：https://github.com/wangjiegulu/RapidFloatingActionButton<br>
 
 
 
-
+项目名：PageMenu<br>
+git地址：https://github.com/uacaps/PageMenu<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/uacaps/ResourceRepo/master/PageMenu/PageMenuDemo2.gif" width="30%" />
 
 项目名：CircleMenu<br>
 git地址：https://github.com/ImangazalievM/CircleMenu<br>
