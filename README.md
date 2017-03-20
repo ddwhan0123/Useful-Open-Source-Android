@@ -7,7 +7,7 @@
 
 
 
-### 更新时间:2017-3-19<br>
+### 更新时间:2017-3-20<br>
 
 
 
@@ -154,7 +154,10 @@
 ## 自定义控件/动画:<br>
 
 
-
+项目名：StickySwitch<br>
+git地址：https://github.com/GwonHyeok/StickySwitch<br>
+预览:<br>
+<img src="https://github.com/GwonHyeok/StickySwitch/raw/master/preview.gif" width="30%"/>
 
 项目名：bubble-scroll<br>
 git地址：https://github.com/cdflynn/bubble-scroll<br>
