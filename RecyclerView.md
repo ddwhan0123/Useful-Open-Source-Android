@@ -121,6 +121,9 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
+
+
+
 项目名：RecyclerViewPager<br>
 git地址：https://github.com/lsjwzh/RecyclerViewPager<br>
 预览:<br>
@@ -444,10 +447,7 @@ git地址：https://github.com/Azoft/CarouselLayoutManager<br>
 预览:<br>
 <img src="https://github.com/Azoft/CarouselLayoutManager/raw/master/resources/carousel_work_small.gif" width="30%"/><br>
 
-项目名：binding-collection-adapter<br>
-git地址：https://github.com/evant/binding-collection-adapter<br>
-预览:<br>
-无 （封装的适配器）<br>
+
 
 项目名：RecyclerTabLayout<br>
 git地址：https://github.com/nshmura/RecyclerTabLayout<br>
@@ -607,7 +607,15 @@ git地址：https://github.com/EverythingMe/overscroll-decor<br>
 ![](https://github.com/EverythingMe/overscroll-decor/raw/master/recyclerview_demo.gif) <br>
 
 
+### Adapter封装<br>
 
 
+项目名：binding-collection-adapter<br>
+git地址：https://github.com/evant/binding-collection-adapter<br>
+预览:<br>
+无 （封装的适配器）<br>
 
-
+项目名：RendererRecyclerViewAdapter<br>
+git地址：https://github.com/vivchar/RendererRecyclerViewAdapter<br>
+预览:<br>
+<img src="https://github.com/vivchar/RendererRecyclerViewAdapter/raw/master/example1.gif" width="30%"/><br>
