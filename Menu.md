@@ -64,6 +64,13 @@ git地址：https://github.com/wangjiegulu/RapidFloatingActionButton<br>
 
 
 
+
+
+项目名：SmartTabLayout<br>
+git地址：https://github.com/ogaclejapan/SmartTabLayout<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo4.gif" width="30%" />
+
 项目名：PageMenu<br>
 git地址：https://github.com/uacaps/PageMenu<br>
 预览:<br>
