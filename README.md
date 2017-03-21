@@ -7,7 +7,7 @@
 
 
 
-### 更新时间:2017-3-20<br>
+### 更新时间:2017-3-21<br>
 
 
 
@@ -153,6 +153,12 @@
 
 ## 自定义控件/动画:<br>
 
+
+
+项目名：FancyShowCaseView<br>
+git地址：https://github.com/faruktoptas/FancyShowCaseView<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/8283200/23941893/8fb92934-097b-11e7-9626-2c4b2d15b8ca.gif" width="30%"/>
 
 项目名：StickySwitch<br>
 git地址：https://github.com/GwonHyeok/StickySwitch<br>
