@@ -65,7 +65,10 @@ git地址：https://github.com/psaravan/JamsMusicPlayer<br>
 
 
 
-
+项目名：AutoplayVideos<br>
+git地址：https://github.com/Krupen/AutoplayVideos<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/Krupen/AutoplayVideos/master/AutoPlayVideos%20Demo.gif" width="30%"/><br>
 
 项目名：WxRecoderVideo<br>
 git地址：https://github.com/maimingliang/WxRecoderVideo<br>
