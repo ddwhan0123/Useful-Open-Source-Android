@@ -65,6 +65,12 @@ git地址：https://github.com/psaravan/JamsMusicPlayer<br>
 
 
 
+
+项目名：ExoPlayerVideoView<br>
+git地址：https://github.com/JarvanMo/ExoPlayerVideoView<br>
+预览:<br>
+<img src="https://github.com/JarvanMo/ExoPlayerVideoView/raw/master/images/brightness_new.png" width="30%"/><br>
+
 项目名：AutoplayVideos<br>
 git地址：https://github.com/Krupen/AutoplayVideos<br>
 预览:<br>
