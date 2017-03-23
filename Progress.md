@@ -219,3 +219,20 @@ git地址：https://github.com/Tibolte/ElasticDownload<br>
 git地址：https://github.com/ldoublem/LoadingView<br>
 预览:<br>
 <img src="https://github.com/ldoublem/LoadingView/raw/master/screen/screen.gif" width="30%" />
+
+
+
+### 进度条展示功能的Layout<br>
+
+
+
+项目名：ProgressLayout<br>
+git地址：https://github.com/iammert/ProgressLayout<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/iammert/ProgressLayout/master/art/progress_layout_art.png" width="30%" />
+
+
+项目名：ProgressLayout<br>
+git地址：https://github.com/kidcats/ProgressLayout<br>
+预览:<br>
+<img src="https://github.com/kidcats/ProgressLayout/raw/master/images/demo.png" width="30%" />
