@@ -610,6 +610,12 @@ git地址：https://github.com/EverythingMe/overscroll-decor<br>
 ### Adapter封装<br>
 
 
+
+项目名：AdapterDelegates<br>
+git地址：https://github.com/sockeqwe/AdapterDelegates<br>
+解释:<br>
+"Favor composition over inheritance" for RecyclerView Adapters <br>
+
 项目名：binding-collection-adapter<br>
 git地址：https://github.com/evant/binding-collection-adapter<br>
 预览:<br>
