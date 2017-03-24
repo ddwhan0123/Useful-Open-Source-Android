@@ -155,6 +155,18 @@
 
 
 
+
+
+项目名：LazyLoadingViews<br>
+git地址：https://github.com/jineshfrancs/LazyLoadingViews<br>
+预览:<br>
+<img src="https://github.com/jineshfrancs/LazyLoadingViews/raw/master/screens/loading.gif" width="30%"/>
+
+项目名：BetterSpinner<br>
+git地址：https://github.com/Lesilva/BetterSpinner<br>
+预览:<br>
+<img src="https://github.com/Lesilva/BetterSpinner/raw/master/screenshot/screenshot.gif" width="30%"/>
+
 项目名：ForegroundView<br>
 git地址：https://github.com/baole/ForegroundView<br>
 预览:<br>
