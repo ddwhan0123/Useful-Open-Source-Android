@@ -4,6 +4,10 @@
 
 
 
+项目名：RxLocation<br>
+git地址：https://github.com/dudu90/RxLocation<br>
+描述：Use with rxjava,No memory leak,Simple
+<br>
 
 项目名：RxKotlin<br>
 git地址：https://github.com/ReactiveX/RxKotlin<br>
