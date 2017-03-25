@@ -155,7 +155,10 @@
 
 
 
-
+项目名：android-PictureInPicture<br>
+git地址：https://github.com/googlesamples/android-PictureInPicture<br>
+预览:<br>
+<img src="https://github.com/googlesamples/android-PictureInPicture/raw/master/screenshots/2-pip.png" width="30%"/>
 
 项目名：LazyLoadingViews<br>
 git地址：https://github.com/jineshfrancs/LazyLoadingViews<br>
