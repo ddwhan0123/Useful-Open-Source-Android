@@ -230,6 +230,11 @@ git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
 
 
 
+项目名：CoverFlow<br>
+git地址：https://github.com/moondroid/CoverFlow<br>
+预览:<br>
+<img src="https://github.com/moondroid/CoverFlow/raw/master/art/screenshot.png" width="30%"/><br>
+
 项目名：ExpandingPager<br>
 git地址：https://github.com/qs-lll/ExpandingPager<br>
 预览:<br>
