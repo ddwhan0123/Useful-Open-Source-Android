@@ -124,6 +124,11 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
+项目名：LondonEyeLayoutManager<br>
+git地址：https://github.com/danylovolokh/LondonEyeLayoutManager<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/2686355/11742412/651bc71e-a008-11e5-9a5e-4f10be4adbd8.gif" width="30%"/><br>
+
 项目名：RecyclerViewPager<br>
 git地址：https://github.com/lsjwzh/RecyclerViewPager<br>
 预览:<br>
