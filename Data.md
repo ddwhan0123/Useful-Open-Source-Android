@@ -186,6 +186,17 @@ README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.c
 ### 知识累积/博客/电子书/文档<br>
 
 
+
+
+
+
+项目名：AppMethodOrder<br>
+git地址：https://github.com/zjw-swun/AppMethodOrder<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/50a8f6bc4101ea2bc3a89322624a1bbd30839025/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313835373838372d393662336363393664333566396133662e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="30%"/><br>
+解释:<br>
+一个能让你了解所有函数调用顺序的Android库（无需侵入式代码）<br>
+
 项目名：RxJavaSamples<br>
 git地址：https://github.com/THEONE10211024/RxJavaSamples<br>
 解释:<br>
