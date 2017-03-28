@@ -37,5 +37,7 @@ git地址：https://github.com/fanrunqi/AndroidInterview<br>
 预览:<br>
 无<br>
 解释:<br>
-android 面试资料<br>
 
+项目名：LearningNotes<br>
+git地址：https://github.com/GeniusVJR/LearningNotes<br>
+解释:Android面试题<br>
