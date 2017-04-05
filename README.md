@@ -157,6 +157,12 @@
 
 
 
+
+项目名：Badger<br>
+git地址：https://github.com/volders/Badger<br>
+预览:<br>
+<img src="https://github.com/volders/Badger/raw/master/assets/example.png" width="30%"/>
+
 项目名：spruce-android<br>
 git地址：https://github.com/willowtreeapps/spruce-android<br>
 预览:<br>
