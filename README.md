@@ -156,6 +156,12 @@
 
 
 
+
+项目名：spruce-android<br>
+git地址：https://github.com/willowtreeapps/spruce-android<br>
+预览:<br>
+<img src="https://github.com/willowtreeapps/spruce-android/raw/master/imgs/recycler-example.gif" width="30%"/>
+
 项目名：tinglingsquares<br>
 git地址：https://github.com/ishan1604/tinglingsquares<br>
 预览:<br>
