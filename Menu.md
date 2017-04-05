@@ -64,7 +64,10 @@ git地址：https://github.com/wangjiegulu/RapidFloatingActionButton<br>
 
 
 
-
+项目名：JellyToolbar<br>
+git地址：https://github.com/Yalantis/JellyToolbar<br>
+预览:<br>
+<img src="https://github.com/Yalantis/JellyToolbar/raw/develop/gif.gif" width="30%" />
 
 项目名：SmartTabLayout<br>
 git地址：https://github.com/ogaclejapan/SmartTabLayout<br>
