@@ -154,7 +154,10 @@
 ## 自定义控件/动画:<br>
 
 
-
+项目名：PatternLock<br>
+git地址：https://github.com/DreaminginCodeZH/PatternLock<br>
+预览:<br>
+<img src="https://github.com/DreaminginCodeZH/PatternLock/raw/master/screenshot/sample_small.png" width="30%"/>
 
 项目名：DrawRouteMaps<br>
 git地址：https://github.com/ar-android/DrawRouteMaps<br>
