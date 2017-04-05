@@ -211,7 +211,10 @@ git地址：https://github.com/adamstyrc/cookie-cutter<br>
 
 
 
-
+项目名：ZGallery<br>
+git地址：https://github.com/mzelzoghbi/ZGallery<br>
+预览:<br>
+<img src="https://github.com/mzelzoghbi/ZGallery/raw/master/ZGallery_lib_sample_preview.gif" width="30%" /><br>
 
 项目名：ImagePicker<br>
 git地址：https://github.com/martin90s/ImagePicker<br>
