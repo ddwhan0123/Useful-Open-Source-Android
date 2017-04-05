@@ -64,10 +64,10 @@ git地址：https://github.com/wangjiegulu/RapidFloatingActionButton<br>
 
 
 
-项目名：JellyToolbar<br>
-git地址：https://github.com/Yalantis/JellyToolbar<br>
+项目名：SlidingRootNav<br>
+git地址：https://github.com/yarolegovich/SlidingRootNav<br>
 预览:<br>
-<img src="https://github.com/Yalantis/JellyToolbar/raw/develop/gif.gif" width="30%" />
+<img src="https://github.com/yarolegovich/SlidingRootNav/raw/master/art/sample.gif" width="30%" />
 
 项目名：SmartTabLayout<br>
 git地址：https://github.com/ogaclejapan/SmartTabLayout<br>
@@ -227,7 +227,10 @@ git地址：https://github.com/kyze8439690/ResideLayout<br>
 
 
 
-
+项目名：JellyToolbar<br>
+git地址：https://github.com/Yalantis/JellyToolbar<br>
+预览:<br>
+<img src="https://github.com/Yalantis/JellyToolbar/raw/develop/gif.gif" width="30%" />
 
 项目名：Alerter<br>
 git地址：https://github.com/Tapadoo/Alerter<br>
