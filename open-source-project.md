@@ -5,7 +5,7 @@
 项目名：Firebucket<br>
 git地址：https://github.com/remychantenay/Firebucket<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/remychantenay/Firebucket/master/art/screenshots.jpg" width="30%" />
+<img src="https://raw.githubusercontent.com/remychantenay/Firebucket/master/art/screenshots.jpg" width="40%" />
 
 
 项目名：LabCoat<br>
