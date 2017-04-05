@@ -7,7 +7,7 @@
 
 
 
-### 更新时间:2017-4-4<br>
+### 更新时间:2017-4-5<br>
 
 
 
@@ -154,6 +154,12 @@
 ## 自定义控件/动画:<br>
 
 
+
+
+项目名：tinglingsquares<br>
+git地址：https://github.com/ishan1604/tinglingsquares<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/ishan1604/tinglingsquares/master/media/demo.gif" width="30%"/>
 
 项目名：android-PictureInPicture<br>
 git地址：https://github.com/googlesamples/android-PictureInPicture<br>
