@@ -122,7 +122,10 @@ git地址：https://github.com/nicewarm/WeChatImageClipping<br>
 
 
 
-
+项目名：cropiwa<br>
+git地址：https://github.com/steelkiwi/cropiwa<br>
+预览:<br>
+<img src="https://github.com/polyak01/cropiwa/raw/master/assets/3J8gYWC.gif" width="30%" /><br>
 
 
 项目名：SimpleCropView<br>
