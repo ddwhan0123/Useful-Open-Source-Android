@@ -10,7 +10,10 @@
 
 
 
-
+项目名：IconSwitch<br>
+git地址：https://github.com/polyak01/IconSwitch<br>
+预览:<br>
+<img src="https://github.com/polyak01/IconSwitch/raw/master/data/3J8gYHy.gif" width="30%"/><br>
 
 项目名：Android-SwitchIcon<br>
 git地址：https://github.com/zagum/Android-SwitchIcon<br>
