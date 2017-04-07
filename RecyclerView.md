@@ -12,7 +12,10 @@
 
 
 
-
+项目名：FireworkyPullToRefresh<br>
+git地址：https://github.com/Cleveroad/FireworkyPullToRefresh<br>
+预览:<br>
+<img src="https://github.com/Cleveroad/FireworkyPullToRefresh/raw/master/images/demo_.gif" width="30%"/><br>
 
 项目名：PullZoomView<br>
 git地址：https://github.com/jeasonlzy/PullZoomView<br>
