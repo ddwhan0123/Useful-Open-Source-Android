@@ -156,7 +156,10 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 
 
 
-
+项目名： readmoretextview<br>
+git地址：https://github.com/czy1121/readmoretextview<br>
+预览:<br>
+<img src="https://github.com/czy1121/readmoretextview/raw/master/screenshot.png" width="30%"/><br>
 
 项目名： PinchZoomTextView<br>
 git地址：https://github.com/androidessence/PinchZoomTextView<br>
