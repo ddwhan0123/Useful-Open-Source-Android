@@ -153,6 +153,14 @@
 
 ## 自定义控件/动画:<br>
 
+
+
+
+项目名：PatternLockView<br>
+git地址：https://github.com/aritraroy/PatternLockView<br>
+预览:<br>
+<img src="https://github.com/aritraroy/PatternLockView/raw/master/screenshots/pattern_lock_view_2_small.gif?raw=true" width="30%"/>
+
 项目名：Isometric<br>
 git地址：https://github.com/FabianTerhorst/Isometric<br>
 预览:<br>
