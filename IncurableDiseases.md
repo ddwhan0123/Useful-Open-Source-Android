@@ -35,6 +35,12 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
+项目名：FingerprintManager<br>
+git地址:https://github.com/JesusM/FingerprintManager<br>
+预览:<br>
+<img src="https://github.com/JesusM/FingerprintManager/raw/master/resources/images/sample_light_theme.png" width="30%"/><br>
+解释:<br>
+A small library to handle Android fingerprint API.<br>
 
 
 项目名：XhsEmoticonsKeyboard<br>
