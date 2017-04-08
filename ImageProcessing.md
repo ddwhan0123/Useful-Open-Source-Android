@@ -365,7 +365,10 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
-
+项目名：CompressHelper<br>
+git地址：https://github.com/nanchen2251/CompressHelper<br>
+预览:<br>
+<img src="https://github.com/nanchen2251/CompressHelper/raw/master/111.png" width="30%"/><br>
 
 项目名：XLowPoly<br>
 git地址：https://github.com/xyzxqs/XLowPoly<br>
