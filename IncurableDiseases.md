@@ -33,7 +33,12 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
-
+项目名：AppMethodOrder<br>
+git地址:https://github.com/zjw-swun/AppMethodOrder<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/7f9fe86c1371f5435aafb998df2d6952fa2ea000/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313835373838372d656236313962313831356436346261332e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="30%"/><br>
+解释:<br>
+A small library to handle Android fingerprint API.<br>
 
 项目名：FingerprintManager<br>
 git地址:https://github.com/JesusM/FingerprintManager<br>
