@@ -40,6 +40,15 @@ Create React apps with no build configuration<br>
 
 ---------
 
+### ImageView<br>
+
+项目名：react-native-group-image<br>
+git地址：https://github.com/jondot/react-native-group-image<br>
+预览:<br>
+<img src="https://github.com/jondot/react-native-group-image/raw/master/assets/groupimage.png" width="30%"/>
+<br>
+
+
 ## React<br>
 
 
