@@ -11,6 +11,10 @@
 
 
 
+项目名：PullLoadMoreRecyclerView<br>
+git地址：https://github.com/WuXiaolong/PullLoadMoreRecyclerView<br>
+预览:<br>
+<img src="https://github.com/WuXiaolong/PullLoadMoreRecyclerView/raw/master/screenshots/screenshot.gif" width="30%"/><br>
 
 项目名：FireworkyPullToRefresh<br>
 git地址：https://github.com/Cleveroad/FireworkyPullToRefresh<br>
