@@ -82,7 +82,3 @@ git地址：https://github.com/Kaka252/FlexboxUtils<br>
 预览:<br>
 <img src="https://github.com/Kaka252/FlexboxUtils/raw/master/screenshot/device-2017-03-28-181547.png?raw=true" width="30%"/><br>
 
-项目名：BGAFlowLayout-Android<br>
-git地址：https://github.com/bingoogolapple/BGAFlowLayout-Android<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/0f1c8cb45fefe7e38b327fc49c4f549c0be12397/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f666c6f776c61796f75742f73637265656e73686f74732f6267612d666c6f776c61796f75742d64656d6f312e676966" width="30%"/><br>
