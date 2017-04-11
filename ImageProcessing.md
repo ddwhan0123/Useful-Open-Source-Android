@@ -9,7 +9,10 @@
 
 
 
-
+项目名：ShadowImageView<br>
+git地址：https://github.com/yingLanNull/ShadowImageView<br>
+预览:<br>
+<img src="https://github.com/yingLanNull/ShadowImageView/raw/master/show/shadow1.png" width="30%"/><br>
 
 项目名：PhotoView<br>
 git地址：https://github.com/bm-x/PhotoView<br>
