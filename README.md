@@ -157,6 +157,12 @@
 
 
 
+
+项目名：HoldingButton<br>
+git地址：https://github.com/dewarder/HoldingButton<br>
+预览:<br>
+<img src="https://github.com/dewarder/HoldingButton/raw/master/_arts/example.gif" width="30%"/>
+
 项目名：ShootRefreshView<br>
 git地址：https://github.com/dinuscxj/ShootRefreshView<br>
 预览:<br>
