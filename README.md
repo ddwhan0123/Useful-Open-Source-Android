@@ -229,11 +229,6 @@ git地址：https://github.com/baole/ForegroundView<br>
 <img src="https://camo.githubusercontent.com/bddd3ce3616fb09c9574a8258513b60476e51a2c/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d6166592d56516e566f64772f56676138416a4b77466b492f41414141414141414d6b6f2f5274434d55536b4e7371592f773438372d683836352d6e6f2f53637265656e73686f745f32303135303932362d3232333730312e706e67" width="30%"/>
 
 
-项目名：FancyShowCaseView<br>
-git地址：https://github.com/faruktoptas/FancyShowCaseView<br>
-预览:<br>
-<img src="https://cloud.githubusercontent.com/assets/8283200/23941893/8fb92934-097b-11e7-9626-2c4b2d15b8ca.gif" width="30%"/>
-
 项目名：stateLayout<br>
 git地址：https://github.com/fingdo/stateLayout<br>
 预览:<br>
