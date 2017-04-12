@@ -11,7 +11,10 @@
 
 
 
-
+项目名： Enlightened<br>
+git地址：https://github.com/0xFireball/Enlightened<br>
+预览:<br>
+<img src="https://github.com/0xFireball/Enlightened/raw/master/scr/enlightened_scr.png" width="30%"/><br>
 
 
 项目名： AnimatedEditText<br>
