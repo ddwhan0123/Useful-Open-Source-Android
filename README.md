@@ -157,6 +157,11 @@
 
 
 
+项目名：ShootRefreshView<br>
+git地址：https://github.com/dinuscxj/ShootRefreshView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/dinuscxj/ShootRefreshView/master/Preview/ShootRefreshView.gif" width="30%"/>
+
 项目名：AdaptiveTableLayout<br>
 git地址：https://github.com/Cleveroad/AdaptiveTableLayout<br>
 预览:<br>
