@@ -156,7 +156,10 @@
 
 
 
-
+项目名：AwesomeLayoutManager<br>
+git地址：https://github.com/forceLain/AwesomeLayoutManager<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/forceLain/AwesomeLayoutManager/master/etc/basic.gif" width="30%"/>
 
 项目名：ButtonProgressBar<br>
 git地址：https://github.com/ishaan1995/ButtonProgressBar<br>
