@@ -2,6 +2,11 @@
 ## 开源app<br>
 
 
+项目名：bilibili-android-client<br>
+git地址：https://github.com/HotBitmapGG/bilibili-android-client<br>
+预览:<br>
+<img src="https://github.com/HotBitmapGG/bilibili-android-client/raw/master-x/art/03.png" width="40%" />
+
 项目名：TranslateApp<br>
 git地址：https://github.com/maoruibin/TranslateApp<br>
 预览:<br>
