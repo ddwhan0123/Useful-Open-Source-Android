@@ -244,7 +244,7 @@ git地址：https://github.com/Benny-Kok/OpenLauncher<br>
 解释：<br>
 Android open source launcher project (Active)<br>
 预览:<br>
-<img src="https://github.com/Benny-Kok/OpenLauncher/raw/master/DisplayPictures/Screenshot_2016-08-03-20-57-15.png" width="30%" />
+<img src="https://github.com/Benny-Kok/OpenLauncher/raw/alpha2/DisplayPictures/p2.jpg" width="30%" />
 
 项目名：toilet<br>
 git地址：https://github.com/vczero/toilet<br>
@@ -545,10 +545,6 @@ git地址：https://github.com/DmitryMalkovich/popular-movies-app<br>
 预览:<br>
 <img src="https://cloud.githubusercontent.com/assets/2931932/14224948/c983f498-f8b8-11e5-98d4-ef084e4ad34b.png" width="30%" /><br>
 
-项目名：AndroidCubeDemo<br>
-git地址：https://github.com/geminiwen/AndroidCubeDemo<br>
-预览:<br>
-![](https://camo.githubusercontent.com/54d49e4ca0edfee9db04bb9dcd00e125c9b46d8f/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f35646435343133316777316577687a743364617137673230663030716f6232612e676966) <br>
 
 
 项目名：MicroReader<br>
@@ -603,5 +599,5 @@ git地址：https://github.com/Harlber/Moose<br>
 项目名：GeometricWeather<br>
 git地址：https://github.com/WangDaYeeeeee/GeometricWeather<br>
 预览:<br>
-<img src="https://github.com/WangDaYeeeeee/GeometricWeather/raw/master/preview/enframe_2016-02-09-08-25-001.png" width="30%" />
+<img src="https://github.com/WangDaYeeeeee/GeometricWeather/raw/master/work/preview_header.png" width="30%" />
 
