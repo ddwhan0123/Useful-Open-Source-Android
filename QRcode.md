@@ -8,7 +8,10 @@
 
 
 
-
+项目名：PressScanCode<br>
+git地址：https://github.com/BolexLiu/PressScanCode<br>
+预览:<br>
+<img src="https://github.com/BolexLiu/PressScanCode/raw/master/tips.gif" width="30%" /><br>
 
 项目名：zxing<br>
 git地址：https://github.com/zxing/zxing<br>
