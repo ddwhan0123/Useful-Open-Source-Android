@@ -5,17 +5,17 @@
 项目名：bilibili-android-client<br>
 git地址：https://github.com/HotBitmapGG/bilibili-android-client<br>
 预览:<br>
-<img src="https://github.com/HotBitmapGG/bilibili-android-client/raw/master-x/art/03.png" width="40%" />
+<img src="https://github.com/HotBitmapGG/bilibili-android-client/raw/master-x/art/03.png" width="30%" />
 
 项目名：TranslateApp<br>
 git地址：https://github.com/maoruibin/TranslateApp<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/30c31811825de0e59dea6c440bb1f186af26fa30/687474703a2f2f3778723967782e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f67642e676966" width="40%" />
+<img src="https://camo.githubusercontent.com/30c31811825de0e59dea6c440bb1f186af26fa30/687474703a2f2f3778723967782e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f67642e676966" width="30%" />
 
 项目名：Firebucket<br>
 git地址：https://github.com/remychantenay/Firebucket<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/remychantenay/Firebucket/master/art/screenshots.jpg" width="40%" />
+<img src="https://raw.githubusercontent.com/remychantenay/Firebucket/master/art/screenshots.jpg" width="30%" />
 
 
 项目名：LabCoat<br>
