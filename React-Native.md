@@ -32,6 +32,15 @@ https://github.com/droidwolf/react-native-RealRecyclerView<br>
 解释：react-native-RealRecyclerView on android
 <br>
 
+### PopupWindow<br>
+
+https://github.com/instea/react-native-popup-menu<br>
+解释：Popup menu component for React Native
+<br>
+预览:<br>
+<img src="https://github.com/instea/react-native-popup-menu/raw/master/doc/img/context-menu.png" width="30%"/>
+<br>
+
 ###  教程<br>
 https://github.com/facebookincubator/create-react-app
 <br>
