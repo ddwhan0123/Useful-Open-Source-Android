@@ -6,7 +6,10 @@
 
 
 
-
+项目名：barcodescanner<br>
+git地址：https://github.com/dm77/barcodescanner<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/f04fa272b7050bf763648daea650cb0ca3fad89a/68747470733a2f2f7261772e6769746875622e636f6d2f646d37372f626172636f64657363616e6e65722f6d61737465722f73637265656e73686f74732f7363616e6e65722e706e67" width="30%" /><br>
 
 项目名：PressScanCode<br>
 git地址：https://github.com/BolexLiu/PressScanCode<br>
