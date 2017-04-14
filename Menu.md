@@ -12,6 +12,11 @@
 
 
 
+项目名：material-sheet-fab<br>
+git地址：https://github.com/gowong/material-sheet-fab<br>
+预览:<br>
+<img src="https://github.com/gowong/material-sheet-fab/raw/master/art/bgmonitor.gif" width="30%"/>
+
 项目名：CounterFab<br>
 git地址：https://github.com/andremion/CounterFab<br>
 预览:<br>
