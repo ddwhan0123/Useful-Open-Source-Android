@@ -32,7 +32,7 @@ https://github.com/droidwolf/react-native-RealRecyclerView<br>
 解释：react-native-RealRecyclerView on android
 <br>
 
-###教程<br>
+###  教程<br>
 https://github.com/facebookincubator/create-react-app
 <br>
 解释：<br>
