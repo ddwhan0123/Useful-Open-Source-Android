@@ -188,7 +188,10 @@ README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.c
 
 
 
-
+项目名：Learn-Algorithms<br>
+git地址：https://github.com/nonstriater/Learn-Algorithms<br>
+解释:<br>
+算法学习笔记<br>
 
 项目名：AppMethodOrder<br>
 git地址：https://github.com/zjw-swun/AppMethodOrder<br>
