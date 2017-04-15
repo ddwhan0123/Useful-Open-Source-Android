@@ -235,6 +235,12 @@ git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
 
 
 
+
+项目名：expanding-collection-android<br>
+git地址：https://github.com/Ramotion/expanding-collection-android<br>
+预览:<br>
+<img src="https://github.com/Ramotion/expanding-collection-android/raw/master/preview.gif" width="30%"/><br>
+
 项目名：CoverFlow<br>
 git地址：https://github.com/moondroid/CoverFlow<br>
 预览:<br>
