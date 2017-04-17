@@ -12,7 +12,7 @@
 项目名：ShadowImageView<br>
 git地址：https://github.com/yingLanNull/ShadowImageView<br>
 预览:<br>
-<img src="https://github.com/yingLanNull/ShadowImageView/raw/master/show/shadow1.png" width="30%"/><br>
+<img src="https://github.com/yingLanNull/ShadowImageView/raw/master/show/shadow1.png" width="38%"/><br>
 
 项目名：PhotoView<br>
 git地址：https://github.com/bm-x/PhotoView<br>
@@ -215,7 +215,10 @@ git地址：https://github.com/adamstyrc/cookie-cutter<br>
 
 
 
-
+项目名：TedBottomPicker<br>
+git地址：https://github.com/ParkSangGwon/TedBottomPicker<br>
+预览:<br>
+<img src="https://github.com/ParkSangGwon/TedBottomPicker/raw/master/demo.gif?raw=true" width="30%" /><br>
 
 项目名：ZGallery<br>
 git地址：https://github.com/mzelzoghbi/ZGallery<br>
