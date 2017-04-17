@@ -9,7 +9,10 @@
 
 
 
-
+项目名： MaterialChipsInput<br>
+git地址：https://github.com/pchmn/MaterialChipsInput<br>
+预览:<br>
+<img src="https://github.com/pchmn/MaterialChipsInput/raw/master/docs/demo2.gif" width="30%"/><br>
 
 项目名： Enlightened<br>
 git地址：https://github.com/0xFireball/Enlightened<br>
