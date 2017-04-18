@@ -157,7 +157,10 @@
 
 
 
-
+项目名：PasscodeView<br>
+git地址：https://github.com/kevalpatel2106/PasscodeView<br>
+预览:<br>
+<img src="https://github.com/kevalpatel2106/PasscodeView/raw/master/resource/pin_success.gif" width="30%"/>
 
 项目名：OneDrawable<br>
 git地址：https://github.com/maoruibin/OneDrawable<br>
