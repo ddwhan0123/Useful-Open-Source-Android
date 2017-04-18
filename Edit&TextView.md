@@ -359,7 +359,7 @@ git地址:https://github.com/skyfe79/HashGirl<br>
 预览:<br>
 <img src="https://github.com/skyfe79/HashGirl/raw/master/art/hashgirl.gif" width="30%"/><br>
 
-##收缩TextView<br>
+## 收缩TextView<br>
 
 项目名：ExpandableLayout<br>
 git地址：https://github.com/SilenceDut/ExpandableLayout<br>
