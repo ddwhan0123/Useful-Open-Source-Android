@@ -17,31 +17,7 @@ https://github.com/brillout/awesome-react-components(主件相关，只是收集
 https://github.com/react-native-community/React-Native-Elements
 <br>
 
-### ViewPager<br>
 
-
-项目名：react-native-app-intro<br>
-git地址：https://github.com/FuYaoDe/react-native-app-intro<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/0070607c97ffa385a28618d4b40c6a913a5bfa67/687474703a2f2f692e67697068792e636f6d2f336f366f7a6a4c6f4f6e595458667a4a67512e676966" width="30%"/>
-<br>
-
-
-
-### PopupWindow<br>
-
-https://github.com/instea/react-native-popup-menu<br>
-解释：Popup menu component for React Native
-<br>
-预览:<br>
-<img src="https://github.com/instea/react-native-popup-menu/raw/master/android.demo.gif" width="30%"/>
-<br>
-
-###  教程<br>
-https://github.com/facebookincubator/create-react-app
-<br>
-解释：<br>
-Create React apps with no build configuration<br>
 
 ---------
 
