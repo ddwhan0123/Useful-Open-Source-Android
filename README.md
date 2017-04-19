@@ -185,7 +185,7 @@ git地址：https://github.com/dinuscxj/ShootRefreshView<br>
 项目名：AdaptiveTableLayout<br>
 git地址：https://github.com/Cleveroad/AdaptiveTableLayout<br>
 预览:<br>
-<img src="https://github.com/Cleveroad/AdaptiveTableLayout/raw/master/images/demo.gif" width="30%"/>
+<img src="https://github.com/Cleveroad/AdaptiveTableLayout/raw/master/images/demo.gif" width="40%"/>
 
 项目名：AwesomeLayoutManager<br>
 git地址：https://github.com/forceLain/AwesomeLayoutManager<br>
