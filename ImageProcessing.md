@@ -9,7 +9,10 @@
 
 
 
-
+项目名：IdentityImageView<br>
+git地址：https://github.com/385841539/IdentityImageView<br>
+预览:<br>
+<img src="https://github.com/385841539/IdentityImageView/raw/master/app/src/main/res/drawable/biaoshi.gif" width="28%"/><br>
 
 项目名：Matisse<br>
 git地址：https://github.com/zhihu/Matisse<br>
