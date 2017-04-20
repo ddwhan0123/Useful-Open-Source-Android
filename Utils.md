@@ -13,7 +13,11 @@
 
 
 
-
+项目名：FingerprintIdentify<br>
+git地址：https://github.com/uccmawei/FingerprintIdentify<br>
+预览:<br>
+<img src="https://github.com/uccmawei/FingerprintIdentify/raw/master/demo.png" width="24%"/><br>
+描述：安卓指纹识别库（安卓官方+三星SDK+魅族SDK）<br>
 
 项目名：SmartTool<br>
 git地址：https://github.com/wolearn/SmartTool<br>
