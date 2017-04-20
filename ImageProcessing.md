@@ -413,7 +413,7 @@ git地址：https://github.com/qiujuer/ImageBlurring<br>
 项目名：GaussianBlur<br>
 git地址：https://github.com/jrvansuita/GaussianBlur<br>
 预览:<br>
-<img src="https://github.com/jrvansuita/GaussianBlur/raw/master/screenshot/screenshot.jpg" width="30%"/><br>
+<img src="https://github.com/jrvansuita/GaussianBlur/raw/master/images/mockups/triceratops_nexus6p-portrait.png" width="30%"/><br>
 
 
 项目名：DexMovingImageView<br>
