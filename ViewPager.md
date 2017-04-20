@@ -57,7 +57,7 @@ git地址：https://github.com/alibaba/UltraViewPager<br>
 项目名：Material-Onboarding<br>
 git地址：https://github.com/Vexigon/Material-Onboarding<br>
 预览:<br>
-<img src="https://github.com/Vexigon/Material-Onboarding/raw/master/art/onboarding_sample.png" width="30%"/>
+<img src="https://github.com/Vexigon/Material-Onboarding/raw/master/art/onboarding_sample.png" width="25%"/>
 
 项目名：Orientation-ViewPager<br>
 git地址：https://github.com/mcshengInworking/Orientation-ViewPager<br>
@@ -167,15 +167,7 @@ git地址：https://github.com/ronaldsmartin/Material-ViewPagerIndicator<br>
 <img src="https://raw.githubusercontent.com/ronaldsmartin/Material-ViewPagerIndicator/assets/screenshots/1.0.0/capture-v1.0.0.gif" width="30%"/>
 <br>
 
-
-
-
-
 ### Banner<br>
-
-
-
-
 
 
 
@@ -194,7 +186,6 @@ git地址：https://github.com/waylife/InfiniteViewPager<br>
 预览:<br>
 <img src="https://github.com/waylife/InfiniteViewPager/raw/master/ScreenCapture/preview_s2.gif" width="30%"/>
 
-
 项目名：banner<br>
 git地址:https://github.com/youth5201314/banner<br>
 预览:<br>
@@ -204,7 +195,6 @@ git地址:https://github.com/youth5201314/banner<br>
 git地址：https://github.com/saiwu-bigkoo/Android-ConvenientBanner<br>
 预览:<br>
 <img src="https://github.com/saiwu-bigkoo/Android-ConvenientBanner/raw/master/preview/convenientbannerdemo.gif" width="30%" /><br>
-
 
 项目名：CircleIndicator<br>
 git地址：https://github.com/ongakuer/CircleIndicator<br>
@@ -220,11 +210,6 @@ git地址：https://github.com/bingoogolapple/BGABanner-Android<br>
 git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
 预览:<br>
 <img src="https://github.com/xyzlf/AutoPlayViewPager/raw/master/autoplay_view.gif" width="30%"/><br>
-
-
-
-
-
 
 
 ### 卡片翻页效果<br>
@@ -285,10 +270,6 @@ git地址：https://github.com/xmuSistone/android-page-transition<br>
 
 
 
-
-
-
-
 项目名：ZoomHeader<br>
 git地址：https://github.com/githubwing/ZoomHeader<br>
 预览:<br>
@@ -296,22 +277,10 @@ git地址：https://github.com/githubwing/ZoomHeader<br>
 
 
 
-
-
-
-
-
-
-
-
 项目名：ViewPagerCards<br>
 git地址：https://github.com/rubensousa/ViewPagerCards<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/8c3253122abfc3a84c9b7c2eeb83902c029ea550/68747470733a2f2f727562656e736f7573612e6769746875622e696f2f696d672f7669657770616765725f726573756c742e676966" width="30%"/><br>
-
-
-
-
 
 
 
