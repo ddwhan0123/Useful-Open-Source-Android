@@ -315,7 +315,7 @@ git地址：https://github.com/binIoter/SwipeBackActivity<br>
 项目名：MaterialDrawer<br>
 git地址：https://github.com/mikepenz/MaterialDrawer<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/mikepenz/MaterialDrawer/develop/DEV/github/screenshots1.jpg" width="30%"/>
+<img src="https://raw.githubusercontent.com/mikepenz/MaterialDrawer/develop/DEV/github/screenshots1.jpg" width="45%"/>
 
 
 
