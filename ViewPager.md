@@ -57,7 +57,7 @@ git地址：https://github.com/alibaba/UltraViewPager<br>
 项目名：Material-Onboarding<br>
 git地址：https://github.com/Vexigon/Material-Onboarding<br>
 预览:<br>
-<img src="https://github.com/Vexigon/Material-Onboarding/raw/master/art/onboarding_sample.png" width="25%"/>
+<img src="https://github.com/Vexigon/Material-Onboarding/raw/master/art/onboarding_sample.png" width="33%"/>
 
 项目名：Orientation-ViewPager<br>
 git地址：https://github.com/mcshengInworking/Orientation-ViewPager<br>
@@ -134,7 +134,7 @@ git地址：https://github.com/riggaroo/MaterialIntroTutorial<br>
 项目名：LiulishuoPreview<br>
 git地址：https://github.com/JeasonWong/LiulishuoPreview<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/jeasonwong/LiulishuoPreview/master/screenshots/liulishuo.gif" width="30%"/>
+<img src="https://raw.githubusercontent.com/jeasonwong/LiulishuoPreview/master/screenshots/liulishuo.gif" width="25%"/>
 
 项目名：ahoy-onboarding<br>
 git地址：https://github.com/codemybrainsout/ahoy-onboarding<br>
