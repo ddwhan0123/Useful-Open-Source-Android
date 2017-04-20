@@ -330,7 +330,8 @@ git地址：https://github.com/klinker41/android-slidingactivity<br>
 项目名：MaterialDrawer<br>
 git地址：https://github.com/mikepenz/MaterialDrawer<br>
 预览:<br>
-![](https://raw.githubusercontent.com/mikepenz/MaterialDrawer/develop/DEV/github/screenshots1.jpg) <br>
+<img src="https://raw.githubusercontent.com/mikepenz/MaterialDrawer/develop/DEV/github/screenshots1.jpg" width="30%"/>
+
 
 项目名：FlycoTabLayout<br>
 git地址：https://github.com/H07000223/FlycoTabLayout<br>
