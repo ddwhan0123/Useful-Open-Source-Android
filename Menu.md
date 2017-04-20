@@ -308,13 +308,9 @@ git地址：https://github.com/badoualy/morphy-toolbar<br>
 项目名：SwipeBackActivity<br>
 git地址：https://github.com/binIoter/SwipeBackActivity<br>
 预览:<br>
-<img src="https://github.com/binIoter/SwipeBackActivity/raw/master/app/src/main/res/assets/review.gif" width="30%"/>
+<img src="https://github.com/binIoter/CommonApp/raw/master/app/src/main/file/review.gif" width="24%"/>
 
 
-项目名：morphy-toolbar<br>
-git地址：https://github.com/badoualy/morphy-toolbar<br>
-预览:<br>
-<img src="https://github.com/badoualy/morphy-toolbar/raw/master/ART/gif1.gif" width="30%"/>
 
 项目名：MaterialDrawer<br>
 git地址：https://github.com/mikepenz/MaterialDrawer<br>
