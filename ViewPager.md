@@ -13,22 +13,22 @@
 项目名：TabbedCoordinatorLayout<br>
 git地址：https://github.com/vitovalov/TabbedCoordinatorLayout<br>
 预览:<br>
-<img src="https://github.com/vitovalov/TabbedCoordinatorLayout/raw/master/art/demo.gif" width="30%"/><br>
+<img src="https://github.com/vitovalov/TabbedCoordinatorLayout/raw/master/art/demo.gif" width="25%"/><br>
 
 项目名：MagicIndicator<br>
 git地址：https://github.com/hackware1993/MagicIndicator<br>
 预览:<br>
-<img src="https://github.com/hackware1993/MagicIndicator/raw/master/magicindicator.gif" width="30%"/><br>
+<img src="https://github.com/hackware1993/MagicIndicator/raw/master/magicindicator.gif" width="25%"/><br>
 
 项目名：StickyHeaderViewPager<br>
 git地址：https://github.com/w446108264/StickyHeaderViewPager<br>
 预览:<br>
-<img src="https://github.com/w446108264/StickyHeaderViewPager/raw/master/output/big.gif" width="30%"/><br>
+<img src="https://github.com/w446108264/StickyHeaderViewPager/raw/master/output/big.gif" width="25%"/><br>
 
 项目名：TabView<br>
 git地址：https://github.com/Hentaii/TabView<br>
 预览:<br>
-<img src="https://github.com/Hentaii/TabView/raw/master/app/src/main/res/drawable/show.gif?raw=true" width="30%"/>
+<img src="https://github.com/Hentaii/TabView/raw/master/app/src/main/res/drawable/show.gif?raw=true" width="24%"/>
 
 项目名：NavigationTabStrip<br>
 git地址：https://github.com/DevLight-Mobile-Agency/NavigationTabStrip<br>
@@ -52,7 +52,7 @@ git地址:https://github.com/Andy671/Dachshund-Tab-Layout<br>
 项目名：UltraViewPager<br>
 git地址：https://github.com/alibaba/UltraViewPager<br>
 预览:<br>
-<img src="https://github.com/alibaba/UltraViewPager/raw/master/pics/pics3.gif" width="30%"/>
+<img src="https://github.com/alibaba/UltraViewPager/raw/master/pics/pics3.gif" width="25%"/>
 
 项目名：Material-Onboarding<br>
 git地址：https://github.com/Vexigon/Material-Onboarding<br>
@@ -62,15 +62,12 @@ git地址：https://github.com/Vexigon/Material-Onboarding<br>
 项目名：Orientation-ViewPager<br>
 git地址：https://github.com/mcshengInworking/Orientation-ViewPager<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/efc2379021ee37e67f74aa2882d5ccae6e492fb9/687474703a2f2f692e696d6775722e636f6d2f563153666a374b2e676966" width="30%"/>
+<img src="https://camo.githubusercontent.com/efc2379021ee37e67f74aa2882d5ccae6e492fb9/687474703a2f2f692e696d6775722e636f6d2f563153666a374b2e676966" width="25%"/>
 
 项目名：YViewPagerDemo<br>
 git地址:https://github.com/youngkaaa/YViewPagerDemo<br>
 预览:<br>
-<img src="https://github.com/youngkaaa/YViewPagerDemo/raw/master/screens/record.gif" width="30%"/><br>
-
-
-
+<img src="https://github.com/youngkaaa/YViewPagerDemo/raw/master/screens/record.gif" width="25%"/><br>
 
 
 项目名：pagerbullet<br>
@@ -106,7 +103,7 @@ git地址：https://github.com/Ramotion/paper-onboarding-android<br>
 项目名：welcome-android<br>
 git地址：https://github.com/stephentuso/welcome-android<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/stephentuso/welcome-android/master/media/sample-video.gif" width="30%" /><br>
+<img src="https://raw.githubusercontent.com/stephentuso/welcome-android/master/media/sample-video.gif" width="25%" /><br>
 
 项目名：TransitionPlayer<br>
 git地址：https://github.com/linfaxin/TransitionPlayer<br>
@@ -116,7 +113,7 @@ git地址：https://github.com/linfaxin/TransitionPlayer<br>
 项目名：WoWoViewPager<br>
 git地址：https://github.com/Nightonke/WoWoViewPager<br>
 预览:<br>
-<img src="https://github.com/Nightonke/WoWoViewPager/raw/master/Pictures/AppIntroExample.gif"/><br>
+<img src="https://github.com/Nightonke/WoWoViewPager/raw/master/Pictures/AppIntroExample.gif" width="25%"/><br>
 
 项目名：SCViewPager<br>
 git地址：https://github.com/sacot41/SCViewPager<br>
@@ -126,7 +123,7 @@ git地址：https://github.com/sacot41/SCViewPager<br>
 项目名：AppIntro<br>
 git地址：https://github.com/PaoloRotolo/AppIntro<br>
 预览:<br>
-<img src="https://github.com/PaoloRotolo/AppIntro/raw/master/art/intro.png" width="30%" /><br>
+<img src="https://github.com/PaoloRotolo/AppIntro/raw/master/art/intro.png" width="25%" /><br>
 
 项目名：MaterialIntroTutorial<br>
 git地址：https://github.com/riggaroo/MaterialIntroTutorial<br>
@@ -201,7 +198,7 @@ git地址：https://github.com/waylife/InfiniteViewPager<br>
 项目名：banner<br>
 git地址:https://github.com/youth5201314/banner<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/youth5201314/banner/master/image/1.png" width="30%"/><br>
+<img src="https://camo.githubusercontent.com/72e7034bb9f3ed5e4d28c25a94adb22bb9e7cb98/687474703a2f2f6f63656835316b6b752e626b742e636c6f7564646e2e636f6d2f62616e6e65725f6578616d706c65312e706e67" width="30%"/><br>
 
 项目名：Android-ConvenientBanner<br>
 git地址：https://github.com/saiwu-bigkoo/Android-ConvenientBanner<br>
@@ -234,7 +231,10 @@ git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
 
 
 
-
+项目名：Android-InfiniteCards<br>
+git地址：https://github.com/BakerJQ/Android-InfiniteCards<br>
+预览:<br>
+<img src="https://github.com/BakerJQ/Android-InfiniteCards/raw/master/screenshot/sample.gif" width="30%"/><br>
 
 项目名：expanding-collection-android<br>
 git地址：https://github.com/Ramotion/expanding-collection-android<br>
