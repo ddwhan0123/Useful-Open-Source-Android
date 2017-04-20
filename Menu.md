@@ -45,7 +45,7 @@ git地址：https://github.com/schiztech/RoversActionApi<br>
 项目名：android-snake-menu<br>
 git地址：https://github.com/xmuSistone/android-snake-menu<br>
 预览:<br>
-<img src="https://github.com/xmuSistone/android-snake-menu/raw/master/capture2.gif" width="30%" />
+<img src="https://github.com/xmuSistone/android-snake-menu/raw/master/capture1.gif" width="20%" />
 
 项目名：fab-speed-dial<br>
 git地址：https://github.com/yavski/fab-speed-dial<br>
