@@ -283,7 +283,7 @@ git地址：https://github.com/H07000223/FlycoSystemBar<br>
 项目名：LoopBar<br>
 git地址：https://github.com/Cleveroad/LoopBar<br>
 预览:Tap Bar with infinite scrolling:<br>
-<img src="https://github.com/Cleveroad/LoopBar/raw/master/images/header.png" width="30%"/>
+<img src="https://github.com/Cleveroad/LoopBar/raw/master/images/header.png" width="45%"/>
 
 项目名：StatusBarCompat<br>
 git地址：https://github.com/niorgai/StatusBarCompat<br>
