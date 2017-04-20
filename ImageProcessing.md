@@ -14,7 +14,7 @@
 项目名：Matisse<br>
 git地址：https://github.com/zhihu/Matisse<br>
 预览:<br>
-<img src="https://github.com/zhihu/Matisse/raw/master/image/screenshot_dracula.png" width="38%"/><br>
+<img src="https://github.com/zhihu/Matisse/raw/master/image/screenshot_dracula.png" width="28%"/><br>
 
 项目名：ShadowImageView<br>
 git地址：https://github.com/yingLanNull/ShadowImageView<br>
@@ -24,12 +24,12 @@ git地址：https://github.com/yingLanNull/ShadowImageView<br>
 项目名：PhotoView<br>
 git地址：https://github.com/bm-x/PhotoView<br>
 预览:<br>
-<img src="https://github.com/bm-x/PhotoView/raw/master/demo1.gif" width="30%"/><br>
+<img src="https://github.com/bm-x/PhotoView/raw/master/demo1.gif" width="25%"/><br>
 
 项目名：FrescoImageViewer<br>
 git地址：https://github.com/stfalcon-studio/FrescoImageViewer<br>
 预览:<br>
-<img src="https://github.com/stfalcon-studio/FrescoImageViewer/raw/master/images/fresco_image_viewer_demo.gif" width="30%"/><br>
+<img src="https://github.com/stfalcon-studio/FrescoImageViewer/raw/master/images/fresco_image_viewer_demo.gif" width="25%"/><br>
 
 项目名：Zoomy<br>
 git地址：https://github.com/imablanco/Zoomy<br>
@@ -39,7 +39,7 @@ git地址：https://github.com/imablanco/Zoomy<br>
 项目名：TransferImage<br>
 git地址：https://github.com/Hitomis/TransferImage<br>
 预览:<br>
-<img src="https://github.com/Hitomis/TransferImage/raw/master/preview/transfer_2.gif" width="30%"/><br>
+<img src="https://github.com/Hitomis/TransferImage/raw/master/preview/transfer_2.gif" width="25%"/><br>
 
 
 项目名：Roll3DImageView<br>
@@ -55,12 +55,12 @@ git地址：https://github.com/subinkrishna/CircularImageView<br>
 项目名：ImageZoom<br>
 git地址：https://github.com/okaybroda/ImageZoom<br>
 预览:<br>
-<img src="https://github.com/okaybroda/ImageZoom/raw/master/preview.gif?raw=true" width="30%"/><br>
+<img src="https://github.com/okaybroda/ImageZoom/raw/master/preview.gif?raw=true" width="25%"/><br>
 
 项目名：DashboardView<br>
 git地址：https://github.com/SuperKung/DashboardView<br>
 预览:<br>
-<img src="https://github.com/SuperKung/DashboardView/raw/master/Dashboard.gif" width="30%"/><br>
+<img src="https://github.com/SuperKung/DashboardView/raw/master/Dashboard.gif" width="25%"/><br>
 
 项目名：AndroidScrollingImageView<br>
 git地址：https://github.com/Q42/AndroidScrollingImageView<br>
