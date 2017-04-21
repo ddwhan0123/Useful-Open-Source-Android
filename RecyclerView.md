@@ -640,4 +640,4 @@ git地址：https://github.com/vivchar/RendererRecyclerViewAdapter<br>
 项目名：SlimAdapter<br>
 git地址：https://github.com/MEiDIK/SlimAdapter<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/MEiDIK/SlimAdapter/master/SlimAdapter.jpg" width="30%"/><br>
+<img src="https://raw.githubusercontent.com/MEiDIK/SlimAdapter/master/SlimAdapter.jpg" width="40%"/><br>
