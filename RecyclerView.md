@@ -636,3 +636,8 @@ git地址：https://github.com/evant/binding-collection-adapter<br>
 git地址：https://github.com/vivchar/RendererRecyclerViewAdapter<br>
 预览:<br>
 <img src="https://github.com/vivchar/RendererRecyclerViewAdapter/raw/master/example1.gif" width="30%"/><br>
+
+项目名：SlimAdapter<br>
+git地址：https://github.com/MEiDIK/SlimAdapter<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/MEiDIK/SlimAdapter/master/SlimAdapter.jpg" width="30%"/><br>
