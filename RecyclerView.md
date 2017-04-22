@@ -129,6 +129,12 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
+
+项目名：GalleryLayoutManager<br>
+git地址：https://github.com/BCsl/GalleryLayoutManager<br>
+预览:<br>
+<img src="https://github.com/BCsl/GalleryLayoutManager/raw/master/screenshots/ViewPager.gif" width="30%"/><br>
+
 项目名：StickyItemDecoration<br>
 git地址：https://github.com/oubowu/StickyItemDecoration<br>
 预览:<br>
