@@ -19,11 +19,11 @@ git地址：https://github.com/Instagram/ig-json-parser<br>
 项目名：fastjson<br>
 git地址：https://github.com/alibaba/fastjson<br>
 预览:<br>
-<img src="https://github.com/alibaba/fastjson/raw/master/logo.jpg" width="30%"/><br><br>
+<img src="https://github.com/alibaba/fastjson/raw/master/logo.jpg" width="32%"/><br><br>
 解释： A fast JSON parser/generator for Java https://github.com/alibaba/fastjson/wiki<br>
 
 项目名：LoganSquare<br>
 git地址：https://github.com/bluelinelabs/LoganSquare<br>
 预览:<br>
-<img src="https://github.com/bluelinelabs/LoganSquare/raw/development/docs/benchmarks.jpg" width="30%"/><br><br>
+<img src="https://github.com/bluelinelabs/LoganSquare/raw/development/docs/benchmarks.jpg" width="52%"/><br><br>
 解释： Screaming fast JSON parsing and serialization library for Android<br>
