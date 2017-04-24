@@ -19,4 +19,4 @@ git地址：https://github.com/aritraroy/PatternLockView<br>
 项目名：PatternLock<br>
 git地址：https://github.com/DreaminginCodeZH/PatternLock<br>
 预览:<br>
-<img src="https://github.com/DreaminginCodeZH/PatternLock/raw/master/screenshot/sample-1.png" width="30%"/>
+<img src="https://github.com/DreaminginCodeZH/PatternLock/raw/master/screenshot/sample-1.png" width="25%"/>
