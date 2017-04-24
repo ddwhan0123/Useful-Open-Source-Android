@@ -16,7 +16,7 @@ git地址：https://github.com/elvishew/xLog<br>
 项目名：AndroidLog<br>
 git地址：https://github.com/twiceyuan/AndroidLog<br>
 预览:<br>
-<img src="https://github.com/twiceyuan/AndroidLog/raw/master/art/json.png" width="30%"/><br><br>
+<img src="https://github.com/twiceyuan/AndroidLog/raw/master/art/json.png" width="45%"/><br><br>
 解释：一个类实现更实用的 Android Log 工具 —— 1 个类，100 个方法、9 KiB<br>
 
 项目名：logger<br>
