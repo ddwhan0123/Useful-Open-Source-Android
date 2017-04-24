@@ -148,7 +148,8 @@
 ## Json&Xml相关:<br>
 ## [点击跳转 Json&Xml.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Json&Xml.md)
 
-
+## LockView相关:<br>
+## [点击跳转 LockView&Xml.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/LockView.md)
 
 
 
@@ -160,20 +161,12 @@
 
 
 
-项目名：CoreLock<br>
-git地址：https://github.com/CharlinFeng/CoreLock<br>
-预览:<br>
-<img src="https://github.com/CharlinFeng/CoreLock/raw/master/CoreLock/core.gif" width="23%"/>
+
 
 项目名：PolygonDrawingUtil<br>
 git地址：https://github.com/stkent/PolygonDrawingUtil<br>
 预览:<br>
 <img src="https://github.com/stkent/PolygonDrawingUtil/raw/master/assets/demo.gif" width="24%"/>
-
-项目名：PasscodeView<br>
-git地址：https://github.com/kevalpatel2106/PasscodeView<br>
-预览:<br>
-<img src="https://github.com/kevalpatel2106/PasscodeView/raw/master/resource/pin_success.gif" width="24%"/>
 
 项目名：OneDrawable<br>
 git地址：https://github.com/maoruibin/OneDrawable<br>
@@ -215,20 +208,14 @@ git地址：https://github.com/glomadrian/Grav<br>
 预览:<br>
 <img src="https://github.com/glomadrian/Grav/raw/master/art/wave.gif" width="23%"/>
 
-项目名：PatternLockView<br>
-git地址：https://github.com/aritraroy/PatternLockView<br>
-预览:<br>
-<img src="https://github.com/aritraroy/PatternLockView/raw/master/screenshots/pattern_lock_view_2_small.gif?raw=true" width="30%"/>
+
 
 项目名：Isometric<br>
 git地址：https://github.com/FabianTerhorst/Isometric<br>
 预览:<br>
 <img src="https://github.com/FabianTerhorst/Isometric/raw/master/lib/screenshots/io.fabianterhorst.isometric.screenshot.IsometricViewTest_doScreenshotTwo.png?raw=true" width="30%"/>
 
-项目名：PatternLock<br>
-git地址：https://github.com/DreaminginCodeZH/PatternLock<br>
-预览:<br>
-<img src="https://github.com/DreaminginCodeZH/PatternLock/raw/master/screenshot/sample_small.png" width="30%"/>
+
 
 项目名：DrawRouteMaps<br>
 git地址：https://github.com/ar-android/DrawRouteMaps<br>
@@ -279,7 +266,7 @@ git地址：https://github.com/fingdo/stateLayout<br>
 项目名：ListItemView<br>
 git地址：https://github.com/lurbas/ListItemView<br>
 预览:<br>
-<img src="https://github.com/lurbas/ListItemView/raw/master/readme/cover.png" width="30%"/>
+<img src="https://github.com/lurbas/ListItemView/raw/master/readme/cover.png" width="40%"/>
 
 项目名：FancyShowCaseView<br>
 git地址：https://github.com/faruktoptas/FancyShowCaseView<br>
@@ -619,19 +606,19 @@ git地址：https://github.com/Yalantis/StarWars.Android<br>
 项目名：AnimatorDurationTile<br>
 git地址：https://github.com/nickbutcher/AnimatorDurationTile<br>
 预览:<br>
-<img src="https://github.com/nickbutcher/AnimatorDurationTile/raw/master/screenshots/duration_scale_toggle_demo.gif" width="30%"/>
+<img src="https://github.com/nickbutcher/AnimatorDurationTile/raw/master/screenshots/duration_scale_toggle_demo.gif" width="25%"/>
 
 项目名：WowSplash<br>
 git地址：https://github.com/githubwing/WowSplash<br>
 预览:<br>
-<img src="https://github.com/githubwing/WowSplash/raw/master/img/img.gif" width="30%"/>
+<img src="https://github.com/githubwing/WowSplash/raw/master/img/img.gif" width="24%"/>
 
 
 
 项目名：stencil<br>
 git地址：https://github.com/thoughtbot/stencil<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/41d6dc7159f7a925efee4007a9b4b2e69da8b1c2/68747470733a2f2f696d616765732e74686f75676874626f742e636f6d2f626c6f672d76656c6c756d2d696d6167652d75706c6f6164732f6a5a707677715552386d757968444954355353755f7374656e63696c2e676966" width="30%"/>
+<img src="https://camo.githubusercontent.com/41d6dc7159f7a925efee4007a9b4b2e69da8b1c2/68747470733a2f2f696d616765732e74686f75676874626f742e636f6d2f626c6f672d76656c6c756d2d696d6167652d75706c6f6164732f6a5a707677715552386d757968444954355353755f7374656e63696c2e676966" width="24%"/>
 
 项目名：DragVideo<br>
 git地址：https://github.com/hejunlin2013/DragVideo<br>
@@ -644,10 +631,10 @@ git地址：https://github.com/FolioReader/FolioReader-Android<br>
 <img src="https://cloud.githubusercontent.com/assets/1277242/19012915/0661c7b2-87e0-11e6-81d6-8c71051e1074.gif" width="30%"/>
 
 
-项目名：Android-GooView<br>
-git地址：https://github.com/smartbetter/Android-GooView<br>
+项目名：AndroidGooView<br>
+git地址：https://github.com/smartbetter/AndroidGooView<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/smartbetter/Android-GooView/master/ScreenShot/screenshot.gif" width="30%"/>
+<img src="https://raw.githubusercontent.com/smartbetter/AndroidGooView/master/website/static/screenshot.gif" width="30%"/>
 
 
 
@@ -667,7 +654,7 @@ git地址：https://github.com/cokuscz/audioWaveCanvas<br>
 项目名：MagicLine<br>
 git地址：https://github.com/zhangyuChen1991/MagicLine<br>
 预览:<br>
-<img src="https://github.com/zhangyuChen1991/some_sources/raw/master/magicline/draw1-1.gif" width="30%"/>
+<img src="https://github.com/zhangyuChen1991/some_sources/raw/master/magicline/draw1-1.gif" width="24%"/>
 
 项目名：WaveView<br>
 git地址：https://github.com/1139618418/WaveView<br>
@@ -724,7 +711,7 @@ git地址：https://github.com/rantianhua/AssembleEssay<br>
 项目名：Thermometer<br>
 git地址：https://github.com/kofigyan/Thermometer<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/kofigyan/Thermometer/master/screenshots/therm_anim.gif" width="30%"/>
+<img src="https://raw.githubusercontent.com/kofigyan/Thermometer/master/screenshots/therm_anim.gif" width="24%"/>
 
 
 项目名：SpannableBar<br>
@@ -853,14 +840,14 @@ git地址：https://github.com/gavinliu/Android-ScaleLayout<br>
 项目名：Multi-Selection<br>
 git地址：https://github.com/Yalantis/Multi-Selection<br>
 预览:<br>
-<img src="https://github.com/Yalantis/Multi-Selection/raw/develop/imgs/dribble.gif" width="30%"/>
+<img src="https://github.com/Yalantis/Multi-Selection/raw/develop/imgs/dribble.gif" width="40%"/>
 
 
 
 项目名：RaiflatButton<br>
 git地址：https://github.com/rubensousa/RaiflatButton<br>
 预览:<br>
-<img src="https://github.com/rubensousa/RaiflatButton/raw/master/screens/demo.gif" width="30%"/>
+<img src="https://github.com/rubensousa/RaiflatButton/raw/master/screens/demo.gif" width="25%"/>
 
 项目名：roundbutton<br>
 git地址：https://github.com/czy1121/roundbutton<br>
@@ -918,7 +905,7 @@ git地址：https://github.com/martijn00/DiagonalLayoutXamarin<br>
 项目名：Sending-Animation-Example<br>
 git地址：https://github.com/Jaouan/Sending-Animation-Example<br>
 预览:<br>
-<img src="https://github.com/Jaouan/Sending-Animation-Example/raw/master/art/demo.gif" width="30%"/>
+<img src="https://github.com/Jaouan/Sending-Animation-Example/raw/master/art/demo.gif" width="24%"/>
 
 
 
@@ -930,7 +917,7 @@ git地址：https://github.com/gitsindonesia/baso<br>
 项目名：FanLayoutManager<br>
 git地址：https://github.com/Cleveroad/FanLayoutManager<br>
 预览:<br>
-<img src="https://github.com/Cleveroad/FanLayoutManager/raw/develop/images/demo_.gif" width="30%"/>
+<img src="https://github.com/Cleveroad/FanLayoutManager/raw/develop/images/demo_.gif" width="39%"/>
 
 项目名：appbarlayout-spring-behavior<br>
 git地址：https://github.com/ToDou/appbarlayout-spring-behavior<br>
@@ -983,7 +970,7 @@ git地址：https://github.com/XuDaojie/MultiStateView<br>
 项目名：Better-Link-Movement-Method<br>
 git地址：https://github.com/Saketme/Better-Link-Movement-Method<br>
 预览:<br>
-<img src="https://github.com/Saketme/Better-Link-Movement-Method/raw/master/EXAMPLE.gif" width="30%"/>
+<img src="https://github.com/Saketme/Better-Link-Movement-Method/raw/master/EXAMPLE.gif" width="40%"/>
 
 项目名：Diagonalify<br>
 git地址：https://github.com/developer-shivam/Diagonalify<br>
@@ -1097,7 +1084,7 @@ git地址：https://github.com/loopeer/ScrollTableView<br>
 项目名：ATableView<br>
 git地址：https://github.com/dmacosta/ATableView<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/5cbc47c9ac3db34cc41451bbf4a430c59e4c83b4/687474703a2f2f6f6934352e74696e797069632e636f6d2f7673686e32782e6a7067" width="40%"/><br>
+<img src="https://camo.githubusercontent.com/5cbc47c9ac3db34cc41451bbf4a430c59e4c83b4/687474703a2f2f6f6934352e74696e797069632e636f6d2f7673686e32782e6a7067" width="50%"/><br>
 
 
 
@@ -1120,7 +1107,7 @@ git地址：https://github.com/saiwu-bigkoo/Android-PickerView<br>
 项目名：MaterialFilePicker<br>
 git地址：https://github.com/nbsp-team/MaterialFilePicker<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/89e8e63f14922125ab7a6c5734065e24a5413efa/68747470733a2f2f692e696d6775722e636f6d2f6d6a787330356e2e706e67" width="30%"/><br>
+<img src="https://camo.githubusercontent.com/89e8e63f14922125ab7a6c5734065e24a5413efa/68747470733a2f2f692e696d6775722e636f6d2f6d6a787330356e2e706e67" width="40%"/><br>
 描述：Material file picker for Android<br>
 
 项目名：Particle<br>
@@ -1156,7 +1143,7 @@ git地址:https://github.com/7heaven/UILibrary<br>
 项目名：TileView<br>
 git地址:https://github.com/moagrius/TileView<br>
 预览:<br>
-<img src="https://cloud.githubusercontent.com/assets/701344/17538476/6933099e-5e6b-11e6-9e18-45e924c19c91.gif" width="30%"/><br>
+<img src="https://cloud.githubusercontent.com/assets/701344/17538476/6933099e-5e6b-11e6-9e18-45e924c19c91.gif" width="40%"/><br>
 
 项目名：MaterialPreference<br>
 git地址:https://github.com/RikkaW/MaterialPreference<br>
@@ -1206,7 +1193,7 @@ git地址:https://github.com/zuiwuyuan/WeChatPswKeyboard<br>
 项目名：AndroidSlidingUpPanel<br>
 git地址:https://github.com/umano/AndroidSlidingUpPanel<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/834cfd81ce764457db69dc023e1bd0adf0a8d00d/68747470733a2f2f7261772e6769746875622e636f6d2f756d616e6f2f416e64726f6964536c6964696e67557050616e656c44656d6f2f6d61737465722f736c6964696e67757070616e656c2e706e67" width="40%"/><br>
+<img src="https://camo.githubusercontent.com/834cfd81ce764457db69dc023e1bd0adf0a8d00d/68747470733a2f2f7261772e6769746875622e636f6d2f756d616e6f2f416e64726f6964536c6964696e67557050616e656c44656d6f2f6d61737465722f736c6964696e67757070616e656c2e706e67" width="50%"/><br>
 
 
 
@@ -1296,7 +1283,7 @@ git地址:https://github.com/w446108264/ScrollableLayout<br>
 项目名：android_scratchoff<br>
 git地址:https://github.com/jackpocket/android_scratchoff<br>
 预览:<br>
-<img src="https://github.com/jackpocket/android_scratchoff/raw/master/scratchoff.gif" width="30%"/><br>
+<img src="https://github.com/jackpocket/android_scratchoff/raw/master/scratchoff.gif" width="25%"/><br>
 
 
 
@@ -1309,11 +1296,6 @@ git地址:https://github.com/syedowaisali/crystal-preloaders<br>
 git地址:https://github.com/FabianTerhorst/FastLayout<br>
 解釋：<br>
 Generates a Java Object for your xml layout to reduce inflate time to zero<br>
-
-项目名：JIkeGallery<br>
-git地址:https://github.com/JeasonWong/JIkeGallery<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/1706924e07392c8d2c326ff1eb479cd5311bd238/687474703a2f2f69342e7069696d672e636f6d2f313037302f613433343434313832663637376231642e676966" width="40%"/><br>
 
 
 
@@ -1345,7 +1327,7 @@ git地址:https://github.com/oxoooo/pull-back-layout<br>
 项目名：Flowing-Gradient<br>
 git地址:https://github.com/dynamitechetan/Flowing-Gradient<br>
 预览:<br>
-<img src="https://github.com/dynamitechetan/Flowing-Gradient/raw/master/screenshots/Screenshot_20160720-215934.png" width="30%"/><br>
+<img src="https://github.com/dynamitechetan/Flowing-Gradient/raw/master/screenshots/Screenshot_20160720-215934.png" width="40%"/><br>
 
 
 项目名：AndroidFillableLoaders<br>
@@ -1481,7 +1463,7 @@ git地址：https://github.com/binIoter/GuideView<br>
 项目名：highlightjs-android<br>
 git地址：https://github.com/PDDStudio/highlightjs-android<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/PDDStudio/highlightjs-android/master/gfx/demo.png" width="40%"/><br>
+<img src="https://raw.githubusercontent.com/PDDStudio/highlightjs-android/master/gfx/demo.png" width="60%"/><br>
 
 项目名：MetaballLoading<br>
 git地址：https://github.com/dodola/MetaballLoading<br>
@@ -1501,7 +1483,7 @@ git地址：https://github.com/lawloretienne/DiscreteSlider<br>
 项目名：Scrollable<br>
 git地址：https://github.com/noties/Scrollable<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/noties/Scrollable/master/sample.gif" width="30%"/><br>
+<img src="https://github.com/noties/Scrollable/raw/master/art/scrollable_custom_overscroll.gif" width="30%"/><br>
 
 
 
@@ -1534,7 +1516,7 @@ git地址：https://github.com/krishnarb3/Popview-Android<br>
 项目名：android-about-page<br>
 git地址：https://github.com/medyo/android-about-page<br>
 预览:<br>
-<img src="https://github.com/medyo/android-about-page/raw/master/resources/cover.png" width="30%"/><br>
+<img src="https://github.com/medyo/android-about-page/raw/master/resources/cover.png" width="40%"/><br>
 
 
 项目名：touchdemo<br>
@@ -1578,7 +1560,7 @@ git地址：https://github.com/florent37/ExpandingPager<br>
 项目名：Revealator<br>
 git地址：https://github.com/Jaouan/Revealator<br>
 预览:<br>
-<img src="https://github.com/Jaouan/Revealator/raw/master/art/demo3.gif" width="30%"/><br>
+<img src="https://github.com/Jaouan/Revealator/raw/master/art/demo3.gif" width="26%"/><br>
 
 
 项目名：Highlight<br>
@@ -1611,7 +1593,7 @@ git地址：https://github.com/mukeshsolanki/android-otpview-pinview<br>
 项目名：GradientLayout<br>
 git地址：https://github.com/csdodd/GradientLayout<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/csdodd/GradientLayout/master/demo.gif" width="30%"/><br>
+<img src="https://raw.githubusercontent.com/csdodd/GradientLayout/master/demo.gif" width="26%"/><br>
 
 项目名：AndroidPdfViewer<br>
 git地址：https://github.com/barteksc/AndroidPdfViewer<br>
