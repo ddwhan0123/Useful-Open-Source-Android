@@ -2,12 +2,12 @@
 
 
 
-项目名：Meepo<br>
-git地址:https://github.com/nekocode/Meepo<br>
+项目名：ActivityRouter<br>
+git地址:https://github.com/mzule/ActivityRouter<br>
 预览:<br>
-<img src="https://github.com/nekocode/Meepo/raw/master/art/Banner.jpg" width="30%"/><br>
+<img src="https://raw.githubusercontent.com/mzule/ActivityRouter/master/gif/router.gif" width="25%"/><br>
 解释:<br>
-A retrofit-like router generator for Android<br>
+Router activities and methods with url for android<br>
 
 项目名：routerSDK<br>
 git地址:https://github.com/Jomes/routerSDK<br>
