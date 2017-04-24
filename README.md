@@ -1655,7 +1655,7 @@ git地址：https://github.com/amulyakhare/TextDrawable<br>
 项目名：fontbinding<br>
 git地址：https://github.com/lisawray/fontbinding<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/lisawray/fontbinding/master/screenshot_land.png" width="30%"/><br>
+<img src="https://raw.githubusercontent.com/lisawray/fontbinding/master/screenshot_land.png" width="40%"/><br>
 
 项目名：nice-spinner<br>
 git地址：https://github.com/arcadefire/nice-spinner<br>
@@ -1681,7 +1681,7 @@ git地址：https://github.com/zipme/RQShineLabel<br>
 项目名：hintcase<br>
 git地址：https://github.com/Nescafemix/hintcase<br>
 预览:<br>
-<img src="https://github.com/Nescafemix/hintcase/raw/master/assets/welcome_demo.gif" width="30%"/><br>
+<img src="https://github.com/Nescafemix/hintcase/raw/master/assets/welcome_demo.gif" width="26%"/><br>
 
 项目名：SineView<br>
 git地址：https://github.com/guiguegon/SineView<br>
@@ -1695,10 +1695,7 @@ git地址：https://github.com/hitherejoe/animate<br>
 
 
 
-项目名：PinLockView<br>
-git地址：https://github.com/aritraroy/PinLockView<br>
-预览:<br>
-<img src="https://github.com/aritraroy/PinLockView/raw/master/screens/promo.png" width="30%"/><br>
+
 
 项目名：SlideCloseActivity<br>
 git地址：https://github.com/haidaodashushu/SlideCloseActivity<br>
@@ -1712,12 +1709,10 @@ git地址：https://github.com/krimin-killr21/MaterialScrollBar<br>
 
 
 
-
-
 项目名：SyntaxView<br>
 git地址：https://github.com/fiskurgit/SyntaxView<br>
 预览:<br>
-<img src="https://github.com/fiskurgit/SyntaxView/raw/master/screenshot.png" width="30%"/><br>
+<img src="https://github.com/fiskurgit/SyntaxView/raw/master/screenshot.png" width="45%"/><br>
 
 
 
@@ -1740,7 +1735,7 @@ git地址：https://github.com/voghDev/PdfViewPager<br>
 项目名：ChipCloud<br>
 git地址：https://github.com/fiskurgit/ChipCloud<br>
 预览:<br>
-<img src="https://github.com/fiskurgit/ChipCloud/raw/master/images/trainer_sizes.png" width="30%"/><br>
+<img src="https://github.com/fiskurgit/ChipCloud/raw/master/images/trainer_sizes.png" width="40%"/><br>
 
 
 项目名：AnimatedSvgView<br>
@@ -1781,20 +1776,11 @@ git地址：https://github.com/codevscolor/MaterialPreference<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/dcbe0b4b613468eb8c10af628cf3d904d7f48b4f/68747470733a2f2f7333332e706f7374696d672e6f72672f7668717476666f6a332f4b49544b41542e676966" width="30%"/><br>
 
-项目名：BlurView<br>
-git地址：https://github.com/Dimezis/BlurView<br>
-预览:<br>
-<img src="https://github.com/Dimezis/BlurView/raw/master/BlurScreenshot.png" width="30%"/><br>
 
 项目名：HorizontalWheelView<br>
 git地址：https://github.com/shchurov/HorizontalWheelView<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/ee6124cc259de10d4a4f6bfbc06ff3c06728803b/687474703a2f2f692e67697068792e636f6d2f764831715378637742424f69512e676966" width="30%"/><br>
-
-项目名：android-image-slide-panel<br>
-git地址：https://github.com/luinnx/android-image-slide-panel<br>
-预览:<br>
-<img src="https://github.com/luinnx/android-image-slide-panel/raw/master/screen01.gif" width="30%"/><br>
 
 项目名：MarkdownView<br>
 git地址：https://github.com/falnatsheh/MarkdownView<br>
@@ -1815,11 +1801,6 @@ git地址：https://github.com/sfsheng0322/MarqueeView<br>
 git地址：https://github.com/JakeWharton/DrawerBehavior<br>
 预览:<br>
 太牛逼了没有图<br>
-
-
-
-
-
 
 
 
@@ -1852,15 +1833,6 @@ git地址：https://github.com/fcannizzaro/material-stepper<br>
 预览:<br>
 <img src="https://github.com/FrancisCan/MaterialStepper/raw/master/screenshot/text.png?raw=true" width="30%"/><br>
 
-项目名：android-autofittextview<br>
-git地址：https://github.com/grantland/android-autofittextview<br>
-预览:<br>
-<img src="https://github.com/grantland/android-autofittextview/raw/master/website/static/autofittextview.gif?raw=true" width="30%"/><br>
-
-项目名：ActivityRouter<br>
-git地址：https://github.com/mzule/ActivityRouter<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/mzule/ActivityRouter/master/gif/router.gif" width="30%"/><br>
 
 项目名：3dTagCloudAndroid<br>
 git地址：https://github.com/misakuo/3dTagCloudAndroid<br>
@@ -1892,7 +1864,7 @@ git地址：https://github.com/MasayukiSuda/FPSAnimator<br>
 项目名：android-transition<br>
 git地址：https://github.com/kaichunlin/android-transition<br>
 预览:<br>
-<img src="https://github.com/kaichunlin/android-transition/raw/master/github/animation_transition.gif" width="30%"/><br>
+<img src="https://github.com/kaichunlin/android-transition/raw/master/github/animation_transition.gif" width="25%"/><br>
 
 项目名：Confetti<br>
 git地址：https://github.com/hqwang/Confetti<br>
