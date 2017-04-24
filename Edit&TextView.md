@@ -275,8 +275,9 @@ git地址：https://github.com/Softwee/codeview-android<br>
 项目名： android-autofittextview<br>
 git地址：https://github.com/grantland/android-autofittextview<br>
 解释：<br>
-TextView to display simple HTML content<br>
-
+A TextView that automatically resizes text to fit perfectly within its bounds<br>
+预览 ：<br>
+<img src="https://github.com/grantland/android-autofittextview/raw/master/website/static/autofittextview.gif?raw=true" width="30%"/><br>
 
 
 项目名： SimplifySpan<br>
