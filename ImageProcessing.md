@@ -379,7 +379,10 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
-
+项目名：BlurView<br>
+git地址：https://github.com/Dimezis/BlurView<br>
+预览:<br>
+<img src="https://github.com/Dimezis/BlurView/raw/master/BlurScreenshot.png" width="30%"/><br>
 
 项目名：CompressHelper<br>
 git地址：https://github.com/nanchen2251/CompressHelper<br>
