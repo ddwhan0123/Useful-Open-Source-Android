@@ -163,17 +163,17 @@
 项目名：CoreLock<br>
 git地址：https://github.com/CharlinFeng/CoreLock<br>
 预览:<br>
-<img src="https://github.com/CharlinFeng/CoreLock/raw/master/CoreLock/core.gif" width="30%"/>
+<img src="https://github.com/CharlinFeng/CoreLock/raw/master/CoreLock/core.gif" width="23%"/>
 
 项目名：PolygonDrawingUtil<br>
 git地址：https://github.com/stkent/PolygonDrawingUtil<br>
 预览:<br>
-<img src="https://github.com/stkent/PolygonDrawingUtil/raw/master/assets/demo.gif" width="30%"/>
+<img src="https://github.com/stkent/PolygonDrawingUtil/raw/master/assets/demo.gif" width="24%"/>
 
 项目名：PasscodeView<br>
 git地址：https://github.com/kevalpatel2106/PasscodeView<br>
 预览:<br>
-<img src="https://github.com/kevalpatel2106/PasscodeView/raw/master/resource/pin_success.gif" width="30%"/>
+<img src="https://github.com/kevalpatel2106/PasscodeView/raw/master/resource/pin_success.gif" width="24%"/>
 
 项目名：OneDrawable<br>
 git地址：https://github.com/maoruibin/OneDrawable<br>
@@ -183,17 +183,17 @@ git地址：https://github.com/maoruibin/OneDrawable<br>
 项目名：HoldingButton<br>
 git地址：https://github.com/dewarder/HoldingButton<br>
 预览:<br>
-<img src="https://github.com/dewarder/HoldingButton/raw/master/_arts/example.gif" width="30%"/>
+<img src="https://github.com/dewarder/HoldingButton/raw/master/_arts/example.gif" width="23%"/>
 
 项目名：ShootRefreshView<br>
 git地址：https://github.com/dinuscxj/ShootRefreshView<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/dinuscxj/ShootRefreshView/master/Preview/ShootRefreshView.gif" width="30%"/>
+<img src="https://raw.githubusercontent.com/dinuscxj/ShootRefreshView/master/Preview/ShootRefreshView.gif" width="23%"/>
 
 项目名：AdaptiveTableLayout<br>
 git地址：https://github.com/Cleveroad/AdaptiveTableLayout<br>
 预览:<br>
-<img src="https://github.com/Cleveroad/AdaptiveTableLayout/raw/master/images/demo.gif" width="40%"/>
+<img src="https://github.com/Cleveroad/AdaptiveTableLayout/raw/master/images/demo.gif" width="50%"/>
 
 项目名：AwesomeLayoutManager<br>
 git地址：https://github.com/forceLain/AwesomeLayoutManager<br>
@@ -213,7 +213,7 @@ git地址：https://github.com/ngocchung/NestedScrollView<br>
 项目名：Grav<br>
 git地址：https://github.com/glomadrian/Grav<br>
 预览:<br>
-<img src="https://github.com/glomadrian/Grav/raw/master/art/wave.gif" width="30%"/>
+<img src="https://github.com/glomadrian/Grav/raw/master/art/wave.gif" width="23%"/>
 
 项目名：PatternLockView<br>
 git地址：https://github.com/aritraroy/PatternLockView<br>
