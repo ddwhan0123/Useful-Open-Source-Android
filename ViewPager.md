@@ -216,6 +216,12 @@ git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
 
 
 
+
+项目名：android-image-slide-panel<br>
+git地址：https://github.com/luinnx/android-image-slide-panel<br>
+预览:<br>
+<img src="https://github.com/luinnx/android-image-slide-panel/raw/master/screen01.gif" width="30%"/><br>
+
 项目名：Android-InfiniteCards<br>
 git地址：https://github.com/BakerJQ/Android-InfiniteCards<br>
 预览:<br>
