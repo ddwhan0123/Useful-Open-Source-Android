@@ -16,3 +16,8 @@ git地址：https://github.com/aritraroy/PatternLockView<br>
 git地址：https://github.com/DreaminginCodeZH/PatternLock<br>
 预览:<br>
 <img src="https://github.com/DreaminginCodeZH/PatternLock/raw/master/screenshot/sample-1.png" width="25%"/>
+
+项目名：PinLockView<br>
+git地址：https://github.com/aritraroy/PinLockView<br>
+预览:<br>
+<img src="https://github.com/aritraroy/PinLockView/raw/master/screens/promo.png" width="44%"/>
