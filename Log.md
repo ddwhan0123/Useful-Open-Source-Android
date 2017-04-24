@@ -10,7 +10,7 @@ git地址：https://github.com/JakeWharton/timber<br>
 项目名：xLog<br>
 git地址：https://github.com/elvishew/xLog<br>
 预览:<br>
-<img src="https://github.com/elvishew/XLog/raw/master/images/classic_log.png" width="30%"/><br><br>
+<img src="https://github.com/elvishew/XLog/raw/master/images/classic_log.png" width="40%"/><br><br>
 解释：Android logger, simple and pretty, powerful and flexible, all you need is here<br>
 
 项目名：AndroidLog<br>
@@ -22,7 +22,7 @@ git地址：https://github.com/twiceyuan/AndroidLog<br>
 项目名：logger<br>
 git地址：https://github.com/orhanobut/logger<br>
 预览:<br>
-<img src="https://github.com/orhanobut/logger/raw/master/images/description.png" width="30%"/><br><br>
+<img src="https://github.com/orhanobut/logger/raw/master/images/description.png" width="40%"/><br><br>
 描述：Simple, pretty and powerful logger for android<br>
 
 
