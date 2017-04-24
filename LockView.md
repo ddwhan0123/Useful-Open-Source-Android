@@ -1,10 +1,6 @@
 ## LockView
 
 
-项目名：CoreLock<br>
-git地址：https://github.com/CharlinFeng/CoreLock<br>
-预览:<br>
-<img src="https://github.com/CharlinFeng/CoreLock/raw/master/CoreLock/core.gif" width="23%"/>
 
 项目名：PasscodeView<br>
 git地址：https://github.com/kevalpatel2106/PasscodeView<br>
