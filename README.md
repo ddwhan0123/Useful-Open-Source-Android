@@ -161,7 +161,10 @@
 
 
 
-
+项目名：BouncyLayout<br>
+git地址：https://github.com/roberthein/BouncyLayout<br>
+预览:<br>
+<img src="https://github.com/roberthein/BouncyLayout/raw/master/art/gifs/photos.gif" width="24%"/>
 
 项目名：PolygonDrawingUtil<br>
 git地址：https://github.com/stkent/PolygonDrawingUtil<br>
