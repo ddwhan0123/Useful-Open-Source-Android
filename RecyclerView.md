@@ -129,6 +129,10 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
+项目名：android-data-binding-recyclerview<br>
+git地址：https://github.com/radzio/android-data-binding-recyclerview<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/469111/7898771/36df1504-070b-11e5-95d5-d8ca0aaf50dd.gif" width="30%"/><br>
 
 项目名：GalleryLayoutManager<br>
 git地址：https://github.com/BCsl/GalleryLayoutManager<br>
@@ -627,6 +631,13 @@ git地址：https://github.com/EverythingMe/overscroll-decor<br>
 ### Adapter封装<br>
 
 
+
+项目名：NoAdapter<br>
+git地址：https://github.com/tikivn/NoAdapter<br>
+预览:<br>
+<img src="https://github.com/tikivn/NoAdapter/raw/master/demo.gif" width="30%"/><br>
+解释:<br>
+"Favor composition over inheritance" for RecyclerView Adapters <br>
 
 项目名：AdapterDelegates<br>
 git地址：https://github.com/sockeqwe/AdapterDelegates<br>
