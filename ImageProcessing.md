@@ -9,6 +9,11 @@
 
 
 
+项目名：Oblique<br>
+git地址：https://github.com/akshay2211/Oblique<br>
+预览:<br>
+<img src="https://github.com/akshay2211/Oblique/raw/master/media/media_1.gif" width="28%"/><br>
+
 项目名：IdentityImageView<br>
 git地址：https://github.com/385841539/IdentityImageView<br>
 预览:<br>
