@@ -8,7 +8,7 @@
 
 
 
-### 更新时间:2017-5-3<br>
+### 更新时间:2017-5-4<br>
 
 
 
@@ -160,6 +160,11 @@
 
 
 
+
+项目名：WaitView<br>
+git地址：https://github.com/ImKarl/WaitView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/ImKarl/WaitView/master/captures/layout_waitview.png" width="24%"/>
 
 项目名：BouncyLayout<br>
 git地址：https://github.com/roberthein/BouncyLayout<br>
