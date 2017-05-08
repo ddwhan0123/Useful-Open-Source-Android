@@ -4,7 +4,10 @@
 
 
 
-
+项目名：AdaptableBottomNavigation<br>
+git地址：https://github.com/bufferapp/AdaptableBottomNavigation<br>
+预览:<br>
+<img src="https://github.com/bufferapp/AdaptableBottomNavigation/raw/master/art/demo.gif" width="30%" />
 
 项目名：BottomNavigation<br>
 git地址：https://github.com/cachapa/BottomNavigation<br>
