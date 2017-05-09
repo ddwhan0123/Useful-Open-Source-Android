@@ -6,6 +6,12 @@
 
 
 
+
+项目名：AwesomeQRCode<br>
+git地址：https://github.com/SumiMakito/AwesomeQRCode<br>
+预览:<br>
+<img src="https://github.com/SumiMakito/AwesomeQRCode/raw/master/art/awesome-qr-1.png" width="30%" /><br>
+
 项目名：barcodescanner<br>
 git地址：https://github.com/dm77/barcodescanner<br>
 预览:<br>
