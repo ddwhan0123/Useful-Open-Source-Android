@@ -2,6 +2,19 @@
 
 
 
+
+
+
+项目名：RxLoader<br>
+git地址：https://github.com/kmdupr33/RxLoader<br>
+描述：data loading solution for android to load data with no memory leaks, no boiler-plate, and no method count bloat
+<br>
+
+项目名：RxAndroidOrm<br>
+git地址：https://github.com/florent37/RxAndroidOrm<br>
+描述：An reactive simple & fluent Android ORM, how can it be easier ? RxJava2 ready
+<br>
+
 项目名：RxActivityResult<br>
 git地址：https://github.com/nekocode/RxActivityResult<br>
 描述：This is a library that can help you to receive results from startActivityForResult() as an Observable
