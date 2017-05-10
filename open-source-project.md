@@ -2,6 +2,11 @@
 ## 开源app<br>
 
 
+项目名：KingTV<br>
+git地址：https://github.com/jenly1314/KingTV<br>
+预览:<br>
+<img src="https://github.com/jenly1314/KingTV/raw/master/pictures/gif.gif" width="28%" />
+
 项目名：bilibili-android-client<br>
 git地址：https://github.com/HotBitmapGG/bilibili-android-client<br>
 预览:<br>
