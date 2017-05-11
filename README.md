@@ -416,7 +416,7 @@ git地址：https://github.com/kubode/Wiggle<br>
 项目名：SlideUp-Android<br>
 git地址：https://github.com/mancj/SlideUp-Android<br>
 预览:<br>
-<img src="https://github.com/mancj/SlideUp-Android/raw/master/art/art2.gif" width="30%"/>
+<img src="https://github.com/mancj/mancj.github.io/raw/master/other/slideup-art/art1.gif" width="30%"/>
 
 项目名：Badger<br>
 git地址：https://github.com/volders/Badger<br>
@@ -1434,11 +1434,6 @@ git地址：https://github.com/booncol/Pulsator4Droid<br>
 git地址：https://github.com/tajchert/WaitingDots<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/tajchert/WaitingDots/master/images/dotsLoadingAnimation.gif" width="30%"/><br>
-
-项目名：ElemeShoppingView<br>
-git地址：https://github.com/JeasonWong/ElemeShoppingView<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/bcf966b31e9d2cb16ad81341fed16627dc2f30e9/687474703a2f2f69322e7069696d672e636f6d2f313037302f303232353766393331366262646362362e676966" width="30%"/><br>
 
 项目名：MaterialIntroView<br>
 git地址：https://github.com/iammert/MaterialIntroView<br>
