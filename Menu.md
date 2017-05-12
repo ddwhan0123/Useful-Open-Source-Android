@@ -235,6 +235,11 @@ git地址：https://github.com/kyze8439690/ResideLayout<br>
 
 
 
+项目名：collapsingtoolbarlayout-subtitle<br>
+git地址：https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle<br>
+预览:<br>
+<img src="https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle/raw/master/art/demo_collapsingtoolbarlayout-subtitle.gif" width="30%" />
+
 项目名：CookieBar<br>
 git地址：https://github.com/liuguangqiang/CookieBar<br>
 预览:<br>
