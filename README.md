@@ -159,7 +159,10 @@
 
 
 
-
+项目名：SimpleRatingBar<br>
+git地址：https://github.com/ome450901/SimpleRatingBar<br>
+预览:<br>
+<img src="https://github.com/ome450901/SimpleRatingBar/raw/master/images/demo.gif" width="24%"/>
 
 项目名：WaitView<br>
 git地址：https://github.com/ImKarl/WaitView<br>
