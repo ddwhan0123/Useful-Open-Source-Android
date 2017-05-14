@@ -3,12 +3,15 @@
 
 
 
-
+项目名：HiPermission<br>
+git地址：https://github.com/yewei02538/HiPermission<br>
+解释:<br>
+<img src="https://github.com/yewei02538/HiPermission/raw/master/screenshot/screenshot1.gif" width="26%"/><br>
 
 项目名：permissive<br>
 git地址：https://github.com/jksiezni/permissive<br>
 解释:<br>
-<img src="https://github.com/jksiezni/permissive/raw/gh-pages/images/screenshots/ask_in_context.png?raw=true" width="30%"/><br>
+<img src="https://github.com/jksiezni/permissive/raw/gh-pages/images/screenshots/ask_in_context.png?raw=true" width="27%"/><br>
 
 项目名：AndPermission<br>
 git地址：https://github.com/yanzhenjie/AndPermission<br>
