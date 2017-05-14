@@ -10,6 +10,12 @@
 
 
 
+
+项目名：RingProgressBar<br>
+git地址：https://github.com/HotBitmapGG/RingProgressBar<br>
+预览:<br>
+<img src="https://github.com/HotBitmapGG/RingProgressBar/raw/master/art/03.gif" width="28%" />
+
 项目名：LinearTimer<br>
 git地址：https://github.com/krtkush/LinearTimer<br>
 预览:<br>
