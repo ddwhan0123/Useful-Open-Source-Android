@@ -5,6 +5,11 @@
 
 
 
+项目名：EasyCalendar<br>
+git地址：https://github.com/shichaohui/EasyCalendar<br>
+预览:<br>
+<img src="https://github.com/shichaohui/EasyCalendar/raw/master/screeshot/screenshot_checkin_gif.gif" width="27%"/><br>
+
 项目名：android-betterpickers<br>
 git地址：https://github.com/code-troopers/android-betterpickers<br>
 预览:<br>
