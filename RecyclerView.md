@@ -129,6 +129,12 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
+
+项目名：Filterable-Recycler-View<br>
+git地址：https://github.com/Fiks33/Filterable-Recycler-View<br>
+预览:<br>
+<img src="https://github.com/Fiks33/Filterable-Recycler-View/raw/master/screenshot/2.png" width="30%"/><br>
+
 项目名：android-data-binding-recyclerview<br>
 git地址：https://github.com/radzio/android-data-binding-recyclerview<br>
 预览:<br>
