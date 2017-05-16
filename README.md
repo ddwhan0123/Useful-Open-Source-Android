@@ -159,6 +159,11 @@
 
 
 
+项目名：MusicWave<br>
+git地址：https://github.com/akshay2211/MusicWave<br>
+预览:<br>
+<img src="https://github.com/akshay2211/MusicWave/raw/master/media/musicwave_gif.gif" width="24%"/>
+
 项目名：SimpleRatingBar<br>
 git地址：https://github.com/ome450901/SimpleRatingBar<br>
 预览:<br>
