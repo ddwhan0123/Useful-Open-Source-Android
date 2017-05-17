@@ -222,6 +222,12 @@ git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
 
 
 
+
+项目名：android-pile-layout<br>
+git地址：https://github.com/xmuSistone/android-pile-layout<br>
+预览:<br>
+<img src="https://github.com/xmuSistone/android-pile-layout/raw/master/capture/capture2.gif" width="30%"/><br>
+
 项目名：android-image-slide-panel<br>
 git地址：https://github.com/luinnx/android-image-slide-panel<br>
 预览:<br>
