@@ -49,6 +49,11 @@ git地址:https://github.com/Andy671/Dachshund-Tab-Layout<br>
 
 
 
+项目名：OffsetAnimator<br>
+git地址：https://github.com/russelarms/OffsetAnimator<br>
+预览:<br>
+<img src="https://github.com/russelarms/OffsetAnimator/raw/master/preview/sample_video.gif" width="25%"/>
+
 项目名：UltraViewPager<br>
 git地址：https://github.com/alibaba/UltraViewPager<br>
 预览:<br>
