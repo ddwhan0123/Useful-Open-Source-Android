@@ -134,7 +134,10 @@ git地址：https://github.com/Rogero0o/CatLoadingView<br>
 
 
 
-
+项目名：android-slidr<br>
+git地址：https://github.com/florent37/android-slidr<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/florent37/android-slidr/master/medias/slidr2_1.png" width="30%"/>
 
 项目名：ProgressView<br>
 git地址：https://github.com/Diffey/ProgressView<br>
