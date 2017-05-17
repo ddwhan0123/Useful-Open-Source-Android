@@ -5,6 +5,13 @@
 
 
 
+
+项目名：RxAnnotations<br>
+git地址：https://github.com/CityVibes/RxAnnotations<br>
+描述：Generating observables & singles using annotations
+<br>
+
+
 项目名：RxLoader<br>
 git地址：https://github.com/kmdupr33/RxLoader<br>
 描述：data loading solution for android to load data with no memory leaks, no boiler-plate, and no method count bloat
