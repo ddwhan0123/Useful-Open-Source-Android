@@ -9,7 +9,10 @@
 
 
 
-
+项目名：Typewriter<br>
+git地址：https://github.com/Ilya-Gh/Typewriter<br>
+预览:<br>
+<img src="https://github.com/Ilya-Gh/Typewriter/raw/master/animation.gif" width="27%"/><br>
 
 项目名：PullLoadMoreRecyclerView<br>
 git地址：https://github.com/WuXiaolong/PullLoadMoreRecyclerView<br>
