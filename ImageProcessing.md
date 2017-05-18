@@ -12,6 +12,11 @@ git地址：https://github.com/vinc3m1/RoundedImageView<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/d4970a90842c50a708f94b7bd996657c41ab62fb/68747470733a2f2f7261772e6769746875622e636f6d2f6d616b6572616d656e2f526f756e646564496d616765566965772f6d61737465722f73637265656e73686f742d6f76616c2e706e67" width="23%"/><br>
 
+项目名：DismissibleImageView<br>
+git地址：https://github.com/dmallcott/DismissibleImageView<br>
+预览:<br>
+<img src="https://github.com/dmallcott/DismissibleImageView/raw/master/assets/sample.gif" width="23%"/><br>
+
 项目名：Oblique<br>
 git地址：https://github.com/akshay2211/Oblique<br>
 预览:<br>
@@ -20,7 +25,7 @@ git地址：https://github.com/akshay2211/Oblique<br>
 项目名：IdentityImageView<br>
 git地址：https://github.com/385841539/IdentityImageView<br>
 预览:<br>
-<img src="https://github.com/385841539/IdentityImageView/raw/master/app/src/main/res/drawable/biaoshi.gif" width="28%"/><br>
+<img src="https://github.com/385841539/IdentityImageView/raw/master/app/src/main/res/mipmap-xhdpi/biaoshi.gif" width="28%"/><br>
 
 项目名：Matisse<br>
 git地址：https://github.com/zhihu/Matisse<br>
