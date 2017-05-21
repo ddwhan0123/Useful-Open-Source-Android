@@ -163,6 +163,11 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 
 
 
+项目名： SuperTextView<br>
+git地址：https://github.com/chenBingX/SuperTextView<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/1a1353d4e208d871470db2b892b2e3a96dfb7964/687474703a2f2f6f67656d646c7261702e626b742e636c6f7564646e2e636f6d2f537570657254657874566965775f636f766572302e706e67" width="30%"/><br>
+
 项目名： ParticleTextView<br>
 git地址：https://github.com/Yasic/ParticleTextView<br>
 预览:<br>
