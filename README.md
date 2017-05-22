@@ -161,6 +161,12 @@
 
 
 
+
+项目名：InsLoadingAnimation<br>
+git地址：https://github.com/qintong91/InsLoadingAnimation<br>
+预览:<br>
+<img src="https://github.com/qintong91/InsLoadingAnimation/raw/master/screenshots/demo.gif" width="24%"/>
+
 项目名：ScrollingBehaviorAndroid<br>
 git地址：https://github.com/karthikraj-duraisamy/ScrollingBehaviorAndroid<br>
 预览:<br>
