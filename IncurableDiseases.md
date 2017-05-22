@@ -33,6 +33,11 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
+项目名：packer-ng-plugin<br>
+git地址:https://github.com/mcxiaoke/packer-ng-plugin<br>
+解释:<br>
+下一代Android打包工具，100个渠道包只需要10秒钟 https://github.com/mcxiaoke<br>
+
 项目名：AppMethodOrder<br>
 git地址:https://github.com/zjw-swun/AppMethodOrder<br>
 预览:<br>
