@@ -3,6 +3,13 @@
 
 
 
+项目名：json-loader<br>
+git地址：https://github.com/webpack-contrib/json-loader<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/d18f4a7a64244f703efcb322bf298dcb4ca38856/68747470733a2f2f7765627061636b2e6a732e6f72672f6173736574732f69636f6e2d7371756172652d6269672e737667" width="32%"/><br><br>
+解释： json loader module for webpack<br>
+
+
 项目名：ason<br>
 git地址：https://github.com/afollestad/ason<br>
 解释： JSON in Java made easy! https://aidanfollestad.com<br>
