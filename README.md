@@ -8,7 +8,7 @@
 
 
 
-### 更新时间:2017-5-21<br>
+### 更新时间:2017-5-22<br>
 
 
 
@@ -159,6 +159,12 @@
 ## 自定义控件/动画:<br>
 
 
+
+
+项目名：ScrollingBehaviorAndroid<br>
+git地址：https://github.com/karthikraj-duraisamy/ScrollingBehaviorAndroid<br>
+预览:<br>
+<img src="https://github.com/karthikraj-duraisamy/ScrollingBehaviorAndroid/raw/master/graphics/appbarscrolls.gif" width="24%"/>
 
 项目名：MusicWave<br>
 git地址：https://github.com/akshay2211/MusicWave<br>
