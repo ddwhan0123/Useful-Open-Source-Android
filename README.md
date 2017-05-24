@@ -160,7 +160,10 @@
 
 
 
-
+项目名：android-magic-surface-view<br>
+git地址：https://github.com/gplibs/android-magic-surface-view?utm_medium=email&utm_source=gank.io<br>
+预览:<br>
+<img src="https://github.com/gplibs/resources/raw/master/android/magic-surface-view/readme/launch.gif" width="24%"/>
 
 项目名：InsLoadingAnimation<br>
 git地址：https://github.com/qintong91/InsLoadingAnimation<br>
