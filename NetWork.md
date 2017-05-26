@@ -67,6 +67,12 @@ An Android transformation library providing a variety of image transformations f
 
 
 
+项目名：update<br>
+git地址：https://github.com/czy1121/update<br>
+预览:<br>
+<img src="https://github.com/czy1121/update/raw/master/screenshot1.png" width="30%" /><br>
+解释：<br>
+清晰灵活简单易用的应用更新库<br>
 
 项目名：OkLog<br>
 git地址：https://github.com/simonpercic/OkLog<br>
