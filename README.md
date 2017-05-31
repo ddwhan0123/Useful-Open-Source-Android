@@ -8,7 +8,7 @@
 
 
 
-### 更新时间:2017-5-30<br>
+### 更新时间:2017-5-31<br>
 
 
 ##  翻译/资料/教程
@@ -156,6 +156,12 @@
 ## 自定义控件/动画:<br>
 
 
+
+
+项目名：trianglify<br>
+git地址：https://github.com/sdsmdg/trianglify<br>
+预览:<br>
+<img src="https://github.com/sdsmdg/trianglify/raw/develop/resources/gifs/cell_size.gif" width="24%"/>
 
 项目名：android-magic-surface-view<br>
 git地址：https://github.com/gplibs/android-magic-surface-view?utm_medium=email&utm_source=gank.io<br>
