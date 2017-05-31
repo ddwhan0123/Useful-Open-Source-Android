@@ -158,6 +158,11 @@
 
 
 
+项目名：KenBurnsView<br>
+git地址：https://github.com/gotokatsuya/KenBurnsView<br>
+预览:<br>
+<img src="https://github.com/gotokatsuya/KenBurnsView/raw/master/demo.gif" width="24%"/>
+
 项目名：trianglify<br>
 git地址：https://github.com/sdsmdg/trianglify<br>
 预览:<br>
