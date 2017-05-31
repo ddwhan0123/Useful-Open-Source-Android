@@ -4,7 +4,10 @@
 
 
 
-
+项目名：RxActivityResult<br>
+git地址：https://github.com/NateWickstrom/RxActivityResult<br>
+描述：Reactive results from startActivityForResult() in the form of an Observable
+<br>
 
 项目名：RxAnnotations<br>
 git地址：https://github.com/CityVibes/RxAnnotations<br>
