@@ -154,7 +154,10 @@ git地址：https://github.com/baoyongzhang/Treasure<br>
 
 
 
-
+项目名：AndroidBluetoothLibrary<br>
+git地址：https://github.com/douglasjunior/AndroidBluetoothLibrary<br>
+描述： A Library for easy implementation of Serial Bluetooth Classic and Low Energy on Android
+<br>
 
 项目名：BlueDroid<br>
 git地址：https://github.com/tiagohm/BlueDroid<br>
