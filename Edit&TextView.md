@@ -161,7 +161,10 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 
 
 
-
+项目名： RotatingText<br>
+git地址：https://github.com/sdsmdg/RotatingText<br>
+预览:<br>
+<img src="https://github.com/sdsmdg/RotatingText/raw/master/screens/gif_cover.gif" width="30%"/><br>
 
 项目名： SuperTextView<br>
 git地址：https://github.com/chenBingX/SuperTextView<br>
