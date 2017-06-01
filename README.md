@@ -8,7 +8,7 @@
 
 
 
-### 更新时间:2017-5-31<br>
+### 更新时间:2017-6-1<br>
 
 
 ##  翻译/资料/教程
@@ -157,6 +157,10 @@
 
 
 
+项目名：Badge<br>
+git地址：https://github.com/nekocode/Badge<br>
+预览:<br>
+<img src="https://github.com/nekocode/Badge/raw/master/art/preview.png" width="24%"/>
 
 项目名：KenBurnsView<br>
 git地址：https://github.com/gotokatsuya/KenBurnsView<br>
