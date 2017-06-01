@@ -11,7 +11,10 @@
 
 
 
-
+项目名：NiceVieoPlayer<br>
+git地址:https://github.com/xiaoyanger0825/NiceVieoPlayer<br>
+预览:<br>
+<img src="https://github.com/xiaoyanger0825/NiceVieoPlayer/raw/master/images/bb.jpg" width="50%"/><br>
 
 项目名：ParsingPlayer<br>
 git地址:https://github.com/TedaLIEz/ParsingPlayer<br>
