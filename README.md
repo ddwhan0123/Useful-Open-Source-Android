@@ -156,6 +156,11 @@
 
 
 
+项目名：DotsLoaderView<br>
+git地址：https://github.com/steelkiwi/DotsLoaderView<br>
+预览:<br>
+<img src="https://github.com/steelkiwi/DotsLoaderView/raw/master/assets/dots-loader-view.gif" width="28%"/>
+
 项目名：Badge<br>
 git地址：https://github.com/nekocode/Badge<br>
 预览:<br>
