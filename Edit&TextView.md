@@ -161,6 +161,11 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 
 
 
+项目名： CompoundIconTextView<br>
+git地址：https://github.com/AAkira/CompoundIconTextView<br>
+预览:<br>
+<img src="https://github.com/AAkira/CompoundIconTextView/raw/master/arts/preview.png" width="30%"/><br>
+
 项目名： RotatingText<br>
 git地址：https://github.com/sdsmdg/RotatingText<br>
 预览:<br>
