@@ -176,6 +176,12 @@ git地址：https://github.com/ronaldsmartin/Material-ViewPagerIndicator<br>
 
 
 
+
+项目名：MZBannerView<br>
+git地址：https://github.com/pinguo-zhouwei/MZBannerView<br>
+预览:<br>
+<img src="https://github.com/pinguo-zhouwei/MZBannerView/raw/master/image/MZBannerView.gif" width="30%"/>
+
 项目名：PageIndicatorView<br>
 git地址：https://github.com/romandanylyk/PageIndicatorView<br>
 预览:<br>
