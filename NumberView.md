@@ -7,7 +7,10 @@
 
 
 
-
+项目名：EasyPickerView<br>
+git地址:https://github.com/huzenan/EasyPickerView<br>
+预览:<br>
+<img src="https://github.com/huzenan/EasyPickerView/raw/master/screenshots/picker.gif" width="30%"/><br>
 
 项目名：NumberPicker<br>
 git地址:https://github.com/BorealisAgency/NumberPicker<br>
