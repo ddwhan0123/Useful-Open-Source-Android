@@ -5,7 +5,10 @@
 
 
 
-
+项目名：HorizontalPicker<br>
+git地址:https://github.com/adityagohad/HorizontalPicker<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/adityagohad/HorizontalPicker/master/art/picker_demo.gif" width="30%"/><br>
 
 项目名：EasyPickerView<br>
 git地址:https://github.com/huzenan/EasyPickerView<br>
