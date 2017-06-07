@@ -157,10 +157,15 @@
 
 
 
+项目名：SmileyRating<br>
+git地址：https://github.com/sujithkanna/SmileyRating<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/sujithkanna/SmileyRating/master/app/src/main/assets/demo.gif" width="28%"/>
+
 项目名：snackprogressbar<br>
 git地址：https://github.com/tingyik90/snackprogressbar<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/c6a9e105b36633dca9f8d7129616f63b5b3c76f6/687474703a2f2f692e696d6775722e636f6d2f78474f6e7756702e706e67" width="28%"/>
+<img src="https://camo.githubusercontent.com/c6a9e105b36633dca9f8d7129616f63b5b3c76f6/687474703a2f2f692e696d6775722e636f6d2f78474f6e7756702e706e67" width="32%"/>
 
 项目名：DotsLoaderView<br>
 git地址：https://github.com/steelkiwi/DotsLoaderView<br>
