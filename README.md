@@ -157,6 +157,11 @@
 
 
 
+项目名：MusicIndicator<br>
+git地址：https://github.com/Taishi-Y/MusicIndicator<br>
+预览:<br>
+<img src="https://github.com/Taishi-Y/MusicIndicator/raw/master/art/samplegif.gif?raw=true" width="28%"/>
+
 项目名：SmileyRating<br>
 git地址：https://github.com/sujithkanna/SmileyRating<br>
 预览:<br>
