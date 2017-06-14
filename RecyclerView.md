@@ -130,7 +130,10 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
-
+项目名：SpannedGridLayoutManager<br>
+git地址：https://github.com/Arasthel/SpannedGridLayoutManager<br>
+预览:<br>
+<img src="https://github.com/Arasthel/SpannedGridLayoutManager/raw/master/art/spannedgridlayout.gif" width="30%"/><br>
 
 
 项目名：Filterable-Recycler-View<br>
