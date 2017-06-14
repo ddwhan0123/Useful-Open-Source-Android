@@ -159,7 +159,10 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 ### TextView<br>
 
 
-
+项目名： GradientTextView<br>
+git地址：https://github.com/livesun/GradientTextView<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/27534854/26811851/e7ca915a-4aa6-11e7-993a-0f60f53132fa.gif" width="30%"/><br>
 
 项目名： CompoundIconTextView<br>
 git地址：https://github.com/AAkira/CompoundIconTextView<br>
