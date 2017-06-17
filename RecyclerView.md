@@ -130,6 +130,11 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
+项目名：FeaturedRecyclerView<br>
+git地址：https://github.com/developer-shivam/FeaturedRecyclerView<br>
+预览:<br>
+<img src="https://github.com/developer-shivam/FeaturedRecyclerView/raw/master/art/sample_GIF.gif" width="30%"/><br>
+
 项目名：SpannedGridLayoutManager<br>
 git地址：https://github.com/Arasthel/SpannedGridLayoutManager<br>
 预览:<br>
