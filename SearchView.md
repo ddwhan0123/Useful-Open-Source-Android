@@ -5,7 +5,10 @@
 
 
 
-
+项目名：BilibiliSearchView<br>
+git地址：https://github.com/didixyy/BilibiliSearchView<br>
+预览:<br>
+<img src="https://github.com/didixyy/BilibiliSearchView/raw/master/test.gif?raw=true" width="30%"/>
 
 
 项目名：ToDoList<br>
