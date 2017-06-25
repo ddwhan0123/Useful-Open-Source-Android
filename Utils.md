@@ -130,6 +130,9 @@ A powerful library that manage Fragment for Android!<br>
 
 
 
+项目名：Remember<br>
+git地址：https://github.com/tumblr/Remember<br>
+解释： A preferences-backed key-value store<br>
 
 项目名：secure-preferences<br>
 git地址：https://github.com/scottyab/secure-preferences<br>
