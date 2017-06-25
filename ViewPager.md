@@ -314,7 +314,10 @@ git地址：https://github.com/rubensousa/ViewPagerCards<br>
 
 
 
-
+项目名：cardslider-android<br>
+git地址：https://github.com/Ramotion/cardslider-android<br>
+预览:<br>
+<img src="https://github.com/Ramotion/cardslider-android/raw/master/preview.gif" width="30%"/><br>
 
 项目名：StartPageAd<br>
 git地址：https://github.com/mrhyh/StartPageAd<br>
