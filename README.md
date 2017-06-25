@@ -156,6 +156,12 @@
 
 
 
+
+项目名：Android-SnappingStepper<br>
+git地址：https://github.com/saiwu-bigkoo/Android-SnappingStepper<br>
+预览:<br>
+<img src="https://github.com/saiwu-bigkoo/Android-SnappingStepper/raw/master/preview/snappingstepperdemo.gif" width="28%"/>
+
 项目名：ImageNice9Layout<br>
 git地址：https://github.com/wobiancao/ImageNice9Layout<br>
 预览:<br>
