@@ -163,7 +163,10 @@ git地址：https://github.com/fatangare/LogcatViewer<br>
 
 
 
-
+项目名：SmartPopupWindow<br>
+git地址:https://github.com/PopFisher/SmartPopupWindow<br>
+预览:<br>
+<img src="https://github.com/PopFisher/SmartPopupWindow/raw/master/docpic/1.png" width="30%"/><br>
 
 项目名：IntentManip<br>
 git地址:https://github.com/KingsMentor/IntentManip<br>
