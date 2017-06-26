@@ -157,6 +157,12 @@
 
 
 
+
+项目名：VectorMaster<br>
+git地址：https://github.com/harjot-oberai/VectorMaster<br>
+预览:<br>
+<img src="https://github.com/harjot-oberai/VectorMaster/raw/master/screens/more_animations.gif" width="28%"/>
+
 项目名：Android-SnappingStepper<br>
 git地址：https://github.com/saiwu-bigkoo/Android-SnappingStepper<br>
 预览:<br>
