@@ -172,6 +172,10 @@ git地址：https://github.com/ronaldsmartin/Material-ViewPagerIndicator<br>
 <img src="https://raw.githubusercontent.com/ronaldsmartin/Material-ViewPagerIndicator/assets/screenshots/1.0.0/capture-v1.0.0.gif" width="30%"/>
 <br>
 
+
+
+
+
 ### Banner<br>
 
 
@@ -223,7 +227,16 @@ git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
 <img src="https://github.com/xyzlf/AutoPlayViewPager/raw/master/autoplay_view.gif" width="30%"/><br>
 
 
+
+
+
+
+
 ### 卡片翻页效果<br>
+
+
+
+
 
 
 
@@ -307,11 +320,18 @@ git地址：https://github.com/rubensousa/ViewPagerCards<br>
 
 
 
+
+
 ### 其他<br>
 
 
 
 
+
+项目名：glazy-viewpager<br>
+git地址：https://github.com/kannan-anbu/glazy-viewpager<br>
+预览:<br>
+<img src="https://github.com/kannan-anbu/glazy-viewpager/raw/master/app/src/main/res/drawable-nodpi/sample_gif.gif" width="30%"/><br>
 
 
 项目名：cardslider-android<br>
