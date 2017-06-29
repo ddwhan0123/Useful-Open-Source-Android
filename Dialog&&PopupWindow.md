@@ -7,6 +7,10 @@
 
 
 
+项目名：PopupList<br>
+git地址：https://github.com/shangmingchao/PopupList<br>
+预览:<br>
+<img src="https://github.com/shangmingchao/PopupList/raw/master/screenshots/screenshot_1.png" width="30%"/><br>
 
 
 项目名：JDSelector<br>
