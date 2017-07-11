@@ -9,6 +9,12 @@
 
 
 
+
+项目名：SmartRefreshLayout<br>
+git地址：https://github.com/scwang90/SmartRefreshLayout<br>
+预览:<br>
+<img src="https://github.com/scwang90/SmartRefreshLayout/raw/master/art/gif_practive_weibo.gif" width="27%"/><br>
+
 项目名：Typewriter<br>
 git地址：https://github.com/Ilya-Gh/Typewriter<br>
 预览:<br>
