@@ -156,6 +156,13 @@
 
 
 
+
+
+项目名：RichPath<br>
+git地址：https://github.com/tarek360/RichPath<br>
+预览:<br>
+<img src="https://github.com/tarek360/RichPath/raw/master/screenshots/header.gif" width="28%"/>
+
 项目名：PracticeDraw1<br>
 git地址：https://github.com/hencoder/PracticeDraw1<br>
 预览:<br>
