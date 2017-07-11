@@ -7,6 +7,8 @@
 ### 特殊业务场景图片处理：<br>
 
 
+
+
 项目名：RoundedImageView<br>
 git地址：https://github.com/vinc3m1/RoundedImageView<br>
 预览:<br>
@@ -239,6 +241,8 @@ git地址：https://github.com/adamstyrc/cookie-cutter<br>
 
 
 
+
+
 项目名：transferee<br>
 git地址：https://github.com/Hitomis/transferee<br>
 预览:<br>
@@ -396,7 +400,10 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 
 
 
-
+项目名：PaletteImageView<br>
+git地址：https://github.com/DingMouRen/PaletteImageView<br>
+预览:<br>
+<img src="https://github.com/DingMouRen/PaletteImageView/raw/master/screenshot/title.gif" width="30%"/><br>
 
 项目名：BlurView<br>
 git地址：https://github.com/Dimezis/BlurView<br>
