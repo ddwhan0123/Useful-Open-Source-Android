@@ -5,7 +5,10 @@
 
 
 
-
+项目名：BubbleView<br>
+git地址：https://github.com/cpiz/BubbleView<br>
+预览:<br>
+<img src="https://github.com/cpiz/BubbleView/raw/master/screenshots/1.png" width="30%"/>
 
 项目名：materialChipView<br>
 git地址：https://github.com/robertlevonyan/materialChipView<br>
