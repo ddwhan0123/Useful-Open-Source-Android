@@ -158,6 +158,12 @@
 
 
 
+
+项目名：SlidingUpPanelLayout<br>
+git地址：https://github.com/woxingxiao/SlidingUpPanelLayout<br>
+预览:<br>
+<img src="https://github.com/woxingxiao/SlidingUpPanelLayout/raw/master/screenshot/demo2.gif" width="28%"/>
+
 项目名：RichPath<br>
 git地址：https://github.com/tarek360/RichPath<br>
 预览:<br>
