@@ -136,6 +136,11 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
+项目名：turn-layout-manager<br>
+git地址：https://github.com/cdflynn/turn-layout-manager<br>
+预览:<br>
+<img src="https://github.com/cdflynn/turn-layout-manager/raw/master/app/img/turn_demo.gif?raw=true" width="30%"/><br>
+
 项目名：FeaturedRecyclerView<br>
 git地址：https://github.com/developer-shivam/FeaturedRecyclerView<br>
 预览:<br>
