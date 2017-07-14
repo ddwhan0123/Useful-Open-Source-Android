@@ -33,6 +33,14 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
+
+项目名：FingerprintIdentify<br>
+git地址:https://github.com/uccmawei/FingerprintIdentify<br>
+预览:<br>
+<img src="https://github.com/uccmawei/FingerprintIdentify/raw/master/other/QRCode_en.png" width="30%"/><br>
+解释:<br>
+ Android Fingerprint Verification SDK<br>
+
 项目名：packer-ng-plugin<br>
 git地址:https://github.com/mcxiaoke/packer-ng-plugin<br>
 解释:<br>
