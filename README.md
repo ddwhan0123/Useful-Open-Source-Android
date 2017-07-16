@@ -159,6 +159,12 @@
 
 
 
+
+项目名：YapAnimator<br>
+git地址：https://github.com/yapstudios/YapAnimator<br>
+预览:<br>
+<img src="https://github.com/yapstudios/YapAnimator/raw/master/Docs/squareframe.gif" width="28%"/>
+
 项目名：SlidingUpPanelLayout<br>
 git地址：https://github.com/woxingxiao/SlidingUpPanelLayout<br>
 预览:<br>
