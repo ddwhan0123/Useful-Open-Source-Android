@@ -32,7 +32,12 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
-
+项目名：AppUpdate<br>
+git地址:https://github.com/WVector/AppUpdate<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/image/example_02.png?raw=true" width="40%"/><br>
+解释:<br>
+  Android 版本更新 <br>
 
 项目名：FingerprintIdentify<br>
 git地址:https://github.com/uccmawei/FingerprintIdentify<br>
