@@ -4,6 +4,11 @@
 
 
 
+项目名：RxFile<br>
+git地址：https://github.com/pavlospt/RxFile<br>
+描述：Rx methods to get a File and Image or Video thumbnails from a Document Provider on Android (Drive, Dropbox etc)
+<br>
+
 项目名：RxActivityResult<br>
 git地址：https://github.com/NateWickstrom/RxActivityResult<br>
 描述：Reactive results from startActivityForResult() in the form of an Observable
