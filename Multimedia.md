@@ -11,6 +11,12 @@
 
 
 
+项目名：Android-ScalableVideoView<br>
+git地址:https://github.com/yqritc/Android-ScalableVideoView<br>
+预览:<br>
+<img src="https://github.com/yqritc/Android-ScalableVideoView/raw/master/sample/sample.gif" width="30%"/><br>
+
+
 项目名：NiceVieoPlayer<br>
 git地址:https://github.com/xiaoyanger0825/NiceVieoPlayer<br>
 预览:<br>
