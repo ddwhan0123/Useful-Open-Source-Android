@@ -3,7 +3,10 @@
 
 
 
-
+项目名：SingleDateAndTimePicker<br>
+git地址：https://github.com/florent37/SingleDateAndTimePicker<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/florent37/SingleDateAndTimePicker/master/media/new_video.gif" width="27%"/><br>
 
 项目名：EasyCalendar<br>
 git地址：https://github.com/shichaohui/EasyCalendar<br>
