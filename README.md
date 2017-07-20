@@ -158,7 +158,10 @@
 
 
 
-
+项目名：ShimmerLayout<br>
+git地址：https://github.com/team-supercharge/ShimmerLayout<br>
+预览:<br>
+<img src="https://github.com/team-supercharge/ShimmerLayout/raw/master/shimmerlayout.gif" width="28%"/>
 
 项目名：YapAnimator<br>
 git地址：https://github.com/yapstudios/YapAnimator<br>
