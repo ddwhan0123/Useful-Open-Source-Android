@@ -30,10 +30,6 @@ git地址：https://github.com/florent37/RxAndroidOrm<br>
 描述：An reactive simple & fluent Android ORM, how can it be easier ? RxJava2 ready
 <br>
 
-项目名：RxActivityResult<br>
-git地址：https://github.com/nekocode/RxActivityResult<br>
-描述：This is a library that can help you to receive results from startActivityForResult() as an Observable
-<br>
 
 项目名：RxLocation<br>
 git地址：https://github.com/dudu90/RxLocation<br>
