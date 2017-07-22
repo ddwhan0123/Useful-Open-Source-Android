@@ -22,7 +22,7 @@ git地址：https://github.com/twiceyuan/AndroidLog<br>
 项目名：logger<br>
 git地址：https://github.com/orhanobut/logger<br>
 预览:<br>
-<img src="https://github.com/orhanobut/logger/raw/master/images/description.png" width="50%"/><br><br>
+<img src="https://github.com/orhanobut/logger/raw/master/art/logger_output.png" width="50%"/><br><br>
 描述：Simple, pretty and powerful logger for android<br>
 
 
