@@ -6,6 +6,11 @@
 
 
 
+项目名：ThemeSkinning<br>
+git地址：https://github.com/burgessjp/ThemeSkinning<br>
+预览:<br>
+<img src="https://github.com/burgessjp/ThemeSkinning/raw/master/app/capture/demo.gif" width="30%"/><br><br>
+描述：A library can easy to change your app's theme for android<br>
 
 
 项目名：Colorful<br>
