@@ -37,7 +37,7 @@ git地址：https://github.com/DevLight-Mobile-Agency/NavigationTabBar<br>
 项目名：Space-Navigation-View<br>
 git地址：https://github.com/armcha/Space-Navigation-View<br>
 预览:<br>
-<img src="https://github.com/armcha/Space-Navigation-View/raw/master/screens/screen4.png" width="30%" />
+<img src="https://github.com/armcha/Space-Navigation-View/raw/master/screens/screen4.png" width="40%" />
 
 项目名：BottomDialog<br>
 git地址：https://github.com/Curzibn/BottomDialog<br>
