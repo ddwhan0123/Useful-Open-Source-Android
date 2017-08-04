@@ -6,6 +6,12 @@
 
 
 
+项目名：AndroidThemeChange<br>
+git地址：https://github.com/ifadai/AndroidThemeChange<br>
+预览:<br>
+<img src="https://github.com/ifadai/AndroidThemeChange/raw/master/image/Android%205.0%E4%BB%A5%E4%B8%8A%E6%95%88%E6%9E%9C.gif" width="30%"/><br><br>
+描述：Android 主题更换Demo，Android 4.4 和5.0以上系统，使用不同方案<br>
+
 项目名：ThemeSkinning<br>
 git地址：https://github.com/burgessjp/ThemeSkinning<br>
 预览:<br>
