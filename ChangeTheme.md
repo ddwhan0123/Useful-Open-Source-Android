@@ -19,10 +19,6 @@ git地址：https://github.com/Bilibili/MagicaSakura<br>
 预览:（多主题框架）<br>
 <img src="https://github.com/xyczero/MagicaSakura/raw/master/screenshot/magicasakura.gif" width="30%"/><br>
 
-项目名：NightModel<br>
-git地址：https://github.com/achenglike/NightModel<br>
-解释:<br>
-夜间皮肤切换<br>
 
 项目名：Scoops<br>
 git地址:https://github.com/52inc/Scoops<br>
