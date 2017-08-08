@@ -158,6 +158,12 @@
 
 
 
+
+项目名：DragPointView<br>
+git地址：https://github.com/javonleee/DragPointView<br>
+预览:<br>
+<img src="https://github.com/javonleee/DragPointView/raw/master/static/example_1.gif" width="28%"/>
+
 项目名：crossview<br>
 git地址：https://github.com/cdflynn/crossview<br>
 预览:<br>
