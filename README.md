@@ -9,7 +9,7 @@
 
 
 
-### 更新时间:2017-8-7<br>
+### 更新时间:2017-8-8<br>
 
 
 ##  翻译/资料/教程
@@ -158,7 +158,10 @@
 
 
 
-
+项目名：crossview<br>
+git地址：https://github.com/cdflynn/crossview<br>
+预览:<br>
+<img src="https://github.com/cdflynn/crossview/raw/master/sample/images/cross_btn.gif?raw=true" width="16%"/>
 
 项目名：ShimmerLayout<br>
 git地址：https://github.com/team-supercharge/ShimmerLayout<br>
