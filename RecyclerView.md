@@ -136,6 +136,12 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
+
+项目名：MultiSnapRecyclerView<br>
+git地址：https://github.com/TakuSemba/MultiSnapRecyclerView<br>
+预览:<br>
+<img src="https://github.com/TakuSemba/MultiSnapRecyclerView/raw/master/arts/gravity.gif" width="30%"/><br>
+
 项目名：turn-layout-manager<br>
 git地址：https://github.com/cdflynn/turn-layout-manager<br>
 预览:<br>
