@@ -2,6 +2,13 @@
 ## 开源app<br>
 
 
+
+
+项目名：PopularMovies<br>
+git地址：https://github.com/vpaliyX/PopularMovies<br>
+预览:<br>
+<img src="https://github.com/vpaliyX/PopularMovies/raw/master/art/ezgif.com-video-to-gif(14).gif" width="28%" />
+
 项目名：KingTV<br>
 git地址：https://github.com/jenly1314/KingTV<br>
 预览:<br>
