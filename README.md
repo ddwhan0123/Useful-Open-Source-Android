@@ -157,6 +157,10 @@
 
 
 
+项目名：android_additive_animations<br>
+git地址：https://github.com/wirecube/android_additive_animations<br>
+预览:<br>
+<img src="https://github.com/davidganster/android_additive_animations/raw/master/gif/single_view.gif?raw=true" width="23%"/>
 
 
 项目名：DragPointView<br>
