@@ -10,6 +10,11 @@
 
 
 
+项目名：SmoothRefreshLayout<br>
+git地址：https://github.com/dkzwm/SmoothRefreshLayout<br>
+预览:<br>
+<img src="https://github.com/dkzwm/SmoothRefreshLayout/raw/master/snapshot/test_qq_web_browser_style.gif" width="27%"/><br>
+
 项目名：SmartRefreshLayout<br>
 git地址：https://github.com/scwang90/SmartRefreshLayout<br>
 预览:<br>
