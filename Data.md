@@ -14,7 +14,12 @@
 
 
 
-
+项目名：AndroidStudy<br>
+git地址：https://github.com/crazyqiang/AndroidStudy<br>
+预览:<br>
+<img src="https://github.com/crazyqiang/AndroidStudy/raw/master/pic/FixedThreadPool.gif" width="50%"/><br>
+解释：<br>
+Android学习过程的一些总结~Blog地址：http://www.jianshu.com/u/185028550381<br>
 
 项目名：TimeAgo<br>
 git地址：https://github.com/ChathuraHettiarachchi/TimeAgo<br>
