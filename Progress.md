@@ -9,7 +9,10 @@
 
 
 
-
+项目名：ArcSeekBar<br>
+git地址：https://github.com/MarcinMoskala/ArcSeekBar<br>
+预览:<br>
+<img src="https://github.com/MarcinMoskala/ArcSeekBar/raw/master/art/flow.gif" width="28%" />
 
 项目名：RingProgressBar<br>
 git地址：https://github.com/HotBitmapGG/RingProgressBar<br>
