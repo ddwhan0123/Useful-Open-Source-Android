@@ -8,6 +8,10 @@
 
 
 
+项目名： HtmlBuilder<br>
+git地址：https://github.com/jaredrummler/HtmlBuilder<br>
+预览:<br>
+<img src="https://github.com/jaredrummler/HtmlBuilder/raw/master/art/screenshot.png" width="27%"/><br>
 
 项目名： MaterialChipsInput<br>
 git地址：https://github.com/pchmn/MaterialChipsInput<br>
