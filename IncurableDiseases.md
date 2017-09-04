@@ -32,10 +32,17 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
+项目名：DroidVR<br>
+git地址:https://github.com/sfsheng0322/DroidVR<br>
+预览:<br>
+<img src="https://github.com/sfsheng0322/DroidVR/raw/master/DroidVR.gif" width="20%"/><br>
+解释:<br>
+360°全景图片、全景视频工程<br>
+
 项目名：AppUpdate<br>
 git地址:https://github.com/WVector/AppUpdate<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/image/example_02.png?raw=true" width="40%"/><br>
+<img src="https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/image/example_02.png?raw=true" width="70%"/><br>
 解释:<br>
   Android 版本更新 <br>
 
