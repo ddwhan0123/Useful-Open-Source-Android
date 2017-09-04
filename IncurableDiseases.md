@@ -32,6 +32,13 @@ git地址：https://github.com/skylot/jadx<br>
 
 
 
+项目名：AndroidDonate<br>
+git地址:https://github.com/didikee/AndroidDonate<br>
+预览:<br>
+<img src="https://github.com/didikee/AndroidDonate/raw/master/raw/pic_zhifubao_merchant.png" width="20%"/><br>
+解释:<br>
+Android 个人开发者捐赠集成<br>
+
 项目名：DroidVR<br>
 git地址:https://github.com/sfsheng0322/DroidVR<br>
 预览:<br>
