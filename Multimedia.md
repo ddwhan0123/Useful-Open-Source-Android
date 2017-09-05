@@ -179,3 +179,10 @@ Convert audio files inside your Android app easily. Supported formats: AAC, MP3,
 git地址：https://github.com/WritingMinds/ffmpeg-android-java<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/1e4464afbded5be7db92afd3ca4c6d1b7a981bb3/687474703a2f2f692e696d6775722e636f6d2f63503457684c6e2e676966" width="30%" />
+
+
+### VR相关<br>
+项目名：Three360panorama<br>
+git地址：https://github.com/CN-ZPH/Three360panorama<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/df9b7e77701580d553ff89fa4263dd2fbd35bd3f/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333031383538382d333637396231313163323262316137382e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="30%" />
