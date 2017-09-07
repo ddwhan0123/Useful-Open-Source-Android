@@ -9,6 +9,16 @@
 
 
 
+项目名：Resizer<br>
+git地址：https://github.com/hkk595/Resizer<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/hkk595/Resizer/master/app/src/main/res/drawable/library_logo.png" width="28%"/><br>
+
+项目名：CircularImageview<br>
+git地址：https://github.com/sparrow007/CircularImageview<br>
+预览:<br>
+<img src="https://user-images.githubusercontent.com/22986571/30037960-998918f8-91dd-11e7-904e-dd9252349788.png" width="28%"/><br>
+
 项目名：RoundedImageView<br>
 git地址：https://github.com/vinc3m1/RoundedImageView<br>
 预览:<br>
