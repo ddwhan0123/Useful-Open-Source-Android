@@ -80,6 +80,11 @@ git地址：https://github.com/saiwu-bigkoo/Android-PickerView<br>
 
 
 
+项目名：colorpreference<br>
+git地址：https://github.com/kizitonwose/colorpreference<br>
+预览:<br>
+<img src="https://github.com/kizitonwose/colorpreference/raw/master/art/screenshot_2.png" width="26%"/><br>
+
 项目名：FileListerDialog<br>
 git地址：https://github.com/FirzenYogesh/FileListerDialog<br>
 预览:<br>
