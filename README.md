@@ -158,6 +158,11 @@
 
 
 
+项目名：droid-vizu<br>
+git地址：https://github.com/wotomas/droid-vizu<br>
+预览:<br>
+<img src="https://github.com/wotomas/droid-vizu/raw/master/media/line_renderer.gif" width="30%"/>
+
 项目名：MaterialStepperView<br>
 git地址：https://github.com/Lauzy/PlayPauseView<br>
 预览:<br>
