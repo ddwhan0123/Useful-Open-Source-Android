@@ -14,6 +14,11 @@
 
 
 
+项目名：AndroidDeviceNames<br>
+git地址：https://github.com/jaredrummler/AndroidDeviceNames<br>
+解释：<br>
+A small Android library to get the market name of an Android device<br>
+
 项目名：AndroidStudy<br>
 git地址：https://github.com/crazyqiang/AndroidStudy<br>
 预览:<br>
