@@ -163,6 +163,12 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 ### TextView<br>
 
 
+
+项目名： PlaceholderTextView<br>
+git地址：https://github.com/youkai-app/PlaceholderTextView<br>
+预览:<br>
+<img src="https://user-images.githubusercontent.com/2550945/29698528-2543edd4-8967-11e7-8cd6-3dad1aedd61f.png" width="35%"/><br>
+
 项目名： GradientTextView<br>
 git地址：https://github.com/livesun/GradientTextView<br>
 预览:<br>
