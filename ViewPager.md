@@ -240,7 +240,10 @@ git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
 
 
 
-
+项目名：garland-view-android<br>
+git地址：https://github.com/Ramotion/garland-view-android<br>
+预览:<br>
+<img src="https://github.com/Ramotion/garland-view-android/raw/master/preview.gif" width="30%"/><br>
 
 项目名：android-pile-layout<br>
 git地址：https://github.com/xmuSistone/android-pile-layout<br>
