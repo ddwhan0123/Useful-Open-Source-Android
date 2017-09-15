@@ -2,6 +2,11 @@
 
 
 
+项目名：Floo<br>
+git地址:https://github.com/drakeet/Floo<br>
+解释:<br>
+An URL router supporting AOP, stack control, cross-page message, and dynamic routing<br>
+
 项目名：ActivityRouter<br>
 git地址:https://github.com/mzule/ActivityRouter<br>
 预览:<br>
