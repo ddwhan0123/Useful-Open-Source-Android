@@ -77,3 +77,8 @@ git地址：https://github.com/SundeepK/CompactCalendarView<br>
 git地址：https://github.com/GerritHoekstra/CompactCalendarViewToolbar<br>
 预览:<br>
 <img src="https://github.com/GerritHoekstra/CompactCalendarViewToolbar/raw/master/images/compact-calendar-toolbar-demo.gif" width="30%" /><br>
+
+目名：CosmoCalendar<br>
+git地址：https://github.com/AppliKeySolutions/CosmoCalendar<br>
+预览:<br>
+<img src="https://github.com/AppliKeySolutions/CosmoCalendar/raw/master/pictures/Calendar-range-years_2.jpg" width="30%" /><br>
