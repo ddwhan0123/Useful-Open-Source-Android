@@ -4,6 +4,12 @@
 
 
 
+项目名：RxPay<br>
+git地址：https://github.com/Cuieney/RxPay<br>
+预览:<br>
+<img src="https://github.com/Cuieney/RxPay/raw/master/img/logo.png" width="30%"/><br><br>
+描述：一个集成支付宝微信的支付工具<br>
+
 项目名：RxFile<br>
 git地址：https://github.com/pavlospt/RxFile<br>
 描述：Rx methods to get a File and Image or Video thumbnails from a Document Provider on Android (Drive, Dropbox etc)
