@@ -142,6 +142,11 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
+项目名：VegaLayoutManager<br>
+git地址：https://github.com/xmuSistone/VegaLayoutManager<br>
+预览:<br>
+<img src="https://github.com/xmuSistone/VegaLayoutManager/raw/master/capture.gif" width="30%"/><br>
+
 项目名：MultiSnapRecyclerView<br>
 git地址：https://github.com/TakuSemba/MultiSnapRecyclerView<br>
 预览:<br>
