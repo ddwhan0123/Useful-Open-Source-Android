@@ -163,7 +163,10 @@
 ## 自定义控件/动画:<br>
 
 
-
+项目名：CircularFillableLoadersu<br>
+git地址：https://github.com/lopspower/CircularFillableLoaders<br>
+预览:<br>
+<img src="https://github.com/lopspower/CircularFillableLoaders/raw/master/preview/preview.gif" width="25%"/>
 
 项目名：droid-vizu<br>
 git地址：https://github.com/wotomas/droid-vizu<br>
