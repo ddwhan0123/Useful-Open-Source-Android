@@ -163,6 +163,11 @@
 ## 自定义控件/动画:<br>
 
 
+项目名：co.revely.gradient<br>
+git地址：https://github.com/revely-inc/co.revely.gradient<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/5ba6592463a24b1c6dbfb3439c189fd41adbbb5f/68747470733a2f2f6769746c61622e636f6d2f726576656c792f6173736574732f7261772f6d61737465722f726576656c795f6772616469656e742f6261636b67726f756e645f6772616469656e742e676966" width="25%"/>
+
 项目名：CircularFillableLoadersu<br>
 git地址：https://github.com/lopspower/CircularFillableLoaders<br>
 预览:<br>
