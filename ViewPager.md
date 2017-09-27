@@ -238,7 +238,10 @@ git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
 
 
 
-
+项目名：ViewPageTransformer<br>
+git地址：https://github.com/Mran/ViewPageTransformer<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/582c6ee40dbaa501115e29e28e4845801a3edf61/687474703a2f2f6f6533386f653374692e626b742e636c6f7564646e2e636f6d2f31372d392d32362f34343630323839362e6a7067" width="30%"/><br>
 
 项目名：garland-view-android<br>
 git地址：https://github.com/Ramotion/garland-view-android<br>
