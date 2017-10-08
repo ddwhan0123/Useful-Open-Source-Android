@@ -163,6 +163,11 @@
 ## 自定义控件/动画:<br>
 
 
+项目名：ScalingLayout<br>
+git地址：https://github.com/iammert/ScalingLayout<br>
+预览:<br>
+<img src="https://github.com/iammert/ScalingLayout/raw/master/art/gif_behavior.gif" width="28%"/>
+
 项目名：co.revely.gradient<br>
 git地址：https://github.com/revely-inc/co.revely.gradient<br>
 预览:<br>
