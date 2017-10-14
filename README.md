@@ -163,6 +163,16 @@
 ## 自定义控件/动画:<br>
 
 
+项目名：3D_Sphere<br>
+git地址：https://github.com/a396901990/3D_Sphere<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/2640b457f49542b6fb8e0fae60f7af871d3a6ece/687474703a2f2f696d672e6d792e6373646e2e6e65742f75706c6f6164732f3230313530312f30322f313432303139393337335f313636372e706e67" width="28%"/>
+
+项目名：LoadingView-OverWatch<br>
+git地址：https://github.com/a396901990/LoadingView-OverWatch<br>
+预览:<br>
+<img src="https://github.com/a396901990/LoadingView-OverWatch/raw/master/screenshot/screenshot3.gif" width="28%"/>
+
 项目名：ScalingLayout<br>
 git地址：https://github.com/iammert/ScalingLayout<br>
 预览:<br>
