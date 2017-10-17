@@ -235,10 +235,13 @@ git地址：https://github.com/kyze8439690/ResideLayout<br>
 
 
 
-
+项目名：PlayTabLayout<br>
+git地址：https://github.com/armcha/PlayTabLayout<br>
+预览:<br>
+<img src="https://github.com/armcha/PlayTabLayout/raw/master/art/regular.gif" width="30%" />
 
 项目名：ionic-super-bar<br>
-git地址：hhttps://github.com/jeneser/ionic-super-bar<br>
+git地址：https://github.com/jeneser/ionic-super-bar<br>
 预览:<br>
 <img src="https://github.com/jeneser/ionic-super-bar/raw/master/screenshot.gif" width="30%" />
 
