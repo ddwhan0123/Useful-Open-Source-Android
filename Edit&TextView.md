@@ -164,6 +164,11 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 
 
 
+项目名： social-text-view<br>
+git地址：https://github.com/tylersuehr7/social-text-view<br>
+预览:<br>
+<img src="https://github.com/tylersuehr7/socialtextview/raw/master/docs/screen_links.png" width="24%"/><br>
+
 项目名： PlaceholderTextView<br>
 git地址：https://github.com/youkai-app/PlaceholderTextView<br>
 预览:<br>
