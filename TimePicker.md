@@ -2,6 +2,15 @@
 
 
 
+项目名：NCalendar<br>
+git地址：https://github.com/yannecer/NCalendar<br>
+预览:<br>
+<img src="https://github.com/yannecer/NCalendar/raw/master/app/ncalendar3.gif" width="27%"/><br>
+
+项目名：Calendar<br>
+git地址：https://github.com/xiaojianglaile/Calendar<br>
+预览:<br>
+<img src="https://github.com/xiaojianglaile/Calendar/raw/master/raw/jeek_image_1.gif" width="27%"/><br>
 
 项目名：SingleDateAndTimePicker<br>
 git地址：https://github.com/florent37/SingleDateAndTimePicker<br>
