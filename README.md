@@ -163,6 +163,11 @@
 ## 自定义控件/动画:<br>
 
 
+项目名：LongShadow<br>
+git地址：https://github.com/florent37/LongShadow<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/florent37/LongShadow/master/medias/sample.gif" width="28%"/>
+
 项目名：3D_Sphere<br>
 git地址：https://github.com/a396901990/3D_Sphere<br>
 预览:<br>
