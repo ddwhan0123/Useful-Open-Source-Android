@@ -2,6 +2,11 @@
 
 
 
+项目名：CalendarView<br>
+git地址：https://github.com/henry-newbie/CalendarView<br>
+预览:<br>
+<img src="https://github.com/henry-newbie/CalendarView/raw/master/screenshot/calendar.gif" width="27%"/><br>
+
 项目名：MonthView<br>
 git地址：https://github.com/mrme2014/MonthView<br>
 预览:<br>
