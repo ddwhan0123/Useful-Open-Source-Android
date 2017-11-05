@@ -1,6 +1,51 @@
 ## Time/Date Picker<br>
 
 
+项目名：CalendarPager<br>
+git地址：https://github.com/ToDou/CalendarPager<br>
+预览:<br>
+<img src="https://github.com/dalong982242260/AndroidCalendar/raw/master/img/calendar19_1.gif" width="27%"/><br>
+
+项目名：clean-simple-calendar<br>
+git地址：https://github.com/dpreussler/clean-simple-calendar<br>
+预览:<br>
+<img src="https://github.com/dalong982242260/AndroidCalendar/raw/master/img/calendar17.png" width="37%"/><br>
+
+项目名：Calendar<br>
+git地址：https://github.com/lichao315/Calendar<br>
+预览:<br>
+<img src="https://github.com/dalong982242260/AndroidCalendar/raw/master/img/calendar15.png" width="27%"/><br>
+
+项目名：android-collapse-calendar-view<br>
+git地址：https://github.com/blazsolar/android-collapse-calendar-view<br>
+预览:<br>
+<img src="https://github.com/dalong982242260/AndroidCalendar/raw/master/img/calendar13.gif" width="27%"/><br>
+
+项目名：WeekCalendar<br>
+git地址：https://github.com/nomanr/WeekCalendar<br>
+预览:<br>
+<img src="https://github.com/dalong982242260/AndroidCalendar/raw/master/img/calendar12.gif" width="27%"/><br>
+
+项目名：android-calendar-card<br>
+git地址：https://github.com/kenumir/android-calendar-card<br>
+预览:<br>
+<img src="https://github.com/dalong982242260/AndroidCalendar/raw/master/img/calendar11.png" width="27%"/><br>
+
+项目名：CompactCalendarView<br>
+git地址：https://github.com/SundeepK/CompactCalendarView<br>
+预览:<br>
+<img src="https://github.com/dalong982242260/AndroidCalendar/raw/master/img/calendar9.gif" width="27%"/><br>
+
+项目名：AgendaCalendarView<br>
+git地址：https://github.com/Tibolte/AgendaCalendarView<br>
+预览:<br>
+<img src="https://github.com/dalong982242260/AndroidCalendar/raw/master/img/calendar8.gif" width="27%"/><br>
+
+项目名：CalendarListview<br>
+git地址：https://github.com/traex/CalendarListview<br>
+预览:<br>
+<img src="https://github.com/dalong982242260/AndroidCalendar/raw/master/img/calendar6.gif" width="27%"/><br>
+
 项目名：material-calendarview<br>
 git地址：https://github.com/prolificinteractive/material-calendarview<br>
 预览:<br>
