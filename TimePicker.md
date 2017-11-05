@@ -1,6 +1,15 @@
 ## Time/Date Picker<br>
 
 
+项目名：material-calendarview<br>
+git地址：https://github.com/prolificinteractive/material-calendarview<br>
+预览:<br>
+<img src="https://github.com/dalong982242260/AndroidCalendar/raw/master/img/calendar4.gif" width="27%"/><br>
+
+项目名：Android-Week-View<br>
+git地址：https://github.com/alamkanak/Android-Week-View<br>
+预览:<br>
+<img src="https://github.com/dalong982242260/AndroidCalendar/raw/master/img/calendar3.png" width="57%"/><br>
 
 项目名：CalendarView<br>
 git地址：https://github.com/henry-newbie/CalendarView<br>
