@@ -3,6 +3,10 @@
 
 
 
+项目名：XmlToJson<br>
+git地址：https://github.com/smart-fun/XmlToJson<br>
+解释： Android Library for converting XML to JSON and JSON to XML<br>
+
 项目名：json-loader<br>
 git地址：https://github.com/webpack-contrib/json-loader<br>
 预览:<br>
