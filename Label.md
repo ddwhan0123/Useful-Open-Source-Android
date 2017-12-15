@@ -77,7 +77,7 @@ git地址：https://github.com/kaedea/android-tagview<br>
 项目名：RoundedCornersBackgroundSpan<br>
 git地址:https://github.com/Iojjj/RoundedCornersBackgroundSpan<br>
 预览:<br>
-<img src="https://github.com/Iojjj/RoundedCornersBackgroundSpan/raw/master/images/demo.png" width="30%"/><br>
+<img src="https://github.com/Iojjj/RoundedCornersBackgroundSpan/raw/master/images/2_center.png" width="30%"/><br>
 
 项目名：SlantedTextView<br>
 git地址：https://github.com/HeZaiJin/SlantedTextView<br>
