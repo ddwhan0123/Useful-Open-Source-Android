@@ -66,6 +66,11 @@ git地址：https://github.com/saiwu-bigkoo/Android-PickerView<br>
 预览:<br>
 <img src="https://github.com/saiwu-bigkoo/PickerView/raw/master/preview/pickerdemo.gif" width="30%"/><br>
 
+
+项目名：EasyDialog<br>
+git地址：https://github.com/michaelye/EasyDialog<br>
+预览:<br>
+<img src="https://github.com/michaelye/EasyDialog/raw/master/demo.gif" width="26%"/><br>
 ----------------
 
 
