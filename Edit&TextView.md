@@ -6,7 +6,10 @@
 
 ### EditText<br>
 
-
+项目名： MoneyTextView<br>
+git地址：https://github.com/andyken/MoneyTextView<br>
+预览:<br>
+<img src="https://github.com/andyken/MoneyTextView/raw/master/sample/sample1.gif" width="27%"/><br>
 
 项目名： HtmlBuilder<br>
 git地址：https://github.com/jaredrummler/HtmlBuilder<br>
@@ -80,7 +83,7 @@ git地址：https://github.com/nekocode/Emojix<br>
 项目名： Android-WYSIWYG-Editor<br>
 git地址：https://github.com/irshuLx/Android-WYSIWYG-Editor<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/irshuLx/laser-native-editor/master/screens/gif-2.gif" width="30%"/><br>
+<img src="https://github.com/irshuLx/Android-WYSIWYG-Editor/raw/master/screens/ezgif-3-b3c73d7be8.gif" width="30%"/><br>
 
 项目名： RichText<br>
 git地址：https://github.com/zzhoujay/RichText<br>
@@ -163,6 +166,10 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 ### TextView<br>
 
 
+项目名： BkVASPhoneViewAndroid<br>
+git地址：https://github.com/Backelite/BkVASPhoneViewAndroid<br>
+预览:<br>
+<img src="https://github.com/Backelite/BkVASPhoneViewAndroid/raw/master/assets/BkVASPhoneView_overview.jpg" width="24%"/><br>
 
 项目名： social-text-view<br>
 git地址：https://github.com/tylersuehr7/social-text-view<br>
