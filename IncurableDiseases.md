@@ -306,7 +306,10 @@ Chinese Copywriting Guidelines / 中文文案排版指北<br>
 
 
 
-
+项目名：EasyIncrementalUpdate<br>
+git地址：https://github.com/yale8848/EasyIncrementalUpdate<br>
+解释:<br>
+Android差分补丁库，通过native层合并APK，实现增量更新升级，让你更新的APK更小<br>
 
 项目名：gradle-packer-plugin<br>
 git地址：https://github.com/mcxiaoke/gradle-packer-plugin<br>
