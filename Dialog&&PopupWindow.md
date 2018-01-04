@@ -5,6 +5,12 @@
 
 
 
+
+项目名：BottomSheet<br>
+git地址：https://github.com/michaelbel/BottomSheet<br>
+预览:<br>
+<img src="https://github.com/michaelbel/BottomSheet/raw/master/art/screens/light_4.png" width="25%"/><br>
+
 项目名：android-target-tooltip<br>
 git地址：https://github.com/sephiroth74/android-target-tooltip<br>
 预览:<br>
