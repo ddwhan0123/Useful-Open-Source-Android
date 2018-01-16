@@ -7,7 +7,10 @@
 ### 特殊业务场景图片处理：<br>
 
 
-
+项目名：yasea<br>
+git地址：https://github.com/begeekmyfriend/yasea<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/0cdf1cf81f3b4a18733fec8f81919c771e6099ff/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f613136643736386267773166396575776966666f626a323075303168637469782e6a7067" width="28%"/><br>
 
 项目名：Resizer<br>
 git地址：https://github.com/hkk595/Resizer<br>
