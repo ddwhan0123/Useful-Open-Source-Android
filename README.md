@@ -165,6 +165,11 @@
 ## 自定义控件/动画:<br>
 
 
+项目名：smartTable<br>
+git地址：https://github.com/huangyanbin/smartTable<br>
+预览:<br>
+<img src="https://github.com/huangyanbin/smartTable/raw/master/img/seat.jpg" width="28%"/>
+
 项目名：LongShadow<br>
 git地址：https://github.com/florent37/LongShadow<br>
 预览:<br>
