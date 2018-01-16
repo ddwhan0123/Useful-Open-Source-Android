@@ -5,6 +5,11 @@
 
 
 
+项目名：FancyToast-Android<br>
+git地址:https://github.com/Shashank02051997/FancyToast-Android<br>
+预览:<br>
+<img src="https://github.com/Shashank02051997/FancyToast-Android/raw/master/fancytoastcollage.png" width="30%"/><br>
+
 项目名：StyleableToast<br>
 git地址:https://github.com/Muddz/StyleableToast<br>
 预览:<br>
