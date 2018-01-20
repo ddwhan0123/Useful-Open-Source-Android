@@ -3,6 +3,10 @@
 
 
 
+项目名：CloudReader<br>
+git地址：https://github.com/youlookwhat/CloudReader<br>
+预览:<br>
+<img src="https://github.com/youlookwhat/CloudReader/raw/master/file/page_gank_00.png" width="28%" />
 
 项目名：Android-AlarmManagerClock<br>
 git地址：https://github.com/loonggg/Android-AlarmManagerClock<br>
@@ -56,11 +60,6 @@ git地址：https://github.com/hefuyicoder/ListenerMusicPlayer<br>
 <img src="https://github.com/hefuyicoder/ListenerMusicPlayer/raw/master/materials/screenshot.png" width="39%" />
 
 
-项目名：typecho-theme-material<br>
-git地址：https://github.com/viosey/typecho-theme-material<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/e73ac90ed66cf931e69c629d33bfa407d179fadf/68747470733a2f2f71696e69752e76696f7365792e636f6d2f696d672f7479706563686f2d7468656d652d6d6174657269616c2d73637265656e73686f742e6a7067" width="44%" />
-
 项目名：UPMiss<br>
 git地址：https://github.com/qiujuer/UPMiss<br>
 预览:<br>
@@ -89,7 +88,7 @@ git地址：https://github.com/marktony/Translator<br>
 项目名：UGank<br>
 git地址：https://github.com/Bakumon/UGank<br>
 预览:<br>
-<img src="https://github.com/Bakumon/UGank/raw/master/art/ugank1.png" width="30%" />
+<img src="https://github.com/Bakumon/UGank/raw/livedata/art/ugank.png" width="30%" />
 
 项目名：remusic<br>
 git地址：https://github.com/aa112901/remusic<br>
@@ -142,19 +141,13 @@ git地址：https://github.com/a371166028/likequanmintv<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/aafb4558f73227e6f896edb55d2f9431932b3ac6/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313631323031303934383231393736" width="30%" />
 
-项目名：murmur<br>
-git地址：https://github.com/nekocode/murmur<br>
-解释：<br>
-Murmur 是一个带 白噪声 效果的豆瓣电台第三方客户端<br>
-预览:<br>
-<img src="https://github.com/nekocode/murmur/raw/master/art/screenshot2.png" width="30%" />
 
 项目名：jianshi<br>
 git地址：https://github.com/wingjay/jianshi<br>
 解释：<br>
 A Full-Stack mobile app, including Android & Server, Simple-Poem 简诗. You can write poem in graceful & traditional Chinese style. http://www.jianshu.com/p/cf496fc408b2<br>
 预览:<br>
-<img src="https://github.com/wingjay/jianshi/raw/master/material/screenshots/with_phone/3.PNG" width="30%" />
+<img src="https://github.com/wingjay/jianshi/raw/master/material/screenshots/with_phone/1.PNG" width="30%" />
 
 项目名：FastApp<br>
 git地址：https://github.com/closedevice/FastApp<br>
@@ -226,12 +219,6 @@ An unofficial client of gank.io, based on Flux pattern and Rx series.<br>
 预览:<br>
 <img src="https://github.com/JohnnyShieh/Gank/raw/master/screenshots/today.jpg" width="30%" />
 
-项目名：zikobot<br>
-git地址：https://github.com/joxad/zikobot<br>
-解释：<br>
-This project is an open-source alarm using Spotify SDK + Databinding + Dagger 2 <br>
-预览:<br>
-<img src="https://github.com/joxad/zikobot/raw/master/images/light_playstore.png" width="30%" />
 
 项目名：EasyGank<br>
 git地址：https://github.com/CaMnter/EasyGank<br>
@@ -400,7 +387,7 @@ git地址:https://github.com/code-crusher/EasyWeather<br>
 项目名：quill<br>
 git地址:https://github.com/vickychijwani/quill<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/3667c6d3c932088abb6305982635399c6990f952/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f333033373833312f7175696c6c2d6769746875622f666561747572652d677261706869632e706e67" width="30%"/><br>
+<img src="https://github.com/vickychijwani/quill/raw/master/screenshots/demo.gif" width="30%"/><br>
 
 项目名：BookShelf<br>
 git地址:https://github.com/iHaPBoy/BookShelf<br>
