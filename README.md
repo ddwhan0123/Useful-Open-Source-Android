@@ -165,6 +165,11 @@
 ## 自定义控件/动画:<br>
 
 
+项目名：transitioner<br>
+git地址：https://github.com/dev-labs-bg/transitioner<br>
+预览:<br>
+<img src="https://github.com/dev-labs-bg/transitioner/raw/master/preview1.gif" width="28%"/>
+
 项目名：smartTable<br>
 git地址：https://github.com/huangyanbin/smartTable<br>
 预览:<br>
