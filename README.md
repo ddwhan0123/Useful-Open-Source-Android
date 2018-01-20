@@ -164,6 +164,10 @@
 
 ## 自定义控件/动画:<br>
 
+项目名：ExpansionPanel<br>
+git地址：https://github.com/florent37/ExpansionPanel<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/florent37/ExpansionPanel/master/medias/video1.gif" width="28%"/>
 
 项目名：transitioner<br>
 git地址：https://github.com/dev-labs-bg/transitioner<br>
