@@ -204,7 +204,7 @@ git地址：https://github.com/Yalantis/GuillotineMenu-Android<br>
 项目名：FloatMenuSample<br>
 git地址：https://github.com/fanOfDemo/FloatMenuSample<br>
 预览:<br>
-<img src="https://github.com/fanOfDemo/FloatMenuSample/blob/master/pickture/201605031543.gif" width="30%"/>
+<img src="https://github.com/fanOfDemo/FloatMenuSample/raw/master/picture/floatmenu2.gif" width="30%"/>
 
 
 项目名：CircularFloatingActionMenu<br>
@@ -264,7 +264,7 @@ git地址：https://github.com/gyf-dev/ImmersionBar<br>
 项目名：collapsingtoolbarlayout-subtitle<br>
 git地址：https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle<br>
 预览:<br>
-<img src="https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle/raw/master/art/demo_collapsingtoolbarlayout-subtitle.gif" width="30%" />
+<img src="https://github.com/hendraanggrian/collapsingtoolbarlayout-subtitle/raw/master/art/demo.gif" width="30%" />
 
 项目名：CookieBar<br>
 git地址：https://github.com/liuguangqiang/CookieBar<br>
