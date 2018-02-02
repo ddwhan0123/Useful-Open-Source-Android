@@ -196,7 +196,12 @@ README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.c
 ### 知识累积/博客/电子书/文档<br>
 
 
-
+项目名：awesome-adb<br>
+git地址：https://github.com/mzlogin/awesome-adb<br>
+预览:<br>
+<img src="https://github.com/mzlogin/awesome-adb/raw/master/assets/title.png" width="30%"/><br>
+解释:<br>
+ADB Usage Complete / ADB 用法大全<br>
 
 项目名：GreatArticles<br>
 git地址：https://github.com/maoruibin/GreatArticles<br>
