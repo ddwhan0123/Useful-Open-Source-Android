@@ -113,7 +113,7 @@ git地址：https://github.com/handsomezhou/PinyinSearchLibrary<br>
 项目名：Fragmentation<br>
 git地址：https://github.com/YoKeyword/Fragmentation<br>
 预览:<br>
-<img src="https://github.com/YoKeyword/Fragmentation/raw/master/gif/demo.gif" width="30%"/><br>
+<img src="https://github.com/YoKeyword/Fragmentation/raw/master/gif/demo1.gif" width="30%"/><br>
 解释：<br>
 A powerful library that manage Fragment for Android!<br>
 
