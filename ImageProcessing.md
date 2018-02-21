@@ -168,7 +168,7 @@ git地址：https://github.com/nicewarm/WeChatImageClipping<br>
 项目名：SmartCropper<br>
 git地址：https://github.com/pqpo/SmartCropper<br>
 预览:<br>
-<img src="https://github.com/pqpo/SmartCropper/raw/master/art/advance_crop.png" width="30%" /><br>
+<img src="https://github.com/pqpo/SmartCropper/raw/master/art/smartcropper_photo.gif" width="30%" /><br>
 
 项目名：cropiwa<br>
 git地址：https://github.com/steelkiwi/cropiwa<br>
