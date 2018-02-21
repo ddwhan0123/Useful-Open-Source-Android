@@ -163,6 +163,10 @@ git地址：https://github.com/nicewarm/WeChatImageClipping<br>
 
 
 
+项目名：StickerView<br>
+git地址：https://github.com/wuapnjie/StickerView<br>
+预览:<br>
+<img src="https://github.com/wuapnjie/StickerView/raw/master/screenshots/screenshot1.png" width="30%" /><br>
 
 
 项目名：SmartCropper<br>
@@ -582,10 +586,6 @@ git地址：https://github.com/WeLikeVis/CameraFilter<br>
 预览:<br>
 <img src="https://github.com/WeLikeVis/CameraFilter/raw/master/art/4.png" width="30%" /><br>
 
-项目名：StickerView<br>
-git地址：https://github.com/wuapnjie/StickerView<br>
-预览:<br>
-<img src="https://github.com/wuapnjie/StickerView/raw/master/screenshots/stickerview.gif" width="30%" /><br>
 
 项目名：LowPolyAndroid<br>
 git地址：https://github.com/zzhoujay/LowPolyAndroid<br>
