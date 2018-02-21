@@ -15,3 +15,8 @@ git地址：https://github.com/Justson/AgentWeb<br>
 <img src="https://github.com/Justson/AgentWeb/raw/master/img/wechat%20pay.png" width="30%"/><br>
 解释：<br>
 AgentWeb is a powerful library based on Android WebView. 
+
+项目名：Android-AdvancedWebView<br>
+git地址：https://github.com/delight-im/Android-AdvancedWebView<br>
+解释：<br>
+Enhanced WebView component for Android that works as intended out of the box
