@@ -1,31 +1,45 @@
 
 ## 图片选择器/编辑器/加载 相关:<br>
 
+###圆角图片控件:<br>
 
 
-
-### 特殊业务场景图片处理：<br>
-
-
-项目名：yasea<br>
-git地址：https://github.com/begeekmyfriend/yasea<br>
+项目名：CircleImageView<br>
+git地址：https://github.com/zuoweitan/CircleImageView<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/0cdf1cf81f3b4a18733fec8f81919c771e6099ff/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f613136643736386267773166396575776966666f626a323075303168637469782e6a7067" width="28%"/><br>
+<img src="https://github.com/zuoweitan/CircleImageView/raw/master/screen_shot.png" width="30%"/><br>
 
-项目名：Resizer<br>
-git地址：https://github.com/hkk595/Resizer<br>
+项目名：ShapedImageView<br>
+git地址：https://github.com/gavinliu/ShapedImageView<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/hkk595/Resizer/master/app/src/main/res/drawable/library_logo.png" width="28%"/><br>
+<img src="https://github.com/gavinliu/ShapedImageView/raw/master/screenshots1.png" width="30%"/><br>
+
+项目名：CircularImageView<br>
+git地址：https://github.com/subinkrishna/CircularImageView<br>
+预览:<br>
+<img src="https://github.com/subinkrishna/CircularImageView/raw/master/art/cat.png" width="30%"/><br>
 
 项目名：CircularImageview<br>
 git地址：https://github.com/sparrow007/CircularImageview<br>
 预览:<br>
 <img src="https://user-images.githubusercontent.com/22986571/30037960-998918f8-91dd-11e7-904e-dd9252349788.png" width="28%"/><br>
 
+
 项目名：RoundedImageView<br>
 git地址：https://github.com/vinc3m1/RoundedImageView<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/d4970a90842c50a708f94b7bd996657c41ab62fb/68747470733a2f2f7261772e6769746875622e636f6d2f6d616b6572616d656e2f526f756e646564496d616765566965772f6d61737465722f73637265656e73686f742d6f76616c2e706e67" width="23%"/><br>
+
+
+### 特殊业务场景图片处理：<br>
+
+项目名：Resizer<br>
+git地址：https://github.com/hkk595/Resizer<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/hkk595/Resizer/master/app/src/main/res/drawable/library_logo.png" width="28%"/><br>
+
+
+
 
 项目名：DismissibleImageView<br>
 git地址：https://github.com/dmallcott/DismissibleImageView<br>
@@ -78,10 +92,7 @@ git地址：https://github.com/zhangyuChen1991/Roll3DImageView<br>
 预览:<br>
 <img src="https://github.com/zhangyuChen1991/some_sources/raw/master/3DView/spe.gif" width="30%"/><br>
 
-项目名：CircularImageView<br>
-git地址：https://github.com/subinkrishna/CircularImageView<br>
-预览:<br>
-<img src="https://github.com/subinkrishna/CircularImageView/raw/master/art/cat.png" width="30%"/><br>
+
 
 项目名：ImageZoom<br>
 git地址：https://github.com/okaybroda/ImageZoom<br>
@@ -120,10 +131,7 @@ git地址：https://github.com/jineshfrancs/CaptchaImageView<br>
 预览:<br>
 <img src="https://github.com/jineshfrancs/CaptchaImageView/raw/master/screens/captcha_screen.gif" width="30%"/><br>
 
-项目名：ShapedImageView<br>
-git地址：https://github.com/gavinliu/ShapedImageView<br>
-预览:<br>
-<img src="https://github.com/gavinliu/ShapedImageView/raw/master/screenshots1.png" width="30%"/><br>
+
 
 项目名：NineGridImageView<br>
 git地址：https://github.com/laobie/NineGridImageView<br>
@@ -135,10 +143,6 @@ git地址：https://github.com/gjiazhe/ScrollParallaxImageView<br>
 预览:<br>
 <img src="https://github.com/gjiazhe/ScrollParallaxImageView/raw/master/screenshot/ss1.gif" width="30%"/><br>
 
-项目名：CircleImageView<br>
-git地址：https://github.com/zuoweitan/CircleImageView<br>
-预览:<br>
-<img src="https://github.com/zuoweitan/CircleImageView/raw/master/screen_shot.png" width="30%"/><br>
 
 项目名：WeChatImageClipping<br>
 git地址：https://github.com/nicewarm/WeChatImageClipping<br>
