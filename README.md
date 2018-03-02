@@ -164,6 +164,11 @@
 
 ## 自定义控件/动画:<br>
 
+项目名：Long-Shadows<br>
+git地址：https://github.com/harjot-oberai/Long-Shadows<br>
+预览:<br>
+<img src="https://github.com/harjot-oberai/Long-Shadows/raw/master/screens/cover.png" width="38%"/>
+
 项目名：ExpansionPanel<br>
 git地址：https://github.com/florent37/ExpansionPanel<br>
 预览:<br>
