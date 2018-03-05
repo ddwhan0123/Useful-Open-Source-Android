@@ -110,11 +110,14 @@
 ## Switch 相关:<br>
 ## [点击跳转 Switch.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Switch.md)
 
+
 ## TimePicker 相关:<br>
 ## [点击跳转 TimePicker.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/TimePicker.md)
 
+
 ## ViewPager 相关:<br>
 ## [点击跳转 ViewPager.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/ViewPager.md)
+
 
 
 
@@ -126,24 +129,30 @@
 ## [点击跳转 Edit&TextView.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Edit&TextView.md)
 
 
+
 ## Notification 相关:<br>
 ## [点击跳转 Notification.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Notification.md)
+
 
 
 ## 数据库:<br>
 ## [点击跳转 Dao.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Dao.md)
 
 
+
 ## Progress 相关:<br>
 ## [点击跳转 Progress.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Progress.md)
+
 
 
 ## 招聘/内推:<br>
 ## [点击跳转 Job.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Job.md)
 
 
+
 ## 路由跳转:<br>
 ## [点击跳转 Router.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Router.md)
+
 
 ## Log相关:<br>
 ## [点击跳转 Log.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Log.md)
@@ -151,6 +160,7 @@
 
 ## Json&Xml相关:<br>
 ## [点击跳转 Json&Xml.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Json&Xml.md)
+
 
 ## LockView相关:<br>
 ## [点击跳转 LockView&Xml.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/LockView.md)
@@ -161,6 +171,8 @@
 
 
 
+## SeekBar相关:<br>
+## [点击跳转 SeekBar.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/SeekBar.md)
 
 ## 自定义控件/动画:<br>
 
@@ -234,10 +246,6 @@ git地址：https://github.com/mohak1712/UberUX<br>
 预览:<br>
 <img src="https://user-images.githubusercontent.com/12782512/28917901-e7eac470-7864-11e7-87f8-97227d75a721.gif" width="20%"/>
 
-项目名：BubbleSeekBar<br>
-git地址：https://github.com/sathishmscict/BubbleSeekBar<br>
-预览:<br>
-<img src="https://github.com/woxingxiao/BubbleSeekBar/raw/master/screenshot/demo4.gif" width="23%"/>
 
 项目名：android_additive_animations<br>
 git地址：https://github.com/wirecube/android_additive_animations<br>
