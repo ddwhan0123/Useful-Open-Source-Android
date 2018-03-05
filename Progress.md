@@ -16,11 +16,6 @@ git地址：https://github.com/HotBitmapGG/RingProgressBar<br>
 预览:<br>
 <img src="https://github.com/HotBitmapGG/RingProgressBar/raw/master/art/03.gif" width="28%" />
 
-项目名：LinearTimer<br>
-git地址：https://github.com/krtkush/LinearTimer<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/krtkush/LinearTimer/master/Screenshots/demo.gif" width="28%" />
-
 
 项目名：CircleTimerView<br>
 git地址：https://github.com/jiahuanyu/CircleTimerView<br>
@@ -138,10 +133,7 @@ git地址：https://github.com/harjot-oberai/Croller<br>
 
 
 
-项目名：ArcSeekBar<br>
-git地址：https://github.com/MarcinMoskala/ArcSeekBar<br>
-预览:<br>
-<img src="https://github.com/MarcinMoskala/ArcSeekBar/raw/master/art/flow.gif" width="28%" />
+
 
 项目名：android-slidr<br>
 git地址：https://github.com/florent37/android-slidr<br>
@@ -153,10 +145,6 @@ git地址：https://github.com/Diffey/ProgressView<br>
 预览:<br>
 <img src="https://github.com/Diffey/ProgressView/raw/master/sc1.png" width="30%"/>
 
-项目名：PreviewSeekBar<br>
-git地址：https://github.com/rubensousa/PreviewSeekBar<br>
-预览:<br>
-<img src="https://github.com/rubensousa/PreviewSeekBar/raw/master/screenshots/playmovies.gif" width="30%"/>
 
 项目名：ZYDownloading<br>
 git地址：https://github.com/zhangyuChen1991/ZYDownloading<br>
@@ -185,16 +173,7 @@ git地址：https://github.com/YangShaoXiong/LikeSinaSportProgress<br>
 预览:<br>
 <img src="https://github.com/YangShaoXiong/LikeSinaSportProgress/raw/master/screenshot/image.gif" width="30%" />
 
-项目名：crystal-range-seekbar<br>
-git地址：https://github.com/syedowaisali/crystal-range-seekbar<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/a91a36fcd741020ed5fa45e4f6eb3860c4b3ddcf/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3042396244454e794941425436636e68334d5859335457737451574d" width="30%" />
 
-
-项目名：discreteSeekBar<br>
-git地址：https://github.com/AnderWeb/discreteSeekBar<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/b1c5e00bc9164c24b995a95942dbb731edd8d39e/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d4a6a7678564d436d3175672f56485550575642667062492f41414141414141414874512f5450746f4f6a4849354d412f773633392d683335362f7365656b626172322e676966" width="30%" />
 
 
 
