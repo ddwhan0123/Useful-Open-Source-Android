@@ -379,10 +379,6 @@ git地址：https://github.com/ImKarl/WaitView<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/ImKarl/WaitView/master/captures/layout_waitview.png" width="24%"/>
 
-项目名：BouncyLayout<br>
-git地址：https://github.com/roberthein/BouncyLayout<br>
-预览:<br>
-<img src="https://github.com/roberthein/BouncyLayout/raw/master/art/gifs/photos.gif" width="24%"/>
 
 项目名：PolygonDrawingUtil<br>
 git地址：https://github.com/stkent/PolygonDrawingUtil<br>
@@ -443,10 +439,6 @@ git地址：https://github.com/ar-android/DrawRouteMaps<br>
 预览:<br>
 <img src="https://github.com/ar-android/DrawRouteMaps/raw/master/example-app.png" width="30%"/>
 
-项目名：Badger<br>
-git地址：https://github.com/volders/Badger<br>
-预览:<br>
-<img src="https://github.com/volders/Badger/raw/master/assets/example.png" width="30%"/>
 
 项目名：spruce-android<br>
 git地址：https://github.com/willowtreeapps/spruce-android<br>
@@ -615,26 +607,12 @@ git地址：https://github.com/hugeterry/CoordinatorTabLayout<br>
 预览:<br>
 <img src="https://github.com/hugeterry/CoordinatorTabLayout/raw/master/showUI/show1.gif" width="30%"/>
 
-项目名：shared-element-transition-samples<br>
-git地址：https://github.com/afollestad/shared-element-transition-samples<br>
-预览:<br>
-<img src="https://github.com/afollestad/shared-element-transition-samples/raw/master/showcase1.gif" width="30%"/>
-
 
 项目名：Wiggle<br>
 git地址：https://github.com/kubode/Wiggle<br>
 预览:<br>
 <img src="https://github.com/kubode/Wiggle/raw/master/img/image.gif" width="30%"/>
 
-项目名：SlideUp-Android<br>
-git地址：https://github.com/mancj/SlideUp-Android<br>
-预览:<br>
-<img src="https://github.com/mancj/mancj.github.io/raw/master/other/slideup-art/art1.gif" width="30%"/>
-
-项目名：Badger<br>
-git地址：https://github.com/volders/Badger<br>
-预览:<br>
-<img src="https://github.com/volders/Badger/raw/master/assets/example.png" width="30%"/>
 
 项目名：FlipperView<br>
 git地址：https://github.com/JuniperPhoton/FlipperView<br>
@@ -678,10 +656,6 @@ git地址：https://github.com/JetradarMobile/desertplaceholder<br>
 预览:<br>
 <img src="https://github.com/JetradarMobile/DesertPlaceholder/raw/master/art/desertplaceholder.gif" width="30%"/>
 
-项目名：GoogleMapsAnimations<br>
-git地址：https://github.com/aarsy/GoogleMapsAnimations<br>
-预览:<br>
-<img src="https://github.com/aarsy/GoogleMapsAnimations/raw/master/gifs/Sample1.gif" width="30%"/>
 
 项目名：excelPanel<br>
 git地址：https://github.com/zhouchaoyuan/excelPanel<br>
@@ -734,10 +708,6 @@ git地址：https://github.com/wajahatkarim3/EasyFlipView<br>
 预览:<br>
 <img src="https://github.com/wajahatkarim3/EasyFlipView/raw/master/Art/demo.gif" width="30%"/>
 
-项目名：YinyuetaiPlayer<br>
-git地址：https://github.com/oubowu/YinyuetaiPlayer<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/618adc488b5a8701a71fb95d9541753f70db4720/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313938323436372d656661366463646535613337333030622e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="30%"/>
 
 项目名：GABottleLoading<br>
 git地址：https://github.com/Ajian-studio/GABottleLoading<br>
