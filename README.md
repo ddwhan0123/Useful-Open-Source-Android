@@ -1292,8 +1292,3 @@ git地址：https://github.com/nbsp-team/MaterialFilePicker<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/89e8e63f14922125ab7a6c5734065e24a5413efa/68747470733a2f2f692e696d6775722e636f6d2f6d6a787330356e2e706e67" width="40%"/><br>
 描述：Material file picker for Android<br>
-
-项目名：Particle<br>
-git地址:https://github.com/JeasonWong/Particle<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/jeasonwong/Particle
