@@ -1064,10 +1064,6 @@ git地址：https://github.com/diamondlin2016/LauncherView<br>
 预览:<br>
 <img src="https://github.com/diamondlin2016/LauncherView/raw/master/LauncherView.gif" width="30%"/>
 
-项目名：CoordinatorLayoutHelper<br>
-git地址：https://github.com/mugku/CoordinatorLayoutHelper<br>
-预览:<br>
-<img src="https://github.com/mugku/CoordinatorLayoutHelper/raw/master/art/coordinatorlayouthelperscreenshot.gif" width="30%"/>
 
 项目名：OneStep<br>
 git地址：https://github.com/android-cjj/OneStep<br>
