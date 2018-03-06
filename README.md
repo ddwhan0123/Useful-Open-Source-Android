@@ -9,7 +9,7 @@
 
 
 
-### 更新时间:2018-3-5<br>
+### 更新时间:2018-3-6<br>
 
 
 
@@ -175,6 +175,11 @@
 ## [点击跳转 SeekBar.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/SeekBar.md)
 
 ## 自定义控件/动画:<br>
+
+项目名：direct-select-android<br>
+git地址：https://github.com/Ramotion/direct-select-android<br>
+预览:<br>
+<img src="https://github.com/Ramotion/direct-select-android/raw/master/direct_select_preview.gif" width="38%"/>
 
 项目名：Long-Shadows<br>
 git地址：https://github.com/harjot-oberai/Long-Shadows<br>
