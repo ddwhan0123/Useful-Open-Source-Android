@@ -78,7 +78,7 @@ git地址：https://github.com/psaravan/JamsMusicPlayer<br>
 项目名：ExoPlayerVideoView<br>
 git地址：https://github.com/JarvanMo/ExoPlayerVideoView<br>
 预览:<br>
-<img src="https://github.com/JarvanMo/ExoPlayerVideoView/raw/master/images/brightness_new.png" width="30%"/><br>
+<img src="https://github.com/JarvanMo/ExoPlayerVideoView/raw/master/images/demo.gif" width="30%"/><br>
 
 项目名：AutoplayVideos<br>
 git地址：https://github.com/Krupen/AutoplayVideos<br>
@@ -174,6 +174,10 @@ Convert audio files inside your Android app easily. Supported formats: AAC, MP3,
 ### 多媒体处理<br>
 
 
+项目名：Android-Video-Trimmer<br>
+git地址：https://github.com/iknow4/Android-Video-Trimmer<br>
+预览:<br>
+<img src="https://github.com/iknow4/iknow.Images/raw/master/gif/videoTrim.gif?raw=true" width="30%" />
 
 项目名：ffmpeg-android-java<br>
 git地址：https://github.com/WritingMinds/ffmpeg-android-java<br>
