@@ -450,7 +450,7 @@ git地址：https://github.com/CymChad/BaseRecyclerViewAdapterHelper<br>
 项目名：sectioned-recyclerview<br>
 git地址：https://github.com/afollestad/sectioned-recyclerview<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/afollestad/sectioned-recyclerview/master/art/showcase.png" width="30%"/><br>
+<img src="https://raw.githubusercontent.com/afollestad/sectioned-recyclerview/master/art/showcase3.png" width="30%"/><br>
 
 项目名：sicooDemo<br>
 git地址：https://github.com/daimaXZ/sicooDemo<br>
@@ -461,11 +461,6 @@ git地址：https://github.com/daimaXZ/sicooDemo<br>
 git地址：https://github.com/jiahuahuang/AndroidDatabinding<br>
 解释:<br>
 一个关于Data Binding的基本使用和recyclerview的通用适配器<br>
-
-项目名：FocusResize<br>
-git地址：https://github.com/borjabravo10/FocusResize<br>
-预览:<br>
-<img src="https://github.com/borjabravo10/FocusResize/raw/master/resources/focusResize.gif" width="30%"/><br>
 
 项目名：AdapterDelegates<br>
 git地址：https://github.com/sockeqwe/AdapterDelegates<br>
@@ -587,7 +582,7 @@ git地址：https://github.com/JoanZapata/base-adapter-helper<br>
 项目名：BaseRecyclerViewAdapterHelper<br>
 git地址：https://github.com/CymChad/BaseRecyclerViewAdapterHelper<br>
 预览:<br>
-<img src="https://github.com/CymChad/BaseRecyclerViewAdapterHelper/raw/master/demo_res/demo.gif" width="320x"> <br>
+<img src="https://user-images.githubusercontent.com/7698209/33198075-ef8f2230-d123-11e7-85a3-4cb9b22f877d.png" width="30%"> <br>
 
 项目名：gesture-recycler<br>
 git地址：https://github.com/thesurix/gesture-recycler<br>
