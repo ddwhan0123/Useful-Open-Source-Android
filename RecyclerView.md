@@ -592,7 +592,7 @@ git地址：https://github.com/thesurix/gesture-recycler<br>
 项目名：drag-select-recyclerview<br>
 git地址：https://github.com/afollestad/drag-select-recyclerview<br>
 预览:<br>
-<img src="https://github.com/afollestad/drag-select-recyclerview/raw/master/art/showcase.gif" width="320x"> <br>
+<img src="https://github.com/afollestad/drag-select-recyclerview/raw/master/art/showcase2.gif"width="30%"> <br>
 
 项目名：recyclerviewhelper<br>
 git地址：https://github.com/nisrulz/recyclerviewhelper<br>
@@ -691,7 +691,7 @@ git地址：https://github.com/evant/binding-collection-adapter<br>
 项目名：RendererRecyclerViewAdapter<br>
 git地址：https://github.com/vivchar/RendererRecyclerViewAdapter<br>
 预览:<br>
-<img src="https://github.com/vivchar/RendererRecyclerViewAdapter/raw/master/example1.gif" width="30%"/><br>
+<img src="https://github.com/vivchar/RendererRecyclerViewAdapter/raw/master/example/example.gif" width="30%"/><br>
 
 项目名：SlimAdapter<br>
 git地址：https://github.com/MEiDIK/SlimAdapter<br>
