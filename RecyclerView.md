@@ -234,10 +234,6 @@ git地址：https://github.com/TellH/RecyclerTreeView<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/TellH/RecyclerTreeView/master/raw/effect.gif" width="30%"/><br>
 
-项目名：SimpleRecyclerView<br>
-git地址：https://github.com/jaychang0917/SimpleRecyclerView<br>
-预览:<br>
-<img src="https://github.com/jaychang0917/SimpleRecyclerView/raw/master/art/divider.gif" width="30%"/><br>
 
 项目名：RecyclerBanner<br>
 git地址：https://github.com/13456961183/RecyclerBanner<br>
@@ -442,10 +438,6 @@ git地址：https://github.com/eyeem/RecyclerViewTools<br>
 解释:<br>
 Collection of tools for RecyclerView. Includes headers, sections, pull to refresh, etc<br>
 
-项目名：BaseRecyclerViewAdapterHelper<br>
-git地址：https://github.com/CymChad/BaseRecyclerViewAdapterHelper<br>
-预览:<br>
-<img src="https://github.com/CymChad/BaseRecyclerViewAdapterHelper/raw/master/demo_res/chlid_click.gif" width="30%"/><br>
 
 项目名：sectioned-recyclerview<br>
 git地址：https://github.com/afollestad/sectioned-recyclerview<br>
@@ -572,12 +564,12 @@ git地址：https://github.com/ShamylZakariya/StickyHeaders<br>
 项目名：Sectioned-RecyclerView<br>
 git地址：https://github.com/IntruderShanky/Sectioned-RecyclerView<br>
 预览:<br>
-<img src="https://github.com/IntruderShanky/Sectioned-RecyclerView/raw/master/SectionRecyclerView.gif" width="320x"> <br>
+<img src="https://github.com/IntruderShanky/Sectioned-RecyclerView/raw/master/demo.gif" width="30%"> <br>
 
 项目名：base-adapter-helper<br>
 git地址：https://github.com/JoanZapata/base-adapter-helper<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/94372fad90c2de4c6612d0e396440ebf15298abc/68747470733a2f2f7261772e6769746875622e636f6d2f4a6f616e5a61706174612f626173652d616461707465722d68656c7065722f6d61737465722f6865616465722e706e67" width="320x"> <br>
+<img src="https://camo.githubusercontent.com/94372fad90c2de4c6612d0e396440ebf15298abc/68747470733a2f2f7261772e6769746875622e636f6d2f4a6f616e5a61706174612f626173652d616461707465722d68656c7065722f6d61737465722f6865616465722e706e67" width="30%"> <br>
 
 项目名：BaseRecyclerViewAdapterHelper<br>
 git地址：https://github.com/CymChad/BaseRecyclerViewAdapterHelper<br>
@@ -587,12 +579,12 @@ git地址：https://github.com/CymChad/BaseRecyclerViewAdapterHelper<br>
 项目名：gesture-recycler<br>
 git地址：https://github.com/thesurix/gesture-recycler<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/28ae912dfce010fa1443fcb1759891b04871b85b/687474703a2f2f692e67697068792e636f6d2f7854394450476b52556b5069483351756d342e676966" width="320x"> <br>
+<img src="https://camo.githubusercontent.com/4b006982df5d15b87595ea5e6f2b4430e47780f5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c33646a3245686e41476b355a776954532f67697068792e676966" width="30%"> <br>
 
 项目名：drag-select-recyclerview<br>
 git地址：https://github.com/afollestad/drag-select-recyclerview<br>
 预览:<br>
-<img src="https://github.com/afollestad/drag-select-recyclerview/raw/master/art/showcase2.gif"width="30%"> <br>
+<img src="https://github.com/afollestad/drag-select-recyclerview/raw/master/art/showcase2.gif" width="30%"> <br>
 
 项目名：recyclerviewhelper<br>
 git地址：https://github.com/nisrulz/recyclerviewhelper<br>
