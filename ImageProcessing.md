@@ -161,7 +161,10 @@ git地址：https://github.com/nicewarm/WeChatImageClipping<br>
 
 
 
-
+项目名：PhotoEditor<br>
+git地址：https://github.com/burhanrashid52/PhotoEditor<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/369bd281b6e81fff361d03a59285a2db75f1d900/68747470733a2f2f692e696d6775722e636f6d2f494e69354c49792e676966" width="30%" /><br>
 
 项目名：StickerView<br>
 git地址：https://github.com/wuapnjie/StickerView<br>
