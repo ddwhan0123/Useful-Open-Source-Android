@@ -176,6 +176,11 @@
 
 ## 自定义控件/动画:<br>
 
+项目名：RippleLayout<br>
+git地址：https://github.com/SouthernBox/RippleLayout<br>
+预览:<br>
+<img src="https://github.com/SouthernBox/RippleLayout/raw/master/images/RippleLayout.gif" width="38%"/>
+
 项目名：direct-select-android<br>
 git地址：https://github.com/Ramotion/direct-select-android<br>
 预览:<br>
