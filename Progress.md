@@ -134,6 +134,10 @@ git地址：https://github.com/harjot-oberai/Croller<br>
 
 
 
+项目名：fluid-slider-android<br>
+git地址：https://github.com/Ramotion/fluid-slider-android<br>
+预览:<br>
+<img src="https://github.com/Ramotion/fluid-slider-android/raw/master/Fluid-slider.gif" width="30%"/>
 
 项目名：android-slidr<br>
 git地址：https://github.com/florent37/android-slidr<br>
