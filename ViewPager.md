@@ -244,7 +244,10 @@ git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
 
 
 
-
+项目名：ViewPagerLayoutManager<br>
+git地址：https://github.com/leochuan/ViewPagerLayoutManager<br>
+预览:<br>
+<img src="https://github.com/leochuan/ViewPagerLayoutManager/raw/master/static/customize.gif" width="30%"/><br>
 
 项目名：ViewPageTransformer<br>
 git地址：https://github.com/Mran/ViewPageTransformer<br>
