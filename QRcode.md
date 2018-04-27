@@ -35,7 +35,7 @@ git地址：https://github.com/KingsMentor/MobileVisionBarcodeScanner<br>
 项目名：Qart<br>
 git地址：https://github.com/scola/Qart<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/b3484d2714d126883be6a4a1ec69ba8f1ed402a3/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f613135623461666567773166376a6c766f746468776a32306b66306b6664676d2e6a7067" width="30%" /><br>
+<img src="https://camo.githubusercontent.com/33261aa5f41d25b578455e3b934c4e426463ddc1/68747470733a2f2f7261772e6769746875622e636f6d2f73636f6c612f716172742f6d61737465722f73637265656e73686f742f613135623461666567773166376a6c766f746468776a32306b66306b6664676d2e6a7067" width="30%" /><br>
 
 项目名：qcode-decoder<br>
 git地址：https://github.com/cirocosta/qcode-decoder<br>
