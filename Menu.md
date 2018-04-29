@@ -155,7 +155,7 @@ git地址：https://github.com/gumingwei/WellSwipe<br>
 项目名：circle-menu<br>
 git地址：https://github.com/Ramotion/circle-menu<br>
 预览:CircleMenu is a simple, elegant menu with a circular layout<br>
-<img src="https://github.com/Ramotion/circle-menu/raw/master/preview.gif" width="30%"/>
+<img src="https://github.com/Ramotion/circle-menu/raw/master/circle-menu.gif" width="30%"/>
 
 
 
