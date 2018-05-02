@@ -659,7 +659,10 @@ git地址：https://github.com/siwangqishiq/ImageEditor-Android<br>
 
 
 
-
+项目名：Fotoapparat<br>
+git地址：https://github.com/Fotoapparat/Fotoapparat<br>
+预览:<br>
+<img src="https://github.com/Fotoapparat/Fotoapparat/raw/master/sample/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="20%" /><br>
 
 项目名：material-camera<br>
 git地址：https://github.com/afollestad/material-camera<br>
