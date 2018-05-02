@@ -8,6 +8,10 @@
 
 
 
+项目名：android-kline<br>
+git地址:https://github.com/VinsonGuo/android-kline<br>
+预览:<br>
+<img src="https://github.com/VinsonGuo/android-kline/raw/master/art/new_chart.gif" width="25%"/><br>
 
 项目名：GraphView<br>
 git地址:https://github.com/appsthatmatter/GraphView<br>
