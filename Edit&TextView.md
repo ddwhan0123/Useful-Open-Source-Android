@@ -166,6 +166,11 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 ### TextView<br>
 
 
+项目名： PlumbTextView<br>
+git地址：https://github.com/lybeat/PlumbTextView<br>
+预览:<br>
+<img src="https://github.com/lybeat/PlumbTextView/raw/master/screenshot/plumb_textview.gif" width="24%"/><br>
+
 项目名： BkVASPhoneViewAndroid<br>
 git地址：https://github.com/Backelite/BkVASPhoneViewAndroid<br>
 预览:<br>
