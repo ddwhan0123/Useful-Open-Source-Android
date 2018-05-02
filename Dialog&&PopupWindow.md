@@ -6,6 +6,11 @@
 
 
 
+项目名：Flashbar<br>
+git地址：https://github.com/aritraroy/Flashbar<br>
+预览:<br>
+<img src="https://github.com/aritraroy/Flashbar/raw/develop/raw/overlay.gif" width="25%"/><br>
+
 项目名：BottomSheet<br>
 git地址：https://github.com/michaelbel/BottomSheet<br>
 预览:<br>
