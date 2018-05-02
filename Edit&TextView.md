@@ -166,6 +166,11 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 ### TextView<br>
 
 
+项目名： KerningViews<br>
+git地址：https://github.com/aritraroy/KerningViews<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/aritraroy/KerningViews/master/images/screenshot.png" width="24%"/><br>
+
 项目名： PlumbTextView<br>
 git地址：https://github.com/lybeat/PlumbTextView<br>
 预览:<br>
