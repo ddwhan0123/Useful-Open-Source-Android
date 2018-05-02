@@ -176,6 +176,12 @@
 
 ## 自定义控件/动画:<br>
 
+
+项目名：StepView<br>
+git地址：https://github.com/shuhart/StepView<br>
+预览:<br>
+<img src="https://github.com/shuhart/StepView/raw/master/images/animation_line.gif" width="28%"/>
+
 项目名：RippleLayout<br>
 git地址：https://github.com/SouthernBox/RippleLayout<br>
 预览:<br>
