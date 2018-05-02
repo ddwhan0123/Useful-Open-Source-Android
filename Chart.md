@@ -7,6 +7,10 @@
 
 
 
+项目名：KChartView<br>
+git地址:https://github.com/tifezh/KChartView<br>
+预览:<br>
+<img src="https://github.com/tifezh/KChartView/raw/master/img/demo.gif" width="25%"/><br>
 
 项目名：android-kline<br>
 git地址:https://github.com/VinsonGuo/android-kline<br>
