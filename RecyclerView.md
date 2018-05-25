@@ -680,6 +680,8 @@ git地址：https://github.com/evant/binding-collection-adapter<br>
 预览:<br>
 无 （封装的适配器）<br>
 
+
+
 项目名：RendererRecyclerViewAdapter<br>
 git地址：https://github.com/vivchar/RendererRecyclerViewAdapter<br>
 预览:<br>
@@ -689,3 +691,11 @@ git地址：https://github.com/vivchar/RendererRecyclerViewAdapter<br>
 git地址：https://github.com/MEiDIK/SlimAdapter<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/MEiDIK/SlimAdapter/master/SlimAdapter.jpg" width="40%"/><br>
+
+
+### LayoutManager封装<br>
+
+项目名：LayoutManagerGroup<br>
+git地址：https://github.com/DingMouRen/LayoutManagerGroup<br>
+预览:<br>
+<img src="https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/layout_1.gif" width="30%"/><br>
