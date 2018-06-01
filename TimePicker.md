@@ -1,6 +1,11 @@
 ## Time/Date Picker<br>
 
 
+项目名：SuperCalendar<br>
+git地址：https://github.com/MagicMashRoom/SuperCalendar<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/ac37c0f9bd1d3481de578f11bb538182cf40048f/687474703a2f2f6f736e6674736961652e626b742e636c6f7564646e2e636f6d2f73796c6c616275735f322e706e67" width="25%"/><br>
+
 项目名：CalendarView<br>
 git地址：https://github.com/huanghaibin-dev/CalendarView<br>
 预览:<br>
