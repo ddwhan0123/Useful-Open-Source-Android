@@ -2,7 +2,10 @@
 
 
 
-
+项目名：ChipView<br>
+git地址：https://github.com/jahirfiquitiva/ChipView<br>
+预览:<br>
+<img src="https://github.com/jahirfiquitiva/ChipView/raw/master/preview.png" width="26%"/>
 
 项目名：android-MaterialPillsBox<br>
 git地址：https://github.com/orbismobile/android-MaterialPillsBox<br>
