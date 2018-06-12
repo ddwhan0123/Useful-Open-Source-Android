@@ -3,6 +3,11 @@
 
 
 
+项目名：z_comic_new<br>
+git地址：https://github.com/zhhr1122/z_comic_new<br>
+预览:<br>
+<img src="https://github.com/zhhr1122/ZElasticRefreshScrollView/raw/master/image/image1.gif?raw=true?raw=true" width="28%" />
+
 项目名：CloudReader<br>
 git地址：https://github.com/youlookwhat/CloudReader<br>
 预览:<br>
