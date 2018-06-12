@@ -142,6 +142,12 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
+
+项目名：ZoomRecyclerView<br>
+git地址：https://github.com/PortgasAce/ZoomRecyclerView<br>
+预览:<br>
+<img src="https://github.com/PortgasAce/ZoomRecyclerView/raw/master/art/preview.gif" width="30%"/><br>
+
 项目名：VegaLayoutManager<br>
 git地址：https://github.com/xmuSistone/VegaLayoutManager<br>
 预览:<br>
