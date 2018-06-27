@@ -2,7 +2,10 @@
 ## Bottom Navigation 相关:<br>
 
 
-
+项目名：morph-bottom-navigation<br>
+git地址：https://github.com/tommybuonomo/morph-bottom-navigation<br>
+预览:<br>
+<img src="https://user-images.githubusercontent.com/15737675/41736506-026b6fd6-758d-11e8-9be6-7bc217aaa1e8.gif" width="30%" />
 
 项目名：AdaptableBottomNavigation<br>
 git地址：https://github.com/bufferapp/AdaptableBottomNavigation<br>
