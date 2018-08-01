@@ -2,6 +2,12 @@
 ## Bottom Navigation 相关:<br>
 
 
+
+项目名：EnhancedNavigationView<br>
+git地址：https://github.com/florent37/EnhancedNavigationView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/florent37/EnhancedNavigationView/master/medias/video-large.gif" width="40%" />
+
 项目名：morph-bottom-navigation<br>
 git地址：https://github.com/tommybuonomo/morph-bottom-navigation<br>
 预览:<br>
