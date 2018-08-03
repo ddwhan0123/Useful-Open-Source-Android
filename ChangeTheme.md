@@ -4,6 +4,11 @@
 
 
 
+项目名：Android-Skin-Loader<br>
+git地址：https://github.com/fengjundev/Android-Skin-Loader<br>
+预览:<br>
+<img src="https://github.com/fengjundev/Android-Skin-Loader/raw/master/screenshot/demo2.gif" width="30%"/><br><br>
+描述：一个通过动态加载本地皮肤包进行换肤的皮肤框架<br>
 
 
 项目名：AndroidThemeChange<br>
