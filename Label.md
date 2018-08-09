@@ -95,7 +95,7 @@ git地址：https://github.com/dalong982242260/FlowLayout<br>
 项目名：FlexboxUtils<br>
 git地址：https://github.com/Kaka252/FlexboxUtils<br>
 预览:<br>
-<img src="https://github.com/Kaka252/FlexboxUtils/raw/master/screenshot/device-2017-03-28-181547.png?raw=true" width="30%"/><br>
+<img src="https://github.com/dalong982242260/FlowLayout/raw/master/gif/select.gif?raw=true" width="30%"/><br>
 
 项目名：DrawableToolbox<br>
 git地址：https://github.com/duanhong169/DrawableToolbox<br>
