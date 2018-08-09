@@ -25,7 +25,7 @@ git地址：https://github.com/cpiz/BubbleView<br>
 项目名：materialChipView<br>
 git地址：https://github.com/robertlevonyan/materialChipView<br>
 预览:<br>
-<img src="https://github.com/robertlevonyan/materialChipView/raw/master/Images/sample.png" width="30%"/>
+<img src="https://github.com/robertlevonyan/materialChipView/raw/master/Images/chip.png" width="30%"/>
 
 项目名：FlowLayout<br>
 git地址：https://github.com/nex3z/FlowLayout<br>
