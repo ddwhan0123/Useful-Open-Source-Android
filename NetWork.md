@@ -65,6 +65,15 @@ An Android transformation library providing a variety of image transformations f
 
 
 
+项目名：XHttp2<br>
+git地址：https://github.com/xuexiangjys/XHttp2<br>
+预览:<br>
+<img src="https://github.com/xuexiangjys/XHttp2/raw/master/img/demo.gif" width="30%"/>
+
+项目名：chuck<br>
+git地址：https://github.com/jgilfelt/chuck<br>
+预览:<br>
+<img src="https://github.com/jgilfelt/chuck/raw/master/assets/chuck.gif" width="30%"/>
 
 
 项目名：update<br>
