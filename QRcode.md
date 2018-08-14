@@ -5,7 +5,10 @@
 
 
 
-
+项目名：ZXingLite<br>
+git地址：https://github.com/jenly1314/ZXingLite<br>
+预览:<br>
+<img src="https://github.com/jenly1314/ZXingLite/raw/master/GIF.gif" width="30%" /><br>
 
 项目名：AwesomeQRCode<br>
 git地址：https://github.com/SumiMakito/AwesomeQRCode<br>
