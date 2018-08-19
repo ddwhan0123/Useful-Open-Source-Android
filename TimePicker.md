@@ -3,6 +3,11 @@
 
 
 
+项目名：LazyDatePicker<br>
+git地址：https://github.com/lopspower/LazyDatePicker<br>
+预览:<br>
+<img src="https://github.com/lopspower/LazyDatePicker/raw/master/preview/preview_2.gif" width="22%"/><br>
+
 项目名：MaterialDateRangePicker<br>
 git地址：https://github.com/borax12/MaterialDateRangePicker<br>
 预览:<br>
