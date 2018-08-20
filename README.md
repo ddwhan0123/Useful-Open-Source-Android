@@ -750,6 +750,3 @@ git地址：https://github.com/mcxtzhang/SwipeDelMenuLayout<br>
 预览:<br>
 <img src="https://github.com/mcxtzhang/SwipeDelMenuLayout/raw/master/gif/FlowSwipe.gif" width="30%"/>
 
-
-
-项目名：V
