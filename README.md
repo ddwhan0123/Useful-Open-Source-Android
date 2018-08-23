@@ -12,7 +12,7 @@
 
 
 
-### 更新时间:2018-08-21<br>
+### 更新时间:2018-08-23<br>
 
 
 
@@ -180,6 +180,11 @@
 ## 自定义控件/动画:<br>
 
 
+
+项目名：RulerView<br>
+git地址：https://github.com/zjun615/RulerView<br>
+预览:<br>
+<img src="https://github.com/zjun615/RuleView/raw/master/img/all.gif" width="28%"/>
 
 项目名：EZFilter<br>
 git地址：https://github.com/uestccokey/EZFilter<br>
