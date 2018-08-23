@@ -1,6 +1,14 @@
 ### webView<br>
 
 
+
+项目名：XWebViewAssistant<br>
+git地址：https://github.com/JoeSteven/XWebViewAssistant<br>
+预览:<br>
+<img src="https://github.com/JoeSteven/XWebViewAssistant/raw/master/sample.jpeg" width="30%"/><br>
+解释：<br>
+A library for Android developer to use WebView
+
 项目名：CacheWebView<br>
 git地址：https://github.com/yale8848/CacheWebView<br>
 预览:<br>
