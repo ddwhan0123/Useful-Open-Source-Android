@@ -11,12 +11,14 @@
 
 
 
-
+项目名：zip<br>
+git地址：https://github.com/zeroturnaround/zt-zip<br>
+描述：ZeroTurnaround ZIP Library http://www.zeroturnaround.com/<br>
 
 项目名：FingerprintIdentify<br>
 git地址：https://github.com/uccmawei/FingerprintIdentify<br>
 预览:<br>
-<img src="https://github.com/uccmawei/FingerprintIdentify/raw/master/other/QRCode_en.png" width="24%"/><br>
+<img src="https://github.com/uccmawei/FingerprintIdentify/raw/master/other/QRCode_en.png" width="34%"/><br>
 描述：安卓指纹识别库（安卓官方+三星SDK+魅族SDK）<br>
 
 项目名：SmartTool<br>
