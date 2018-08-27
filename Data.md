@@ -196,6 +196,13 @@ README文件语法解读，即Github Flavored Markdown语法介绍 http://blog.c
 ### 知识累积/博客/电子书/文档<br>
 
 
+项目名：JCSprout<br>
+git地址：https://github.com/crossoverJie/JCSprout<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/ee9721c304daa93dbff9dfc62ff808d1b4175809/68747470733a2f2f7773312e73696e61696d672e636e2f6c617267652f30303639525654646c79316675626f636e357078616a3330676f3038326467312e6a7067" width="40%"/><br>
+解释:<br>
+👨‍🎓 Java Core Sprout : basic, concurrent, algorithm <br>
+
 项目名：blog_backups<br>
 git地址：https://github.com/crazyandcoder/blog_backups<br>
 预览:<br>
