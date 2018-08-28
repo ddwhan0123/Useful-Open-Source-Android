@@ -660,7 +660,10 @@ git地址：https://github.com/siwangqishiq/ImageEditor-Android<br>
 
 ### 照相机相关<br>
 
-
+项目名：SmartCamera<br>
+git地址：https://github.com/pqpo/SmartCamera<br>
+预览:<br>
+<img src="https://github.com/pqpo/SmartCamera/raw/master/art/smartcamera_demo.gif" width="20%" /><br>
 
 项目名：Fotoapparat<br>
 git地址：https://github.com/Fotoapparat/Fotoapparat<br>
