@@ -181,6 +181,13 @@
 
 
 
+
+
+项目名：checkable-chip-view<br>
+git地址：https://github.com/okdroid/checkable-chip-view<br>
+预览:<br>
+<img src="https://github.com/okdroid/checkable-chip-view/raw/master/demo.gif" width="25%"/>
+
 项目名：AndroidTreeView<br>
 git地址：https://github.com/bmelnychuk/AndroidTreeView<br>
 预览:<br>
