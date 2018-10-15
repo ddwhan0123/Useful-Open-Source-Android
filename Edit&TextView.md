@@ -6,6 +6,12 @@
 
 ### EditText<br>
 
+
+项目名： AztecEditor-Android<br>
+git地址：https://github.com/wordpress-mobile/AztecEditor-Android<br>
+预览:<br>
+<img src="https://github.com/wordpress-mobile/AztecEditor-Android/raw/develop/code_editor.png" width="27%"/><br>
+
 项目名： MoneyTextView<br>
 git地址：https://github.com/andyken/MoneyTextView<br>
 预览:<br>
