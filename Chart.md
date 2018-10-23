@@ -5,7 +5,10 @@
 
 
 
-
+项目名：KLineChart<br>
+git地址:https://github.com/fujianlian/KLineChart<br>
+预览:<br>
+<img src="https://github.com/fujianlian/KLineChart/raw/master/img/1.png" width="25%"/><br>
 
 项目名：KChartView<br>
 git地址:https://github.com/tifezh/KChartView<br>
