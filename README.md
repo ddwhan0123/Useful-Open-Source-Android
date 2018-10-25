@@ -177,7 +177,10 @@
 
 
 
-
+项目名：YcShareElement<br>
+git地址：https://github.com/yellowcath/YcShareElement<br>
+预览:<br>
+<img src="https://github.com/yellowcath/YcShareElement/raw/master/readme/se.gif" width="25%"/>
 
 项目名：checkable-chip-view<br>
 git地址：https://github.com/okdroid/checkable-chip-view<br>
