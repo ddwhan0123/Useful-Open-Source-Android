@@ -121,7 +121,7 @@ git地址：https://github.com/avast/android-styled-dialogs<br>
 项目名：KAU<br>
 git地址：https://github.com/AllanWang/KAU<br>
 预览:<br>
-<img src="https://github.com/AllanWang/Storage-Hub/raw/master/kau/kau_kpref_accent.gif" width="30%" />
+<img src="https://raw.githubusercontent.com/AllanWang/Storage-Hub/master/kau/kau_color_picker.gif" width="30%" />
 
 项目名：CountryCodePicker<br>
 git地址：https://github.com/joielechong/CountryCodePicker<br>
@@ -168,7 +168,7 @@ git地址：https://github.com/kakajika/SwipeAwayDialog<br>
 项目名：material-dialogs<br>
 git地址：https://github.com/afollestad/material-dialogs<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/readmeshowcase.png" width="30%" />
+<img src="https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/showcase20.jpg" width="30%" />
 
 项目名：LovelyDialog<br>
 git地址：https://github.com/yarolegovich/LovelyDialog<br>
