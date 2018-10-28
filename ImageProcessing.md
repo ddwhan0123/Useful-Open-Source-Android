@@ -133,11 +133,6 @@ git地址：https://github.com/jineshfrancs/CaptchaImageView<br>
 
 
 
-项目名：NineGridImageView<br>
-git地址：https://github.com/laobie/NineGridImageView<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/7bdbee64e72b8bbf324ba72febed94760ffd79e3/687474703a2f2f61632d71796776783163632e636c6f7564646e2e636f6d2f656535393036633834366164333334362e706e67" width="30%"/><br>
-
 项目名：ScrollParallaxImageView<br>
 git地址：https://github.com/gjiazhe/ScrollParallaxImageView<br>
 预览:<br>
@@ -276,7 +271,7 @@ git地址：https://github.com/guoxiaoxing/phoenix<br>
 项目名：transferee<br>
 git地址：https://github.com/Hitomis/transferee<br>
 预览:<br>
-<img src="https://github.com/Hitomis/transferee/raw/master/preview/transferee_2.gif" width="30%" /><br>
+<img src="https://github.com/Hitomis/transferee/raw/master/preview/transferee_1.gif" width="30%" /><br>
 
 项目名：TedBottomPicker<br>
 git地址：https://github.com/ParkSangGwon/TedBottomPicker<br>
@@ -307,7 +302,7 @@ git地址：https://github.com/kurumi-moe/MoeGallery<br>
 项目名：PickPhotoSample<br>
 git地址：https://github.com/Werb/PickPhotoSample<br>
 预览:<br>
-<img src="https://github.com/Werb/PickPhotoSample/raw/master/screenshots/select.png" width="30%" /><br>
+<img src="https://github.com/Werb/PickPhotoSample/raw/master/screenshots/one.png" width="30%" /><br>
 
 项目名：PictureSelector<br>
 git地址：https://github.com/LuckSiege/PictureSelector<br>
@@ -375,10 +370,7 @@ git地址：https://github.com/nshmura/SnappySmoothScroller<br>
 预览:<br>
 <img src="https://github.com/nshmura/SnappySmoothScroller/raw/master/assets/demo.gif" width="30%" /><br>
 
-项目名：android-image-picker<br>
-git地址：https://github.com/sd6352051/android-image-picker<br>
-预览:<br>
-<img src="https://github.com/sd6352051/android-image-picker/raw/master/gif/gallery.gif" width="30%" /><br>
+
 
 项目名：PhotoPicker<br>
 git地址：https://github.com/donglua/PhotoPicker<br>
