@@ -105,10 +105,6 @@ git地址：https://github.com/pwittchen/InfiniteScroll<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/pwittchen/InfiniteScroll/master/demo.gif" width="20%"/><br>
 
-项目名：RecyclerViewManager<br>
-git地址：https://github.com/Syehunter/RecyclerViewManager<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/841128156edef161d69a0b2088fceb40418b7696/687474703a2f2f37786e347a342e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f52656379636c6572566965774d616e616765722e676966" width="30%"/><br>
 
 项目名：XRecyclerView<br>
 git地址：https://github.com/jianghejie/XRecyclerView<br>
