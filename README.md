@@ -177,6 +177,12 @@
 
 
 
+
+项目名：ElasticView<br>
+git地址：https://github.com/armcha/ElasticView<br>
+预览:<br>
+<img src="https://github.com/armcha/ElasticView/raw/master/screens/first.gif" width="25%"/>
+
 项目名：YcShareElement<br>
 git地址：https://github.com/yellowcath/YcShareElement<br>
 预览:<br>
