@@ -140,7 +140,7 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 项目名：SuspensionIndexBar<br>
 git地址：https://github.com/mcxtzhang/SuspensionIndexBar<br>
 预览:<br>
-<img src="https://github.com/mcxtzhang/ItemDecorationIndexBar/raw/master/gif/meituan.gif" width="30%"/><br>
+<img src="https://github.com/mcxtzhang/ItemDecorationIndexBar/raw/master/gif/ItemDecorationIndexBar_SwipeDel.gif" width="30%"/><br>
 
 项目名：TableView<br>
 git地址：https://github.com/brkckr/TableView<br>
@@ -449,10 +449,6 @@ git地址：https://github.com/eyeem/RecyclerViewTools<br>
 Collection of tools for RecyclerView. Includes headers, sections, pull to refresh, etc<br>
 
 
-项目名：sectioned-recyclerview<br>
-git地址：https://github.com/afollestad/sectioned-recyclerview<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/afollestad/sectioned-recyclerview/master/art/showcase3.png" width="30%"/><br>
 
 项目名：sicooDemo<br>
 git地址：https://github.com/daimaXZ/sicooDemo<br>
@@ -594,7 +590,7 @@ git地址：https://github.com/thesurix/gesture-recycler<br>
 项目名：drag-select-recyclerview<br>
 git地址：https://github.com/afollestad/drag-select-recyclerview<br>
 预览:<br>
-<img src="https://github.com/afollestad/drag-select-recyclerview/raw/master/art/showcase2.gif" width="30%"> <br>
+<img src="https://github.com/afollestad/drag-select-recyclerview/raw/master/art/range.gif" width="30%"> <br>
 
 项目名：recyclerviewhelper<br>
 git地址：https://github.com/nisrulz/recyclerviewhelper<br>
@@ -708,4 +704,4 @@ git地址：https://github.com/MEiDIK/SlimAdapter<br>
 项目名：LayoutManagerGroup<br>
 git地址：https://github.com/DingMouRen/LayoutManagerGroup<br>
 预览:<br>
-<img src="https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/layout_1.gif" width="30%"/><br>
+<img src="https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img2.gif" width="30%"/><br>
