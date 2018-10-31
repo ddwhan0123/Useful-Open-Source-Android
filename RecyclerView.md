@@ -137,7 +137,10 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
-
+项目名：SuspensionIndexBar<br>
+git地址：https://github.com/mcxtzhang/SuspensionIndexBar<br>
+预览:<br>
+<img src="https://github.com/mcxtzhang/ItemDecorationIndexBar/raw/master/gif/meituan.gif" width="30%"/><br>
 
 项目名：TableView<br>
 git地址：https://github.com/brkckr/TableView<br>
