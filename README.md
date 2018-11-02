@@ -698,10 +698,6 @@ git地址：https://github.com/iammert/StatusView<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/iammert/StatusView/master/art/art.gif" width="30%"/>
 
-项目名：rainbow<br>
-git地址：https://github.com/juankysoriano/rainbow<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/d8f5949d55996faea362506260000bf66c21c3fe/687474703a2f2f73382e706f7374696d672e6f72672f61306f3361657733392f7261696e626f775f3330373632325f3634302e706e67" width="30%"/>
 
 
 项目名：desertplaceholder<br>
