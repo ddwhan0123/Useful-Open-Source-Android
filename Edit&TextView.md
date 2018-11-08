@@ -173,6 +173,12 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 
 
 
+
+项目名： TextBannerView<br>
+git地址：https://github.com/ChessLuo/TextBannerView<br>
+预览:<br>
+<img src="https://github.com/ChessLuo/TextBannerView/raw/master/someImg/textbanner.gif" width="24%"/><br>
+
 项目名： KerningViews<br>
 git地址：https://github.com/aritraroy/KerningViews<br>
 预览:<br>
