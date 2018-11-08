@@ -136,6 +136,13 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 ### 各类牛x实现 ：<br>
 
 
+
+
+项目名：AndroidVeil<br>
+git地址：https://github.com/skydoves/AndroidVeil<br>
+预览:<br>
+<img src="https://user-images.githubusercontent.com/24237865/47781860-1aae2300-dd42-11e8-8c5c-a2417b03b74d.gif" width="30%"/><br>
+
 项目名：CustomTvRecyclerView<br>
 git地址：https://github.com/songwenju/CustomTvRecyclerView<br>
 预览:<br>
