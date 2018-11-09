@@ -2,6 +2,11 @@
 
 
 
+项目名：HandyGridView<br>
+git地址：https://github.com/huxq17/HandyGridView<br>
+预览:<br>
+<img src="https://github.com/huxq17/HandyGridView/raw/master/art/art.gif" width="26%"/>
+
 项目名：ChipView<br>
 git地址：https://github.com/jahirfiquitiva/ChipView<br>
 预览:<br>
