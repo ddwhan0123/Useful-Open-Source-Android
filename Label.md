@@ -2,6 +2,12 @@
 
 
 
+
+项目名：StackLabel<br>
+git地址：https://github.com/kongzue/StackLabel<br>
+预览:<br>
+<img src="https://github.com/kongzue/Res/raw/master/app/src/main/res/mipmap-xxxhdpi/stacklabel_demo.png" width="26%"/>
+
 项目名：HandyGridView<br>
 git地址：https://github.com/huxq17/HandyGridView<br>
 预览:<br>
