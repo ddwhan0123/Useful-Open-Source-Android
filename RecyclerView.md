@@ -138,6 +138,11 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
+项目名：bubble-scroll<br>
+git地址：https://github.com/cdflynn/bubble-scroll<br>
+预览:<br>
+<img src="https://github.com/cdflynn/bubble-scroll/raw/master/sample/img/scroll_sample_gif.gif?raw=true" width="30%"/>
+
 项目名：AndroidVeil<br>
 git地址：https://github.com/skydoves/AndroidVeil<br>
 预览:<br>
@@ -713,6 +718,33 @@ git地址：https://github.com/vivchar/RendererRecyclerViewAdapter<br>
 git地址：https://github.com/MEiDIK/SlimAdapter<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/MEiDIK/SlimAdapter/master/SlimAdapter.jpg" width="40%"/><br>
+
+
+
+### 惰性列表加载<br>
+
+项目名：ShimmerLayout<br>
+git地址：https://github.com/team-supercharge/ShimmerLayout<br>
+预览:<br>
+<img src="https://github.com/team-supercharge/ShimmerLayout/raw/master/shimmerlayout.gif" width="28%"/>
+
+
+项目名：WaitView<br>
+git地址：https://github.com/ImKarl/WaitView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/ImKarl/WaitView/master/captures/layout_waitview.png" width="24%"/>
+
+项目名：spruce-android<br>
+git地址：https://github.com/willowtreeapps/spruce-android<br>
+预览:<br>
+<img src="https://github.com/willowtreeapps/spruce-android/raw/master/imgs/recycler-example.gif" width="30%"/>
+
+项目名：LazyLoadingViews<br>
+git地址：https://github.com/jineshfrancs/LazyLoadingViews<br>
+预览:<br>
+<img src="https://github.com/jineshfrancs/LazyLoadingViews/raw/master/screens/loading.gif" width="30%"/>
+
+
 
 
 ### LayoutManager封装<br>
