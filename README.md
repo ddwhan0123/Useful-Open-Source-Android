@@ -178,6 +178,11 @@
 
 
 
+项目名：MultiLamp<br>
+git地址：https://github.com/ujwalthote/MultiLamp<br>
+预览:<br>
+<img src="https://user-images.githubusercontent.com/12962409/47506382-8baa9200-d88d-11e8-8c93-8b671d72a5cf.png" width="25%"/>
+
 项目名：ElasticView<br>
 git地址：https://github.com/armcha/ElasticView<br>
 预览:<br>
