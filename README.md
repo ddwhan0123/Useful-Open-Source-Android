@@ -313,10 +313,7 @@ git地址：https://github.com/cdflynn/crossview<br>
 预览:<br>
 <img src="https://github.com/cdflynn/crossview/raw/master/sample/images/cross_btn.gif?raw=true" width="16%"/>
 
-项目名：ShimmerLayout<br>
-git地址：https://github.com/team-supercharge/ShimmerLayout<br>
-预览:<br>
-<img src="https://github.com/team-supercharge/ShimmerLayout/raw/master/shimmerlayout.gif" width="28%"/>
+
 
 项目名：YapAnimator<br>
 git地址：https://github.com/yapstudios/YapAnimator<br>
@@ -424,10 +421,7 @@ git地址：https://github.com/ome450901/SimpleRatingBar<br>
 预览:<br>
 <img src="https://github.com/ome450901/SimpleRatingBar/raw/master/images/demo.gif" width="24%"/>
 
-项目名：WaitView<br>
-git地址：https://github.com/ImKarl/WaitView<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/ImKarl/WaitView/master/captures/layout_waitview.png" width="24%"/>
+
 
 
 项目名：PolygonDrawingUtil<br>
@@ -490,10 +484,7 @@ git地址：https://github.com/ar-android/DrawRouteMaps<br>
 <img src="https://github.com/ar-android/DrawRouteMaps/raw/master/example-app.png" width="30%"/>
 
 
-项目名：spruce-android<br>
-git地址：https://github.com/willowtreeapps/spruce-android<br>
-预览:<br>
-<img src="https://github.com/willowtreeapps/spruce-android/raw/master/imgs/recycler-example.gif" width="30%"/>
+
 
 项目名：tinglingsquares<br>
 git地址：https://github.com/ishan1604/tinglingsquares<br>
@@ -505,10 +496,7 @@ git地址：https://github.com/googlesamples/android-PictureInPicture<br>
 预览:<br>
 <img src="https://github.com/googlesamples/android-PictureInPicture/raw/master/screenshots/2-pip.png" width="30%"/>
 
-项目名：LazyLoadingViews<br>
-git地址：https://github.com/jineshfrancs/LazyLoadingViews<br>
-预览:<br>
-<img src="https://github.com/jineshfrancs/LazyLoadingViews/raw/master/screens/loading.gif" width="30%"/>
+
 
 项目名：BetterSpinner<br>
 git地址：https://github.com/Lesilva/BetterSpinner<br>
@@ -541,10 +529,7 @@ git地址：https://github.com/GwonHyeok/StickySwitch<br>
 预览:<br>
 <img src="https://github.com/GwonHyeok/StickySwitch/raw/master/preview.gif" width="30%"/>
 
-项目名：bubble-scroll<br>
-git地址：https://github.com/cdflynn/bubble-scroll<br>
-预览:<br>
-<img src="https://github.com/cdflynn/bubble-scroll/raw/master/sample/img/scroll_sample_gif.gif?raw=true" width="30%"/>
+
 
 项目名：DiscreteScrollView<br>
 git地址：https://github.com/yarolegovich/DiscreteScrollView<br>
