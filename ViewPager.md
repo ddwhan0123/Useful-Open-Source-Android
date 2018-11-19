@@ -179,6 +179,11 @@ git地址：https://github.com/ronaldsmartin/Material-ViewPagerIndicator<br>
 ### Banner<br>
 
 
+项目名：AndroidAutoSwitcher<br>
+git地址：https://github.com/Marksss/AndroidAutoSwitcher<br>
+预览:<br>
+<img src="https://github.com/Marksss/AndroidAutoSwitcher/raw/master/gif/demo.gif" width="30%"/>
+
 项目名：Android-Indefinite-Pager-Indicator<br>
 git地址：https://github.com/rbro112/Android-Indefinite-Pager-Indicator<br>
 预览:<br>
