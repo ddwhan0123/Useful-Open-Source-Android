@@ -66,6 +66,12 @@ git地址：https://github.com/wangjiegulu/RapidFloatingActionButton<br>
 
 
 
+
+项目名：CoordinatorMenu<br>
+git地址：https://github.com/ATHBK/CoordinatorMenu<br>
+预览:<br>
+<img src="https://github.com/ATHBK/CoordinatorMenu/raw/master/screenshots/img_style_1.gif" width="25%" />
+
 项目名：material-drawer<br>
 git地址：https://github.com/heinrichreimer/material-drawer<br>
 预览:<br>
@@ -258,10 +264,7 @@ git地址：https://github.com/jeneser/ionic-super-bar<br>
 预览:<br>
 <img src="https://github.com/jeneser/ionic-super-bar/raw/master/screenshot.gif" width="30%" />
 
-项目名：Sneaker<br>
-git地址：https://github.com/Hamadakram/Sneaker<br>
-预览:<br>
-<img src="https://github.com/Hamadakram/Sneaker/raw/master/app/Sneaker.png?raw=true" width="50%" />
+
 
 项目名：ImmersionBar<br>
 git地址：https://github.com/gyf-dev/ImmersionBar<br>
@@ -308,10 +311,7 @@ git地址：https://github.com/JuL1205/SlideshowToolbar<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/JuL1205/SlideshowToolbar/master/images/screen.gif" width="30%"/>
 
-项目名：StatusBarAdapt<br>
-git地址：https://github.com/CoolThink/StatusBarAdapt<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/39f75893f94c284c984aed71f5347e4f1b8d9362/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531313233313735303337323135" width="30%"/>
+
 
 项目名：FlycoSystemBar<br>
 git地址：https://github.com/H07000223/FlycoSystemBar<br>
