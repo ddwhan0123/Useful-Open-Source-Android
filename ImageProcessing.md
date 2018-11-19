@@ -171,6 +171,11 @@ git地址：https://github.com/nicewarm/WeChatImageClipping<br>
 
 
 
+项目名：MediaSelector<br>
+git地址：https://github.com/Hu12037102/MediaSelector<br>
+预览:<br>
+<img src="https://github.com/Hu12037102/MediaSelector/raw/master/MediaSelectorCropGif.gif" width="30%" /><br>
+
 项目名：PhotoEditor<br>
 git地址：https://github.com/burhanrashid52/PhotoEditor<br>
 预览:<br>
