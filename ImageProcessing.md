@@ -4,6 +4,12 @@
 ### 圆角图片控件:<br>
 
 
+
+项目名：NiceImageView<br>
+git地址：https://github.com/SheHuan/NiceImageView<br>
+预览:<br>
+<img src="https://github.com/SheHuan/NiceImageView/raw/master/images/r2.PNG" width="30%"/><br>
+
 项目名：CircleImageView<br>
 git地址：https://github.com/zuoweitan/CircleImageView<br>
 预览:<br>
