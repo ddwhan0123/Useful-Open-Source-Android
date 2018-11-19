@@ -7,6 +7,11 @@
 ### EditText<br>
 
 
+项目名： SeparatedEditText<br>
+git地址：https://github.com/WGwangguan/SeparatedEditText<br>
+预览:<br>
+<img src="https://github.com/WGwangguan/SeparatedEditText/raw/master/screenshot/shixin.gif" width="27%"/><br>
+
 项目名： AztecEditor-Android<br>
 git地址：https://github.com/wordpress-mobile/AztecEditor-Android<br>
 预览:<br>
