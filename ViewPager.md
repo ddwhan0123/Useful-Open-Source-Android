@@ -249,6 +249,11 @@ git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
 
 
 
+项目名：MotionLayoutCarousel<br>
+git地址：https://github.com/faob-dev/MotionLayoutCarousel<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/faob-dev/MotionLayoutCarousel/master/screenshots/motion_layout.gif" width="30%"/><br>
+
 项目名：ViewPagerLayoutManager<br>
 git地址：https://github.com/leochuan/ViewPagerLayoutManager<br>
 预览:<br>
