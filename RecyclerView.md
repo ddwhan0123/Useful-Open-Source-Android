@@ -127,8 +127,39 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 <img src="https://github.com/andyxialm/SmileyLoadingView/raw/master/art/screenshot.gif?raw=true" width="30%"/><br>
 
 
+### 通讯录实现：<br>
 
 
+项目名：EasyRecyclerViewSidebar<br>
+git地址：https://github.com/CaMnter/EasyRecyclerViewSidebar<br>
+预览:<br>
+<img src="http://ww4.sinaimg.cn/large/006lPEc9jw1f2vh6s7sjog31401z44qr.gif" width="320x"> <br>
+
+项目名：WaveSideBar<br>
+git地址：https://github.com/Solartisan/WaveSideBar<br>
+预览:<br>
+<img src="https://github.com/Solartisan/WaveSideBar/raw/master/preview/simple.gif" width="30%"/><br>
+
+项目名：WaveSideBar<br>
+git地址：https://github.com/gjiazhe/WaveSideBar<br>
+预览:<br>
+<img src="https://github.com/gjiazhe/WaveSideBar/raw/master/screenshot/gif.gif" width="30%"/><br>
+
+项目名：bubble-scroll<br>
+git地址：https://github.com/cdflynn/bubble-scroll<br>
+预览:<br>
+<img src="https://github.com/cdflynn/bubble-scroll/raw/master/sample/img/scroll_sample_gif.gif?raw=true" width="30%"/>
+
+项目名：SuspensionIndexBar<br>
+git地址：https://github.com/mcxtzhang/SuspensionIndexBar<br>
+预览:<br>
+<img src="https://github.com/mcxtzhang/ItemDecorationIndexBar/raw/master/gif/ItemDecorationIndexBar_SwipeDel.gif" width="30%"/><br>
+
+
+项目名：FastScroll<br>
+git地址：https://github.com/L4Digital/FastScroll<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/L4Digital/FastScroll/master/fastscroll_example.png" width="30%"/><br>
 
 
 
@@ -138,15 +169,9 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 
 
-项目名：bubble-scroll<br>
-git地址：https://github.com/cdflynn/bubble-scroll<br>
-预览:<br>
-<img src="https://github.com/cdflynn/bubble-scroll/raw/master/sample/img/scroll_sample_gif.gif?raw=true" width="30%"/>
 
-项目名：AndroidVeil<br>
-git地址：https://github.com/skydoves/AndroidVeil<br>
-预览:<br>
-<img src="https://user-images.githubusercontent.com/24237865/47781860-1aae2300-dd42-11e8-8c5c-a2417b03b74d.gif" width="30%"/><br>
+
+
 
 项目名：CustomTvRecyclerView<br>
 git地址：https://github.com/songwenju/CustomTvRecyclerView<br>
@@ -158,10 +183,7 @@ git地址：https://github.com/wustor/GangedRecyclerview<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/b13c1b59776d4445af42dfd992d1eab87a2fda7f/687474703a2f2f6f72626d36326273772e626b742e636c6f7564646e2e636f6d2f2545352538382539372545382541312541382545382538312539342545352538412541382e676966" width="30%"/><br>
 
-项目名：SuspensionIndexBar<br>
-git地址：https://github.com/mcxtzhang/SuspensionIndexBar<br>
-预览:<br>
-<img src="https://github.com/mcxtzhang/ItemDecorationIndexBar/raw/master/gif/citylist" width="30%"/><br>
+
 
 项目名：TableView<br>
 git地址：https://github.com/brkckr/TableView<br>
@@ -276,10 +298,7 @@ git地址：https://github.com/gjiazhe/LayoutSwitch<br>
 预览:<br>
 <img src="https://github.com/gjiazhe/LayoutSwitch/raw/master/screenshot/screenshot.gif" width="30%"/><br>
 
-项目名：ShimmerRecyclerView<br>
-git地址：https://github.com/sharish/ShimmerRecyclerView<br>
-预览:<br>
-<img src="https://github.com/sharish/ShimmerRecyclerView/raw/master/screenshots/grid_demo.gif" width="30%"/><br>
+
 
 
 项目名：HeaderAndFooterRecyclerView<br>
@@ -318,10 +337,7 @@ git地址：https://github.com/mcxtzhang/ItemDecorationIndexBar<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/3a937c3cc796c95023a44eec5bde276fc255fed0/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630393035323333373535323039" width="30%"/><br>
 
-项目名：FastScroll<br>
-git地址：https://github.com/L4Digital/FastScroll<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/L4Digital/FastScroll/master/fastscroll_example.png" width="30%"/><br>
+
 
 项目名：groupie<br>
 git地址：https://github.com/Genius/groupie<br>
@@ -349,10 +365,7 @@ git地址：https://github.com/airbnb/epoxy<br>
 <img src="https://github.com/airbnb/epoxy/raw/master/epoxy-sample/epoxy_sample_app.gif" width="30%"/><br>
 
 
-项目名：WaveSideBar<br>
-git地址：https://github.com/gjiazhe/WaveSideBar<br>
-预览:<br>
-<img src="https://github.com/gjiazhe/WaveSideBar/raw/master/screenshot/gif.gif" width="30%"/><br>
+
 
 
 项目名：diffutil-recyclerview-kotlin<br>
@@ -430,10 +443,7 @@ git地址：https://github.com/felipecsl/AsymmetricGridView<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/felipecsl/AsymmetricGridView/master/screenshots/ss_5_cols.png" width="30%"/><br>
 
-项目名：WaveSideBar<br>
-git地址：https://github.com/Solartisan/WaveSideBar<br>
-预览:<br>
-<img src="https://github.com/Solartisan/WaveSideBar/raw/master/preview/simple.gif" width="30%"/><br>
+
 
 
 
@@ -653,10 +663,7 @@ git地址：https://github.com/youzan/TitanRecyclerView<br>
 预览:<br>
 ![](https://github.com/youzan/TitanRecyclerView/raw/master/art/demo2.gif) <br>
 
-项目名：EasyRecyclerViewSidebar<br>
-git地址：https://github.com/CaMnter/EasyRecyclerViewSidebar<br>
-预览:<br>
-<img src="http://ww4.sinaimg.cn/large/006lPEc9jw1f2vh6s7sjog31401z44qr.gif" width="320x"> <br>
+
 
 项目名：DragRecyclerView<br>
 git地址：https://github.com/AleBarreto/DragRecyclerView<br>
@@ -722,6 +729,17 @@ git地址：https://github.com/MEiDIK/SlimAdapter<br>
 
 
 ### 惰性列表加载<br>
+
+
+项目名：ShimmerRecyclerView<br>
+git地址：https://github.com/sharish/ShimmerRecyclerView<br>
+预览:<br>
+<img src="https://github.com/sharish/ShimmerRecyclerView/raw/master/screenshots/grid_demo.gif" width="30%"/><br>
+
+项目名：AndroidVeil<br>
+git地址：https://github.com/skydoves/AndroidVeil<br>
+预览:<br>
+<img src="https://user-images.githubusercontent.com/24237865/47781860-1aae2300-dd42-11e8-8c5c-a2417b03b74d.gif" width="30%"/><br>
 
 项目名：ShimmerLayout<br>
 git地址：https://github.com/team-supercharge/ShimmerLayout<br>
