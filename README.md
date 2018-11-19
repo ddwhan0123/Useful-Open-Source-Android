@@ -178,6 +178,11 @@
 
 
 
+项目名：AndroidScratchCard<br>
+git地址：https://github.com/myinnos/AndroidScratchCard<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/myinnos/AndroidScratchCard/master/images-gif/androidscratchcard-example.gif" width="25%"/>
+
 项目名：MultiLamp<br>
 git地址：https://github.com/ujwalthote/MultiLamp<br>
 预览:<br>
