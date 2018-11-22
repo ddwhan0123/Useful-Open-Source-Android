@@ -3,6 +3,11 @@
 
 
 
+项目名：animated-tab-bar<br>
+git地址：https://github.com/Ramotion/animated-tab-bar<br>
+预览:<br>
+<img src="https://github.com/Ramotion/animated-tab-bar/raw/master/Screenshots/animatedTabBar.gif" width="40%" />
+
 项目名：EnhancedNavigationView<br>
 git地址：https://github.com/florent37/EnhancedNavigationView<br>
 预览:<br>
