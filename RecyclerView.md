@@ -767,6 +767,11 @@ git地址：https://github.com/jineshfrancs/LazyLoadingViews<br>
 
 ### LayoutManager封装<br>
 
+项目名：RecyclerViewAdapter<br>
+git地址：https://github.com/Vanish136/RecyclerViewAdapter<br>
+预览:<br>
+<img src="https://github.com/Vanish136/RecyclerViewAdapter/raw/master/pictures/pic01.png" width="30%"/><br>
+
 项目名：LayoutManagerGroup<br>
 git地址：https://github.com/DingMouRen/LayoutManagerGroup<br>
 预览:<br>
