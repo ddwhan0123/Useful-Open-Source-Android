@@ -5,6 +5,13 @@
 
 
 
+
+项目名：BottomSheetLayout<br>
+git地址：https://github.com/qhutch/BottomSheetLayout<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/qhutch/BottomSheetLayout/master/sample_gif.gif" width="25%"/><br>
+
+
 项目名：AnyLayer<br>
 git地址：https://github.com/goweii/AnyLayer<br>
 预览:<br>
