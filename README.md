@@ -181,6 +181,12 @@
 
 
 
+
+项目名：SlideActionView<br>
+git地址：https://github.com/fennifith/SlideActionView<br>
+预览:<br>
+<img src="https://github.com/fennifith/SlideActionView/raw/master/.github/images/alert.gif?raw=true" width="25%"/>
+
 项目名：OverlapImageGalleryView<br>
 git地址：https://github.com/Mindinventory/OverlapImageGalleryView<br>
 预览:<br>
