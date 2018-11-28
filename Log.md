@@ -1,6 +1,13 @@
 # Log<br>
 
 
+
+项目名：Delogger<br>
+git地址：https://github.com/easoll/Delogger<br>
+预览:<br>
+<img src="https://github.com/easoll/Delogger/raw/master/img/log_after.png" width="50%"/><br><br>
+解释：An android plugin to clean log<br>
+
 项目名：timber<br>
 git地址：https://github.com/JakeWharton/timber<br>
 预览:<br>
