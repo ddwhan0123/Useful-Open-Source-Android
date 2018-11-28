@@ -173,8 +173,18 @@
 ## SeekBar相关:<br>
 ## [点击跳转 SeekBar.md](https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/SeekBar.md)
 
+
+
+
 ## 自定义控件/动画:<br>
 
+
+
+
+项目名：OverlapImageGalleryView<br>
+git地址：https://github.com/Mindinventory/OverlapImageGalleryView<br>
+预览:<br>
+<img src="https://github.com/Mindinventory/OverlapImageGalleryView/raw/master/media/AnimOverlapImageGalleyView.gif" width="25%"/>
 
 项目名：Blur-LIB-Android<br>
 git地址：https://github.com/danielzeller/Blur-LIB-Android<br>
