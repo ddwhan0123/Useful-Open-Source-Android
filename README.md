@@ -178,6 +178,12 @@
 
 
 
+
+项目名：simplegraph<br>
+git地址：https://github.com/franticnick/simplegraph<br>
+预览:<br>
+<img src="https://github.com/franticnick/simplegraph/raw/master/img/screenshot.jpg?raw=true" width="25%"/>
+
 项目名：AndroidScratchCard<br>
 git地址：https://github.com/myinnos/AndroidScratchCard<br>
 预览:<br>
