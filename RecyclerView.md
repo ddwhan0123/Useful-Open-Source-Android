@@ -170,7 +170,10 @@ git地址：https://github.com/L4Digital/FastScroll<br>
 
 
 
-
+项目名：MultiActionSwipeHelper<br>
+git地址：https://github.com/bufferapp/MultiActionSwipeHelper<br>
+预览:<br>
+<img src="https://github.com/bufferapp/MultiActionSwipeHelper/raw/master/art/demo.gif?raw=true" width="30%"/><br>
 
 
 项目名：CustomTvRecyclerView<br>
