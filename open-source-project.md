@@ -4,6 +4,11 @@
 
 
 
+项目名：AndroidProject<br>
+git地址：https://github.com/getActivity/AndroidProject<br>
+预览:<br>
+<img src="https://github.com/getActivity/AndroidProject/raw/master/picture/1.gif" width="28%" />
+
 项目名：KotlinMvp<br>
 git地址：https://github.com/git-xuhao/KotlinMvp<br>
 预览:<br>
