@@ -176,7 +176,10 @@
 ## 自定义控件/动画:<br>
 
 
-
+项目名：Blur-LIB-Android<br>
+git地址：https://github.com/danielzeller/Blur-LIB-Android<br>
+预览:<br>
+<img src="https://github.com/danielzeller/Blur-LIB-Android/raw/master/Artwork/Transition.gif" width="25%"/>
 
 
 项目名：simplegraph<br>
