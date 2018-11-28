@@ -697,6 +697,15 @@ git地址：https://github.com/EverythingMe/overscroll-decor<br>
 
 
 
+
+
+项目名：group-recycler-adapter<br>
+git地址：https://github.com/msdx/group-recycler-adapter<br>
+预览:<br>
+<img src="https://github.com/msdx/group-recycler-adapter/raw/master/images/1.png" width="30%"/><br>
+解释:<br>
+A RecyclerView adapter to show grouped data<br>
+
 项目名：NoAdapter<br>
 git地址：https://github.com/tikivn/NoAdapter<br>
 预览:<br>
