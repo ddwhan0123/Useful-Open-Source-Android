@@ -781,6 +781,13 @@ git地址：https://github.com/jineshfrancs/LazyLoadingViews<br>
 
 ### LayoutManager封装<br>
 
+
+项目名：PathLayoutManager<br>
+git地址：https://github.com/wuyr/PathLayoutManager<br>
+预览:<br>
+<img src="https://github.com/wuyr/PathLayoutManager/raw/master/previews/preview.gif" width="30%"/><br>
+
+
 项目名：RecyclerViewAdapter<br>
 git地址：https://github.com/Vanish136/RecyclerViewAdapter<br>
 预览:<br>
