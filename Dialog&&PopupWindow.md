@@ -36,7 +36,7 @@ git地址：https://github.com/aritraroy/Flashbar<br>
 项目名：BottomSheet<br>
 git地址：https://github.com/michaelbel/BottomSheet<br>
 预览:<br>
-<img src="https://github.com/michaelbel/BottomSheet/raw/master/images/screenshots/light_3.png" width="25%"/><br>
+<img src="https://github.com/michaelbel/BottomSheet/raw/master/screenshots/bs_light_landscape.png" width="25%"/><br>
 
 项目名：android-target-tooltip<br>
 git地址：https://github.com/sephiroth74/android-target-tooltip<br>
