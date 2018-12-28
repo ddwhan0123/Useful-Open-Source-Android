@@ -5,6 +5,11 @@
 
 
 
+项目名：StfalconImageViewer<br>
+git地址：https://github.com/stfalcon-studio/StfalconImageViewer<br>
+预览:<br>
+<img src="https://github.com/stfalcon-studio/StfalconImageViewer/raw/master/images/image_viewer_main_demo.gif" width="30%"/><br>
+
 项目名：NiceImageView<br>
 git地址：https://github.com/SheHuan/NiceImageView<br>
 预览:<br>
