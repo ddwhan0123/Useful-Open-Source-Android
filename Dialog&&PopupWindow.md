@@ -130,6 +130,11 @@ git地址：https://github.com/michaelye/EasyDialog<br>
 
 
 
+项目名：AndroidMaterialDialog<br>
+git地址：https://github.com/michael-rapp/AndroidMaterialDialog<br>
+预览:<br>
+<img src="https://github.com/michael-rapp/AndroidMaterialDialog/raw/master/doc/images/example2.png" width="26%"/><br>
+
 项目名：colorpreference<br>
 git地址：https://github.com/kizitonwose/colorpreference<br>
 预览:<br>
