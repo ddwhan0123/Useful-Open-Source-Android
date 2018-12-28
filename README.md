@@ -182,6 +182,13 @@
 
 
 
+
+
+项目名：android-particles<br>
+git地址：https://github.com/ibrahimsn98/android-particles<br>
+预览:<br>
+<img src="https://github.com/ibrahimsn98/android-particles/raw/master/art/particle.gif" width="25%"/>
+
 项目名：SlideActionView<br>
 git地址：https://github.com/fennifith/SlideActionView<br>
 预览:<br>
