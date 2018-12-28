@@ -11,6 +11,12 @@
 
 
 
+
+项目名：GSYVideoPlayer<br>
+git地址:https://github.com/CarGuo/GSYVideoPlayer<br>
+预览:<br>
+<img src="https://github.com/CarGuo/GSYVideoPlayer/raw/master/img/11.gif" width="30%"/><br>
+
 项目名：Android-ScalableVideoView<br>
 git地址:https://github.com/yqritc/Android-ScalableVideoView<br>
 预览:<br>
