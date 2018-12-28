@@ -1,10 +1,16 @@
 ## SeekBar
 
 
+
+项目名：DoubleHeadedDragonBar<br>
+git地址：https://github.com/yujinzhao123/DoubleHeadedDragonBar<br>
+预览:<br>
+<img src="https://github.com/yujinzhao123/DoubleHeadedDragonBar/raw/master/alf86-zl32e.gif" width="30%"/>
+
 项目名：fluid-slider-android<br>
 git地址：https://github.com/Ramotion/fluid-slider-android<br>
 预览:<br>
-<img src="https://github.com/Ramotion/fluid-slider-android/raw/master/Fluid-slider.gif" width="30%"/>
+<img src="https://github.com/Ramotion/fluid-slider-android/raw/master/Fluid_slider.gif" width="30%"/>
 
 项目名：BubbleSeekBar<br>
 git地址：https://github.com/sathishmscict/BubbleSeekBar<br>
