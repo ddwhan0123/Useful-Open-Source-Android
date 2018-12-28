@@ -6,6 +6,11 @@
 
 
 
+项目名：Bounceview-Android<br>
+git地址：https://github.com/hariprasanths/Bounceview-Android<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/c7a9a7a3e65cdce48771204854ad1dc14b8758ff/687474703a2f2f7265732e636c6f7564696e6172792e636f6d2f657a696f2f696d6167652f75706c6f61642f76313532383436383138342f322e676966" width="25%"/><br>
+
 项目名：BasePopup<br>
 git地址：https://github.com/razerdp/BasePopup<br>
 预览:<br>
