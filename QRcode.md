@@ -3,7 +3,10 @@
 ## 二维码 相关:<br>
 
 
-
+项目名：QrCodeDemo4<br>
+git地址：https://github.com/ahuyangdong/QrCodeDemo4<br>
+预览:<br>
+<img src="https://github.com/ahuyangdong/QrCodeDemo4/raw/master/demo.gif" width="30%" /><br>
 
 项目名：ZXingLite<br>
 git地址：https://github.com/jenly1314/ZXingLite<br>
