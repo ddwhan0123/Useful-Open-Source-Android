@@ -2,6 +2,11 @@
 
 
 
+项目名：StfalconPriceRangeBar-android<br>
+git地址：https://github.com/stfalcon-studio/StfalconPriceRangeBar-android<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/5169d8b7c186b5c6bc9c7bedd12eff2c0c6b9431/68747470733a2f2f692e696d6775722e636f6d2f5a7475366b4b702e676966" width="27%"/>
+
 项目名：DoubleHeadedDragonBar<br>
 git地址：https://github.com/yujinzhao123/DoubleHeadedDragonBar<br>
 预览:<br>
