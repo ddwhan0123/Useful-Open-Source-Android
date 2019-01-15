@@ -181,7 +181,10 @@
 
 
 
-
+项目名：AndroidRibbon<br>
+git地址：https://github.com/skydoves/AndroidRibbon<br>
+预览:<br>
+<img src="https://user-images.githubusercontent.com/24237865/51105497-7873e680-182c-11e9-954a-1bf767d15312.gif" width="25%"/>
 
 
 项目名：android-particles<br>
