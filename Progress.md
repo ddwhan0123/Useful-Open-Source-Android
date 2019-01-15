@@ -32,10 +32,6 @@ git地址：https://github.com/ishan1604/uberprogressview<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/ishan1604/uberprogressview/master/branding/UberProgressViewDemo.gif" width="28%" />
 
-项目名：FabProgress<br>
-git地址：https://github.com/katsuki-nakatani/FabProgress<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/aa6c8f9aa0553ce412c83003d54de5edc94bd519/687474703a2f2f6d6972756b6572617070732e636f6d2f77702f77702d636f6e74656e742f75706c6f6164732f323031342f31322f4749465f32303134313232385f3230343734332e676966" width="30%" />
 
 
 项目名：circular-music-progressbar<br>
@@ -81,7 +77,7 @@ git地址：https://github.com/Ajian-studio/GAHonorClock<br>
 项目名：LinearTimer<br>
 git地址：https://github.com/krtkush/LinearTimer<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/krtkush/LinearTimerProject/master/Screenshots/ssOne.png" width="30%"/>
+<img src="https://raw.githubusercontent.com/krtkush/LinearTimer/master/Screenshots/demo.gif" width="30%"/>
 
 项目名：android-widget-ticktock<br>
 git地址：https://github.com/BCGDV-ASIA/android-widget-ticktock<br>
@@ -131,13 +127,16 @@ git地址：https://github.com/harjot-oberai/Croller<br>
 ### 条状进度条<br>
 
 
-
+项目名：SpecialProgressBar<br>
+git地址：https://github.com/zhangke3016/SpecialProgressBar<br>
+预览:<br>
+<img src="https://github.com/zhangke3016/SpecialProgressBar/raw/master/gif/screen1.gif" width="30%"/>
 
 
 项目名：fluid-slider-android<br>
 git地址：https://github.com/Ramotion/fluid-slider-android<br>
 预览:<br>
-<img src="https://github.com/Ramotion/fluid-slider-android/raw/master/Fluid-slider.gif" width="30%"/>
+<img src="https://github.com/Ramotion/fluid-slider-android/raw/master/Fluid_slider.gif" width="30%"/>
 
 项目名：android-slidr<br>
 git地址：https://github.com/florent37/android-slidr<br>
