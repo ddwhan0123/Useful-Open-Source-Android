@@ -179,7 +179,10 @@
 ## 自定义控件/动画:<br>
 
 
-
+项目名：GeneratePicture<br>
+git地址：https://github.com/zhangke3016/GeneratePicture<br>
+预览:<br>
+<img src="https://github.com/zhangke3016/GeneratePicture/raw/master/gif/home.png" width="25%"/>
 
 项目名：AndroidRibbon<br>
 git地址：https://github.com/skydoves/AndroidRibbon<br>
