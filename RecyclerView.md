@@ -147,10 +147,6 @@ git地址：https://github.com/cdflynn/bubble-scroll<br>
 预览:<br>
 <img src="https://github.com/cdflynn/bubble-scroll/raw/master/sample/img/scroll_sample_gif.gif?raw=true" width="30%"/>
 
-项目名：SuspensionIndexBar<br>
-git地址：https://github.com/mcxtzhang/SuspensionIndexBar<br>
-预览:<br>
-<img src="https://github.com/mcxtzhang/ItemDecorationIndexBar/raw/master/gif/ItemDecorationIndexBar_SwipeDel.gif" width="30%"/><br>
 
 
 项目名：FastScroll<br>
@@ -165,7 +161,10 @@ git地址：https://github.com/L4Digital/FastScroll<br>
 
 
 
-
+项目名：MultilevelTreeList<br>
+git地址：https://github.com/zhangke3016/MultilevelTreeList<br>
+预览:<br>
+<img src="https://github.com/zhangke3016/MultilevelTreeList/raw/master/gif/screen.gif" width="30%"/><br>
 
 项目名：MultiActionSwipeHelper<br>
 git地址：https://github.com/bufferapp/MultiActionSwipeHelper<br>
