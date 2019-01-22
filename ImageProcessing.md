@@ -45,7 +45,10 @@ git地址：https://github.com/vinc3m1/RoundedImageView<br>
 ### 特殊业务场景图片处理：<br>
 
 
-
+项目名：BigImageViewer<br>
+git地址：https://github.com/Piasy/BigImageViewer<br>
+预览:<br>
+<img src="https://github.com/Piasy/BigImageViewer/raw/master/art/biv_gif_support.gif" width="25%"/>
 
 项目名：YcShareElement<br>
 git地址：https://github.com/yellowcath/YcShareElement<br>
