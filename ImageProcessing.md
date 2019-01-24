@@ -45,6 +45,12 @@ git地址：https://github.com/vinc3m1/RoundedImageView<br>
 ### 特殊业务场景图片处理：<br>
 
 
+
+项目名：PhotoViewIndicator<br>
+git地址：https://github.com/iammert/PhotoViewIndicator<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/iammert/PhotoViewIndicator/master/art/art.png" width="59%"/>
+
 项目名：BigImageViewer<br>
 git地址：https://github.com/Piasy/BigImageViewer<br>
 预览:<br>
