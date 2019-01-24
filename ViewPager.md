@@ -47,7 +47,10 @@ git地址:https://github.com/Andy671/Dachshund-Tab-Layout<br>
 
 
 
-
+项目名：Music163GuideDemo<br>
+git地址：https://github.com/wobiancao/Music163GuideDemo<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/96dfda5dc3fbfb2402cd69c921fd0049acee42e5/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313231363033322d636237366235616265626365656462332e4749463f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="25%"/>
 
 项目名：OffsetAnimator<br>
 git地址：https://github.com/russelarms/OffsetAnimator<br>
@@ -179,6 +182,10 @@ git地址：https://github.com/ronaldsmartin/Material-ViewPagerIndicator<br>
 ### Banner<br>
 
 
+
+
+
+
 项目名：AndroidAutoSwitcher<br>
 git地址：https://github.com/Marksss/AndroidAutoSwitcher<br>
 预览:<br>
@@ -246,6 +253,9 @@ git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
 
 
 ### 卡片翻页效果<br>
+
+
+
 
 
 
