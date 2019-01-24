@@ -12,7 +12,7 @@
 
 
 
-### 更新时间:2019-01-23<br>
+### 更新时间:2019-01-24<br>
 
 
 
@@ -178,6 +178,13 @@
 
 ## 自定义控件/动画:<br>
 
+
+
+
+项目名：AndroidSlideBack<br>
+git地址：https://github.com/qinci/AndroidSlideBack<br>
+预览:<br>
+<img src="https://github.com/qinci/AndroidSlideBack/raw/master/image/jike.gif" width="25%"/>
 
 项目名：GeneratePicture<br>
 git地址：https://github.com/zhangke3016/GeneratePicture<br>
