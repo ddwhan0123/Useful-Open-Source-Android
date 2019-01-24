@@ -3,6 +3,14 @@
 ## 二维码 相关:<br>
 
 
+
+
+
+项目名：AiYaScanner<br>
+git地址：https://github.com/nanchen2251/AiYaScanner<br>
+预览:<br>
+<img src="https://github.com/nanchen2251/AiYaScanner/raw/master/screenshot/screenshot.gif" width="26%" /><br>
+
 项目名：QrCodeDemo4<br>
 git地址：https://github.com/ahuyangdong/QrCodeDemo4<br>
 预览:<br>
