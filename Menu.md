@@ -209,7 +209,7 @@ git地址：https://github.com/dkmeteor/Folder-ResideMenu<br>
 项目名：GuillotineMenu-Android<br>
 git地址：https://github.com/Yalantis/GuillotineMenu-Android<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/f044b38de3fed4496b98dff747b3bf6555ec67e4/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3439353739322f73637265656e73686f74732f323131333331342f64726166742d30332e676966" width="30%" />
+<img src="https://cdn.dribbble.com/users/495792/screenshots/2018249/draft_06.gif" width="30%" />
 
 
 
