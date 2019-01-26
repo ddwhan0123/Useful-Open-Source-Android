@@ -459,7 +459,10 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 ### 图像处理：<br>
 
 
-
+项目名：PhotoMovie<br>
+git地址：https://github.com/yellowcath/PhotoMovie<br>
+预览:<br>
+<img src="https://github.com/yellowcath/PhotoMovie/raw/master/readme/gradient.gif" width="30%"/><br>
 
 项目名：PaletteImageView<br>
 git地址：https://github.com/DingMouRen/PaletteImageView<br>
