@@ -193,7 +193,10 @@ git地址：https://github.com/daimajia/NumberProgressBar<br>
 
 
 
-
+项目名：douyinloadingview<br>
+git地址：https://github.com/CCY0122/douyinloadingview<br>
+预览:<br>
+<img src="https://github.com/CCY0122/douyinloadingview/raw/master/img/1536052594561.gif" width="30%" />
 
 项目名：geometric-progress-view<br>
 git地址：https://github.com/vbohush/geometric-progress-view<br>
