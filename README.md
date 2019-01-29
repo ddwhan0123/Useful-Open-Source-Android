@@ -179,7 +179,10 @@
 ## 自定义控件/动画:<br>
 
 
-
+项目名：DouYinMusicView<br>
+git地址：https://github.com/tgithubc/DouYinMusicView<br>
+预览:<br>
+<img src="https://github.com/tgithubc/DouYinMusicView/raw/master/gif/1.gif" width="25%"/>
 
 项目名：AndroidSlideBack<br>
 git地址：https://github.com/qinci/AndroidSlideBack<br>
