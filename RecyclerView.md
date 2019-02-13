@@ -185,7 +185,7 @@ git地址：https://github.com/songwenju/CustomTvRecyclerView<br>
 项目名：GangedRecyclerview<br>
 git地址：https://github.com/wustor/GangedRecyclerview<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/b13c1b59776d4445af42dfd992d1eab87a2fda7f/687474703a2f2f6f72626d36326273772e626b742e636c6f7564646e2e636f6d2f2545352538382539372545382541312541382545382538312539342545352538412541382e676966" width="30%"/><br>
+<img src="https://camo.githubusercontent.com/f96e92b154541bc96bd33f2ce21681938b1ed1a7/68747470733a2f2f692e6c6f6c692e6e65742f323031382f31322f31362f356331363031666630613130632e676966" width="30%"/><br>
 
 
 
