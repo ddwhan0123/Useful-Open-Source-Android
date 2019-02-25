@@ -2,7 +2,12 @@
 ## 开源app<br>
 
 
-
+项目名：Feeder2<br>
+git地址：https://github.com/zhangsr/Feeder2<br>
+预览:<br>
+<img src="https://github.com/zhangsr/Image/raw/master/feeder_logo.png?raw=true" width="24%" />
+解释：<br>
+Feeder2.0， Android Rss 阅读器，Material Design，MVP架构<br>
 
 项目名：DoraemonKit<br>
 git地址：https://github.com/didi/DoraemonKit<br>
