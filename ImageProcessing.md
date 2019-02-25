@@ -459,6 +459,12 @@ git地址：https://github.com/ValuesFeng/AndroidPicturePicker<br>
 ### 图像处理：<br>
 
 
+
+项目名：StickerView<br>
+git地址：https://github.com/Lichenwei-Dev/StickerView<br>
+预览:<br>
+<img src="https://github.com/Lichenwei-Dev/StickerView/raw/master/screenshot/stickerview.gif" width="26%"/><br>
+
 项目名：PhotoMovie<br>
 git地址：https://github.com/yellowcath/PhotoMovie<br>
 预览:<br>
