@@ -39,10 +39,7 @@ git地址：https://github.com/loonggg/Android-AlarmManagerClock<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/loonggg/BlogImages/master/AlarmManager/ssdsfsdfs.gif" width="28%" />
 
-项目名：DouYu<br>
-git地址：https://github.com/TeamCodeForGit/DouYu<br>
-预览:<br>
-<img src="https://github.com/mykj/DouYu/raw/master/upload_image/DACCBB63F4390F462D498615DCAA4BC7.png" width="28%" />
+
 
 项目名：PopularMovies<br>
 git地址：https://github.com/vpaliyX/PopularMovies<br>
