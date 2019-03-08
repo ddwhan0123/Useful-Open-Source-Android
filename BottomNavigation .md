@@ -1,7 +1,10 @@
 
 ## Bottom Navigation 相关:<br>
 
-
+项目名：MeowBottomNavigation<br>
+git地址：https://github.com/shetmobile/MeowBottomNavigation<br>
+预览:<br>
+<img src="https://github.com/shetmobile/MeowBottomNavigation/raw/master/resources/meow-bottom-navigation-normal.gif" width="40%" />
 
 项目名：animated-tab-bar<br>
 git地址：https://github.com/Ramotion/animated-tab-bar<br>
