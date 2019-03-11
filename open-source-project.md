@@ -2,6 +2,13 @@
 ## 开源app<br>
 
 
+项目名：JReadHub<br>
+git地址：https://github.com/guanpj/JReadHub<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/guanpj/JReadhub/master/img/blue-topic.png?raw=true" width="24%" />
+解释：<br>
+Readhub Android 客户端——官网 : https://readhub.cn<br>
+
 项目名：Feeder2<br>
 git地址：https://github.com/zhangsr/Feeder2<br>
 预览:<br>
@@ -56,10 +63,7 @@ git地址：https://github.com/HotBitmapGG/bilibili-android-client<br>
 预览:<br>
 <img src="https://github.com/HotBitmapGG/bilibili-android-client/raw/master-x/art/03.png" width="30%" />
 
-项目名：TranslateApp<br>
-git地址：https://github.com/maoruibin/TranslateApp<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/30c31811825de0e59dea6c440bb1f186af26fa30/687474703a2f2f3778723967782e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f67642e676966" width="30%" />
+
 
 项目名：Firebucket<br>
 git地址：https://github.com/remychantenay/Firebucket<br>
@@ -219,7 +223,7 @@ git地址：https://github.com/Sunzxyong/Recovery<br>
 解释：<br>
 A crash recovery framework<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/62290027e0fe7bbd3863016bcf2e2942dc1b0a51/687474703a2f2f3778737778662e636f6d322e7a302e676c622e71696e697563646e2e636f6d2f626c6f672f5265636f766572795f6d61696e2e706e67" width="30%" />
+<img src="https://camo.githubusercontent.com/2979c1d0701ca490a5c78bf63551e160ea71f067/687474703a2f2f3778737778662e636f6d322e7a302e676c622e71696e697563646e2e636f6d2f2f626c6f672f7265636f766572792e6a7067" width="30%" />
 
 项目名：fir.flight<br>
 git地址：https://github.com/ryanhoo/fir.flight<br>
@@ -392,10 +396,6 @@ git地址:https://github.com/xcc3641/SeeWeather<br>
 预览:<br>
 <img src="https://github.com/xcc3641/SeeWeather/raw/master/images/day.png" width="30%"/><br>
 
-项目名：ignite<br>
-git地址:https://github.com/infinitered/ignite<br>
-预览:<br>
-<img src="https://github.com/infinitered/ignite/raw/master/_art/screens.gif" width="30%"/><br>
 
 项目名：PackageTracker<br>
 git地址:https://github.com/fython/PackageTracker<br>
@@ -453,7 +453,7 @@ git地址: https://github.com/dodola/WeexOne<br>
 项目名：YouJoin-Android<br>
 git地址: https://github.com/FreedomZZQ/YouJoin-Android<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/f1696632a3b0c5b501ef04120c021dc50df07542/687474703a2f2f37767a726a302e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f796f756a6f696e2d616e64726f69642d312d77656c636f6d652e706e673f696d616765566965772f322f772f343030" width="30%" /><br>
+<img src="https://camo.githubusercontent.com/5858a441089456842757f484254a8dca937c9e9c/687474703a2f2f37767a726a302e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f796f756a6f696e2d616e64726f69642d312d747765657464657461696c2e706e673f696d616765566965772f322f772f343030" width="30%" /><br>
 
 
 项目名：Omni-Notes<br>
@@ -491,10 +491,7 @@ git地址: https://github.com/hanuor/onyx<br>
 预览:<br>
 <img src="https://github.com/hanuor/onyx/raw/master/anim2.gif" width="30%" /><br>
 
-项目名：Tiny-note<br>
-git地址: https://github.com/gougouccnu/Tiny-note<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/51090a107b7f51acc18692c8944d02bf786ce806/687474703a2f2f6f38316c6a68656a662e626b742e636c6f7564646e2e636f6d2f6e6577506963332e6a70673f696d61676556696577322f312f772f3237302f682f3438302f712f3735" width="30%" /><br>
+
 
 项目名：Android-Material-Themes-Demo<br>
 git地址: https://github.com/StevenByle/Android-Material-Themes-Demo<br>
@@ -602,10 +599,7 @@ git地址：https://github.com/w446108264/XhsWelcomeAnim<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/w446108264/XhsWelcomeAnim/master/output/show.gif" width="30%" />
 
-项目名：Meizhi<br>
-git地址：https://github.com/drakeet/Meizhi<br>
-预览:<br>
-<img src="https://github.com/drakeet/Meizhi/raw/master/screenshots/s0.png" width="30%" />
+
 
 项目名：RXRetrofitDaggerMvpDemo<br>
 git地址：https://github.com/tuozhaobing/RXRetrofitDaggerMvpDemo<br>
