@@ -132,7 +132,7 @@ git地址：https://github.com/harjot-oberai/Croller<br>
 项目名：TestLeavesLoading<br>
 git地址：https://github.com/LinYaoTian/TestLeavesLoading<br>
 预览:<br>
-<img src="https://github.com/LinYaoTian/TestLeavesLoading/raw/master/test1.gif?raw=true" width="30%"/>
+<img src="https://github.com/LinYaoTian/TestLeavesLoading/raw/master/model.gif?raw=true" width="30%"/>
 
 项目名：SpecialProgressBar<br>
 git地址：https://github.com/zhangke3016/SpecialProgressBar<br>
