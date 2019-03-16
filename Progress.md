@@ -8,8 +8,25 @@
 
 
 
+项目名：CircleProgressBar<br>
+git地址：https://github.com/AlexMofer/CircleProgressBar<br>
+预览:<br>
+<img src="https://github.com/AlexMofer/CircleProgressBar/raw/master/screenshots.gif" width="28%" />
 
+项目名：DashboardView<br>
+git地址：https://github.com/woxingxiao/DashboardView<br>
+预览:<br>
+<img src="https://github.com/woxingxiao/DashboardViewDemo/raw/master/screenshot/style4.jpg" width="28%" />
 
+项目名：EasyChart<br>
+git地址：https://github.com/apinIron/EasyChart<br>
+预览:<br>
+<img src="https://github.com/apinIron/EasyChart/raw/master/image/frame.gif" width="28%" />
+
+项目名：DashboardView<br>
+git地址：https://github.com/SuperKung/DashboardView<br>
+预览:<br>
+<img src="https://github.com/SuperKung/DashboardView/raw/master/Dashboard.gif" width="28%" />
 
 项目名：RingProgressBar<br>
 git地址：https://github.com/HotBitmapGG/RingProgressBar<br>
