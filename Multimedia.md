@@ -180,6 +180,12 @@ Convert audio files inside your Android app easily. Supported formats: AAC, MP3,
 ### 多媒体处理<br>
 
 
+
+项目名：Android-Video-Editor<br>
+git地址：https://github.com/LLhon/Android-Video-Editor<br>
+预览:<br>
+<img src="https://github.com/LLhon/Android-Video-Editor/raw/master/image/02.png" width="30%" />
+
 项目名：Android-Video-Trimmer<br>
 git地址：https://github.com/iknow4/Android-Video-Trimmer<br>
 预览:<br>
