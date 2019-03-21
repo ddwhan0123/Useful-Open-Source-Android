@@ -6,7 +6,10 @@
 ### 圆形进度条<br>
 
 
-
+项目名：Dash<br>
+git地址：https://github.com/jiabailong/Dash<br>
+预览:<br>
+<img src="https://github.com/jiabailong/Dash/raw/master/Screenshot_2016-08-19-15-30-56.jpeg" width="28%" />
 
 项目名：CircleProgressBar<br>
 git地址：https://github.com/AlexMofer/CircleProgressBar<br>
