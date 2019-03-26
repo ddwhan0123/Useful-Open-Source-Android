@@ -161,6 +161,12 @@ git地址：https://github.com/L4Digital/FastScroll<br>
 
 
 
+
+项目名：OverlapImageGalleryView<br>
+git地址：https://github.com/Mindinventory/OverlapImageGalleryView<br>
+预览:<br>
+<img src="https://github.com/Mindinventory/OverlapImageGalleryView/raw/master/media/AnimOverlapImageGalleyView.gif" width="25%"/>
+
 项目名：TimetableLayout<br>
 git地址：https://github.com/MoyuruAizawa/TimetableLayout<br>
 预览:<br>
