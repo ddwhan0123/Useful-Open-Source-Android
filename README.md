@@ -346,10 +346,6 @@ git地址：https://github.com/Lauzy/PlayPauseView<br>
 预览:<br>
 <img src="https://github.com/Lauzy/PlayPauseView/raw/master/Screenshot/20170812PlayPauseViewSR.gif" width="30%"/>
 
-项目名：MaterialStepperView<br>
-git地址：https://github.com/fython/MaterialStepperView<br>
-预览:<br>
-<img src="https://github.com/fython/MaterialStepperView/raw/master/.readme/vertical.gif" width="20%"/>
 
 项目名：UberUX<br>
 git地址：https://github.com/mohak1712/UberUX<br>
@@ -416,20 +412,14 @@ git地址：https://github.com/wobiancao/ImageNice9Layout<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/97580ffc8e3225b569ec475c9cf379e1a5e94b5a/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313231363033322d633736393836333036343962393838342e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="28%"/>
 
-项目名：TimeLine<br>
-git地址：https://github.com/vivian8725118/TimeLine<br>
-预览:<br>
-<img src="https://github.com/vivian8725118/TimeLine/raw/master/art/A6A1B601503A23E054ABC9B205B2131F.png?raw=true" width="28%"/>
+
 
 项目名：MusicIndicator<br>
 git地址：https://github.com/Taishi-Y/MusicIndicator<br>
 预览:<br>
 <img src="https://github.com/Taishi-Y/MusicIndicator/raw/master/art/samplegif.gif?raw=true" width="28%"/>
 
-项目名：SmileyRating<br>
-git地址：https://github.com/sujithkanna/SmileyRating<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/sujithkanna/SmileyRating/master/app/src/main/assets/demo.gif" width="28%"/>
+
 
 项目名：snackprogressbar<br>
 git地址：https://github.com/tingyik90/snackprogressbar<br>
@@ -779,10 +769,7 @@ git地址：https://github.com/Meetic/MaryPopup<br>
 预览:<br>
 <img src="https://github.com/Meetic/MaryPopup/raw/master/media/photo.gif" width="30%"/>
 
-项目名：TimelineView<br>
-git地址：https://github.com/qapqap/TimelineView<br>
-预览:<br>
-<img src="https://github.com/qapqap/TimelineView/raw/master/Screenshot.png" width="30%"/>
+
 
 项目名：InstagramLikeColorTransitionAndroid<br>
 git地址：https://github.com/Taishi-Y/InstagramLikeColorTransitionAndroid<br>
