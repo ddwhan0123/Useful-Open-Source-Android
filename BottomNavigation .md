@@ -1,10 +1,16 @@
 
 ## Bottom Navigation 相关:<br>
 
+
+项目名：EasyNavigation<br>
+git地址：https://github.com/forvv231/EasyNavigation<br>
+预览:<br>
+<img src="https://github.com/forvv231/EasyNavigation/raw/master/screenshot/pre.gif" width="32%" />
+
 项目名：MeowBottomNavigation<br>
 git地址：https://github.com/shetmobile/MeowBottomNavigation<br>
 预览:<br>
-<img src="https://github.com/shetmobile/MeowBottomNavigation/raw/master/resources/meow-bottom-navigation-normal.gif" width="40%" />
+<img src="https://github.com/shetmobile/MeowBottomNavigation/raw/master/resources/meow-bottom-navigation-normal.gif" width="35%" />
 
 项目名：animated-tab-bar<br>
 git地址：https://github.com/Ramotion/animated-tab-bar<br>
