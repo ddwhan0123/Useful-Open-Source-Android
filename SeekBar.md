@@ -2,6 +2,12 @@
 
 
 
+
+项目名：BidirectionalSeekBar<br>
+git地址：https://github.com/kaxi4it/BidirectionalSeekBar<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/a5dea52c61065521bb89b6c229ed191c4eee9192/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333334343530312d323663613566636537303438643835622e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="27%"/>
+
 项目名：StfalconPriceRangeBar-android<br>
 git地址：https://github.com/stfalcon-studio/StfalconPriceRangeBar-android<br>
 预览:<br>
