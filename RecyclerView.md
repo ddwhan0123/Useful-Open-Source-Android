@@ -160,7 +160,10 @@ git地址：https://github.com/L4Digital/FastScroll<br>
 ### 各类牛x实现 ：<br>
 
 
-
+项目名：likeJDGoodsDetails<br>
+git地址：https://github.com/kaxi4it/likeJDGoodsDetails<br>
+预览:<br>
+<img src="https://github.com/kaxi4it/likeJDGoodsDetails/raw/master/gif/2.gif" width="25%"/>
 
 项目名：OverlapImageGalleryView<br>
 git地址：https://github.com/Mindinventory/OverlapImageGalleryView<br>
