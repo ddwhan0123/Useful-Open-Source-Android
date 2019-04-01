@@ -12,6 +12,12 @@
 
 
 
+
+项目名：JiaoZiVideoPlayer<br>
+git地址:https://github.com/lipangit/JiaoZiVideoPlayer<br>
+预览:<br>
+<img src="https://user-images.githubusercontent.com/2038071/31045150-a077cc8a-a5a2-11e7-8dc2-7a0e3a9f3e62.jpg" width="60%"/><br>
+
 项目名：GSYVideoPlayer<br>
 git地址:https://github.com/CarGuo/GSYVideoPlayer<br>
 预览:<br>
