@@ -259,6 +259,12 @@ git地址：https://github.com/xyzlf/AutoPlayViewPager<br>
 
 
 
+项目名：SpinMenu<br>
+git地址：https://github.com/Hitomis/SpinMenu<br>
+预览:<br>
+<img src="https://github.com/Hitomis/SpinMenu/raw/master/preview/menu_cyclic.gif" width="30%"/><br>
+
+
 项目名：MotionLayoutCarousel<br>
 git地址：https://github.com/faob-dev/MotionLayoutCarousel<br>
 预览:<br>
