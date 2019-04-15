@@ -1,7 +1,10 @@
 ## SeekBar
 
 
-
+项目名：DiscreteSlider<br>
+git地址：https://github.com/hearsilent/DiscreteSlider<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/hearsilent/DiscreteSlider/master/screenshots/screenrecord.gif" width="24%"/>
 
 项目名：BidirectionalSeekBar<br>
 git地址：https://github.com/kaxi4it/BidirectionalSeekBar<br>
