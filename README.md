@@ -181,6 +181,12 @@
 ## 自定义控件/动画:<br>
 
 
+
+项目名：SwipePanel<br>
+git地址：https://github.com/Blankj/SwipePanel<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/Blankj/SwipePanel/master/art/layout.png" width="25%"/>
+
 项目名：DouYinMusicView<br>
 git地址：https://github.com/tgithubc/DouYinMusicView<br>
 预览:<br>
