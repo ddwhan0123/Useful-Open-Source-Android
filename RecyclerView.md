@@ -2,7 +2,34 @@
 ## RecyclerView 相关:<br>
 
 
+### 拖拽实现 相关：<br>
 
+
+项目名：drag-select-recyclerview<br>
+git地址：https://github.com/afollestad/drag-select-recyclerview<br>
+预览:<br>
+<img src="https://github.com/afollestad/drag-select-recyclerview/raw/master/art/range.gif" width="30%"> <br>
+
+项目名：DragListView<br>
+git地址：https://github.com/woxblom/DragListView<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/dcd2b3fdebec29055ad24048846921d20c3c9e5d/687474703a2f2f696d672e796f75747562652e636f6d2f76692f487863376c3036786876342f302e6a7067" width="27%"/><br>
+
+项目名：RecyclerViewSwipeDismiss<br>
+git地址：https://github.com/CodeFalling/RecyclerViewSwipeDismiss<br>
+预览:<br>
+<img src="https://github.com/CodeFalling/RecyclerViewSwipeDismiss/raw/master/RecyclerViewSwipeDismiss.gif" width="30%"/><br>
+
+
+项目名：ItemTouchHelperDemo<br>
+git地址：https://github.com/YoKeyword/ItemTouchHelperDemo<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/ffdf764e108d0e9dcd9d24da20f71d8ff0957b75/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3933373835312d326466353066663938333364643338362e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="30%"/><br>
+
+项目名：gesture-recycler<br>
+git地址：https://github.com/thesurix/gesture-recycler<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/4b006982df5d15b87595ea5e6f2b4430e47780f5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c33646a3245686e41476b355a776954532f67697068792e676966" width="30%"> <br>
 
 
 ### 下拉刷新/上拉加载 相关：<br>
@@ -126,6 +153,17 @@ git地址:https://github.com/andyxialm/SmileyLoadingView<br>
 
 ### 通讯录实现：<br>
 
+
+项目名：LollipopContactsRecyclerViewFastScroller<br>
+git地址：https://github.com/AndroidDeveloperLB/LollipopContactsRecyclerViewFastScroller<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/AndroidDeveloperLB/LollipopContactsRecyclerViewFastScroller/master/demo.gif" width="30%"/><br>
+
+
+项目名：recycler-fast-scroll<br>
+git地址：https://github.com/FutureMind/recycler-fast-scroll<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/26b1a68095f8cf1e68add244bdcea7fdc376a341/687474703a2f2f692e696d6775722e636f6d2f556771687a75642e676966" width="30%"/><br>
 
 项目名：EasyRecyclerViewSidebar<br>
 git地址：https://github.com/CaMnter/EasyRecyclerViewSidebar<br>
@@ -422,29 +460,20 @@ git地址：https://github.com/airbnb/epoxy<br>
 预览:<br>
 <img src="https://github.com/airbnb/epoxy/raw/master/epoxy-sample/epoxy_sample_app.gif" width="30%"/><br>
 
-项目名：RecyclerViewSwipeDismiss<br>
-git地址：https://github.com/CodeFalling/RecyclerViewSwipeDismiss<br>
-预览:<br>
-<img src="https://github.com/CodeFalling/RecyclerViewSwipeDismiss/raw/master/RecyclerViewSwipeDismiss.gif" width="30%"/><br>
+
 
 项目名：Paginate<br>
 git地址：https://github.com/MarkoMilos/Paginate<br>
 预览:<br>
 <img src="https://github.com/MarkoMilos/Paginate/raw/master/art/demo.gif" width="30%"/><br>
 
-项目名：recycler-fast-scroll<br>
-git地址：https://github.com/FutureMind/recycler-fast-scroll<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/26b1a68095f8cf1e68add244bdcea7fdc376a341/687474703a2f2f692e696d6775722e636f6d2f556771687a75642e676966" width="30%"/><br>
 
 
 
 
 
-项目名：LollipopContactsRecyclerViewFastScroller<br>
-git地址：https://github.com/AndroidDeveloperLB/LollipopContactsRecyclerViewFastScroller<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/AndroidDeveloperLB/LollipopContactsRecyclerViewFastScroller/master/demo.gif" width="30%"/><br>
+
+
 
 项目名：MultiTypeView<br>
 git地址：https://github.com/LuckyJayce/MultiTypeView<br>
@@ -460,10 +489,7 @@ git地址：https://github.com/felipecsl/AsymmetricGridView<br>
 
 
 
-项目名：ItemTouchHelperDemo<br>
-git地址：https://github.com/YoKeyword/ItemTouchHelperDemo<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/ffdf764e108d0e9dcd9d24da20f71d8ff0957b75/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3933373835312d326466353066663938333364643338362e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="30%"/><br>
+
 
 项目名：SwipeRecyclerView<br>
 git地址：https://github.com/yanzhenjie/SwipeRecyclerView<br>
@@ -626,15 +652,9 @@ git地址：https://github.com/CymChad/BaseRecyclerViewAdapterHelper<br>
 预览:<br>
 <img src="https://user-images.githubusercontent.com/7698209/33198075-ef8f2230-d123-11e7-85a3-4cb9b22f877d.png" width="30%"> <br>
 
-项目名：gesture-recycler<br>
-git地址：https://github.com/thesurix/gesture-recycler<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/4b006982df5d15b87595ea5e6f2b4430e47780f5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c33646a3245686e41476b355a776954532f67697068792e676966" width="30%"> <br>
 
-项目名：drag-select-recyclerview<br>
-git地址：https://github.com/afollestad/drag-select-recyclerview<br>
-预览:<br>
-<img src="https://github.com/afollestad/drag-select-recyclerview/raw/master/art/range.gif" width="30%"> <br>
+
+
 
 项目名：recyclerviewhelper<br>
 git地址：https://github.com/nisrulz/recyclerviewhelper<br>
