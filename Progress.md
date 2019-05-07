@@ -6,6 +6,11 @@
 ### 圆形进度条<br>
 
 
+项目名：ArcsView<br>
+git地址：https://github.com/agnamc/ArcsView<br>
+预览:<br>
+<img src="https://github.com/agnamc/ArcsView/raw/master/screenshot.gif" width="28%" />
+
 项目名：Dash<br>
 git地址：https://github.com/jiabailong/Dash<br>
 预览:<br>
