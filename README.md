@@ -182,6 +182,11 @@
 
 
 
+项目名：RWidgetHelper<br>
+git地址：https://github.com/RuffianZhong/RWidgetHelper<br>
+预览:<br>
+<img src="https://github.com/RuffianZhong/RWidgetHelper/raw/master/picture/all.gif" width="25%"/>
+
 项目名：SwipePanel<br>
 git地址：https://github.com/Blankj/SwipePanel<br>
 预览:<br>
