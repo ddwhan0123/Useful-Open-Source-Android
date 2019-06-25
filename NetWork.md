@@ -65,6 +65,11 @@ An Android transformation library providing a variety of image transformations f
 
 
 
+项目名：HttpCanary<br>
+git地址：https://github.com/MegatronKing/HttpCanary<br>
+预览:<br>
+<img src="https://github.com/MegatronKing/HttpCanary/raw/master/assets/main_screenshot.png" width="30%"/>
+
 项目名：XHttp2<br>
 git地址：https://github.com/xuexiangjys/XHttp2<br>
 预览:<br>
