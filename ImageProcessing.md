@@ -705,6 +705,11 @@ git地址：https://github.com/siwangqishiq/ImageEditor-Android<br>
 
 ### 照相机相关<br>
 
+项目名：CameraView<br>
+git地址：https://github.com/natario1/CameraView<br>
+预览:<br>
+<img src="https://github.com/natario1/CameraView/raw/master/docs/static/screen1.jpg" width="20%" /><br>
+
 项目名：SmartCamera<br>
 git地址：https://github.com/pqpo/SmartCamera<br>
 预览:<br>
