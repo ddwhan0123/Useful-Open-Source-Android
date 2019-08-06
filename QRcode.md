@@ -5,6 +5,10 @@
 
 
 
+项目名：CZXing<br>
+git地址：https://github.com/devilsen/CZXing<br>
+预览:<br>
+<img src="https://mmbiz.qpic.cn/mmbiz_gif/MOu2ZNAwZwOr6PBia5qllZaPSX33MPGMNwJKtE9GMnRelt40LibzLjOt3254qGRbkyNHicTZO9KiaPYx2xXek3ctdA/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1" width="26%" /><br>
 
 项目名：AiYaScanner<br>
 git地址：https://github.com/nanchen2251/AiYaScanner<br>
