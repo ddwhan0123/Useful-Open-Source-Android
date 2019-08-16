@@ -2,6 +2,11 @@
 
 
 
+项目名：LabelsView<br>
+git地址：https://github.com/donkingliang/LabelsView<br>
+预览:<br>
+<img src="https://github.com/donkingliang/LabelsView/raw/master/%E6%95%88%E6%9E%9C%E5%9B%BE.gif" width="26%"/>
+
 项目名：AutoFlowLayout<br>
 git地址：https://github.com/LRH1993/AutoFlowLayout<br>
 预览:<br>
