@@ -176,7 +176,10 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 
 ### TextView<br>
 
-
+项目名： AutoWrapTextView<br>
+git地址：https://github.com/chenpengfei88/AutoWrapTextView<br>
+预览:<br>
+<img src="https://github.com/chenpengfei88/AutoWrapTextView/raw/master/app/src/main/res/drawable/atxgt.png" width="24%"/><br>
 
 
 项目名： TextBannerView<br>
