@@ -4,7 +4,10 @@
 
 
 
-
+项目名：EasyFloat<br>
+git地址：https://github.com/princekin-f/EasyFloat<br>
+预览:<br>
+<img src="https://github.com/princekin-f/EasyFloat/raw/master/gif/%E6%9D%83%E9%99%90%E7%94%B3%E8%AF%B7.gif" width="25%"/><br>
 
 项目名：Bounceview-Android<br>
 git地址：https://github.com/hariprasanths/Bounceview-Android<br>
