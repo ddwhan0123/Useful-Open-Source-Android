@@ -295,7 +295,10 @@ git地址：https://github.com/adamstyrc/cookie-cutter<br>
 ### 图片选择器相关：<br>
 
 
-
+项目名：ImageWatcher<br>
+git地址：https://github.com/byc4426/ImageWatcher<br>
+预览:<br>
+<img src="https://github.com/byc4426/ImageWatcher/raw/master/previews/111.gif" width="30%" /><br>
 
 项目名：NineGridView<br>
 git地址：https://github.com/jeasonlzy/NineGridView<br>
