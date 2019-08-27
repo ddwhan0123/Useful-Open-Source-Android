@@ -180,6 +180,12 @@
 
 ## 自定义控件/动画:<br>
 
+项目名：Rainbow<br>
+git地址：https://github.com/skydoves/Rainbow<br>
+预览:<br>
+<img src="https://user-images.githubusercontent.com/24237865/63633706-6c37ed80-c687-11e9-9316-b29530c7f1a8.jpg" width="25%"/>
+
+
 项目名：SmartRefreshHorizontal<br>
 git地址：https://github.com/scwang90/SmartRefreshHorizontal<br>
 预览:<br>
