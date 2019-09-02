@@ -180,6 +180,13 @@
 
 ## 自定义控件/动画:<br>
 
+
+项目名：SuperButton<br>
+git地址：https://github.com/ansnail/SuperButton<br>
+预览:<br>
+<img src="https://github.com/ansnail/SuperButton/raw/master/image/20190711172054.gif" width="29%"/>
+
+
 项目名：Rainbow<br>
 git地址：https://github.com/skydoves/Rainbow<br>
 预览:<br>
