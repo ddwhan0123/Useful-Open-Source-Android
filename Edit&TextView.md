@@ -176,6 +176,13 @@ git地址：https://github.com/wangshaolei/AutoFillEmailEditText<br>
 
 ### TextView<br>
 
+
+项目名： RTextView<br>
+git地址：https://github.com/RuffianZhong/RTextView<br>
+预览:<br>
+<img src="https://github.com/RuffianZhong/RTextView/raw/master/corner.png" width="24%"/><br>
+
+
 项目名： AutoWrapTextView<br>
 git地址：https://github.com/chenpengfei88/AutoWrapTextView<br>
 预览:<br>
