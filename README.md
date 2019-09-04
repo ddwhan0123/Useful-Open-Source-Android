@@ -354,10 +354,6 @@ git地址：https://github.com/iammert/ScalingLayout<br>
 预览:<br>
 <img src="https://github.com/iammert/ScalingLayout/raw/master/art/gif_behavior.gif" width="28%"/>
 
-项目名：co.revely.gradient<br>
-git地址：https://github.com/revely-inc/co.revely.gradient<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/5ba6592463a24b1c6dbfb3439c189fd41adbbb5f/68747470733a2f2f6769746c61622e636f6d2f726576656c792f6173736574732f7261772f6d61737465722f726576656c795f6772616469656e742f6261636b67726f756e645f6772616469656e742e676966" width="25%"/>
 
 项目名：CircularFillableLoadersu<br>
 git地址：https://github.com/lopspower/CircularFillableLoaders<br>
@@ -507,10 +503,7 @@ git地址：https://github.com/stkent/PolygonDrawingUtil<br>
 预览:<br>
 <img src="https://github.com/stkent/PolygonDrawingUtil/raw/master/assets/demo.gif" width="24%"/>
 
-项目名：OneDrawable<br>
-git地址：https://github.com/maoruibin/OneDrawable<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/f22ad937bb1b62dd89144538e90c592a4ccbf6c1/687474703a2f2f3778723967782e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f73746174656261636b67726f756e6476322e676966" width="30%"/>
+
 
 项目名：HoldingButton<br>
 git地址：https://github.com/dewarder/HoldingButton<br>
@@ -581,10 +574,7 @@ git地址：https://github.com/Lesilva/BetterSpinner<br>
 预览:<br>
 <img src="https://github.com/Lesilva/BetterSpinner/raw/master/screenshot/screenshot.gif" width="30%"/>
 
-项目名：ForegroundView<br>
-git地址：https://github.com/baole/ForegroundView<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/bddd3ce3616fb09c9574a8258513b60476e51a2c/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d6166592d56516e566f64772f56676138416a4b77466b492f41414141414141414d6b6f2f5274434d55536b4e7371592f773438372d683836352d6e6f2f53637265656e73686f745f32303135303932362d3232333730312e706e67" width="30%"/>
+
 
 
 项目名：stateLayout<br>
