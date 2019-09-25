@@ -5,6 +5,11 @@
 ### 拖拽实现 相关：<br>
 
 
+项目名：RecyclerViewEvent<br>
+git地址：https://github.com/OCNYang/RecyclerViewEvent<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/4e884a1af316d4b648ec71b7aa5c21f7df509b46/687474703a2f2f696d672e736865646f6f722e6e65742f6769746875622f72656379636c6572766965776576656e742f726563795f647261672e6769663f696d61676556696577322f322f772f333030" width="30%"> <br>
+
 项目名：drag-select-recyclerview<br>
 git地址：https://github.com/afollestad/drag-select-recyclerview<br>
 预览:<br>
