@@ -181,6 +181,12 @@
 ## 自定义控件/动画:<br>
 
 
+项目名：ActivityTaskView<br>
+git地址：https://github.com/rome753/ActivityTaskView<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/a93d1f8a6cecc2a0225432aac6af645a226bd0a9/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313839363136362d333035356539353765623033623664342e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="29%"/>
+
+
 项目名：SuperButton<br>
 git地址：https://github.com/ansnail/SuperButton<br>
 预览:<br>
