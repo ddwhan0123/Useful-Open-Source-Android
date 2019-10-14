@@ -298,6 +298,13 @@ git地址：https://github.com/adamstyrc/cookie-cutter<br>
 ### 图片选择器相关：<br>
 
 
+
+项目名：MNImageBrowser<br>
+git地址：https://github.com/maning0303/MNImageBrowser<br>
+预览:<br>
+<img src="https://github.com/maning0303/MNImageBrowser/raw/master/screenshots/mn_imagebrowser001.gif" width="30%" /><br>
+
+
 项目名：ImageWatcher<br>
 git地址：https://github.com/byc4426/ImageWatcher<br>
 预览:<br>
