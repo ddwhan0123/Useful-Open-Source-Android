@@ -14,10 +14,6 @@ git地址:https://github.com/shekhargulati/strman-java<br>
 解释:<br>
 A Java 8 string manipulation library. It is inspired by https://github.com/dleitee/strman<br>
 
-项目名：jadx<br>
-git地址：https://github.com/skylot/jadx<br>
-预览:（Dex to Java decompiler）<br>
-<img src="https://camo.githubusercontent.com/bd3c0ea851c23c4535e43590a86c940a0786faa6/687474703a2f2f736b796c6f742e6769746875622e696f2f6a6164782f6a6164782d6775692e706e67" width="30%"/><br>
 
 
 
