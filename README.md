@@ -181,6 +181,11 @@
 ## 自定义控件/动画:<br>
 
 
+项目名：UserGuideView<br>
+git地址：https://github.com/yilylong/UserGuideView<br>
+预览:<br>
+<img src="https://github.com/yilylong/UserGuideView/raw/master/guide1.png" width="25%"/>
+
 项目名：ActivityTaskView<br>
 git地址：https://github.com/rome753/ActivityTaskView<br>
 预览:<br>
