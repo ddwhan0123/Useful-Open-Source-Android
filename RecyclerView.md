@@ -203,6 +203,11 @@ git地址：https://github.com/L4Digital/FastScroll<br>
 ### 各类牛x实现 ：<br>
 
 
+项目名：YCScrollPager<br>
+git地址：https://github.com/yangchong211/YCScrollPager<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/1b09f083c8597c3d2db225aaa07000a77fdaa369/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f32303139303930383231343332373337342e676966" width="25%"/>
+
 项目名：likeJDGoodsDetails<br>
 git地址：https://github.com/kaxi4it/likeJDGoodsDetails<br>
 预览:<br>
