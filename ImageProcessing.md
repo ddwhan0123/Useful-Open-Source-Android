@@ -44,6 +44,12 @@ git地址：https://github.com/vinc3m1/RoundedImageView<br>
 
 ### 特殊业务场景图片处理：<br>
 
+项目名：ElevationImageView<br>
+git地址：https://github.com/qhutch/ElevationImageView<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/qhutch/ElevationImageView/master/sample_gif.gif" width="25%"/>
+
+
 项目名：mPro<br>
 git地址：https://github.com/lihangleo2/mPro<br>
 预览:<br>
