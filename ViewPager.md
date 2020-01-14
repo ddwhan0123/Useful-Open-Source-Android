@@ -370,6 +370,10 @@ git地址：https://github.com/rubensousa/ViewPagerCards<br>
 
 
 
+项目名：GridPager<br>
+git地址：https://github.com/mtjsoft/GridPager<br>
+预览:<br>
+<img src="https://github.com/mtjsoft/GridPager/raw/master/gif.gif" width="30%"/><br>
 
 项目名：glazy-viewpager<br>
 git地址：https://github.com/kannan-anbu/glazy-viewpager<br>
