@@ -203,6 +203,11 @@ git地址：https://github.com/L4Digital/FastScroll<br>
 ### 各类牛x实现 ：<br>
 
 
+项目名：ZoomRecylerLayout<br>
+git地址：https://github.com/Spikeysanju/ZoomRecylerLayout<br>
+预览:<br>
+<img src="https://github.com/Spikeysanju/ZoomRecylerLayout/raw/master/vertical_scroll.gif" width="25%"/>
+
 项目名：YCScrollPager<br>
 git地址：https://github.com/yangchong211/YCScrollPager<br>
 预览:<br>
