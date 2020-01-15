@@ -1,6 +1,10 @@
 
 ## Bottom Navigation 相关:<br>
 
+项目名：BottomBarLayout<br>
+git地址：https://github.com/chaychan/BottomBarLayout<br>
+预览:<br>
+<img src="https://github.com/chaychan/BottomBarLayout/raw/master/intro_img/display1.gif" width="32%" />
 
 项目名：EasyNavigation<br>
 git地址：https://github.com/forvv231/EasyNavigation<br>
