@@ -181,6 +181,12 @@
 ## 自定义控件/动画:<br>
 
 
+
+项目名：RoundCorners<br>
+git地址：https://github.com/KuangGang/RoundCorners<br>
+预览:<br>
+<img src="https://github.com/KuangGang/RoundCorners/raw/master/images/04.png" width="25%"/>
+
 项目名：UserGuideView<br>
 git地址：https://github.com/yilylong/UserGuideView<br>
 预览:<br>
