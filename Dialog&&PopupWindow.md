@@ -4,6 +4,11 @@
 
 
 
+项目名：RateBottomSheet<br>
+git地址：https://github.com/lopspower/RateBottomSheet<br>
+预览:<br>
+<img src="https://github.com/lopspower/RateBottomSheet/raw/master/preview/preview.gif" width="22%"/><br>
+
 项目名：EasyFloat<br>
 git地址：https://github.com/princekin-f/EasyFloat<br>
 预览:<br>
