@@ -1,5 +1,10 @@
 
 ## Bottom Navigation 相关:<br>
+项目名：FluidBottomNavigation-android<br>
+git地址：https://github.com/10clouds/FluidBottomNavigation-android<br>
+预览:<br>
+<img src="https://github.com/10clouds/FluidBottomNavigation-android/blob/master/static/sample.gif?raw=true" width="28%" />
+
 
 项目名：BottomBarLayout<br>
 git地址：https://github.com/chaychan/BottomBarLayout<br>
