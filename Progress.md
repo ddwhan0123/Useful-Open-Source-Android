@@ -152,7 +152,10 @@ git地址：https://github.com/harjot-oberai/Croller<br>
 ### 条状进度条<br>
 
 
-
+项目名：ProgressView<br>
+git地址：https://github.com/skydoves/ProgressView<br>
+预览:<br>
+<img src="https://user-images.githubusercontent.com/24237865/63502889-6916f300-c509-11e9-893a-d634f1c6a850.gif" width="30%"/>
 
 项目名：TestLeavesLoading<br>
 git地址：https://github.com/LinYaoTian/TestLeavesLoading<br>
