@@ -1,6 +1,11 @@
 # Log<br>
 
 
+项目名：hyperlog-android<br>
+git地址：https://github.com/hypertrack/hyperlog-android<br>
+预览:<br>
+<img src="https://github.com/hypertrack/hyperlog-android/raw/master/asset/device_logger.gif" width="30%"/><br><br>
+解释：Utility logger library for storing logs into database and push them to remote server for debugging<br>
 
 项目名：Delogger<br>
 git地址：https://github.com/easoll/Delogger<br>
