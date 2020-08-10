@@ -181,6 +181,12 @@
 
 
 
+
+项目名：AnimatedTabLayout<br>
+git地址：https://github.com/iammert/AnimatedTabLayout<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/iammert/AnimatedTabLayout/master/art/gf.gif" width="35%"/>
+
 项目名：RoundCorners<br>
 git地址：https://github.com/KuangGang/RoundCorners<br>
 预览:<br>
