@@ -62,10 +62,6 @@ git地址：https://github.com/alibaba/UltraViewPager<br>
 预览:<br>
 <img src="https://github.com/alibaba/UltraViewPager/raw/master/pics/pics3.gif" width="25%"/>
 
-项目名：Material-Onboarding<br>
-git地址：https://github.com/Vexigon/Material-Onboarding<br>
-预览:<br>
-<img src="https://github.com/Vexigon/Material-Onboarding/raw/master/art/onboarding_sample.png" width="33%"/>
 
 项目名：Orientation-ViewPager<br>
 git地址：https://github.com/mcshengInworking/Orientation-ViewPager<br>
@@ -184,7 +180,10 @@ git地址：https://github.com/ronaldsmartin/Material-ViewPagerIndicator<br>
 
 
 
-
+项目名：RevealBanner<br>
+git地址：https://github.com/tokiii/RevealBanner<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/9acd3b2a003d1195c183fc911e1c76d0355085d2/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f323131393937382d633935636661363162373062653738612e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="30%"/>
 
 项目名：AndroidAutoSwitcher<br>
 git地址：https://github.com/Marksss/AndroidAutoSwitcher<br>
@@ -224,7 +223,7 @@ git地址：https://github.com/waylife/InfiniteViewPager<br>
 项目名：banner<br>
 git地址:https://github.com/youth5201314/banner<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/72e7034bb9f3ed5e4d28c25a94adb22bb9e7cb98/687474703a2f2f6f63656835316b6b752e626b742e636c6f7564646e2e636f6d2f62616e6e65725f6578616d706c65312e706e67" width="30%"/><br>
+<img src="https://github.com/youth5201314/banner/raw/master/images/banner_example.gif" width="30%"/><br>
 
 项目名：Android-ConvenientBanner<br>
 git地址：https://github.com/saiwu-bigkoo/Android-ConvenientBanner<br>
