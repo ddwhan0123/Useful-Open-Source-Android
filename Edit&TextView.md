@@ -7,6 +7,12 @@
 ### EditText<br>
 
 
+项目名： VerificationCodeView<br>
+git地址：https://github.com/jiaoyaning/VerificationCodeView<br>
+预览:<br>
+<img src="https://github.com/jiaoyaning/VerificationCodeView/raw/master/screenshot/screenshot_1.0.1.gif" width="27%"/><br>
+
+
 项目名： SeparatedEditText<br>
 git地址：https://github.com/WGwangguan/SeparatedEditText<br>
 预览:<br>
