@@ -697,7 +697,7 @@ git地址：https://github.com/gabrielemariotti/RecyclerViewItemAnimators<br>
 项目名：BGARefreshLayout-Android<br>
 git地址：https://github.com/bingoogolapple/BGARefreshLayout-Android<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/7539fed2c320aecc0d47320586e8c2ee22a2d762/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f6267615f726566726573686c61796f7574322e676966" width="30%"/><br>
+<img src="https://cloud.githubusercontent.com/assets/8949716/17475813/6f7e338c-5d8f-11e6-846f-889414742b78.gif" width="30%"/><br>
 
 项目名：RecyclerItemDecoration<br>
 git地址：https://github.com/dinuscxj/RecyclerItemDecoration<br>
