@@ -1,5 +1,9 @@
 ##  Label/标签相关<br>
 
+项目名：AndroidTagView<br>
+git地址：https://github.com/whilu/AndroidTagView<br>
+预览:<br>
+<img src="https://github.com/whilu/AndroidTagView/raw/master/screenshots/androidtagview_record_1.gif" width="26%"/>
 
 项目名：LabelsView<br>
 git地址：https://github.com/donkingliang/LabelsView<br>
