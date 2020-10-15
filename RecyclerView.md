@@ -198,6 +198,10 @@ git地址：https://github.com/L4Digital/FastScroll<br>
 
 ### 各类牛x实现 ：<br>
 
+项目名：ConsecutiveScroller<br>
+git地址：https://github.com/donkingliang/ConsecutiveScroller<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/dfbda7f7d3cbbb7de67b81a6feb3dd9c169053f7/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f323336353031302d316430656266323839343238636538632e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="25%"/>
 
 项目名：NestDemo<br>
 git地址：https://github.com/FrizzleLiu/NestDemo<br>
