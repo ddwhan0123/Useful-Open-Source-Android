@@ -146,12 +146,15 @@ git地址：https://github.com/michaelye/EasyDialog<br>
 ### Dialog<br>
 
 
-
+项目名：ColorPickerPreference<br>
+git地址：https://github.com/skydoves/ColorPickerPreference<br>
+预览:<br>
+<img src="https://user-images.githubusercontent.com/24237865/36096667-9ec6693e-103a-11e8-8ed8-1d99da83c9ac.gif" width="22%"/><br>
 
 项目名：AndroidMaterialDialog<br>
 git地址：https://github.com/michael-rapp/AndroidMaterialDialog<br>
 预览:<br>
-<img src="https://github.com/michael-rapp/AndroidMaterialDialog/raw/master/doc/images/example2.png" width="26%"/><br>
+<img src="https://github.com/michael-rapp/AndroidMaterialDialog/raw/master/doc/images/example2.png" width="29%"/><br>
 
 项目名：colorpreference<br>
 git地址：https://github.com/kizitonwose/colorpreference<br>
