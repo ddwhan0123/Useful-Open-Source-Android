@@ -367,7 +367,10 @@ git地址：https://github.com/rubensousa/ViewPagerCards<br>
 ### 其他<br>
 
 
-
+项目名：story_view<br>
+git地址：https://github.com/blackmann/story_view<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/9cb94a7598d1d6a88ba5bc1c03fae9ed83a6f4cdba8f1a29a8238544584a57e3/68747470733a2f2f692e6962622e636f2f627a30523962642f53637265656e73686f742d313538343236333030382e706e67" width="25%"/><br>
 
 项目名：TransformersLayout<br>
 git地址：https://github.com/zaaach/TransformersLayout<br>
