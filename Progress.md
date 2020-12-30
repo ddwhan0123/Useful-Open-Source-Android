@@ -5,6 +5,10 @@
 
 ### 圆形进度条<br>
 
+项目名：CircleProgressView<br>
+git地址：https://github.com/jenly1314/CircleProgressView<br>
+预览:<br>
+<img src="https://github.com/jenly1314/CircleProgressView/raw/master/GIF.gif" width="28%" />
 
 项目名：ArcsView<br>
 git地址：https://github.com/agnamc/ArcsView<br>
