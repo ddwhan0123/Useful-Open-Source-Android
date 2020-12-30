@@ -245,6 +245,11 @@ git地址：https://github.com/kyze8439690/ResideLayout<br>
 
 
 
+项目名：android-titlebar<br>
+git地址：https://github.com/wuhenzhizao/android-titlebar<br>
+预览:<br>
+<img src="https://github.com/wuhenzhizao/android-titlebar/raw/master/screenshots/titlebar_home.png" width="30%" />
+
 项目名：navigation-toolbar-android<br>
 git地址：https://github.com/Ramotion/navigation-toolbar-android<br>
 预览:<br>
