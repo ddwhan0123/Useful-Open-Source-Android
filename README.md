@@ -181,6 +181,10 @@
 
 
 
+项目名：vap<br>
+git地址：https://github.com/Tencent/vap<br>
+预览:<br>
+<img src="https://github.com/Tencent/vap/raw/master/images/anim2.gif" width="32%"/>
 
 项目名：AnimatedTabLayout<br>
 git地址：https://github.com/iammert/AnimatedTabLayout<br>
