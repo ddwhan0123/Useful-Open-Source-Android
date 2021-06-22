@@ -179,7 +179,10 @@
 
 ## 自定义控件/动画:<br>
 
-
+项目名：GSYRecordWave<br>
+git地址：https://github.com/CarGuo/GSYRecordWave<br>
+预览:<br>
+<img src="https://github.com/CarGuo/RecordWave/raw/master/01.gif" width="25%"/>
 
 项目名：vap<br>
 git地址：https://github.com/Tencent/vap<br>
