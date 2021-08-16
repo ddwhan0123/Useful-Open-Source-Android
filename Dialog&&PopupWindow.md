@@ -3,10 +3,6 @@
 ### PopupWindow/弹窗<br>
 
 
-项目名：XPopup<br>
-git地址：https://github.com/li-xiaojun/XPopup<br>
-预览:<br>
-<img src="https://github.com/li-xiaojun/XPopup/raw/master/screenshot/inset1.gif" width="22%"/><br>
 
 项目名：YBPopupMenu<br>
 git地址：https://github.com/lyb5834/YBPopupMenu<br>
