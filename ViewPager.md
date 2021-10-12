@@ -7,9 +7,6 @@
 
 
 
-
-
-
 项目名：TabbedCoordinatorLayout<br>
 git地址：https://github.com/vitovalov/TabbedCoordinatorLayout<br>
 预览:<br>
@@ -177,7 +174,15 @@ git地址：https://github.com/ronaldsmartin/Material-ViewPagerIndicator<br>
 
 ### Banner<br>
 
+项目名：XBanner<br>
+git地址：https://github.com/xiaohaibin/XBanner<br>
+预览:<br>
+<img src="https://github.com/xiaohaibin/XBanner/raw/master/sceenshots/screenshot5.png" width="30%"/>
 
+项目名：banner<br>
+git地址：https://github.com/zguop/banner<br>
+预览:<br>
+<img src="https://github.com/zguop/banner/raw/master/gif/img6.gif" width="30%"/>
 
 
 项目名：RevealBanner<br>
