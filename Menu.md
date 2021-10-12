@@ -10,8 +10,6 @@
 
 
 
-
-
 项目名：material-sheet-fab<br>
 git地址：https://github.com/gowong/material-sheet-fab<br>
 预览:<br>
@@ -85,10 +83,6 @@ git地址：https://github.com/dongjunkun/DropDownMenu<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/dongjunkun/DropDownMenu/master/art/simple.gif" width="25%" />
 
-项目名：SlidingRootNav<br>
-git地址：https://github.com/yarolegovich/SlidingRootNav<br>
-预览:<br>
-<img src="https://github.com/yarolegovich/SlidingRootNav/raw/master/art/sample.gif" width="30%" />
 
 项目名：SmartTabLayout<br>
 git地址：https://github.com/ogaclejapan/SmartTabLayout<br>
@@ -103,7 +97,7 @@ git地址：https://github.com/uacaps/PageMenu<br>
 项目名：CircleMenu<br>
 git地址：https://github.com/ImangazalievM/CircleMenu<br>
 预览:<br>
-<img src="https://github.com/ImangazalievM/CircleMenu/raw/master/art/preview.gif" width="30%" />
+<img src="https://github.com/ImangazalievM/CircleMenu/raw/master/art/preview_simple.gif" width="30%" />
 
 项目名：hover<br>
 git地址：https://github.com/google/hover<br>
@@ -234,7 +228,7 @@ git地址：https://github.com/ikew0ng/SwipeBackLayout<br>
 项目名：FlowingDrawer<br>
 git地址：https://github.com/mxn21/FlowingDrawer<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/a7131784a75e6f07646108b8304b0a0d4efd306b/687474703a2f2f62616f62616f6c6f7665796f752e636f6d2f666c6f77696e676472617765722e676966" width="40%"/>
+<img src="https://github.com/mxn21/FlowingDrawer/raw/master/screen.gif" width="40%"/>
 
 项目名：ResideLayout<br>
 git地址：https://github.com/kyze8439690/ResideLayout<br>
@@ -243,7 +237,10 @@ git地址：https://github.com/kyze8439690/ResideLayout<br>
 
 ### Bar<br>
 
-
+项目名：TitleBar<br>
+git地址：https://github.com/getActivity/TitleBar<br>
+预览:<br>
+<img src="https://github.com/getActivity/TitleBar/raw/master/TitleBar.gif" width="30%" />
 
 项目名：android-titlebar<br>
 git地址：https://github.com/wuhenzhizao/android-titlebar<br>
