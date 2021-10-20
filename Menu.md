@@ -62,6 +62,10 @@ git地址：https://github.com/wangjiegulu/RapidFloatingActionButton<br>
 
 ### Menu<br>
 
+项目名：FullDraggableDrawer<br>
+git地址：https://github.com/PureWriter/FullDraggableDrawer<br>
+预览:<br>
+<img src="https://github.com/PureWriter/FullDraggableDrawer/raw/master/snapshot.jpg" width="30%" />
 
 项目名：coolMenu<br>
 git地址：https://github.com/notice501/coolMenu<br>
