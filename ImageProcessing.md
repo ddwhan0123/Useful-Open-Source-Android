@@ -44,6 +44,11 @@ git地址：https://github.com/vinc3m1/RoundedImageView<br>
 
 ### 特殊业务场景图片处理：<br>
 
+项目名：subsampling-scale-image-view<br>
+git地址：https://github.com/davemorrissey/subsampling-scale-image-view<br>
+预览:<br>
+<img src="https://github.com/davemorrissey/subsampling-scale-image-view/raw/master/docs/images/demo.gif" width="30%"/><br>
+
 项目名：StfalconImageViewer<br>
 git地址：https://github.com/stfalcon-studio/StfalconImageViewer<br>
 预览:<br>
