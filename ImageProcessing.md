@@ -63,7 +63,7 @@ git地址：https://github.com/qhutch/ElevationImageView<br>
 项目名：mPro<br>
 git地址：https://github.com/lihangleo2/mPro<br>
 预览:<br>
-<img src="https://github.com/lihangleo2/mPro/raw/master/smallupdateGif2.gif" width="59%"/>
+<img src="https://github.com/lihangleo2/mPro/raw/master/smallupdateGif2.gif" width="39%"/>
 
 项目名：PhotoViewIndicator<br>
 git地址：https://github.com/iammert/PhotoViewIndicator<br>
@@ -132,7 +132,7 @@ git地址：https://github.com/imablanco/Zoomy<br>
 项目名：TransferImage<br>
 git地址：https://github.com/Hitomis/TransferImage<br>
 预览:<br>
-<img src="https://github.com/Hitomis/TransferImage/raw/master/preview/transfer_2.gif" width="25%"/><br>
+<img src="https://github.com/Hitomis/transferee/raw/master/preview/preview_2.gif" width="25%"/><br>
 
 
 项目名：Roll3DImageView<br>
@@ -207,7 +207,7 @@ git地址：https://github.com/nicewarm/WeChatImageClipping<br>
 项目名：MediaSelector<br>
 git地址：https://github.com/Hu12037102/MediaSelector<br>
 预览:<br>
-<img src="https://github.com/Hu12037102/MediaSelector/raw/master/MediaSelectorCropGif.gif" width="30%" /><br>
+<img src="https://github.com/Hu12037102/MediaSelector/raw/master/MediaSelectorCropGif.gif" width="40%" /><br>
 
 项目名：PhotoEditor<br>
 git地址：https://github.com/burhanrashid52/PhotoEditor<br>
@@ -250,7 +250,7 @@ git地址：https://github.com/ryanhoo/PhotoCropper<br>
 项目名：CropperNoCropper<br>
 git地址：https://github.com/jayrambhia/CropperNoCropper<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/jayrambhia/CropperNoCropper/master/art/demo1.gif" width="30%" /><br>
+<img src="https://raw.githubusercontent.com/jayrambhia/CropperNoCropper/master/art/demo1.gif" width="40%" /><br>
 
 项目名：StickerCamera<br>
 git地址：https://github.com/Skykai521/StickerCamera<br>
@@ -318,7 +318,7 @@ git地址：https://github.com/adamstyrc/cookie-cutter<br>
 项目名：MNImageBrowser<br>
 git地址：https://github.com/maning0303/MNImageBrowser<br>
 预览:<br>
-<img src="https://github.com/maning0303/MNImageBrowser/raw/master/screenshots/mn_imagebrowser001.gif" width="30%" /><br>
+<img src="https://github.com/maning0303/MNImageBrowser/raw/master/screenshots/mn_ib_001.gif" width="30%" /><br>
 
 
 项目名：ImageWatcher<br>
