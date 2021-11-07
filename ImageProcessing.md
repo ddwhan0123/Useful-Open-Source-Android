@@ -689,10 +689,6 @@ git地址：https://github.com/jarlen/PhotoEditDemo<br>
 
 
 
-项目名：Pixelate<br>
-git地址：https://github.com/DanielMartinus/Pixelate<br>
-预览:<br>
-<img src="https://github.com/DanielMartinus/Pixelate/raw/master/images/pixelate_illustration.png" width="30%" /><br>
 
 项目名：StickerView<br>
 git地址：https://github.com/nimengbo/StickerView<br>
@@ -714,7 +710,7 @@ git地址：https://github.com/ashishbhandari/WatermarkCreator<br>
 项目名：photofilter<br>
 git地址：https://github.com/mukeshsolanki/photofilter<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/mukeshsolanki/photofilter/master/screenshots/Car-boost2.png" width="30%" /><br>
+<img src="https://raw.githubusercontent.com/mukeshsolanki/photofilter/master/screen-shot-2.jpg" width="30%" /><br>
 
 项目名：QiniuImageLoader<br>
 git地址：https://github.com/lingochamp/QiniuImageLoader<br>
@@ -737,7 +733,7 @@ git地址：https://github.com/siwangqishiq/ImageEditor-Android<br>
 项目名：CameraView<br>
 git地址：https://github.com/natario1/CameraView<br>
 预览:<br>
-<img src="https://github.com/natario1/CameraView/raw/master/docs/static/screen1.jpg" width="20%" /><br>
+<img src="https://github.com/natario1/CameraView/raw/main/docs/static/screen1.png" width="20%" /><br>
 
 项目名：SmartCamera<br>
 git地址：https://github.com/pqpo/SmartCamera<br>
@@ -749,10 +745,7 @@ git地址：https://github.com/Fotoapparat/Fotoapparat<br>
 预览:<br>
 <img src="https://github.com/Fotoapparat/Fotoapparat/raw/master/sample/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="20%" /><br>
 
-项目名：material-camera<br>
-git地址：https://github.com/afollestad/material-camera<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/afollestad/material-camera/master/art/showcase1.png" width="30%" /><br>
+
 
 项目名：sandriosCamera<br>
 git地址：https://github.com/sandrios/sandriosCamera<br>
@@ -778,7 +771,7 @@ git地址：https://github.com/wuhaoyu1990/MagicCamera<br>
 项目名：MagicalCamera<br>
 git地址：https://github.com/fabian7593/MagicalCamera<br>
 预览:<br>
-<img src="https://github.com/fabian7593/MagicalCamera/raw/master/magicalcamera.gif" width="30%" />
+<img src="https://raw.githubusercontent.com/fabian7593/MagicalCamera/master/Images/magicalcamera.gif" width="30%" />
 
 
 
