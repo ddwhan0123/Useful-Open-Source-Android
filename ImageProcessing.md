@@ -367,7 +367,7 @@ git地址：https://github.com/martin90s/ImagePicker<br>
 项目名：FishBun<br>
 git地址：https://github.com/sangcomz/FishBun<br>
 预览:<br>
-<img src="https://github.com/sangcomz/FishBun/raw/master/pic/fishbuns.png" width="30%" /><br>
+<img src="https://github.com/sangcomz/FishBun/raw/master/pic/default2.png" width="30%" /><br>
 
 
 项目名：MoeGallery<br>
