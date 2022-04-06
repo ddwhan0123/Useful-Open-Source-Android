@@ -179,6 +179,12 @@
 
 ## 自定义控件/动画:<br>
 
+项目名：Animation<br>
+git地址：https://github.com/kongpf8848/Animation<br>
+预览:<br>
+<img src="https://github.com/kongpf8848/Animation/raw/master/screenshots/xhs.webp" width="16%"/>
+
+
 项目名：GSYRecordWave<br>
 git地址：https://github.com/CarGuo/GSYRecordWave<br>
 预览:<br>
