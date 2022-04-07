@@ -746,7 +746,12 @@ git地址：https://github.com/EverythingMe/overscroll-decor<br>
 ### Adapter封装<br>
 
 
-
+项目名：GroupedRecyclerViewAdapter<br>
+git地址：https://github.com/donkingliang/GroupedRecyclerViewAdapter<br>
+预览:<br>
+<img src="https://github.com/donkingliang/GroupedRecyclerViewAdapter/raw/master/GroupedRecyclerViewAdapter%E6%BC%94%E7%A4%BA%E5%9B%BE/%E5%AD%90%E9%A1%B9%E4%B8%BAGrid%E7%9A%84%E5%88%97%E8%A1%A8.jpg" width="30%"/><br>
+解释:<br>
+GroupedRecyclerViewAdapter可以很方便的实现RecyclerView的分组显示，并且每个组都可以包含组头、组尾和子项；可以方便实现多种Type类型的列表，可以实现如QQ联系人的列表一样的列表展开收起功能，还可以实现头部悬浮吸顶功能等。<br>
 
 
 项目名：group-recycler-adapter<br>
@@ -756,12 +761,6 @@ git地址：https://github.com/msdx/group-recycler-adapter<br>
 解释:<br>
 A RecyclerView adapter to show grouped data<br>
 
-项目名：NoAdapter<br>
-git地址：https://github.com/tikivn/NoAdapter<br>
-预览:<br>
-<img src="https://github.com/tikivn/NoAdapter/raw/master/demo.gif" width="30%"/><br>
-解释:<br>
-"Favor composition over inheritance" for RecyclerView Adapters <br>
 
 项目名：AdapterDelegates<br>
 git地址：https://github.com/sockeqwe/AdapterDelegates<br>
