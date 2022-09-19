@@ -72,7 +72,7 @@ git地址：https://github.com/jeasonlzy/PullZoomView<br>
 项目名：ZRefreshLayout<br>
 git地址：https://github.com/luhaoaimama1/ZRefreshLayout<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/dd2b7f32eabfa952148c9e2f6e0d058182a5057d/68747470733a2f2f7777342e73696e61696d672e636e2f6c617267652f303036744b6654636c7931666274716f737570697a67333037693064636232392e676966" width="30%"/><br>
+<img src="[https://camo.githubusercontent.com/dd2b7f32eabfa952148c9e2f6e0d058182a5057d/68747470733a2f2f7777342e73696e61696d672e636e2f6c617267652f303036744b6654636c7931666274716f737570697a67333037693064636232392e676966](https://camo.githubusercontent.com/e0ee9522446cba5c6275bcebd5cc7ef19c8bc08a1eb89b179c09c7fd28af4d91/68747470733a2f2f7777342e73696e61696d672e636e2f6c617267652f303036744b6654636c79316662747173727370676a67333037693064633462782e676966)" width="30%"/><br>
 
 项目名：VRefreshLayout<br>
 git地址：https://github.com/ileelay/VRefreshLayout<br>
@@ -169,7 +169,7 @@ git地址：https://github.com/FutureMind/recycler-fast-scroll<br>
 项目名：EasyRecyclerViewSidebar<br>
 git地址：https://github.com/CaMnter/EasyRecyclerViewSidebar<br>
 预览:<br>
-<img src="http://ww4.sinaimg.cn/large/006lPEc9jw1f2vh6s7sjog31401z44qr.gif" width="320x"> <br>
+<img src="http://ww4.sinaimg.cn/large/006lPEc9jw1f2vh6s7sjog31401z44qr.gif" width="32%"> <br>
 
 项目名：WaveSideBar<br>
 git地址：https://github.com/Solartisan/WaveSideBar<br>
