@@ -92,3 +92,8 @@ git地址：https://github.com/bingoogolapple/BGAQRCode-Android<br>
 git地址：https://github.com/simplezhli/Tesseract-OCR-Scanner<br>
 预览:<br>
 <img src="https://github.com/simplezhli/Tesseract-OCR-Scanner/raw/master/preview/2.jpg" width="30%" /><br>
+
+项目名：IDCardCamera<br>
+git地址：https://github.com/wildma/IDCardCamera<br>
+预览:<br>
+<img src="https://github.com/wildma/IDCardCamera/raw/master/screenshots/screenshot.jpg" width="30%" /><br>
