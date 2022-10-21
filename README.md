@@ -180,7 +180,7 @@
 项目名：Animation<br>
 git地址：https://github.com/kongpf8848/Animation<br>
 预览:<br>
-<img src="https://github.com/kongpf8848/Animation/raw/master/screenshots/xhs.webp" width="16%"/>
+<img src="https://github.com/kongpf8848/Animation/blob/master/images/pdj_guide.webp" width="16%"/>
 
 
 项目名：GSYRecordWave<br>
